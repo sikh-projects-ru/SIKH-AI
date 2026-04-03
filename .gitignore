@@ -1,6 +1,7 @@
 # Исходные материалы (слишком большие для репо)
 reference_material/
 ksd_reference_material/
+!ksd_reference_material/*_RU.docx
 
 # PDF исключены кроме явно добавленных
 *.pdf

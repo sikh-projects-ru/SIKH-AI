@@ -1,0 +1,24 @@
+# Исходные материалы (слишком большие для репо)
+reference_material/
+ksd_reference_material/
+*.pdf
+
+# Временные дампы (промежуточные, заменены kg_raw_all.json)
+kg_raw_ang3.json
+kg_raw_ang4.json
+
+# Временные заметки сессий
+session.txt
+remember_khoj.txt
+emergency-stopped.txt
+translation_log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+.~lock.*

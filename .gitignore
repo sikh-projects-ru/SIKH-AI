@@ -1,7 +1,10 @@
 # Исходные материалы (слишком большие для репо)
 reference_material/
 ksd_reference_material/
+
+# PDF исключены кроме явно добавленных
 *.pdf
+!Sikh-History-from-Persian-Sources-English-By-J-S-Grewal.pdf
 
 # Временные дампы (промежуточные, заменены kg_raw_all.json)
 kg_raw_ang3.json

@@ -17,6 +17,10 @@ remember_khoj.txt
 emergency-stopped.txt
 translation_log
 
+# ChatGPT Darpan Bot — профиль браузера и прогресс
+chatgpt_darpan/bot_profile/
+chatgpt_darpan/.progress_*.txt
+
 # Python
 __pycache__/
 *.pyc

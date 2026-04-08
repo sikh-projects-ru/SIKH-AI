@@ -29,7 +29,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 # ─── Настройки ────────────────────────────────────────────────────────────────
 
 DARPAN_URL = "https://www.gurugranthdarpan.net/{page:04d}.html"
-CHATGPT_URL = "https://chatgpt.com/c/69d2aae5-2a38-832c-86c5-0d561788cf1d"
+chat_url = None  # задаётся через --chat-url или интерактивно
 
 # Что отправлять в ChatGPT — измени промпт под свои нужды
 PROMPT_TEMPLATE = """\
@@ -75,7 +75,7 @@ def send_to_chatgpt(page, content: str) -> str | None:
 
     # Переходим на ChatGPT (если ещё не там)
     if "chatgpt.com" not in page.url and "chat.openai.com" not in page.url:
-        page.goto(CHATGPT_URL, wait_until="domcontentloaded", timeout=30_000)
+        page.goto(chat_url, wait_until="domcontentloaded", timeout=30_000)
         page.wait_for_timeout(2000)
 
     # Поле ввода
@@ -196,7 +196,18 @@ def main():
     parser.add_argument("--end", type=int, default=1430, help="Конечный анг (по умолчанию: 1430)")
     parser.add_argument("--output", type=str, default="darpan_chatgpt.docx", help="Имя выходного файла")
     parser.add_argument("--delay", type=float, default=3.0, help="Пауза между ангами в секундах")
+    parser.add_argument("--chat-url", type=str, default=None,
+                        help="URL конкретного чата ChatGPT (chatgpt.com/c/...)")
     args = parser.parse_args()
+
+    # Определяем URL чата
+    chat_url = args.chat_url
+    if not chat_url:
+        print("Введи URL чата ChatGPT (например: https://chatgpt.com/c/69d2aae5-...)")
+        chat_url = input("URL: ").strip()
+        if not chat_url.startswith("http"):
+            print("  ✗ Некорректный URL, выхожу.")
+            return
 
     output_path = Path(__file__).parent / args.output
     progress_file = Path(__file__).parent / f".progress_{args.output}.txt"
@@ -220,7 +231,7 @@ def main():
         # Вкладка для ChatGPT (stealth — чтобы не определяли автоматизацию)
         chatgpt_page = ctx.new_page()
         _stealth.apply_stealth_sync(chatgpt_page)
-        chatgpt_page.goto(CHATGPT_URL, wait_until="domcontentloaded", timeout=30_000)
+        chatgpt_page.goto(chat_url, wait_until="domcontentloaded", timeout=30_000)
 
         if first_run:
             print("\n⚠ Первый запуск: войди в ChatGPT в открывшемся браузере.")

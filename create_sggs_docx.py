@@ -1408,66 +1408,67 @@ def build_page(doc, page_num):
 
 
 # ── 6. Main ────────────────────────────────────────────────────────────────
-doc = Document()
-style = doc.styles['Normal']
-style.font.name = 'Arial'
-style.font.size = Pt(12)
+if __name__ == '__main__':
+    doc = Document()
+    style = doc.styles['Normal']
+    style.font.name = 'Arial'
+    style.font.size = Pt(12)
 
-# Title page
-h = doc.add_heading('Шри Гуру Грантх Дарпан', 0)
-h.alignment = WD_ALIGN_PARAGRAPH.CENTER
-add_para(doc, 'Шри Гуру Грантх Сахиб — Комментарий проф. Сахиба Сингха',
+    # Title page
+    h = doc.add_heading('Шри Гуру Грантх Дарпан', 0)
+    h.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    add_para(doc, 'Шри Гуру Грантх Сахиб — Комментарий проф. Сахиба Сингха',
          (0x80, 0x00, 0x00), bold=True, center=True)
-add_para(doc, 'Перевод на русский язык', (0x40, 0x40, 0x40), italic=True, center=True)
-doc.add_paragraph('')
+    add_para(doc, 'Перевод на русский язык', (0x40, 0x40, 0x40), italic=True, center=True)
+    doc.add_paragraph('')
 
-add_para(doc, 'Цветовая схема:', (0, 0, 0), bold=True)
-for label, color, meaning in [
-    ('Бани (строки из СГГС)', (0x80, 0x00, 0x00), 'тёмно-красный'),
-    ('Артх (толкование)', (0x00, 0x00, 0x80), 'тёмно-синий'),
-    ('Ноут (примечания)', (0x00, 0x80, 0x00), 'зелёный'),
-    ('Бхав (духовный смысл)', (0x00, 0x80, 0x80), 'бирюзовый'),
-    ('Бантар (структура)', (0x80, 0x00, 0x80), 'фиолетовый'),
-    ('Транслитерация', TRANSLIT_COLOR, 'коричневый'),
-]:
-    p = doc.add_paragraph()
-    run = p.add_run(f'  {label} — {meaning}')
-    run.font.color.rgb = RGBColor(*color)
-    run.font.size = Pt(11)
+    add_para(doc, 'Цветовая схема:', (0, 0, 0), bold=True)
+    for label, color, meaning in [
+        ('Бани (строки из СГГС)', (0x80, 0x00, 0x00), 'тёмно-красный'),
+        ('Артх (толкование)', (0x00, 0x00, 0x80), 'тёмно-синий'),
+        ('Ноут (примечания)', (0x00, 0x80, 0x00), 'зелёный'),
+        ('Бхав (духовный смысл)', (0x00, 0x80, 0x80), 'бирюзовый'),
+        ('Бантар (структура)', (0x80, 0x00, 0x80), 'фиолетовый'),
+        ('Транслитерация', TRANSLIT_COLOR, 'коричневый'),
+    ]:
+        p = doc.add_paragraph()
+        run = p.add_run(f'  {label} — {meaning}')
+        run.font.color.rgb = RGBColor(*color)
+        run.font.size = Pt(11)
 
-doc.add_page_break()
+    doc.add_page_break()
 
-# Section ranges from local docx (GuruGranth Darpan by Prof Sahib Singh Uni)
-# Para 363 = Introduction (Japji da Bhav); Para 448 = Mool Mantar (Bani2)
-sections = [
-    ('Введение — Джапу Джи да Бхав',  363, 448),   # Introduction paras
-    ('Мул-мантар и Шалок (Анг 1)',    448, 496),   # Mool Mantar + Salok + Japu title
-    ('Паури 1 (Анг 1)',               496, 514),   # Pauri 1
-    ('Паури 2 (Анг 1)',               514, 524),   # Pauri 2
-    ('Паури 3 (Анг 1)',               524, 562),   # Pauri 3
-    ('Паури 4 (Анг 2)',               562, 596),   # Pauri 4
-    ('Паури 5 (Анг 2)',               596, 618),   # Pauri 5
-    ('Паури 6 (Анг 2)',               618, 629),   # Pauri 6
-    ('Паури 7 (Анг 2)',               629, 640),   # Pauri 7
-    ('Паури 8 (Анг 2)',               640, 644),   # Pauri 8
-    ('Паури 9 (Анг 2)',               644, 661),   # Pauri 9
-    ('Паури 10 (Анг 2)',              661, 683),   # Pauri 10
-    ('Паури 11 (Анг 2)',              683, 691),   # Pauri 11
-    ('Паури 12 (Анг 3)',              691, 697),   # note + Pauri 12
-    ('Паури 13 (Анг 3)',              697, 701),   # Pauri 13
-    ('Паури 14 (Анг 3)',              701, 716),   # Pauri 14
-    ('Паури 15 (Анг 3)',              716, 726),   # Pauri 15 + closing note
-    ('Паури 16 (Анг 3)',              726, 746),   # Pauri 16 + dhaul section
-]
+    # Section ranges from local docx (GuruGranth Darpan by Prof Sahib Singh Uni)
+    # Para 363 = Introduction (Japji da Bhav); Para 448 = Mool Mantar (Bani2)
+    sections = [
+        ('Введение — Джапу Джи да Бхав',  363, 448),
+        ('Мул-мантар и Шалок (Анг 1)',    448, 496),
+        ('Паури 1 (Анг 1)',               496, 514),
+        ('Паури 2 (Анг 1)',               514, 524),
+        ('Паури 3 (Анг 1)',               524, 562),
+        ('Паури 4 (Анг 2)',               562, 596),
+        ('Паури 5 (Анг 2)',               596, 618),
+        ('Паури 6 (Анг 2)',               618, 629),
+        ('Паури 7 (Анг 2)',               629, 640),
+        ('Паури 8 (Анг 2)',               640, 644),
+        ('Паури 9 (Анг 2)',               644, 661),
+        ('Паури 10 (Анг 2)',              661, 683),
+        ('Паури 11 (Анг 2)',              683, 691),
+        ('Паури 12 (Анг 3)',              691, 697),
+        ('Паури 13 (Анг 3)',              697, 701),
+        ('Паури 14 (Анг 3)',              701, 716),
+        ('Паури 15 (Анг 3)',              716, 726),
+        ('Паури 16 (Анг 3)',              726, 746),
+    ]
 
-total = 0
-for title, start, end in sections:
-    n = build_section(doc, title, start, end)
-    print(f'{title}: {n} blocks processed')
-    total += n
+    total = 0
+    for title, start, end in sections:
+        n = build_section(doc, title, start, end)
+        print(f'{title}: {n} blocks processed')
+        total += n
 
-print(f'Total blocks: {total}')
+    print(f'Total blocks: {total}')
 
-out = '/home/royal/Work/Spiritual/SGGS_Darpan_Russian.docx'
-doc.save(out)
-print(f'Saved: {out}')
+    out = '/home/royal/Work/Spiritual/SGGS_Darpan_Russian.docx'
+    doc.save(out)
+    print(f'Saved: {out}')

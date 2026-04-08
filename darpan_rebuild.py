@@ -87,8 +87,6 @@ LABEL = {
     'note':    'Примечание: ',
 }
 
-PN_COLOR = RGBColor(0xAA, 0xAA, 0xAA)
-
 
 # ── Нормализация ───────────────────────────────────────────────────────────────
 def _norm(s: str) -> str:
@@ -251,8 +249,6 @@ def build(para_start: int, para_end: int | None, output_path: Path, reset: bool 
                 add_para(doc, label + ru, color, size_pt=11)
             else:
                 state['untranslated'] += 1
-                label = LABEL.get(cls, '')
-                add_para(doc, label + '[PN] ' + text, PN_COLOR, size_pt=10, italic=True)
 
         # ── Заголовки ─────────────────────────────────────────────────────────
         elif cls in ('sidetitle', 'title1'):
@@ -262,7 +258,6 @@ def build(para_start: int, para_end: int | None, output_path: Path, reset: bool 
                 doc.add_heading(ru, level=2)
             else:
                 state['untranslated'] += 1
-                doc.add_heading('[PN] ' + text, level=2)
 
         # ── Обычный текст ─────────────────────────────────────────────────────
         else:
@@ -272,7 +267,6 @@ def build(para_start: int, para_end: int | None, output_path: Path, reset: bool 
                 add_para(doc, ru, COLORS['blackuni'], size_pt=11)
             else:
                 state['untranslated'] += 1
-                add_para(doc, '[PN] ' + text, PN_COLOR, size_pt=10, italic=True)
 
         prev_cls = cls
         state['last_para'] = i

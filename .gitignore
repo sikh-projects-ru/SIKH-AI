@@ -21,6 +21,9 @@ translation_log
 chatgpt_darpan/bot_profile/
 chatgpt_darpan/.progress_*.txt
 
+# KhojGurbani Sahib Singh Bot — профиль браузера
+custom_khoj_sahib_singh/bot_profile/
+
 # Python
 __pycache__/
 *.pyc

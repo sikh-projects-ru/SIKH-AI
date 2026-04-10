@@ -11,7 +11,7 @@ from docx.shared import Pt, RGBColor, Inches, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 URL     = "https://asiasamachar.com/2021/05/28/after-life/"
-OUTPUT  = "/home/royal/Work/Spiritual/Nanak_Canvas_Part3_RU.docx"
+OUTPUT  = "/home/royal/Work/Spiritual/Nanak_Canvas/Nanak_Canvas_Part3_RU.docx"
 IMG_DIR = "/tmp/nanak_canvas_part3_imgs"
 os.makedirs(IMG_DIR, exist_ok=True)
 

@@ -9,7 +9,7 @@ from docx.shared import Pt, RGBColor, Inches, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 URL     = "https://asiasamachar.com/2021/06/22/heaven-hell/"
-OUTPUT  = "/home/royal/Work/Spiritual/Nanak_Canvas_Part6_RU.docx"
+OUTPUT  = "/home/royal/Work/Spiritual/Nanak_Canvas/Nanak_Canvas_Part6_RU.docx"
 IMG_DIR = "/tmp/nanak_canvas_part6_imgs"
 os.makedirs(IMG_DIR, exist_ok=True)
 

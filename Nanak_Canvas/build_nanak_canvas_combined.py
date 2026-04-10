@@ -52,8 +52,26 @@ FONT_NAME = 'Arial'
 
 
 def is_gurmukhi_text(text: str) -> bool:
-    """True if the paragraph contains Gurmukhi Unicode characters (U+0A00–U+0A7F)."""
-    return any('\u0A00' <= ch <= '\u0A7F' for ch in text)
+    """
+    True only if the paragraph is a *pure* Gurmukhi verse:
+      - starts with a Gurmukhi character, AND
+      - at least 40 % of non-whitespace characters are Gurmukhi.
+
+    This avoids false positives on Russian prose that contains a few
+    inline Gurmukhi words (e.g. «Стих содержит слова ਅਪਨੇ ਕਰਮ ਕੀ ਗਤਿ...»).
+    """
+    stripped = text.strip()
+    if not stripped:
+        return False
+    # Must start with a Gurmukhi character
+    if not ('\u0A00' <= stripped[0] <= '\u0A7F'):
+        return False
+    # Count ratio
+    non_ws = [ch for ch in text if ch.strip()]
+    if not non_ws:
+        return False
+    gurmukhi_count = sum(1 for ch in non_ws if '\u0A00' <= ch <= '\u0A7F')
+    return (gurmukhi_count / len(non_ws)) >= 0.40
 
 
 # ── XML / DOCX helpers ────────────────────────────────────────────────────────

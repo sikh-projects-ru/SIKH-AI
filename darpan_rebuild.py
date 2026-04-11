@@ -93,11 +93,46 @@ def _has_cyrillic(text: str) -> bool:
     return any('\u0400' <= c <= '\u04FF' for c in text)
 
 def _guru_only(text: str) -> str:
-    """Оставляем только символы гурмукхи и пробелы."""
-    return ''.join(c for c in text if '\u0A00' <= c <= '\u0A7F' or c == ' ').strip()
+    """Оставляем только символы гурмукхи и пробелы (нормализуем пробелы)."""
+    raw = ''.join(c for c in text if '\u0A00' <= c <= '\u0A7F' or c == ' ')
+    return ' '.join(raw.split())
+
+def _starts_guru(text: str) -> bool:
+    """True если строка начинается с символа гурмукхи.
+    Допускает префикс ॥ (U+0965, Devanagari double danda) — встречается в заголовках типа '॥ ਜਪੁ ॥'.
+    """
+    if not text:
+        return False
+    # Пропускаем dandas и пробелы в начале
+    t = text.lstrip('\u0964\u0965 ')
+    return bool(t) and '\u0A00' <= t[0] <= '\u0A7F'
+
+def _is_pure_guru_line(text: str) -> bool:
+    """True если строка — чистая бани-строка (только гурмукхи + знаки препинания).
+    Отфильтровывает смешанные строки вида "ਵਾਰਿਆ (vāriā) — я не могу...".
+    """
+    if not _starts_guru(text):
+        return False
+    if _has_cyrillic(text):
+        return False
+    # Если есть латинские буквы (признак транслитерации в скобках), отклоняем
+    if any('a' <= c.lower() <= 'z' for c in text):
+        return False
+    return True
 
 
 # ── Парсинг gpt_darpan_python.docx ───────────────────────────────────────────
+# Структура GPT-документа — два формата:
+#
+#  Format A (паури 1-2, подробный разбор):
+#    - параграф: только гурмукхи (может быть многострочным через \n)
+#    - параграф: "Transliteration:\n translit text"
+#    - ... много комментариев ...
+#    - параграф/заголовок: "Перевод:..." / "Смысл..." с русским переводом
+#
+#  Format B (паури 3+, компактный):
+#    - параграф: "гурмукхи\ntranslit\nрусский перевод" (всё в одном)
+#
 def load_gpt_translations(docx_path: Path):
     """
     Возвращает:
@@ -109,126 +144,239 @@ def load_gpt_translations(docx_path: Path):
     paras = doc.paragraphs
     n = len(paras)
 
-    bani_pairs    = []
-    translit_map  = {}
-    padarth_pairs = []
+    bani_dict    = {}   # gurmukhi_key → russian_text (дедупликация через dict)
+    translit_map = {}
+    padarth_dict = {}
+    commentary_dict: dict[str, list[str]] = {}  # gurmukhi_key → список комментариев
+
+    # Метки перевода в Format A
+    PEREVOD_PREFIXES = (
+        'Перевод на русский:', 'Перевод:',
+        'Перевод смысла', 'Перевод (ਅਰਥ)',
+        'Перевод пары строк:', 'Перевод этих двух строк:',
+        'Смысл первых двух строк:', 'Смысл двух строк:', 'Смысл:',
+    )
 
     in_padarth = False
-    i = 0
+    # Состояние Format A: список (gurmukhi_key, translit_or_None)
+    pending: list[tuple[str, str | None]] = []
+    pending_commentary: list[str] = []  # комментарии, накопленные до перевода
 
+    def _commit(ru_text: str) -> None:
+        for key, tr in pending:
+            bani_dict.setdefault(key, ru_text)
+            if tr:
+                translit_map.setdefault(key, tr)
+            if pending_commentary:
+                commentary_dict.setdefault(key, []).extend(pending_commentary)
+
+    i = 0
     while i < n:
-        raw = paras[i].text
-        text = raw.strip()
+        raw   = paras[i].text
+        text  = raw.strip()
         style = paras[i].style.name
 
         if not text:
             i += 1
             continue
 
-        # ── Вход в секцию пад-артха ───────────────────────────────────────────
-        if 'ਪਦ ਅਰਥ' in text or ('Разбор слов' in text and style == 'Heading 3'):
-            in_padarth = True
+        # ── Заголовки ─────────────────────────────────────────────────────────
+        if style.startswith('Heading'):
+            tl = text.lower()
+            is_padarth = ('ਪਦ ਅਰਥ' in text or ('Разбор' in text and 'слов' in text)
+                          or ('пад' in tl and 'арт' in tl))
+            is_perevod = any(text.startswith(p.rstrip(':')) for p in PEREVOD_PREFIXES)
+
+            if is_padarth:
+                in_padarth = True
+            elif is_perevod and pending:
+                # Заголовок "Перевод смысла (ਅਰਥ)" — перевод в следующих параграфах
+                j, parts = i + 1, []
+                while j < n:
+                    t2, s2 = paras[j].text.strip(), paras[j].style.name
+                    if not t2:
+                        j += 1; continue
+                    if s2.startswith('Heading'):
+                        break
+                    if _is_pure_guru_line(t2):
+                        break
+                    if _has_cyrillic(t2):
+                        parts.append(t2.replace('\n', ' '))
+                    j += 1
+                if parts:
+                    _commit(' '.join(parts))
+                    pending.clear()
+                    pending_commentary.clear()
+                in_padarth = False
+            else:
+                in_padarth = False
             i += 1
             continue
 
-        # Заголовок (не пад-артховый) — выходим из режима пад-артха
-        if style.startswith('Heading') and 'ਪਦ ਅਰਥ' not in text and 'Разбор' not in text:
-            in_padarth = False
+        # ── Пад-артх ──────────────────────────────────────────────────────────
+        # Минимальная длина ключа 8 симв. — фильтрует короткие слова, которые
+        # матчатся в цитатах в тексте Сахиб Сингха (напр. ਪਦ ਅਰਥ = 6 симв.)
+        MIN_PADARTH_KEY = 4
+        if in_padarth:
+            if _has_gurmukhi(text) and ('—' in text or '–' in text):
+                dash = '—' if '—' in text else '–'
+                left, _, right = text.partition(dash)
+                right = right.strip()
+                if _has_cyrillic(right):
+                    key = _norm(_guru_only(left))
+                    if key and len(key) >= MIN_PADARTH_KEY:
+                        padarth_dict.setdefault(key, left.strip() + ' — ' + right)
+            i += 1
+            continue
 
-        # ── Пад-артх запись ───────────────────────────────────────────────────
-        if in_padarth and _has_gurmukhi(text):
-            for dash in ('—', ' — ', ' - '):
-                if dash in text:
-                    left, _, right = text.partition(dash)
-                    right = right.strip()
-                    if _has_cyrillic(right):
-                        guru_key = _norm(_guru_only(left))
-                        if guru_key:
-                            padarth_pairs.append((guru_key, right))
+        # ── Параграф с гурмукхи ───────────────────────────────────────────────
+        if _starts_guru(text) and _has_gurmukhi(text):
+            lines = [l.strip() for l in raw.split('\n') if l.strip()] if '\n' in raw else [text]
+            # Чистые бани-строки: только гурмукхи, без кириллицы и латиницы
+            pure_lines = [l for l in lines if _is_pure_guru_line(l)]
+            # Прочие строки (транслит, перевод, смешанные)
+            other_lines = [l for l in lines if not _is_pure_guru_line(l)]
+
+            if other_lines and pure_lines:
+                # ── Format B: гурмукхи + транслит + русский в одном параграфе ──
+                tr_lines, ru_lines = [], []
+                state = 'guru'
+                for line in lines:
+                    if line.startswith('Перевод на русский:'):
+                        state = 'ru'
+                        rest = line[len('Перевод на русский:'):].strip()
+                        if rest:
+                            ru_lines.append(rest)
+                    elif line.startswith('Transliteration:'):
+                        state = 'tr'
+                        rest = line[len('Transliteration:'):].strip()
+                        if rest:
+                            tr_lines.append(rest)
+                    elif state == 'guru':
+                        if _is_pure_guru_line(line):
+                            pass  # уже в pure_lines
+                        elif _has_cyrillic(line) and not _has_gurmukhi(line):
+                            state = 'ru'; ru_lines.append(line)
+                        elif line:
+                            state = 'tr'; tr_lines.append(line)
+                    elif state == 'tr':
+                        if _has_cyrillic(line) and not _has_gurmukhi(line):
+                            state = 'ru'; ru_lines.append(line)
+                        else:
+                            tr_lines.append(line)
+                    else:
+                        if _has_cyrillic(line):
+                            ru_lines.append(line)
+
+                if pure_lines:
+                    ru_text = ' '.join(ru_lines) if ru_lines else None
+                    combined_key = _norm(' '.join(pure_lines))
+
+                    # Сохраняем каждую строку гурмукхи как отдельный ключ
+                    for j2, gline in enumerate(pure_lines):
+                        key = _norm(gline)
+                        if ru_text:
+                            bani_dict.setdefault(key, ru_text)
+                            # Транслит — только если есть русский перевод
+                            # (иначе загрязняем translit пенджабскими объяснительными текстами)
+                            if tr_lines:
+                                tr = tr_lines[j2] if j2 < len(tr_lines) else tr_lines[-1]
+                                translit_map.setdefault(key, tr)
+
+                    # И комбинированный ключ (обе строки вместе)
+                    if len(pure_lines) > 1 and ru_text:
+                        bani_dict.setdefault(combined_key, ru_text)
+                        if tr_lines:
+                            translit_map.setdefault(combined_key, ' '.join(tr_lines))
+
+                # Format B завершён — сбрасываем Format A ожидание
+                pending.clear()
+                pending_commentary.clear()
+
+            elif '—' in text or '–' in text:
+                dash = '—' if '—' in text else '–'
+                left, _, right = text.partition(dash)
+                right = right.strip()
+                if _has_cyrillic(right):
+                    key = _norm(_guru_only(left))
+                    if key:
+                        left_has_latin = any('a' <= c.lower() <= 'z' for c in left)
+                        if left_has_latin:
+                            # "ਆਦਿ (āḍi) — с самого начала" — словарное объяснение
+                            # → padarth_dict, не bani_dict (иначе загрязняет матчинг бани)
+                            if len(key) >= MIN_PADARTH_KEY:
+                                padarth_dict.setdefault(key, left.strip() + ' — ' + right)
+                        else:
+                            # "॥ ਜਪੁ ॥ — «Джапу»" — заголовок/бани → bani_dict
+                            bani_dict.setdefault(key, right)
+
+            elif pure_lines:
+                # ── Format A: только чистые строки гурмукхи, ждём транслит и перевод ──
+                new_pending = []
+                for gline in pure_lines:
+                    new_pending.append((_norm(gline), None))
+                if len(pure_lines) > 1:
+                    # Добавляем комбинированный ключ
+                    new_pending.append((_norm(' '.join(pure_lines)), None))
+                pending = new_pending
+                pending_commentary.clear()
+
+            i += 1
+            continue
+
+        # ── Транслитерация (Format A) ─────────────────────────────────────────
+        if text.startswith('Transliteration:') and pending:
+            tr_raw = raw.replace('Transliteration:', '', 1).strip()
+            tr_lines = [l.strip() for l in tr_raw.split('\n') if l.strip()]
+            tr_text_all = tr_raw.replace('\n', ' ')
+
+            new_pending = []
+            for j2, (key, _) in enumerate(pending):
+                if j2 < len(tr_lines):
+                    new_pending.append((key, tr_lines[j2]))
+                else:
+                    new_pending.append((key, tr_text_all))
+            pending = new_pending
+            i += 1
+            continue
+
+        # ── Перевод / Комментарий (Format A) ─────────────────────────────────
+        if pending and _has_cyrillic(text):
+            for pfx in PEREVOD_PREFIXES:
+                if text.startswith(pfx):
+                    ru_text = raw[len(pfx):].strip().replace('\n', ' ')
+                    if not ru_text.strip():
+                        # Перевод в следующих параграфах
+                        j, parts = i + 1, []
+                        while j < n:
+                            t2, s2 = paras[j].text.strip(), paras[j].style.name
+                            if not t2:
+                                j += 1; continue
+                            if s2.startswith('Heading'):
+                                break
+                            if _is_pure_guru_line(t2):
+                                break
+                            if _has_cyrillic(t2):
+                                parts.append(t2.replace('\n', ' '))
+                            j += 1
+                        ru_text = ' '.join(parts)
+                    if ru_text:
+                        _commit(ru_text)
+                        pending.clear()
+                        pending_commentary.clear()
                     break
-
-        # ── Шабад-параграф с переводом (многострочный, ANG 2+) ───────────────
-        if _has_gurmukhi(text) and '\n' in raw:
-            lines = [l.strip() for l in raw.split('\n') if l.strip()]
-            guru_lines, tr_lines, ru_lines = [], [], []
-            state = 'guru'
-            for line in lines:
-                if line.startswith('Перевод на русский:'):
-                    state = 'ru'
-                    rest = line[len('Перевод на русский:'):].strip()
-                    if rest:
-                        ru_lines.append(rest)
-                elif line.startswith('Transliteration:'):
-                    state = 'tr'
-                    rest = line[len('Transliteration:'):].strip()
-                    if rest:
-                        tr_lines.append(rest)
-                elif state == 'guru':
-                    if _has_gurmukhi(line):
-                        guru_lines.append(line)
-                    elif _has_cyrillic(line):
-                        state = 'ru'; ru_lines.append(line)
-                    else:
-                        state = 'tr'; tr_lines.append(line)
-                elif state == 'tr':
-                    if _has_cyrillic(line):
-                        state = 'ru'; ru_lines.append(line)
-                    else:
-                        tr_lines.append(line)
-                else:
-                    ru_lines.append(line)
-
-            if guru_lines and ru_lines:
-                key = _norm(' '.join(guru_lines))
-                val = ' '.join(ru_lines)
-                bani_pairs.append((key, val))
-                if tr_lines:
-                    translit_map[key] = ' '.join(tr_lines)
-
-        # ── Шабад-параграф (однострочный гурмукхи, ANG 1 стиль) ──────────────
-        elif (_has_gurmukhi(text) and '\n' not in raw
-              and not in_padarth and '—' not in text):
-            j = i + 1
-            while j < n and not paras[j].text.strip():
-                j += 1
-            if j >= n:
-                i += 1
-                continue
-
-            next_text = paras[j].text.strip()
-            tr_text = None
-            ru_text = None
-
-            if next_text.startswith('Transliteration:'):
-                tr_raw = paras[j].text
-                tr_text = tr_raw.replace('Transliteration:', '', 1).strip().replace('\n', ' ')
-                j += 1
-                while j < n and not paras[j].text.strip():
-                    j += 1
-                if j < n:
-                    next_text = paras[j].text.strip()
-
-            if j < n and (next_text.startswith('Перевод на русский:') or
-                          (_has_cyrillic(next_text) and not _has_gurmukhi(next_text))):
-                ru_raw = paras[j].text
-                if next_text.startswith('Перевод на русский:'):
-                    ru_text = ru_raw.replace('Перевод на русский:', '', 1).strip().replace('\n', ' ')
-                else:
-                    ru_text = ru_raw.strip().replace('\n', ' ')
-
-            if ru_text:
-                key = _norm(text)
-                bani_pairs.append((key, ru_text))
-                if tr_text:
-                    translit_map[key] = tr_text
+            else:
+                # Нет метки перевода → это комментарий к текущему бани-блоку
+                pending_commentary.append(text.replace('\n', ' '))
 
         i += 1
 
-    # Сортировка: длинные ключи — точнее совпадение
-    bani_pairs.sort(key=lambda x: -len(x[0]))
-    padarth_pairs.sort(key=lambda x: -len(x[0]))
+    # Преобразуем dict → отсортированный список (длиннее ключи — точнее совпадение)
+    bani_pairs     = sorted(bani_dict.items(),     key=lambda x: -len(x[0]))
+    translit_pairs = sorted(translit_map.items(),  key=lambda x: -len(x[0]))
+    padarth_pairs  = sorted(padarth_dict.items(),  key=lambda x: -len(x[0]))
 
-    return bani_pairs, translit_map, padarth_pairs
+    return bani_pairs, translit_pairs, padarth_pairs, commentary_dict
 
 
 # ── Функции поиска ─────────────────────────────────────────────────────────────
@@ -239,9 +387,9 @@ def get_translation(text: str, pairs: list) -> str | None:
             return val
     return None
 
-def get_translit(text: str, translit_map: dict) -> str | None:
+def get_translit(text: str, translit_pairs: list) -> str | None:
     text_n = _norm(text)
-    for key_n, val in translit_map.items():
+    for key_n, val in translit_pairs:
         if key_n and key_n in text_n:
             return val
     return None
@@ -257,14 +405,29 @@ def get_all_padarth(text: str, padarth_pairs: list) -> list[str]:
             seen.add(key_n)
     return results
 
+def get_commentary(text: str, commentary_dict: dict) -> list[str]:
+    """Все комментарии из GPT-документа, чей бани-ключ входит в текст."""
+    text_n = _norm(text)
+    results = []
+    seen_keys = set()
+    for key_n, comments in sorted(commentary_dict.items(), key=lambda x: -len(x[0])):
+        if key_n and key_n not in seen_keys and key_n in text_n:
+            results.extend(comments)
+            seen_keys.add(key_n)
+    return results
+
 
 # ── Запись параграфа ──────────────────────────────────────────────────────────
 def add_para(doc: Document, text: str, color: RGBColor, size_pt: float = 11,
              bold: bool = False, italic: bool = False,
-             space_before: int = 0, space_after: int = 0) -> None:
+             space_before: int = 0, space_after: int = 0,
+             align_center: bool = False) -> None:
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
     p = doc.add_paragraph()
     p.paragraph_format.space_before = Pt(space_before)
     p.paragraph_format.space_after = Pt(space_after)
+    if align_center:
+        p.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = p.add_run(text)
     run.font.color.rgb = color
     run.font.size = Pt(size_pt)
@@ -308,8 +471,8 @@ def save_progress(output_path: Path, state: dict) -> None:
 def build(para_start: int, para_end: int | None, output_path: Path, reset: bool = False) -> None:
     # Загружаем переводы из gpt_darpan_python.docx
     print(f"Загружаю переводы из: {GPT_DOCX.name}")
-    bani_pairs, translit_map, padarth_pairs = load_gpt_translations(GPT_DOCX)
-    print(f"  Бани-переводов: {len(bani_pairs)}, транслитераций: {len(translit_map)}, пад-артх: {len(padarth_pairs)}")
+    bani_pairs, translit_pairs, padarth_pairs, commentary_dict = load_gpt_translations(GPT_DOCX)
+    print(f"  Бани-переводов: {len(bani_pairs)}, транслитераций: {len(translit_pairs)}, пад-артх: {len(padarth_pairs)}, комментариев: {len(commentary_dict)}")
 
     print(f"Читаю источник: {SOURCE_DOCX.name}")
     src = Document(str(SOURCE_DOCX))
@@ -348,6 +511,10 @@ def build(para_start: int, para_end: int | None, output_path: Path, reset: bool 
     total_range = end - para_start
     processed_since_save = 0
     prev_cls = None
+    last_shown_bani_ru: str | None = None  # против дублей при парных бани-строках
+    current_bani_block: str | None = None  # накопленный текст текущего бани-блока
+    shown_padarth: set[str] = set()        # против дублей пад-артха внутри блока
+    shown_commentary: set[str] = set()     # против дублей комментариев внутри блока
 
     for i, para in enumerate(paragraphs[para_start:end], start=para_start):
         text = para.text.strip()
@@ -366,36 +533,39 @@ def build(para_start: int, para_end: int | None, output_path: Path, reset: bool 
 
         # ── Bani ─────────────────────────────────────────────────────────────
         if cls in ('bani', 'banicenter'):
-            if prev_cls in ('arath', 'bhav', 'note', 'padarth', 'blackuni'):
-                add_separator(doc)
+            # Паури могут быть одним параграфом с несколькими строками через \n
+            raw_lines = [l.strip() for l in para.text.split('\n') if l.strip()]
+            if not raw_lines:
+                raw_lines = [text]
 
-            state['bani'] += 1
-            add_para(doc, text, COLORS['bani'], size_pt=12, bold=True, space_before=6)
+            for line in raw_lines:
+                line = _norm(line)
+                # Пропускаем нечистые строки: пад-артх, смешанные, пустые
+                if not line or not _is_pure_guru_line(line):
+                    continue
+                state['bani'] += 1
+                add_para(doc, line, COLORS['bani'], size_pt=12, bold=True,
+                         space_before=6, align_center=True)
 
-            tr = get_translit(text, translit_map)
-            if tr:
-                add_para(doc, tr, COLORS['translit'], size_pt=10, italic=True)
+                tr = get_translit(line, translit_pairs)
+                if tr:
+                    add_para(doc, tr, COLORS['translit'], size_pt=10, italic=True,
+                             align_center=True)
 
-        # ── PadArath ─────────────────────────────────────────────────────────
-        elif cls == 'padarth':
-            entries = get_all_padarth(text, padarth_pairs)
-            if entries:
-                state['translated'] += len(entries)
-                for entry in entries:
-                    add_para(doc, 'Пад-артх: ' + entry, COLORS['padarth'], size_pt=11)
-            else:
-                state['untranslated'] += 1
+                ru = get_translation(line, bani_pairs)
+                if ru:
+                    state['translated'] += 1
+                    if ru != last_shown_bani_ru:
+                        add_para(doc, ru, COLORS['bani'], size_pt=11, align_center=True,
+                                 space_after=4)
+                        last_shown_bani_ru = ru
+                else:
+                    state['untranslated'] += 1
+                    last_shown_bani_ru = None
 
-        # ── Arath / Bhav / Note ───────────────────────────────────────────────
-        elif cls in ('arath', 'bhav', 'note'):
-            ru = get_translation(text, bani_pairs)
-            if ru:
-                state['translated'] += 1
-                color = COLORS[CLS_COLOR.get(cls, 'blackuni')]
-                label = LABEL.get(cls, '')
-                add_para(doc, label + ru, color, size_pt=11)
-            else:
-                state['untranslated'] += 1
+        # ── Всё остальное — пропускаем ────────────────────────────────────────
+        elif cls in ('padarth', 'arath', 'bhav', 'note', 'blackuni', 'baniblack'):
+            pass
 
         # ── Заголовки ─────────────────────────────────────────────────────────
         elif cls in ('sidetitle', 'title1'):
@@ -405,6 +575,7 @@ def build(para_start: int, para_end: int | None, output_path: Path, reset: bool 
                 doc.add_heading(ru, level=2)
             else:
                 state['untranslated'] += 1
+                doc.add_heading(text, level=2)
 
         # ── Обычный текст ─────────────────────────────────────────────────────
         else:

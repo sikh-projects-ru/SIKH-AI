@@ -488,6 +488,10 @@ def scan_missing(image_paths: list[Path], start: int, end: int) -> None:
 
 # ── DOCX helpers (v2 — книжное оформление) ────────────────────────────────────
 
+COLOR_GURMUKHI = RGBColor(0x1A, 0x3A, 0x5C)   # тёмно-синий — Гурмукхи
+COLOR_ROMAN    = RGBColor(0x55, 0x55, 0x55)   # серый — транслитерация
+COLOR_UNMATCHED= RGBColor(0xAA, 0x44, 0x00)   # оранжевый — не проверено
+
 _DIALOGUE_RE = re.compile(r"^(Хинду:|Сикх:)\s*")
 _CITATION_RE = re.compile(r"^\(.*\)\s*$")
 _FOOTNOTE_RE = re.compile(r"^[\d¹²³⁴⁵⁶⁷⁸⁹]+[\.\)]\s+\S")
@@ -551,7 +555,64 @@ def _emit_with_quotes(para, text: str, size: int = 11, bold: bool = False,
         _add_run(para, seg, size=size, bold=bold, italic=is_quote, color=base_color)
 
 
-def add_translation_block(doc: Document, translation: str) -> None:
+def add_gurbani_block(doc: Document, ann: dict) -> None:
+    """Вставляет блок Гурмукхи + транслитерация + английский перевод."""
+    gurmukhi = (ann.get("gurmukhi") or "").strip()
+    roman    = (ann.get("transliteration") or "").strip()
+    en       = (ann.get("translation_en") or "").strip()
+    auto     = ann.get("auto", True)
+
+    if not gurmukhi:
+        return
+
+    # Отступная рамка для всего блока
+    indent = Pt(28)
+
+    # Гурмукхи
+    p_g = doc.add_paragraph()
+    p_g.paragraph_format.left_indent  = indent
+    p_g.paragraph_format.space_before = Pt(4)
+    p_g.paragraph_format.space_after  = Pt(1)
+    run = p_g.add_run(gurmukhi)
+    run.font.size = Pt(12)
+    run.font.color.rgb = COLOR_GURMUKHI
+    run.bold = True
+
+    # Транслитерация
+    if roman:
+        p_r = doc.add_paragraph()
+        p_r.paragraph_format.left_indent = indent
+        p_r.paragraph_format.space_before = Pt(0)
+        p_r.paragraph_format.space_after  = Pt(1)
+        run_r = p_r.add_run(roman)
+        run_r.font.size = Pt(9)
+        run_r.italic = True
+        run_r.font.color.rgb = COLOR_ROMAN
+
+    # Английский перевод
+    if en:
+        p_e = doc.add_paragraph()
+        p_e.paragraph_format.left_indent = indent
+        p_e.paragraph_format.space_before = Pt(0)
+        p_e.paragraph_format.space_after  = Pt(6)
+        run_e = p_e.add_run(en)
+        run_e.font.size = Pt(9)
+        run_e.font.color.rgb = COLOR_FOOTNOTE
+
+    # Метка если не верифицировано
+    if not auto:
+        p_w = doc.add_paragraph()
+        p_w.paragraph_format.left_indent = indent
+        p_w.paragraph_format.space_after  = Pt(4)
+        _add_run(p_w, "⚠ совпадение не верифицировано", size=8, color=COLOR_UNMATCHED)
+
+
+# Regex для определения ang-номера цитаты в строке
+_CITE_ANG_RE = re.compile(r'\([^)]*?[Pp][\.\s]*(\d{1,4})[^)]*\)')
+
+
+def add_translation_block(doc: Document, translation: str,
+                          annotations: list[dict] | None = None) -> None:
     translation = _apply_term_fixes(translation)
     lines = translation.split("\n")
 
@@ -580,6 +641,14 @@ def add_translation_block(doc: Document, translation: str) -> None:
             para.paragraph_format.space_after = Pt(6)
             para.paragraph_format.left_indent = Pt(24)
             _add_run(para, raw.strip(), size=10, italic=True, color=COLOR_FOOTNOTE)
+            # Аннотация после строки-цитаты
+            if annotations:
+                for m in _CITE_ANG_RE.finditer(raw):
+                    ang = int(m.group(1))
+                    for ann in annotations:
+                        if ann.get("ang") == ang and ann.get("gurmukhi"):
+                            add_gurbani_block(doc, ann)
+                            break
             continue
 
         # ── Header (ALL CAPS) ──────────────────────────────────────────────
@@ -628,6 +697,16 @@ def add_translation_block(doc: Document, translation: str) -> None:
         # Trailing page ref
         if pageref:
             _add_run(para, "  " + pageref, size=9, color=COLOR_FOOTNOTE)
+
+        # Гурбани-аннотация: если строка содержит ссылку p.XXX — вставить блок
+        if annotations:
+            full_line = line.rstrip()
+            for m in _CITE_ANG_RE.finditer(full_line):
+                ang = int(m.group(1))
+                for ann in annotations:
+                    if ann.get("ang") == ang and ann.get("gurmukhi"):
+                        add_gurbani_block(doc, ann)
+                        break
 
 
 # ── DOCX builder ──────────────────────────────────────────────────────────────
@@ -691,7 +770,8 @@ def build_docx(start: int, end: int, output: Path) -> None:
             _add_run(warn, f"⚠ {', '.join(flags)}", size=9, color=COLOR_FLAG)
 
         if translation:
-            add_translation_block(doc, translation)
+            anns = data.get("gurbani_annotations") or []
+            add_translation_block(doc, translation, annotations=anns)
 
     if output.exists():
         backup = output.with_suffix(".bak.docx")

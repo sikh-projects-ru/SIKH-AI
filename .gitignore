@@ -29,6 +29,17 @@ __pycache__/
 *.pyc
 *.pyo
 
+# KSD_AI — исходные материалы (крупные docx) не в репо
+KSD_AI/*.docx
+KSD_AI/*.pdf
+# Но скрипты, БД и результаты — в репо
+!KSD_AI/*.py
+!KSD_AI/*.txt
+!KSD_AI/ksd_knowledge.db
+KSD_AI/output/SGGS_KSD_Russian.docx
+!KSD_AI/output/*.jsonl
+!KSD_AI/output/*.json
+
 # OS
 .DS_Store
 Thumbs.db

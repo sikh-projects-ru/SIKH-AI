@@ -1,7 +1,11 @@
-# Духовные переводы | Spiritual Translations
+# SIKH-AI — Сикхские тексты × Искусственный интеллект
 
-Проект по переводу сикхских духовных текстов на русский язык.  
-Работа ведётся в диалоге с [Claude](https://claude.ai) (Anthropic) — все переводы, комментарии и решения принимаются в живом чате, а результаты сохраняются в кэш и собираются в DOCX.
+**Головной AI-репозиторий:** [sikh-projects-ru/SIKH-AI](https://github.com/sikh-projects-ru/SIKH-AI)
+
+Центральная точка всей AI-работы по сикхским текстам на русском языке.  
+Здесь живут: боты, базы знаний, системы перевода, скрипты и накопленные переводы СГГС.
+
+Работа ведётся в диалоге с [Claude](https://claude.ai) (Anthropic) — переводы и решения принимаются в чате, результаты сохраняются в кэш и собираются в DOCX.
 
 ---
 
@@ -19,7 +23,23 @@
 
 ---
 
-## Подпроекты
+## AI-подсистемы
+
+### KSD_AI — AI-переводчик по методологии Karmindar Singh Dhillon
+
+**Скрипты:** `KSD_AI/ksd_build_knowledge.py`, `KSD_AI/ksd_ai_translator.py`  
+**База знаний:** `KSD_AI/ksd_knowledge.db` (SQLite — слова, концепты, принципы, грамматика)
+
+Система строит базу знаний из документов KSD (Nanak Canvas, принципы, примеры) и использует Claude API для перевода СГГС в стиле KSD. Вывод: `KSD_AI/output/SGGS_KSD_Russian.docx`.
+
+```bash
+python3 KSD_AI/ksd_build_knowledge.py        # обновить базу знаний
+ANTHROPIC_API_KEY=... python3 KSD_AI/ksd_ai_translator.py --ang 1
+```
+
+---
+
+## Подпроекты (переводы)
 
 ### 1. KhojGurbani — перевод Джапу Джи Сахиб
 

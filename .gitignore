@@ -40,6 +40,9 @@ KSD_AI/output/SGGS_KSD_Russian.docx
 !KSD_AI/output/*.jsonl
 !KSD_AI/output/*.json
 
+# BaniDB — логи не нужны
+banidb/fetch_sggs.log
+
 # OS
 .DS_Store
 Thumbs.db

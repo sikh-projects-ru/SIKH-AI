@@ -19,6 +19,8 @@ import re
 import sqlite3
 import sys
 from pathlib import Path
+from xml.etree import ElementTree as ET
+from zipfile import ZipFile
 
 # --- пути ---
 SCRIPT_DIR = Path(__file__).parent
@@ -48,14 +50,52 @@ COURSE_DOCS = [
 
 # ─── helpers ────────────────────────────────────────────────────────────────
 
+def read_docx_xml(path: Path) -> str:
+    """Читает docx через XML, включая таблицы в порядке документа."""
+    ns = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
+    with ZipFile(path) as zf:
+        xml = zf.read("word/document.xml")
+    root = ET.fromstring(xml)
+    body = root.find("w:body", ns)
+    if body is None:
+        return ""
+
+    lines: list[str] = []
+
+    def text_from(node: ET.Element) -> str:
+        return "".join(t.text for t in node.findall(".//w:t", ns) if t.text).strip()
+
+    for child in body:
+        if child.tag == f"{{{ns['w']}}}p":
+            line = text_from(child)
+            if line:
+                lines.append(line)
+        elif child.tag == f"{{{ns['w']}}}tbl":
+            for row in child.findall("./w:tr", ns):
+                cells = []
+                for cell in row.findall("./w:tc", ns):
+                    cell_text = text_from(cell)
+                    if cell_text:
+                        cells.append(cell_text)
+                if cells:
+                    lines.append("\t".join(cells))
+
+    return "\n".join(lines)
+
+
 def read_docx(path: Path) -> str:
     """Читает docx → plain text."""
+    try:
+        return read_docx_xml(path)
+    except Exception as xml_e:
+        pass
+
     try:
         from docx import Document
         doc = Document(str(path))
         return "\n".join(p.text for p in doc.paragraphs if p.text.strip())
     except Exception as e:
-        print(f"  [WARN] cannot read {path.name}: {e}", file=sys.stderr)
+        print(f"  [WARN] cannot read {path.name}: {xml_e}; fallback failed: {e}", file=sys.stderr)
         return ""
 
 
@@ -461,6 +501,359 @@ def _parse_pauri_block(num: int, block: str, source: str) -> dict | None:
     }
 
 
+def split_real_jbani_pauri_blocks(text: str) -> list[tuple[int, str]]:
+    """
+    Делит большой комментарий Джап Бани на реальные рабочие блоки Pauree N.
+    Игнорирует верхнее оглавление, где Pauree 1..38 перечислены подряд без содержания.
+    """
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    blocks: list[tuple[int, str]] = []
+
+    starts: list[tuple[int, int]] = []
+    for i, line in enumerate(lines):
+        m = re.match(r"Pauree\s+(\d+)\:?", line, re.IGNORECASE)
+        if not m:
+            continue
+        pauri_num = int(m.group(1))
+        window = "\n".join(lines[i + 1:i + 18])
+        if "Translation:" not in window and "Перевод:" not in window:
+            continue
+        starts.append((i, pauri_num))
+
+    for idx, (start_i, pauri_num) in enumerate(starts):
+        end_i = starts[idx + 1][0] if idx + 1 < len(starts) else len(lines)
+        block = "\n".join(lines[start_i:end_i]).strip()
+        blocks.append((pauri_num, block))
+
+    return blocks
+
+
+def extract_words_from_jbani_pauri_blocks(text: str, source: str) -> list[dict]:
+    """
+    Извлекает словарные строки из реальных Pauree-блоков большого комментария.
+    Формат:
+      Term- значение (Lit); KSD meaning
+      Translation: ...
+    """
+    words: list[dict] = []
+    for pauri_num, block in split_real_jbani_pauri_blocks(text):
+        for line in block.splitlines():
+            line = line.strip()
+            if not line or line.startswith("Translation:") or line.startswith("Перевод:"):
+                continue
+            m = re.match(r"^([A-Za-zА-Яа-яёЁ][A-Za-zА-Яа-яёЁ0-9\s&',/().+-]{0,80}?)\s*[-–—]\s*(.{3,300})$", line)
+            if not m:
+                continue
+
+            term = m.group(1).strip()
+            rest = m.group(2).strip()
+
+            skip_prefixes = {
+                "Pauree", "Translation", "Перевод", "Дополнительно", "Примечание",
+                "Комментарии", "Примерный перевод", "Q:", "SGGS", "http",
+            }
+            if any(term.startswith(prefix) for prefix in skip_prefixes):
+                continue
+            if len(term) > 100 or "II" == term.strip():
+                continue
+
+            lit_m = LIT_META_RE.match(rest)
+            if lit_m:
+                literal = lit_m.group(1).strip()
+                ksd_meta = lit_m.group(3).strip()
+            else:
+                parts = rest.split(";", 1)
+                if len(parts) == 2:
+                    literal = parts[0].strip()
+                    ksd_meta = parts[1].strip()
+                else:
+                    literal = rest
+                    ksd_meta = ""
+
+            words.append({
+                "roman": term.lower(),
+                "gurmukhi": "",
+                "literal_ru": literal,
+                "ksd_meta_ru": ksd_meta,
+                "source": source,
+                "confidence": 0.9,
+                "notes": f"pauri={pauri_num}",
+            })
+    return words
+
+
+def extract_examples_from_jbani_pauri_blocks(text: str, source: str) -> list[dict]:
+    """
+    Поднимает pauri-level examples из большого комментария:
+    один блок Pauree N -> много Translation-строк, объединённых в few-shot пример.
+    """
+    examples: list[dict] = []
+    for pauri_num, block in split_real_jbani_pauri_blocks(text):
+        translations = []
+        roman_lines = []
+        for line in block.splitlines():
+            line = line.strip()
+            if line.startswith("Translation:"):
+                translations.append(line.replace("Translation:", "", 1).strip())
+            elif line.startswith("Перевод:"):
+                translations.append(line.replace("Перевод:", "", 1).strip())
+            elif re.match(r"^[A-Za-z][A-Za-z0-9\s&',/().+-]{3,120}$", line) and "Translation" not in line:
+                roman_lines.append(line)
+
+        word_rows = []
+        for line in block.splitlines():
+            line = line.strip()
+            m = re.match(r"^([A-Za-z][A-Za-z0-9\s&',/().+-]{0,80}?)\s*[-–—]\s*(.{3,300})$", line)
+            if not m or line.startswith("Translation:") or line.startswith("Перевод:"):
+                continue
+            term = m.group(1).strip()
+            rest = m.group(2).strip()
+            parts = rest.split(";", 1)
+            literal = parts[0].strip()
+            ksd_meta = parts[1].strip() if len(parts) == 2 else ""
+            word_rows.append({
+                "roman": term.lower(),
+                "literal": literal,
+                "ksd_meta": ksd_meta,
+            })
+
+        if translations:
+            examples.append({
+                "ang": 1,
+                "pauri_num": pauri_num,
+                "gurmukhi": "",
+                "roman": " | ".join(roman_lines[:8]),
+                "rahao_line": "",
+                "word_analysis": json.dumps(word_rows[:20], ensure_ascii=False),
+                "ksd_translation": " | ".join(translations)[:2000],
+                "context_note": "",
+                "principles_used": json.dumps([1, 2, 3, 4, 5, 6, 7, 8], ensure_ascii=False),
+                "source": source,
+            })
+    return examples
+
+
+def extract_ast_glossary_words(text: str, source: str) -> list[dict]:
+    """
+    Извлекает словарь терминов из AST.docx.
+    Ожидаемый формат:
+      Слово
+      Синонимы
+      Толкования
+      <term>
+      <synonyms>
+      <meaning line 1>
+      <meaning line 2> ...
+      <next term>
+    """
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+
+    for i, line in enumerate(lines):
+        cols = [col.strip() for col in line.split("\t")]
+        if cols[:3] != ["Слово", "Синонимы", "Толкования"]:
+            continue
+
+        words = []
+        for row in lines[i + 1:]:
+            cols = [col.strip() for col in row.split("\t")]
+            if len(cols) < 3:
+                break
+            term, synonyms, meaning = cols[0], cols[1], " ".join(cols[2:])
+            if re.search(r"[\u0A00-\u0A7F]", term):
+                break
+            if not term or not synonyms or len(meaning) < 10:
+                continue
+            words.append({
+                "roman": term.lower(),
+                "gurmukhi": "",
+                "literal_ru": synonyms,
+                "ksd_meta_ru": re.sub(r"\s+", " ", meaning).strip(),
+                "source": source,
+                "confidence": 0.88,
+            })
+        return words
+
+    start = None
+    for i in range(len(lines) - 2):
+        if lines[i] == "Слово" and lines[i + 1] == "Синонимы" and lines[i + 2] == "Толкования":
+            start = i + 3
+            break
+    if start is None:
+        return []
+
+    def is_stop(line: str) -> bool:
+        lower = line.lower()
+        return lower.startswith("кратко о методике") or lower.startswith("принцип 1")
+
+    def looks_like_entry_start(idx: int) -> bool:
+        if idx + 2 >= len(lines):
+            return False
+        term = lines[idx]
+        synonyms = lines[idx + 1]
+        meaning = lines[idx + 2]
+        if is_stop(term):
+            return False
+        if len(term) > 90 or len(term) < 2:
+            return False
+        if len(synonyms) > 220 or len(synonyms) < 2:
+            return False
+        if len(meaning) < 10:
+            return False
+        if term.endswith((".", ";", ":", "?", "!", "…")):
+            return False
+        return True
+
+    words = []
+    i = start
+    while i + 2 < len(lines):
+        if is_stop(lines[i]):
+            break
+        if not looks_like_entry_start(i):
+            i += 1
+            continue
+
+        term = lines[i]
+        synonyms = lines[i + 1]
+        meaning_parts = [lines[i + 2]]
+        i += 3
+
+        while i < len(lines):
+            if is_stop(lines[i]):
+                break
+            if looks_like_entry_start(i):
+                break
+            meaning_parts.append(lines[i])
+            i += 1
+
+        meaning = re.sub(r"\s+", " ", " ".join(meaning_parts)).strip()
+        words.append({
+            "roman": term.lower(),
+            "gurmukhi": "",
+            "literal_ru": synonyms.strip(),
+            "ksd_meta_ru": meaning,
+            "source": source,
+            "confidence": 0.88,
+        })
+
+    return words
+
+
+def extract_ast_examples(text: str, source: str) -> list[dict]:
+    """
+    Извлекает примеры/строфы из AST.docx по шаблону:
+      [header with pauri]
+      <gurmukhi line>
+      <roman line>
+      <1..N lines русского перевода/комментария>
+    Используется как дополнительный few-shot/контекстный корпус.
+    """
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    examples = []
+    current_pauri = None
+    example_seq = 0
+    i = 0
+
+    def is_gurmukhi(s: str) -> bool:
+        return bool(re.search(r"[\u0A00-\u0A7F]", s))
+
+    def is_roman_line(s: str) -> bool:
+        return bool(re.search(r"[A-Za-z]", s)) and not bool(re.search(r"[А-Яа-яЁё]", s))
+
+    def is_header(s: str) -> bool:
+        return bool(re.match(r"(?:Pauree|Pauri|Паури)\s+(\d+)", s, re.IGNORECASE))
+
+    while i < len(lines):
+        line = lines[i]
+        m = re.match(r"(?:Pauree|Pauri|Паури)\s+(\d+)", line, re.IGNORECASE)
+        if m:
+            current_pauri = int(m.group(1))
+            i += 1
+            continue
+
+        if not is_gurmukhi(line):
+            i += 1
+            continue
+
+        gm_lines = [line]
+        j = i + 1
+        while j < len(lines) and is_gurmukhi(lines[j]):
+            gm_lines.append(lines[j])
+            j += 1
+
+        roman_lines = []
+        while j < len(lines) and is_roman_line(lines[j]):
+            roman_lines.append(lines[j])
+            j += 1
+
+        translation_parts = []
+        while j < len(lines):
+            probe = lines[j]
+            if is_header(probe) or is_gurmukhi(probe):
+                break
+            translation_parts.append(probe)
+            j += 1
+
+        gurmukhi = " ".join(gm_lines).strip()
+        roman = " ".join(roman_lines).strip()
+        translation = re.sub(r"\s+", " ", " ".join(translation_parts)).strip()
+
+        if roman and translation:
+            example_seq += 1
+            examples.append({
+                "ang": 1,
+                "pauri_num": current_pauri if current_pauri is not None else 1000 + example_seq,
+                "gurmukhi": gurmukhi,
+                "roman": roman,
+                "rahao_line": "",
+                "word_analysis": "[]",
+                "ksd_translation": translation[:1400],
+                "context_note": "",
+                "principles_used": json.dumps([1, 2, 3, 4, 5, 6, 7, 8], ensure_ascii=False),
+                "source": source,
+            })
+        i = max(j, i + 1)
+
+    return examples
+
+
+def extract_ast_translation_lines(text: str, source: str) -> list[dict]:
+    """
+    Извлекает готовый построчный перевод Джап Джи из таблицы AST.docx.
+    Эти строки нужны не как few-shot, а как primary reference для Playwright:
+    модель должна редактировать/нормализовать уже готовый перевод, а не
+    переводить Джап Джи с нуля.
+    """
+    examples = []
+    seq = 0
+    for line in text.splitlines():
+        cols = [col.strip() for col in line.split("\t")]
+        if len(cols) < 3:
+            continue
+        gurmukhi, roman, translation = cols[0], cols[1], " ".join(cols[2:])
+        if not re.search(r"[\u0A00-\u0A7F]", gurmukhi):
+            continue
+        if not roman or not translation:
+            continue
+        seq += 1
+        examples.append({
+            "ang": 1,
+            "pauri_num": seq,
+            "gurmukhi": gurmukhi,
+            "roman": roman,
+            "rahao_line": "",
+            "word_analysis": json.dumps([{
+                "roman": roman,
+                "literal": "",
+                "ksd_meta": "готовый русский AST-reference",
+            }], ensure_ascii=False),
+            "ksd_translation": re.sub(r"\s+", " ", translation).strip(),
+            "context_note": "",
+            "principles_used": json.dumps([1, 2, 3, 4, 5, 6, 7, 8], ensure_ascii=False),
+            "source": source,
+        })
+    return examples
+
+
 # ─── insert helpers ──────────────────────────────────────────────────────────
 
 def insert_words(conn: sqlite3.Connection, words: list[dict]):
@@ -598,6 +991,345 @@ def insert_examples(conn: sqlite3.Connection, examples: list[dict]):
     return inserted
 
 
+def insert_manual_ksd_knowledge(conn: sqlite3.Connection) -> tuple[int, int]:
+    """Ручные KSD-определения пользователя, которые должны переживать rebuild БД."""
+    source = "manual_ksd_user_terms"
+    concepts = [
+        {
+            "concept": "Simran / Симран (ਸਿਮਰਨ)",
+            "traditional": (
+                "Санскритское simran буквально означает памятование / вспоминание. "
+                "Панджабские эквиваленты: ਯਾਦ (yaad) — память, воспоминание; "
+                "ਚੇਤਾ (chayta) — помнить, держать в уме."
+            ),
+            "ksd_meaning": (
+                "Симран в Гурбани — не механическое повторение слова, а памятование, "
+                "восприятие и созерцательное удерживание Творца внутри ума. В Sodar "
+                "строка ਮਨ ਮਹਿ ਸਿਮਰਨੁ ਕਰਿਆ показывает бытовой смысл: флорикан, улетев "
+                "далеко от птенцов, держит их в уме; это памятование поддерживает связь. "
+                "Духовный эквивалент такого памятования — восприятие Создателя. "
+                "Naam Simran означает удерживать в уме и воспринимать Наам — качества, "
+                "присутствие и внутренний закон всепронизывающего Раама. Поскольку у "
+                "Творца нет вообразимой формы, Симран сосредоточен на Наам, а не на "
+                "визуальном образе."
+            ),
+            "gurbani_ref": (
+                "SGGS 10: ਮਨ ਮਹਿ ਸਿਮਰਨੁ ਕਰਿਆ — florican remembers the young in the mind. "
+                "SGGS 263: ਪ੍ਰਭ ਕਾ ਸਿਮਰਨੁ ਸਭ ਤੇ ਊਚਾ — держать Творца в уме и воспринимать Его "
+                "выше всех духовных деяний. SGGS 803: ਸਿਮਰਿ ਮਨਾ ਰਾਮ ਨਾਮੁ ਚਿਤਾਰੇ — "
+                "ум, собрав внимание, памятуй Наам всепронизывающего Раама."
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Naam / Наам (ਨਾਮ)",
+            "traditional": (
+                "Наам часто переводят как имя, атрибут, качество или добродетель Бога. "
+                "Это не неверно, но может скрывать неосязаемое мистическое качество Наама."
+            ),
+            "ksd_meaning": (
+                "Наам — не просто имя как слово и не только качество Бога. Это принцип "
+                "самопроявления Божественного Сознания: закон, ритм и разумная энергия, "
+                "через которую Непроявленное становится Проявленным. Наам относится к "
+                "Единому и является Хукамом: вектором Его намерения, высшей формой "
+                "Самоосознания Творца, ставшей внутренним законом существования. Когда "
+                "Высшее Сознание осознаёт Себя через Наам, оно проецирует Себя в форму — "
+                "Кудрат, оставаясь внутри творения как Закон."
+            ),
+            "gurbani_ref": (
+                "Asa Ki Var, SGGS 462: ਆਪੀਨ੍ਹੈ ਆਪੁ ਸਾਜਿਓ ਆਪੀਨ੍ਹੈ ਰਚਿਓ ਨਾਉ — Он Сам "
+                "сотворил Себя и Сам установил Себе Наам; ਦੁਯੀ ਕੁਦਰਤਿ ਸਾਜੀਐ — затем "
+                "сотворил Кудрат и пребывает в ней. SGGS 71: ਏਕੋ ਨਾਮੁ ਹੁਕਮੁ ਹੈ ਨਾਨਕ "
+                "ਸਤਿਗੁਰਿ ਦੀਆ ਬੁਝਾਇ ਜੀਉ — Наам Единого есть Хукам; Сатгуру даёт это осознание."
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Sikhi / Сикхи (ਸਿਖੀ)",
+            "traditional": (
+                "Обычно понимается как религиозная принадлежность или название сикхской традиции."
+            ),
+            "ksd_meaning": (
+                "Сикхи в определении Гуру Нанака — это учение, обретаемое через опытное "
+                "исследование Гуру / Слова Гуру: ਸਿਖੀ ਸਿਖਿਆ ਗੁਰ ਵੀਚਾਰਿ. Следующая строка "
+                "уточняет плод этого процесса: Его Милость, приходящая в ответ на усердие "
+                "в таком исследовании, переправляет через реку Майи."
+            ),
+            "gurbani_ref": (
+                "SGGS 465: ਸਿਖੀ ਸਿਖਿਆ ਗੁਰ ਵੀਚਾਰਿ ॥ ਨਦਰੀ ਕਰਮਿ ਲਘਾਏ ਪਾਰਿ ॥"
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Guru / Гуру (ਗੁਰੂ)",
+            "traditional": (
+                "Часто понимается как внешний учитель, мастер или духовный авторитет."
+            ),
+            "ksd_meaning": (
+                "Гуру в Сикхи — не просто учитель и не мастер-человек. Гуру — это "
+                "наставляющее Божественное Слово, через которое Безграничный Создатель, "
+                "присутствующий в творении, выразил Себя в Сири Гуру Грантх Сахиб как "
+                "Учитель. Бани — это Гуру, и Гуру — это Бани. Это Слово содержит смысловое "
+                "наставление, рас / вкус, внутреннее состояние, вибрацию и гармонию, через "
+                "которые происходит ученичество. Гуру проявляется как Хукам и как обучающий "
+                "принцип, заложенный во всём творении: процесс ведения от невежества к "
+                "Божественному Свету."
+            ),
+            "gurbani_ref": (
+                "SGGS 982, Guru Ram Das: ਬਾਣੀ ਗੁਰੂ ਗੁਰੂ ਹੈ ਬਾਣੀ ਵਿਚਿ ਬਾਣੀ ਅੰਮ੍ਰਿਤੁ ਸਾਰੇ — "
+                "Бани есть Гуру, Гуру есть Бани; внутри Бани находятся все амритные "
+                "источники духовной жизни."
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Vichar / Вичар (ਵੀਚਾਰ)",
+            "traditional": (
+                "Обычно переводится как размышление, обдумывание, рассуждение."
+            ),
+            "ksd_meaning": (
+                "Вичар выходит за пределы простого размышления. Этимологически vi + char "
+                "указывает на движение с различением: исследовать, осмысливать и проверять "
+                "через внутреннее движение ума и опыта. Вичар — это деятельное исследование "
+                "темы Бога, Наам и Его Хукама в собственной жизни."
+            ),
+            "gurbani_ref": (
+                "Jap Ji Pauree 4: ਅੰਮ੍ਰਿਤ ਵੇਲਾ ਸਚੁ ਨਾਉ ਵਡਿਆਈ ਵੀਚਾਰੁ — наполнить время "
+                "жизни амритой через исследование Слова, в котором живёт Закон Превышнего. "
+                "Jap Ji Pauree 12: ਮੰਨੇ ਕਾ ਬਹਿ ਕਰਨਿ ਵੀਚਾਰੁ — ввериться Слову через "
+                "усидчивое деятельное самоисследование."
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Sikhi-Guru-Vichar / Ученичество-Гуру-Вичар",
+            "traditional": (
+                "Сикхи часто понимается как религия или конфессиональная принадлежность."
+            ),
+            "ksd_meaning": (
+                "Сикхи — это изучение и претворение в жизнь мудрости Гуру, содержащейся "
+                "в Его священном Слове, Бани. Такого рода ученичество вызывает Милость "
+                "Создателя. Бани здесь означает Гурбани — Сири Гуру Грантх Сахиб. "
+                "Содержание СГГС говорит, что Письмо Его Воли вместе с наставлением, "
+                "заключённым в него, проявлено в законах вселенной, видимой и невидимой: "
+                "в законах природы, устройстве тела, совести, ума и естественности. "
+                "Слова Создателя непосредственно выражают Его Волю — Хукам. Следование "
+                "этой Воле вызывает Милость Того, из кого эта Воля исходит. Символ ੴ "
+                "напоминает, что Волей Создателя пронизана даже человеческая природа. "
+                "Сикх — панджабское слово, означающее ученика или учащегося религии, "
+                "философии и образу жизни; оно отличается от санскритского shishya как "
+                "обычного ученика или последователя."
+            ),
+            "gurbani_ref": (
+                "Для опытного понимания совершать Вичар над 1-й и 2-й паури Джап Джи: "
+                "Мул Мантар, Сат Наам, Хукам как основание Творения и Жизни."
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Sat Naam / Сат Наам (ਸਤਿ ਨਾਮੁ)",
+            "traditional": (
+                "Обычно переводится как «Истинное Имя»: sat как истинный, naam как имя."
+            ),
+            "ksd_meaning": (
+                "Сат Наам означает: Единый Бог, пребывающий в Едином Существовании через "
+                "Свой Наам. Сат (ਸਤਿ) имеет санскритское происхождение: бытие, "
+                "существование, реальность. Сихари в ਸਤਿ грамматически указывает на "
+                "«внутри существования / реальности / постоянного пребывания», даже если "
+                "это не произносится. Поэтому Сат Наам не сводится к «Истинному Имени»: "
+                "он указывает, что Наам — принцип самопроявления и Хукам Творца — "
+                "присутствует непосредственно внутри нашего существования."
+            ),
+            "gurbani_ref": (
+                "Мул Мантар: ਸਤਿ ਨਾਮੁ. Jap Ji opening shalok: ਆਦਿ ਸਚੁ ਜੁਗਾਦਿ ਸਚੁ — "
+                "Сач в начале, Сач внутри всех периодов. Грамматическое примечание: "
+                "ਸਿਹਾਰੀ часто указывает на содержимое понятия; ਮਨਿ = внутри ума."
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Ooangkar / Ооангкар (ਓਅੰਕਾਰ)",
+            "traditional": (
+                "Основное слово, которым Сикхи описывает Бога; часто передаётся как "
+                "Онгкар / Оанкар без развёрнутого внутреннего чтения букв."
+            ),
+            "ksd_meaning": (
+                "Ооангкар — не то, что можно исчерпывающе облечь в буквы. Через Patti "
+                "Гуру Нанака можно созерцать три смысловые части: ਓ / ਊੜੈ указывает на "
+                "отсутствие пределов; ਅੰ / Airra указывает на Причинность всего, Источник "
+                "причинности и Его свободность от творения при присутствии в нём; ਕਾਰ "
+                "указывает на непрерывное, однообразное, неизменное осуществление. "
+                "Ооангкар можно приблизительно созерцать как Мастера без пределов, "
+                "Причину всего, непрерывно осуществляющего всё во всём, но буквы "
+                "исчерпываются перед вечным. Знание этих букв служит духовным "
+                "транспортным средством к Невыразимому, особенно при сосредоточенном "
+                "произнесении Оо-ан(г)-каар в Мул Мантар."
+            ),
+            "gurbani_ref": (
+                "Patti, SGGS 432: ਊੜੈ ਉਪਮਾ ਤਾ ਕੀ ਕੀਜੈ ਜਾ ਕਾ ਅੰਤੁ ਨ ਪਾਇਆ — восхвалять "
+                "Того, чьи пределы не найдены. ਆਇੜੈ ਆਪਿ ਕਰੇ... — Тот, кто создал и "
+                "расположил вселенское бытие, делает что пожелает. ਕਰਿ ਕਰਿ ਵੇਖੈ ਹੁਕਮੁ "
+                "ਚਲਾਏ... — создавая и созерцая, направляет Хукамом. Kabir Bavan Akhri: "
+                "ਬਾਵਨ ਅਛਰ... ਏ ਅਖਰ ਖਿਰਿ ਜਾਹਿਗੇ — буквы исчерпываются перед вечным."
+            ),
+            "source": source,
+        },
+        {
+            "concept": "Devte / Vedantic Gods / Боги в Гурбани",
+            "traditional": (
+                "Ведические и пуранические фигуры вроде Ишара/Шивы, Брахмы, Индры, "
+                "Рама, Кришны, аватаров, дэвов и дэват часто читаются как реальные "
+                "божественные существа или духовные статусы."
+            ),
+            "ksd_meaning": (
+                "Гурбани не принимает индуистских богов, богинь, аватаров и пуранические "
+                "истории как духовный идеал. Когда такие имена встречаются в Гурбани, "
+                "они обычно раскрывают подлинную внутреннюю, историческую или "
+                "мифологическую реальность этих фигур, либо переопределяются в сторону "
+                "Единого Создателя и Его Хукама. Поэтому строка ਸੁਣਿਐ ਈਸਰੁ ਬਰਮਾ ਇੰਦੁ "
+                "не означает, что слушание Шабда даёт человеку статус Шивы, Брахмы или "
+                "Индры. Она означает: через подлинное слышание Гурбани раскрывается "
+                "реальность этих так называемых богов; снимается мифологический ореол "
+                "и становится видно, что они не являются духовной целью. В Гурбани Шива, "
+                "Брахма, Индра, Рамчандра, Кришна, Дурга, аватары, дэвы, Ямрай, Дхарам "
+                "Радж и Читрагупт не должны становиться положительными образцами или "
+                "уровнями достижения. Они либо ограниченные мифологические/исторические "
+                "фигуры, часто связанные с арийско-брахманическим угнетением и "
+                "пуранической гиперболой, либо символы, которые Гурбани использует для "
+                "разоблачения внешней религиозности, кастовой власти и духовной слепоты."
+            ),
+            "gurbani_ref": (
+                "Jap Ji Pauree 9: ਸੁਣਿਐ ਈਸਰੁ ਬਰਮਾ ਇੰਦੁ — слышание раскрывает реальность "
+                "Ишара, Брахмы, Индры, а не обещает их статус. SGGS 874: ਸਿਵ ਸਿਵ ਕਰਤੇ... "
+                "— созерцание Шивы не даёт духовного возвышения. SGGS 1158: ਮੈਲਾ ਬ੍ਰਹਮਾ "
+                "ਮੈਲਾ ਇੰਦੁ... ਮੈਲੇ ਸਿਵ ਸੰਕਰਾ ਮਹੇਸ — Брахма, Индра, Шива/Махеш описаны "
+                "как загрязнённые. SGGS 1344: история Индры и Ахальи раскрывает "
+                "безнравственность Индры. SGGS 422: ਜੁਗਹ ਜੁਗਹ ਕੇ ਰਾਜੇ ਕੀਏ ਗਾਵਹਿ ਕਰਿ "
+                "ਅਵਤਾਰੀ — цари эпохами объявляли себя аватарами, но не постигли предела "
+                "Творца. Основано на Moninder Singh, In Search of Gods, Sikh Bulletin 2019 Issue 3."
+            ),
+            "source": source,
+        },
+    ]
+    words = [
+        {
+            "roman": "simran",
+            "gurmukhi": "ਸਿਮਰਨ",
+            "literal_ru": "памятование, вспоминание; держать в уме",
+            "ksd_meta_ru": "созерцательное восприятие Творца через удерживание Наам внутри ума",
+            "source": source,
+            "confidence": 0.96,
+        },
+        {
+            "roman": "naam",
+            "gurmukhi": "ਨਾਮ",
+            "literal_ru": "имя; добродетель; божественное присутствие",
+            "ksd_meta_ru": "принцип самопроявления Творца; Наам Единого есть Хукам, внутренний закон существования",
+            "source": source,
+            "confidence": 0.96,
+        },
+        {
+            "roman": "sikhi",
+            "gurmukhi": "ਸਿਖੀ",
+            "literal_ru": "учение; ученичество",
+            "ksd_meta_ru": "учение, обретаемое через опытное исследование Гуру / Слова Гуру",
+            "source": source,
+            "confidence": 0.94,
+        },
+        {
+            "roman": "guru",
+            "gurmukhi": "ਗੁਰੂ",
+            "literal_ru": "Гуру; наставляющее начало",
+            "ksd_meta_ru": "Бани как наставляющее Божественное Слово; обучающий принцип Хукама, ведущий от невежества к Свету",
+            "source": source,
+            "confidence": 0.96,
+        },
+        {
+            "roman": "vichar",
+            "gurmukhi": "ਵੀਚਾਰ",
+            "literal_ru": "размышление, исследование, осмысление",
+            "ksd_meta_ru": "деятельное исследование Бога, Наам и Хукама в собственной жизни через различающий опыт",
+            "source": source,
+            "confidence": 0.94,
+        },
+        {
+            "roman": "sat naam",
+            "gurmukhi": "ਸਤਿ ਨਾਮੁ",
+            "literal_ru": "Сат Наам; в существовании пребывающий Наам",
+            "ksd_meta_ru": "Единый Бог, пребывающий в Едином Существовании через Свой Наам; Наам как Хукам внутри существования",
+            "source": source,
+            "confidence": 0.96,
+        },
+        {
+            "roman": "ooangkar",
+            "gurmukhi": "ਓਅੰਕਾਰ",
+            "literal_ru": "Ооангкар; имя Творца",
+            "ksd_meta_ru": "Мастер без пределов, Причина всего, непрерывно осуществляющий всё во всём; Невыразимый через буквы",
+            "source": source,
+            "confidence": 0.94,
+        },
+        {
+            "roman": "ik ooangkar",
+            "gurmukhi": "ੴ",
+            "literal_ru": "Единый Ооангкар",
+            "ksd_meta_ru": "Единый Создатель, присутствующий в своём творении и пронизывающий человеческую природу своим Хукамом",
+            "source": source,
+            "confidence": 0.95,
+        },
+        {
+            "roman": "isar",
+            "gurmukhi": "ਈਸਰੁ",
+            "literal_ru": "Ишар / Шива",
+            "ksd_meta_ru": "не духовный статус; пураническая фигура, реальность которой Гурбани раскрывает и демифологизирует через слышание Шабда",
+            "source": source,
+            "confidence": 0.95,
+        },
+        {
+            "roman": "brahma",
+            "gurmukhi": "ਬਰਮਾ",
+            "literal_ru": "Брахма",
+            "ksd_meta_ru": "не духовный статус; ограниченная пураническая фигура, не образец реализации Единого",
+            "source": source,
+            "confidence": 0.95,
+        },
+        {
+            "roman": "ind",
+            "gurmukhi": "ਇੰਦੁ",
+            "literal_ru": "Индра",
+            "ksd_meta_ru": "не духовный статус; в Гурбани раскрывается как нравственно загрязнённая/мифологизированная фигура, а не духовная цель",
+            "source": source,
+            "confidence": 0.95,
+        },
+        {
+            "roman": "dev",
+            "gurmukhi": "ਦੇਵ",
+            "literal_ru": "дэв, бог",
+            "ksd_meta_ru": "не божественная сущность в смысле Сикхи; пураническая/социально-историческая категория, которую Гурбани демифологизирует",
+            "source": source,
+            "confidence": 0.93,
+        },
+        {
+            "roman": "avtar",
+            "gurmukhi": "ਅਵਤਾਰੀ",
+            "literal_ru": "аватар, воплощение",
+            "ksd_meta_ru": "цари и властители объявляли себя аватарами; Гурбани не принимает это как постижение предела Творца",
+            "source": source,
+            "confidence": 0.93,
+        },
+        {
+            "roman": "suniai isar brahma ind",
+            "gurmukhi": "ਸੁਣਿਐ ਈਸਰੁ ਬਰਮਾ ਇੰਦੁ",
+            "literal_ru": "через слышание — Ишар, Брахма, Индра",
+            "ksd_meta_ru": "через подлинное слышание Шабда раскрывается реальность этих так называемых богов; это не получение их статуса",
+            "source": source,
+            "confidence": 0.97,
+        },
+    ]
+    inserted_concepts = insert_concepts(conn, concepts)
+    inserted_words, _ = insert_words(conn, words)
+    return inserted_concepts, inserted_words
+
+
 # ─── main ────────────────────────────────────────────────────────────────────
 
 def run():
@@ -616,9 +1348,15 @@ def run():
         words = extract_words_from_jbani(text, "jbani_v2")
         ins, skip = insert_words(conn, words)
         print(f"    слова: {ins} добавлено, {skip} пропущено")
+        block_words = extract_words_from_jbani_pauri_blocks(text, "jbani_v2_blocks")
+        ins_bw, skip_bw = insert_words(conn, block_words)
+        print(f"    слова из pauri-блоков: {ins_bw} добавлено, {skip_bw} пропущено")
         examples = extract_ksd_examples_from_jbani(text, "jbani_v2")
         ins_e = insert_examples(conn, examples)
         print(f"    паури-примеры: {ins_e} добавлено")
+        block_examples = extract_examples_from_jbani_pauri_blocks(text, "jbani_v2_blocks")
+        ins_be = insert_examples(conn, block_examples)
+        print(f"    pauri-block few-shot: {ins_be} добавлено")
         rules = extract_grammar_rules(text, "jbani_v2")
         ins_g = insert_grammar(conn, rules)
         print(f"    грамм. правила: {ins_g} добавлено")
@@ -717,14 +1455,26 @@ def run():
     print("\n[9] AST.docx (Смысловой перевод — пример) …")
     if AST_DOCX.exists():
         text = read_docx(AST_DOCX)
-        words = extract_words_from_jbani(text, "ast_example")
+        words = extract_ast_glossary_words(text, "ast_example")
         ins, skip = insert_words(conn, words)
-        print(f"    слова: {ins} добавлено")
+        print(f"    словарь терминов: {ins} добавлено")
         principles = extract_principles(text, "ast_example")
         ins_p = insert_principles(conn, principles)
         print(f"    принципы: {ins_p} добавлено")
+        examples = extract_ast_examples(text, "ast_example")
+        ins_e = insert_examples(conn, examples)
+        print(f"    ast-примеры: {ins_e} добавлено")
+        ast_lines = extract_ast_translation_lines(text, "ast_translation_line")
+        ins_l = insert_examples(conn, ast_lines)
+        print(f"    ast-построчные переводы: {ins_l} добавлено")
     else:
         print("    [SKIP]")
+
+    # ── 10. Ручные KSD-термины пользователя ─────────────────────
+    print("\n[10] Ручные KSD-термины пользователя …")
+    ins_c, ins_w = insert_manual_ksd_knowledge(conn)
+    print(f"    концепты: {ins_c} добавлено")
+    print(f"    слова: {ins_w} добавлено")
 
     # ── STATS ─────────────────────────────────────────────────────
     cur = conn.cursor()

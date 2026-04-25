@@ -43,6 +43,7 @@ import androidx.compose.material3.lightColorScheme
 import androidx.compose.material3.rememberDrawerState
 import androidx.compose.material3.DrawerValue
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
@@ -189,6 +190,11 @@ fun KsdNitnemApp() {
     val listState = rememberLazyListState()
     val scope = rememberCoroutineScope()
 
+    LaunchedEffect(selectedWorkId, selectedAng, infoBlockId) {
+        val targetIndex = if (infoBlockId == null && selectedWorkId != null) 1 else 0
+        listState.scrollToItem(targetIndex)
+    }
+
     ModalNavigationDrawer(
         drawerState = drawerState,
         drawerContent = {
@@ -199,14 +205,14 @@ fun KsdNitnemApp() {
                 LazyColumn(modifier = Modifier.fillMaxSize()) {
                     item {
                         Text(
-                            text = "Nitnem KSD",
+                            text = "Nitnem Authentic",
                             modifier = Modifier.padding(20.dp, 20.dp, 20.dp, 8.dp),
                             color = ReaderColors.Ink,
                             fontWeight = FontWeight.SemiBold,
                             fontSize = 20.sp,
                         )
                         Text(
-                            text = "Первые 13 ангов SGGS",
+                            text = "Первые 13 ангов СГГС",
                             modifier = Modifier.padding(horizontal = 20.dp),
                             color = ReaderColors.Muted,
                             fontSize = 14.sp,
@@ -238,6 +244,8 @@ fun KsdNitnemApp() {
                             onClick = {
                                 infoBlockId = null
                                 selectedWorkId = work.id
+                                val firstAng = content?.lines?.firstOrNull { it.workId == work.id }?.ang
+                                if (firstAng != null) selectedAng = firstAng
                                 scope.launch { drawerState.close() }
                             },
                             modifier = Modifier.padding(horizontal = 12.dp),
@@ -331,7 +339,7 @@ fun KsdNitnemApp() {
             containerColor = ReaderColors.Page,
             topBar = {
                 ReaderTopBar(
-                    title = content?.title ?: "Nitnem KSD",
+                    title = content?.title ?: "Nitnem Authentic",
                     selectedAng = selectedAng,
                     selectedWorkTitle = content?.works?.firstOrNull { it.id == selectedWorkId }?.title,
                     onMenuClick = { scope.launch { drawerState.open() } },
@@ -440,36 +448,7 @@ fun MarkdownCard(markdown: String) {
         shape = RoundedCornerShape(8.dp),
     ) {
         Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-            markdown.lines().forEach { rawLine ->
-                val line = rawLine.trim()
-                when {
-                    line.isBlank() -> Spacer(Modifier.height(4.dp))
-                    line.startsWith("# ") -> Text(
-                        text = line.removePrefix("# "),
-                        color = ReaderColors.Ink,
-                        fontWeight = FontWeight.SemiBold,
-                        fontSize = 22.sp,
-                    )
-                    line.startsWith("## ") -> Text(
-                        text = line.removePrefix("## "),
-                        color = ReaderColors.Context,
-                        fontWeight = FontWeight.SemiBold,
-                        fontSize = 17.sp,
-                    )
-                    line.startsWith("- ") -> Text(
-                        text = "• ${line.removePrefix("- ")}",
-                        color = ReaderColors.Ink,
-                        fontSize = 15.sp,
-                        lineHeight = 22.sp,
-                    )
-                    else -> Text(
-                        text = line,
-                        color = ReaderColors.Ink,
-                        fontSize = 15.sp,
-                        lineHeight = 22.sp,
-                    )
-                }
-            }
+            MarkdownBody(markdown = markdown)
         }
     }
 }
@@ -668,7 +647,7 @@ fun SettingsPanel(settings: DisplaySettings, onChange: (DisplaySettings) -> Unit
             SettingRow("Контекст", settings.showContext) {
                 onChange(settings.copy(showContext = it))
             }
-            SettingRow("Комментарии", settings.showComments) {
+            SettingRow("Обоснование перевода", settings.showComments) {
                 onChange(settings.copy(showComments = it))
             }
             SettingRow("Автор", settings.showAuthor) {
@@ -705,7 +684,7 @@ fun InfoBlockCard(block: InfoBlock) {
                 fontWeight = FontWeight.SemiBold,
                 fontSize = 20.sp,
             )
-            Text(text = block.body, color = ReaderColors.Ink, fontSize = 16.sp, lineHeight = 23.sp)
+            MarkdownBody(markdown = block.body)
         }
     }
 }
@@ -881,8 +860,8 @@ fun loadNitnemContent(context: Context): NitnemContent {
     }
 
     return NitnemContent(
-        title = bani.optString("title", "Nitnem KSD"),
-        subtitle = bani.optString("subtitle", "Первые 13 ангов SGGS"),
+        title = bani.optString("title", "Nitnem Authentic"),
+        subtitle = bani.optString("subtitle", "Первые 13 ангов СГГС"),
         infoBlocks = infoBlocks,
         updatesMarkdown = context.loadAssetTextOrBlank("updates.md"),
         conceptMarkdown = context.loadAssetTextOrBlank("ek_granth_maryada.md"),

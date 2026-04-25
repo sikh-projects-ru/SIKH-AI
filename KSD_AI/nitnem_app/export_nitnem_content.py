@@ -6,6 +6,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from transliteration import roman_display_from_gurmukhi
+
 
 ROOT = Path(__file__).resolve().parents[1]
 KSD_DIR = ROOT / "ksd_ang_json"
@@ -172,7 +174,10 @@ def export_line(
         "is_rahao": bool(line.get("is_rahao", False)),
         "gurmukhi": line.get("gurmukhi", ""),
         "roman": line.get("roman", ""),
-        "roman_display": line.get("roman_display", line.get("roman", "")),
+        "roman_display": roman_display_from_gurmukhi(
+            line.get("gurmukhi", ""),
+            line.get("roman", ""),
+        ),
         "translations": {
             "ksd_ru": {
                 "main": line.get("ksd_translation", ""),
@@ -248,7 +253,7 @@ def build_pack() -> dict[str, Any]:
         "banis": [
             {
                 "id": "nitnem_sggs_ang_001_013",
-                "title": "Нитнем",
+                "title": "Nitnem Authentic",
                 "subtitle": "Первые 13 ангов СГГС",
                 "ang_start": 1,
                 "ang_end": 13,
@@ -260,7 +265,7 @@ def build_pack() -> dict[str, Any]:
                     {
                         "id": "about_nitnem",
                         "title": "О Нитнеме",
-                        "body": "Нитнем в этом приложении представлен как ежедневное чтение первых 13 ангов СГГС с русским смысловым переводом.",
+                        "body": "Nitnem Authentic представлен как ежедневное чтение первых 13 ангов СГГС с русским смысловым переводом.",
                     },
                     {
                         "id": "translation_note",

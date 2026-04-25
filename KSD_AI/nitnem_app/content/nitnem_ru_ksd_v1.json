@@ -2,7 +2,7 @@
   "schema_version": 1,
   "content_version": 1,
   "package_id": "nitnem_ru_ksd_sggs_001_013",
-  "generated_at": "2026-04-25T12:27:00.974593+00:00",
+  "generated_at": "2026-04-25T19:26:57.470774+00:00",
   "language": "ru",
   "source": {
     "name": "Sri Guru Granth Sahib",
@@ -75,7 +75,7 @@
   "banis": [
     {
       "id": "nitnem_sggs_ang_001_013",
-      "title": "Нитнем",
+      "title": "Nitnem Authentic",
       "subtitle": "Первые 13 ангов СГГС",
       "ang_start": 1,
       "ang_end": 13,
@@ -137,7 +137,7 @@
         {
           "id": "about_nitnem",
           "title": "О Нитнеме",
-          "body": "Нитнем в этом приложении представлен как ежедневное чтение первых 13 ангов СГГС с русским смысловым переводом."
+          "body": "Nitnem Authentic представлен как ежедневное чтение первых 13 ангов СГГС с русским смысловым переводом."
         },
         {
           "id": "translation_note",
@@ -423,7 +423,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹੈ ਭੀ ਸਚੁ ਨਾਨਕ ਹੋਸੀ ਭੀ ਸਚੁ ॥੧॥",
               "roman": "hai bhī sach nānak hosī bhī sach",
-              "roman_display": "hai bhī sach nānak hosī bhī sach",
+              "roman_display": "he bhī sach nānak hosī bhī sach",
               "translations": {
                 "ksd_ru": {
                   "main": "Он и сейчас присутствует как истина; Нанак [[передаёт:]] Он также пребудет как истина во всём дальнейшем [[моём существовании]].",
@@ -614,7 +614,7 @@
               "is_rahao": false,
               "gurmukhi": "ਚੁਪੈ ਚੁਪ ਨ ਹੋਵਈ ਜੇ ਲਾਇ ਰਹਾ ਲਿਵ ਤਾਰ ॥",
               "roman": "chupai chup na hovai je lāi rahā liv tār",
-              "roman_display": "chupai chup na hovai je lāi rahā liv tār",
+              "roman_display": "chupe chup na hovai je lāi rahā liv tār",
               "translations": {
                 "ksd_ru": {
                   "main": "Через физическое безмолвие внутренняя тишина не возникает, даже если [[я]] непрерывно удерживаю сосредоточение.",
@@ -795,7 +795,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਹਸ ਸਿਆਣਪਾ ਲਖ ਹੋਹਿ ਤ ਇਕ ਨ ਚਲੈ ਨਾਲਿ ॥",
               "roman": "sahas siāṇpā lakh hohi ta ik na chalai nāl",
-              "roman_display": "sahas siāṇpā lakh hohi ta ik na chalai nāl",
+              "roman_display": "sahas siāṇpā lakh hohi ta ik na chale nāl",
               "translations": {
                 "ksd_ru": {
                   "main": "Даже если [[во мне]] будут тысячи и сотни тысяч умственных ухищрений, ни одно из них не пойдёт со мной как настоящая опора.",
@@ -889,7 +889,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਿਵ ਸਚਿਆਰਾ ਹੋਈਐ ਕਿਵ ਕੂੜੈ ਤੁਟੈ ਪਾਲਿ ॥",
               "roman": "kiv sachiārā hoīai kiv kūṛai tuṭai pāl",
-              "roman_display": "kiv sachiārā hoīai kiv kūṛai tuṭai pāl",
+              "roman_display": "kiv sachiārā hoīe kiv kūṛe tuṭe pāl",
               "translations": {
                 "ksd_ru": {
                   "main": "Как стать настоящим [[внутри]]? Как разрушится стена внутренней фальши?",
@@ -1132,7 +1132,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹੁਕਮੀ ਹੋਵਨਿ ਜੀਅ ਹੁਕਮਿ ਮਿਲੈ ਵਡਿਆਈ ॥",
               "roman": "hukamī hovan jīa hukam milai vaḍiāī",
-              "roman_display": "hukamī hovan jīa hukam milai vaḍiāī",
+              "roman_display": "hukamī hovan jīa hukam mile vaḍiāī",
               "translations": {
                 "ksd_ru": {
                   "main": "Жизнь в телах возникает в пределах Хукама; в пределах Хукама же обретается достоинство [[живого существования]].",
@@ -1337,7 +1337,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹੁਕਮੈ ਅੰਦਰਿ ਸਭੁ ਕੋ ਬਾਹਰਿ ਹੁਕਮ ਨ ਕੋਇ ॥",
               "roman": "hukamai andar sabh ko bāhar hukam na koi",
-              "roman_display": "hukamai andar sabh ko bāhar hukam na koi",
+              "roman_display": "hukame andar sabh ko bāhar hukam na koi",
               "translations": {
                 "ksd_ru": {
                   "main": "В пределах Хукама находится всё целиком; вне Хукама нет никого и ничего.",
@@ -1396,7 +1396,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾਨਕ ਹੁਕਮੈ ਜੇ ਬੁਝੈ ਤ ਹਉਮੈ ਕਹੈ ਨ ਕੋਇ ॥੨॥",
               "roman": "nānak hukamai je bujhai ta haumai kahai na koi",
-              "roman_display": "nānak hukamai je bujhai ta haumai kahai na koi",
+              "roman_display": "nānak hukame je bujhe ta haume kahe na koi",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак передаёт: если [[человек]] осознаёт Хукам внутри, тогда никто не говорит из Хоумэ — из идеи, что «я» существую отдельно [[от Хукама]].",
@@ -1857,7 +1857,7 @@
               "is_rahao": false,
               "gurmukhi": "ਗਾਵੈ ਕੋ ਵੇਖੈ ਹਾਦਰਾ ਹਦੂਰਿ ॥",
               "roman": "gāvē ko vēkhai hādrā hadūr",
-              "roman_display": "gāvē ko vēkhai hādrā hadūr",
+              "roman_display": "gāvē ko vēkhe hādrā hadūr",
               "translations": {
                 "ksd_ru": {
                   "main": "Один [[духовный искатель]] видит [[Хукам]] как присутствующий здесь, ближе ближайшего.",
@@ -2375,7 +2375,7 @@
               "is_rahao": false,
               "gurmukhi": "ਫੇਰਿ ਕਿ ਅਗੈ ਰਖੀਐ ਜਿਤੁ ਦਿਸੈ ਦਰਬਾਰੁ ॥",
               "roman": "phēr k agai rakhīai jit disai darbār",
-              "roman_display": "phēr k agai rakhīai jit disai darbār",
+              "roman_display": "phēr ki age rakhīe jit dise darbār",
               "translations": {
                 "ksd_ru": {
                   "main": "Тогда что же [[изнутри]] поставить перед Ним, чтобы стал видимым Его Дарбар?",
@@ -2441,7 +2441,7 @@
               "is_rahao": false,
               "gurmukhi": "ਮੁਹੌ ਕਿ ਬੋਲਣੁ ਬੋਲੀਐ ਜਿਤੁ ਸੁਣਿ ਧਰੇ ਪਿਆਰੁ ॥",
               "roman": "muhau k bolaṇ bolīai jit suṇ dharē piār",
-              "roman_display": "muhau k bolaṇ bolīai jit suṇ dharē piār",
+              "roman_display": "muhau ki bolaṇ bolīe jit suṇ dharē piār",
               "translations": {
                 "ksd_ru": {
                   "main": "Какое слово произнести [[изнутри]], чтобы, услышав его, [[сознание]] утвердилось в любви?",
@@ -2639,7 +2639,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾਨਕ ਏਵੈ ਜਾਣੀਐ ਸਭੁ ਆਪੇ ਸਚਿਆਰੁ ॥੪॥",
               "roman": "nānak ēvai jāṇīai sabh āpē sachiār",
-              "roman_display": "nānak ēve jāṇīai sabh āpē sachiār",
+              "roman_display": "nānak ēve jāṇīe sabh āpē sachiār",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак: так познаётся [[путь]] — Творец Сам наполняет всё, и так [[человек]] становится сачиаром внутри.",
@@ -2885,7 +2885,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾਨਕ ਗਾਵੀਐ ਗੁਣੀ ਨਿਧਾਨੁ ॥",
               "roman": "nānak gāvīai guṇī nidhān",
-              "roman_display": "nānak gāvīai guṇī nidhān",
+              "roman_display": "nānak gāvīe guṇī nidhān",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак передаёт: воспринимай и воспевай Сокровищницу добродетелей.",
@@ -2937,7 +2937,7 @@
               "is_rahao": false,
               "gurmukhi": "ਗਾਵੀਐ ਸੁਣੀਐ ਮਨਿ ਰਖੀਐ ਭਾਉ ॥",
               "roman": "gāvīai suṇīai man rakhīai bhāu",
-              "roman_display": "gāvīai suṇīai man rakhīai bhāu",
+              "roman_display": "gāvīe suṇīe man rakhīe bhāu",
               "translations": {
                 "ksd_ru": {
                   "main": "Воспевай, слушай и удерживай в разуме любовь [[к Хукаму Творца]].",
@@ -3346,7 +3346,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੀਰਥਿ ਨਾਵਾ ਜੇ ਤਿਸੁ ਭਾਵਾ ਵਿਣੁ ਭਾਣੇ ਕਿ ਨਾਇ ਕਰੀ ॥",
               "roman": "tīrath nāvā jē tis bhāvā viṇ bhāṇē k nāe karī",
-              "roman_display": "tīrath nāvā jē tis bhāvā viṇ bhāṇē k nāe karī",
+              "roman_display": "tīrath nāvā jē tis bhāvā viṇ bhāṇē ki nāe karī",
               "translations": {
                 "ksd_ru": {
                   "main": "Если я омываюсь в месте паломничества, то лишь тогда это имеет смысл, когда [[моё сознание]] согласно с Хукамом; без этой сонастроенности что даст омовение?",
@@ -3412,7 +3412,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜੇਤੀ ਸਿਰਠਿ ਉਪਾਈ ਵੇਖਾ ਵਿਣੁ ਕਰਮਾ ਕਿ ਮਿਲੈ ਲਈ ॥",
               "roman": "jētī siraṭh upāī vēkhā viṇ karmā k milai laī",
-              "roman_display": "jētī siraṭh upāī vēkhā viṇ karmā k milai laī",
+              "roman_display": "jētī siraṭh upāī vēkhā viṇ karmā ki mile laī",
               "translations": {
                 "ksd_ru": {
                   "main": "Во всём сотворённом, что я вижу, без милости [[Творца]] ничего не обретается и ничего не может быть взято.",
@@ -3766,7 +3766,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਵਾ ਖੰਡਾ ਵਿਚਿ ਜਾਣੀਐ ਨਾਲਿ ਚਲੈ ਸਭੁ ਕੋਇ ॥",
               "roman": "navā khaṇḍā vich jāṇīai nāl chalai sabh koe",
-              "roman_display": "navā khaṇḍā vich jāṇīai nāl chale sabh koe",
+              "roman_display": "navā khaṇḍā vich jāṇīe nāl chale sabh koe",
               "translations": {
                 "ksd_ru": {
                   "main": "если [[я]] стану известен во всём мире и каждый пойдёт за мной,",
@@ -4096,7 +4096,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੇਹਾ ਕੋਇ ਨ ਸੁਝਈ ਜਿ ਤਿਸੁ ਗੁਣੁ ਕੋਇ ਕਰੇ ॥੭॥",
               "roman": "tēhā koe na sujhīai j tis guṇ koe karē",
-              "roman_display": "tēhā koe na sujhīai j tis guṇ koe karē",
+              "roman_display": "tēhā koe na sujhīai ji tis guṇ koe karē",
               "translations": {
                 "ksd_ru": {
                   "main": "Не видно никого другого, кто мог бы даровать такие качества [[лишённому качеств]].",
@@ -4186,7 +4186,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਸਿਧ ਪੀਰ ਸੁਰਿ ਨਾਥ ॥",
               "roman": "suṇiai sidh pīr sur nāth",
-              "roman_display": "suṇiai sidh pīr sur nāth",
+              "roman_display": "suṇie sidh pīr sur nāth",
               "translations": {
                 "ksd_ru": {
                   "main": "Прислушиваясь к Шабду, мне открывается внутренняя реальность сиддхов, пиров, суров и натхов — все эти образы духовной высоты находят своё место внутри Хукама.",
@@ -4252,7 +4252,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਧਰਤਿ ਧਵਲ ਆਕਾਸ ॥",
               "roman": "suṇiai dharat dhaval ākās",
-              "roman_display": "suṇiai dharat dhaval ākās",
+              "roman_display": "suṇie dharat dhaval ākās",
               "translations": {
                 "ksd_ru": {
                   "main": "Прислушиваясь к Шабду, я начинаю понимать земное существование, поддерживающий его Хукам и высоту осознания, которая связывает мирское с духовным.",
@@ -4311,7 +4311,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਦੀਪ ਲੋਅ ਪਾਤਾਲ ॥",
               "roman": "suṇiai dīp loe pātāl",
-              "roman_display": "suṇiai dīp loe pātāl",
+              "roman_display": "suṇie dīp loe pātāl",
               "translations": {
                 "ksd_ru": {
                   "main": "Прислушиваясь к Шабду, мне раскрывается реальность света, освещённых состояний и тех глубин сознания, где этот свет ещё не принят.",
@@ -4370,7 +4370,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਪੋਹਿ ਨ ਸਕੈ ਕਾਲੁ ॥",
               "roman": "suṇiai poh na sakai kāl",
-              "roman_display": "suṇiai poh na sake kāl",
+              "roman_display": "suṇie poh na sake kāl",
               "translations": {
                 "ksd_ru": {
                   "main": "Прислушиваясь к Шабду, я не остаюсь во власти временного: страх смерти и духовная мёртвость не могут коснуться моего внутреннего состояния.",
@@ -4488,7 +4488,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੮॥",
               "roman": "suṇiai dūkh pāp kā nās",
-              "roman_display": "suṇiai dūkh pāp kā nās",
+              "roman_display": "suṇie dūkh pāp kā nās",
               "translations": {
                 "ksd_ru": {
                   "main": "Прислушивание к Шабду уничтожает духовную боль и порок глухоты, из-за которой моё существо не откликается на Хукам.",
@@ -4571,7 +4571,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਈਸਰੁ ਬਰਮਾ ਇੰਦੁ ॥",
               "roman": "suṇiai īsar barmā ind",
-              "roman_display": "suṇiai īsar barmā ind",
+              "roman_display": "suṇie īsar barmā ind",
               "translations": {
                 "ksd_ru": {
                   "main": "Через прислушивание к Шабду раскрывается внутренняя реальность Ишара, Брахмы и Индры: эти образы перестают быть самостоятельными высшими силами и получают своё место перед Единым Творцом.",
@@ -4630,7 +4630,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਮੁਖਿ ਸਾਲਾਹਣ ਮੰਦੁ ॥",
               "roman": "suṇiai mukh sālāhaṇ mand",
-              "roman_display": "suṇiai mukh sālāhaṇ mand",
+              "roman_display": "suṇie mukh sālāhaṇ mand",
               "translations": {
                 "ksd_ru": {
                   "main": "Через прислушивание к Шабду даже внутренний голос порока начинает признавать и восхвалять Творца.",
@@ -4689,7 +4689,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਜੋਗ ਜੁਗਤਿ ਤਨਿ ਭੇਦ ॥",
               "roman": "suṇiai jog jugat tan bhēd",
-              "roman_display": "suṇiai jog jugat tan bhēd",
+              "roman_display": "suṇie jog jugat tan bhēd",
               "translations": {
                 "ksd_ru": {
                   "main": "Через прислушивание к Шабду раскрывается внутренний смысл соединения: способ, по которому само тело и жизнь здесь становятся направлены к Творцу.",
@@ -4755,7 +4755,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਸਾਸਤ ਸਿਮ੍ਰਿਤਿ ਵੇਦ ॥",
               "roman": "suṇiai sāstat simrit vēd",
-              "roman_display": "suṇiai sāstat simrit vēd",
+              "roman_display": "suṇie sāstat simrit vēd",
               "translations": {
                 "ksd_ru": {
                   "main": "Через прислушивание к Шабду раскрывается внутренняя мера шастр, смрити и вед: тексты становятся понятны лишь настолько, насколько ведут к осознанию Творца внутри.",
@@ -4873,7 +4873,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੯॥",
               "roman": "suṇiai dūkh pāp kā nās",
-              "roman_display": "suṇiai dūkh pāp kā nās",
+              "roman_display": "suṇie dūkh pāp kā nās",
               "translations": {
                 "ksd_ru": {
                   "main": "Через прислушивание к Шабду исчезают духовная боль и порок внутренней глухоты.",
@@ -4961,7 +4961,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਸਤੁ ਸੰਤੋਖੁ ਗਿਆਨੁ ॥",
               "roman": "suṇiai sat santokh giān",
-              "roman_display": "suṇiai sat santokh giān",
+              "roman_display": "suṇie sat santokh giān",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] раскрываются божественная подлинность, удовлетворённость и просветляющее знание.",
@@ -5020,7 +5020,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਅਠਸਠਿ ਕਾ ਇਸਨਾਨੁ ॥",
               "roman": "suṇiai aṭhsaṭh kā isnān",
-              "roman_display": "suṇiai aṭhsaṭh kā isnān",
+              "roman_display": "suṇie aṭhsaṭh kā isnān",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] раскрывается внутренняя реальность очищения, которую люди ищут в шестидесяти восьми местах паломничества.",
@@ -5079,7 +5079,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਪੜਿ ਪੜਿ ਪਾਵਹਿ ਮਾਨੁ ॥",
               "roman": "suṇiai paṛh paṛh pāvahi mān",
-              "roman_display": "suṇiai paṛh paṛh pāvahi mān",
+              "roman_display": "suṇie paṛh paṛh pāvahi mān",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] повторное чтение становится духовно ценным и приносит внутреннее достоинство.",
@@ -5138,7 +5138,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਲਾਗੈ ਸਹਜਿ ਧਿਆਨੁ ॥",
               "roman": "suṇiai lāgai sahaj dhiān",
-              "roman_display": "suṇiai lāge sahaj dhiān",
+              "roman_display": "suṇie lāge sahaj dhiān",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] сознание естественно утверждается в сахадже и духовном фокусе.",
@@ -5256,7 +5256,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੧੦॥",
               "roman": "suṇiai dūkh pāp kā nās ‖10‖",
-              "roman_display": "suṇiai dūkh pāp kā nās ‖10‖",
+              "roman_display": "suṇie dūkh pāp kā nās ‖10‖",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] исчезают духовная боль и порок внутренней глухоты.",
@@ -5346,7 +5346,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਸਰਾ ਗੁਣਾ ਕੇ ਗਾਹ ॥",
               "roman": "suṇiai sarā guṇā kē gāh",
-              "roman_display": "suṇiai sarā guṇā kē gāh",
+              "roman_display": "suṇie sarā guṇā kē gāh",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] сознание устремляется в океан божественных качеств.",
@@ -5412,7 +5412,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਸੇਖ ਪੀਰ ਪਾਤਿਸਾਹ ॥",
               "roman": "suṇiai sēkh pīr pātisāh",
-              "roman_display": "suṇiai sēkh pīr pātisāh",
+              "roman_display": "suṇie sēkh pīr pātisāh",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] раскрывается внутренняя реальность тех образов наставничества, зрелости и власти, которые называются шейхами, пирами и патишахами.",
@@ -5471,7 +5471,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਅੰਧੇ ਪਾਵਹਿ ਰਾਹੁ ॥",
               "roman": "suṇiai andhē pāvahi rāh",
-              "roman_display": "suṇiai andhē pāvahi rāh",
+              "roman_display": "suṇie andhē pāvahi rāh",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] духовно слепые находят путь.",
@@ -5530,7 +5530,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਹਾਥ ਹੋਵੈ ਅਸਗਾਹੁ ॥",
               "roman": "suṇiai hāth hovai asgāh",
-              "roman_display": "suṇiai hāth hove asgāh",
+              "roman_display": "suṇie hāth hove asgāh",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] появляется возможность прикоснуться к неизмеримой глубине [[божественных качеств]].",
@@ -5648,7 +5648,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੧੧॥",
               "roman": "suṇiai dūkh pāp kā nās ‖11‖",
-              "roman_display": "suṇiai dūkh pāp kā nās ‖11‖",
+              "roman_display": "suṇie dūkh pāp kā nās ‖11‖",
               "translations": {
                 "ksd_ru": {
                   "main": "Через слушание и внутреннее принятие [[Шабда]] исчезают духовная боль и порок внутренней глухоты.",
@@ -7300,7 +7300,7 @@
           "mahalla": 1,
           "rahao_verse_id": null,
           "rahao_theme": "Когда пять чувств вверены Гуру-Шабду, они становятся достойными, получают честь в совести и видят, что вся внутренняя жизнь держится Хукамом, состраданием и удовлетворённостью.",
-          "summary": "Эта паури показывает, как пять чувств, вверенные Гуру-Шабду, становятся достойными и получают честь в дарге совести. Затем Гуру Нанак Патишах раскрывает внутреннюю опору дхарма: сострадание, удовлетворённость, запись жизненного опыта, неисчислимые дары Хукама и смиренное принятие того, что угодно Бесформенному Творцу.",
+          "summary": "Эта паури показывает, как пять чувств, вверенные Гуру-Шабду, становятся достойными и получают честь в Дарге совести. Затем Гуру Нанак Патишах раскрывает внутреннюю опору дхарма: сострадание, удовлетворённость, запись жизненного опыта, неисчислимые дары Хукама и смиренное принятие того, что угодно Бесформенному Творцу.",
           "lines": [
             {
               "id": "3:17:109",
@@ -7375,11 +7375,11 @@
               "roman_display": "panche pāvahi dargeh mān",
               "translations": {
                 "ksd_ru": {
-                  "main": "Пять [[чувств]] получают честь в дарге совести.",
+                  "main": "Пять [[чувств]] получают честь в Дарге совести.",
                   "artistic": "Пять чувств, очищенные Шабдом, уже не обвиняются внутри: они получают честь перед совестью.",
                   "context_note": "Добавлено [[чувств]], потому что строка продолжает предыдущую.",
                   "confidence": 0.92,
-                  "confidence_reason": "Высокая уверенность: дарга здесь не внешний небесный двор, а внутренний суд совести."
+                  "confidence_reason": "Высокая уверенность: Дарге здесь не внешний небесный двор, а внутренний суд совести."
                 }
               },
               "word_analysis": [
@@ -7677,9 +7677,9 @@
               "roman_display": "dhaul dharam daiā kā pūt",
               "translations": {
                 "ksd_ru": {
-                  "main": "Чистая опора дхарма рождается из сострадания.",
-                  "artistic": "Дхарм внутри не стоит на страхе: его чистая опора рождается из дайи, из сострадания.",
-                  "context_note": "",
+                  "main": "Мифический образ быка, поддерживающего мир, здесь раскрывается как дхарм — закон Хукама, рождённый из сострадания.",
+                  "artistic": "Мир держит не животное из мифа, а дхарм: живая опора Хукама, рождённая из дайи, из сострадания.",
+                  "context_note": "Дхаул/дхавал не оставлен как непонятный термин: это известный образ быка-опоры, который Гурбани переосмысляет как дхарм, закон Хукама.",
                   "confidence": 0.92,
                   "confidence_reason": "Высокая уверенность: строка переосмысляет образ дхаула духовно, как опору дхарма, рождённую состраданием."
                 }
@@ -7687,8 +7687,8 @@
               "word_analysis": [
                 {
                   "roman": "dhaul",
-                  "literal_ru": "белый бык, чистая опора",
-                  "ksd_meta_ru": "чистая духовная опора, а не мифологическое животное",
+                  "literal_ru": "образ быка, поддерживающего мир; чистая опора",
+                  "ksd_meta_ru": "чистая духовная опора и закон Хукама, а не буквальное мифологическое животное",
                   "confidence": 0.9,
                   "grammar_note": ""
                 },
@@ -7917,7 +7917,7 @@
               "is_rahao": false,
               "gurmukhi": "ਧਰਤੀ ਹੋਰੁ ਪਰੈ ਹੋਰੁ ਹੋਰੁ ॥",
               "roman": "dhartī hōr parai hōr hōr",
-              "roman_display": "dhartī hōr parai hōr hōr",
+              "roman_display": "dhartī hōr pare hōr hōr",
               "translations": {
                 "ksd_ru": {
                   "main": "Внутренняя опора то склоняется в одну сторону, то снова в другую.",
@@ -8153,7 +8153,7 @@
               "is_rahao": false,
               "gurmukhi": "ਏਹੁ ਲੇਖਾ ਲਿਖਿ ਜਾਣੈ ਕੋਇ ॥",
               "roman": "ēhu lēkhā likh jāṇai kōi",
-              "roman_display": "ēhu lēkhā likh jāṇai kōi",
+              "roman_display": "ēhu lēkhā likh jāṇe kōi",
               "translations": {
                 "ksd_ru": {
                   "main": "Редкий знает, как писать этот внутренний счёт [[осознанно]].",
@@ -8330,7 +8330,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕੇਤੀ ਦਾਤਿ ਜਾਣੈ ਕੌਣੁ ਕੂਤੁ ॥",
               "roman": "kētī dāt jāṇai kauṇ kūt",
-              "roman_display": "kētī dāt jāṇai kauṇ kūt",
+              "roman_display": "kētī dāt jāṇe kauṇ kūt",
               "translations": {
                 "ksd_ru": {
                   "main": "Кто может измерить изобилие даров [[Хукама]]?",
@@ -10956,7 +10956,7 @@
               "is_rahao": false,
               "gurmukhi": "ਭਰੀਐ ਹਥੁ ਪੈਰੁ ਤਨੁ ਦੇਹ ॥",
               "roman": "bharīai hath pair tan dēh",
-              "roman_display": "bharīai hath pair tan dēh",
+              "roman_display": "bharīe hath pair tan dēh",
               "translations": {
                 "ksd_ru": {
                   "main": "Когда руки, ноги и тело запятнаны [[внешней грязью]],",
@@ -11112,7 +11112,7 @@
               "is_rahao": false,
               "gurmukhi": "ਦੇ ਸਾਬੂਣੁ ਲਈਐ ਓਹੁ ਧੋਇ ॥",
               "roman": "dē sābūṇ laīai oh dhoē",
-              "roman_display": "dē sābūṇ laīai oh dhoē",
+              "roman_display": "dē sābūṇ laīe oh dhoē",
               "translations": {
                 "ksd_ru": {
                   "main": "её очищают, взяв мыло и вымыв её.",
@@ -11164,7 +11164,7 @@
               "is_rahao": false,
               "gurmukhi": "ਭਰੀਐ ਮਤਿ ਪਾਪਾ ਕੈ ਸੰਗਿ ॥",
               "roman": "bharīai mat pāpā kai saṅg",
-              "roman_display": "bharīai mat pāpā ke saṅg",
+              "roman_display": "bharīe mat pāpā ke saṅg",
               "translations": {
                 "ksd_ru": {
                   "main": "Когда разум запятнан соприкосновением с пороками,",
@@ -11708,7 +11708,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਭਿ ਗੁਣ ਤੇਰੇ ਮੈ ਨਾਹੀ ਕੋਇ ॥",
               "roman": "sabh guṇ tērē mai nāhī koē",
-              "roman_display": "sabh guṇ tērē mai nāhī koē",
+              "roman_display": "sabh guṇ tērē me nāhī koē",
               "translations": {
                 "ksd_ru": {
                   "main": "Все добродетели принадлежат Тебе; во мне самом нет ни одной.",
@@ -12020,7 +12020,7 @@
               "is_rahao": false,
               "gurmukhi": "ਵੇਲ ਨ ਪਾਈਆ ਪੰਡਤੀ ਜਿ ਹੋਵੈ ਲੇਖੁ ਪੁਰਾਣੁ ॥",
               "roman": "vēl na pāīā paṅḍatī j hovai lēkh purāṇ",
-              "roman_display": "vēl na pāīā paṅḍatī j hovai lēkh purāṇ",
+              "roman_display": "vēl na pāīā paṅḍatī ji hove lēkh purāṇ",
               "translations": {
                 "ksd_ru": {
                   "main": "Эта Вела внутреннего раскрытия не найдена пандитами, даже если она записывалась бы в Пуранах.",
@@ -12072,7 +12072,7 @@
               "is_rahao": false,
               "gurmukhi": "ਵਖਤੁ ਨ ਪਾਇਓ ਕਾਦੀਆ ਜਿ ਲਿਖਨਿ ਲੇਖੁ ਕੁਰਾਣੁ ॥",
               "roman": "vakhat na pāiō kādīā j likhan lēkh kurāṇ",
-              "roman_display": "vakhat na pāiō kādīā j likhan lēkh kurāṇ",
+              "roman_display": "vakhat na pāiō kādīā ji likhan lēkh kurāṇ",
               "translations": {
                 "ksd_ru": {
                   "main": "Этот Вакхт внутреннего раскрытия не найден кадиями, даже если они записывают знание Корана.",
@@ -12635,7 +12635,7 @@
               "is_rahao": false,
               "gurmukhi": "ਲੇਖਾ ਹੋਇ ਤ ਲਿਖੀਐ ਲੇਖੈ ਹੋਇ ਵਿਣਾਸੁ ॥",
               "roman": "lekhā hoi ta likhīai lekhai hoi viṇās",
-              "roman_display": "lekhā hoi ta likhīai lekhe hoi viṇās",
+              "roman_display": "lekhā hoi ta likhīe lekhe hoi viṇās",
               "translations": {
                 "ksd_ru": {
                   "main": "Если бы кудрат Творца имел счёт, его можно было бы записать; но при счёте исчезает сам счёт.",
@@ -12694,7 +12694,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾਨਕ ਵਡਾ ਆਖੀਐ ਆਪੇ ਜਾਣੈ ਆਪੁ ॥੨੨॥",
               "roman": "Nānak vaḍā ākhīai āpe jāṇai āp",
-              "roman_display": "Nānak vaḍā ākhīai āpe jāṇe āp",
+              "roman_display": "Nānak vaḍā ākhīe āpe jāṇe āp",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак: Того, кого называют Великим, по-настоящему знает только Он Сам.",
@@ -13030,7 +13030,7 @@
               "is_rahao": false,
               "gurmukhi": "ਅੰਤੁ ਨ ਸਿਫਤੀ ਕਹਣਿ ਨ ਅੰਤੁ ॥",
               "roman": "ant na sifatī kahan na ant",
-              "roman_display": "ant na sifatī kahan na ant",
+              "roman_display": "ant na sifatī kahaṇ na ant",
               "translations": {
                 "ksd_ru": {
                   "main": "Нет предела добродетелям Творца, и нет предела тому, что можно говорить о них.",
@@ -13526,7 +13526,7 @@
               "is_rahao": false,
               "gurmukhi": "ਬਹੁਤਾ ਕਹੀਐ ਬਹੁਤਾ ਹੋਇ ॥",
               "roman": "bahutā kahīai bahutā hoi",
-              "roman_display": "bahutā kahīai bahutā hoi",
+              "roman_display": "bahutā kahīe bahutā hoi",
               "translations": {
                 "ksd_ru": {
                   "main": "Чем больше говорится о Его величии, тем ещё большим оно раскрывается сознанию.",
@@ -14719,7 +14719,7 @@
               "is_rahao": false,
               "gurmukhi": "ਆਖਹਿ ਸਿ ਭਿ ਕੇਈ ਕੇਇ ॥",
               "roman": "ākhahi s bhī keī kei",
-              "roman_display": "ākhahi s bhī keī kei",
+              "roman_display": "ākhahi si bhī keī kei",
               "translations": {
                 "ksd_ru": {
                   "main": "Многие также говорят и признают: Он Сам знает и Сам даёт.",
@@ -15449,8 +15449,8 @@
               "roman_display": "ākhahi barme ākhahi ind",
               "translations": {
                 "ksd_ru": {
-                  "main": "Говорят и образы Брахмы, говорят и образы Индры, но и эти религиозные представления не исчерпывают Бесценного.",
-                  "artistic": "Даже внутренние образы Брахмы и Индры произносят своё — но Единый не помещается в них.",
+                  "main": "Говорят и образы Брахмы, говорит и Инд как образ божественной власти, но и эти религиозные представления не исчерпывают Бесценного.",
+                  "artistic": "Даже внутренние образы Брахмы и божественной власти произносят своё — но Единый не помещается в них.",
                   "context_note": "[[Бесценного]]",
                   "confidence": 0.84,
                   "confidence_reason": "Уверенность хорошая: имена прочитаны как переосмысленные религиозные образы, а не как подтверждение их высшего статуса."
@@ -15466,8 +15466,8 @@
                 },
                 {
                   "roman": "ind",
-                  "literal_ru": "индры",
-                  "ksd_meta_ru": "мифологизированные образы власти, не являющиеся духовной целью",
+                  "literal_ru": "Инд, образ божественной власти",
+                  "ksd_meta_ru": "внутренний образ божественной власти, не являющийся духовной целью",
                   "confidence": 0.84,
                   "grammar_note": ""
                 }
@@ -16038,7 +16038,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਾ ਲਿਖੀਐ ਸਿਰਿ ਗਾਵਾਰਾ ਗਾਵਾਰੁ ॥੨੬॥",
               "roman": "tā likhīai sir gāvārā gāvār",
-              "roman_display": "tā likhīai sir gāvārā gāvār",
+              "roman_display": "tā likhīe sir gāvārā gāvār",
               "translations": {
                 "ksd_ru": {
                   "main": "тогда в его сознании записывается абсолютная непросветлённость.",
@@ -16092,7 +16092,7 @@
           "mahalla": 1,
           "rahao_verse_id": null,
           "rahao_theme": "внутреннее пространство осознания, где всё в сознании приходит в гармонию с Творцом и Его Хукамом",
-          "summary": "Паури раскрывает внутренний дом сознания, где всё — звуки, качества, религиозные образы, знание, добродетели, майя и вся кудрат — приходит в гармонию с Творцом. Итог прост: разум не командует Хукамом, а учится жить в разе Патишаха.",
+          "summary": "Паури раскрывает внутренний дом сознания, где всё — звуки, качества, религиозные образы, знание, добродетели, майя и вся кудрат — приходит в гармонию с Творцом. Итог прост: разум не командует Хукамом, а учится жить в Воле Патишаха.",
           "lines": [
             {
               "id": "6:28:268",
@@ -16323,8 +16323,8 @@
               "roman_display": "gāveh chit gupt likh jāṇeh likh likh dharam vīchāre",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевает внутренний портрет разума: он знает, как записывать; снова и снова записывая, совесть различает закон [[Хукама]].",
-                  "artistic": "Внутренний образ во мне становится записью; и совесть, читая эту запись, видит меру моей согласованности с Хукамом.",
+                  "main": "Тебя воспевает чит-гупт — сознание с его скрытой записью; снова и снова записывая, совесть различает закон [[Хукама]].",
+                  "artistic": "Внутренний образ сознания становится записью; и совесть, читая эту запись, видит меру моей согласованности с Хукамом.",
                   "context_note": "Слово [[Хукама]] добавлено как смысловая опора: закон здесь не внешний судья, а мера внутреннего согласия с Творцом.",
                   "confidence": 0.9,
                   "confidence_reason": "Уверенность высокая: подсказка о внутреннем портрете и записи хорошо совпадает с рамкой совести и Хукама."
@@ -16333,8 +16333,8 @@
               "word_analysis": [
                 {
                   "roman": "chit gupt",
-                  "literal_ru": "скрытый образ, внутренний портрет",
-                  "ksd_meta_ru": "разум, в котором отпечатывается состояние сознания",
+                  "literal_ru": "скрытая запись сознания",
+                  "ksd_meta_ru": "сознание, в котором отпечатывается внутреннее состояние",
                   "confidence": 0.9,
                   "grammar_note": ""
                 },
@@ -16424,12 +16424,12 @@
               "is_rahao": false,
               "gurmukhi": "ਗਾਵਹਿ ਇੰਦ ਇਦਾਸਣਿ ਬੈਠੇ ਦੇਵਤਿਆ ਦਰਿ ਨਾਲੇ ॥",
               "roman": "gāveh ind idāsaṇ baithe devatiā dar nāle",
-              "roman_display": "gāveh ind idāsaṇ baithe devatiā dar nāle",
+              "roman_display": "gāveh ind idāsaṇ baiṭhe devatiā dar nāle",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевает [[образ]] Индры, сидящий на своём престоле; вместе с божественными образами он остаётся у врат [[Единого осознания]].",
-                  "artistic": "Даже престол Индры внутри разума не выше Тебя: все такие образы стоят лишь у порога Единого.",
-                  "context_note": "Добавлены [[образ]] и [[Единого осознания]], чтобы строка не стала почитанием Индры и богов как самостоятельных высших сил.",
+                  "main": "Тебя воспевает Инд, пребывающий в Индасане — внутренней обители божественности; вместе с божественными образами он остаётся у врат [[Единого осознания]].",
+                  "artistic": "Даже внутренний образ божественной власти не выше Тебя: все такие образы стоят лишь у порога Единого.",
+                  "context_note": "Индасан здесь читается не как внешний мифологический трон, а как образ внутренней обители божественности.",
                   "confidence": 0.82,
                   "confidence_reason": "Уверенность средняя: строка содержит мифологические образы, но контекст Единого Ооангкара требует их внутреннего и подчинённого чтения."
                 }
@@ -16437,14 +16437,14 @@
               "word_analysis": [
                 {
                   "roman": "ind",
-                  "literal_ru": "Индра",
-                  "ksd_meta_ru": "мифологизированный образ власти чувств, поставленный на место перед Единым",
+                  "literal_ru": "Инд / Индасан",
+                  "ksd_meta_ru": "образ обители божественности и внутренней асаны в божественном поле, поставленный на место перед Единым",
                   "confidence": 0.84,
                   "grammar_note": ""
                 },
                 {
                   "roman": "idāsaṇ baithe",
-                  "literal_ru": "сидящие на престоле",
+                  "literal_ru": "пребывающий в Индасане",
                   "ksd_meta_ru": "внутренние силы занимают место только у врат осознания, не как высшая реальность",
                   "confidence": 0.8,
                   "grammar_note": ""
@@ -16583,9 +16583,9 @@
               "roman_display": "gāvan paṇḍit paṛan rakhīsar jug jug vedā nāle",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевают пандиты, читающие мудрецы и Веды век за веком — [[когда книжное знание раскрывается как внутреннее осознание]].",
-                  "artistic": "Даже древнее чтение и мудрость книг находят смысл лишь тогда, когда внутри начинают звучать Тобой.",
-                  "context_note": "Вставка [[когда книжное знание раскрывается как внутреннее осознание]] нужна, чтобы не поставить Веды выше Гурбани.",
+                  "main": "Тебя воспевают и внутренние образы пандитов, которых люди слушали век за веком вместе с ведами, — [[когда книжное знание раскрывается как внутреннее осознание]].",
+                  "artistic": "Древние образы учителей и прочитанных текстов оживают внутри лишь тогда, когда ведут к Творцу, а не к себе.",
+                  "context_note": "Пандиты и веды здесь не становятся высшим авторитетом; это внутренние религиозные образы, которые должны быть переосмыслены через Творца.",
                   "confidence": 0.84,
                   "confidence_reason": "Уверенность средне-высокая: строка явно называет пандитов и Веды, но общий контекст Джап Джи требует не внешнего авторитета, а внутреннего раскрытия."
                 }
@@ -16635,9 +16635,9 @@
               "roman_display": "gāveh mohaṇīā man mohan surgā machh paiāle",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевают силы, очаровывающие разум; [[даже]] небесные, земные и глубинные состояния внутри становятся частью этого воспевания.",
+                  "main": "Тебя воспевают силы, очаровывающие разум; [[даже]] игра майи в небесных, земных и глубинных состояниях внутри становится частью этого воспевания.",
                   "artistic": "Всё, что пленяло мой ум — высокое, земное и скрытое в глубине, — теперь звучит в Твоём направлении.",
-                  "context_note": "Слово [[даже]] добавлено, чтобы показать переориентацию всех уровней внутреннего опыта, а не описание трёх внешних миров.",
+                  "context_note": "Слово [[даже]] добавлено, чтобы показать переориентацию всех уровней внутреннего опыта, а не описание трёх внешних миров. Это не про внешних красавиц, а про силы очарования ума.",
                   "confidence": 0.83,
                   "confidence_reason": "Уверенность средняя: строка легко уходит в космологию, но контекст паури и правила Джап Джи поддерживают внутреннее чтение."
                 }
@@ -16895,8 +16895,8 @@
               "roman_display": "hor kete gāvan se me chit na āvan nānak kiā vīchāre",
               "translations": {
                 "ksd_ru": {
-                  "main": "Сколько ещё [[проявлений]] воспевает Тебя — они не входят в предел моего разума; Нанак, что тут может осмыслить?",
-                  "artistic": "Есть ещё без счёта созвучий Тебе; мой ум не охватывает их, и Нанак склоняется перед этим пределом.",
+                  "main": "Сколько ещё [[проявлений]] воспевает Тебя — они не входят в предел моего сознания; Нанак, что тут может осмыслить?",
+                  "artistic": "Есть ещё без счёта созвучий Тебе; моё сознание не охватывает их, и Нанак склоняется перед этим пределом.",
                   "context_note": "Слово [[проявлений]] добавлено из темы неисчислимости, чтобы не оставить строку неопределённой.",
                   "confidence": 0.91,
                   "confidence_reason": "Уверенность высокая: строка прямо говорит о том, что множество не помещается в разум и требует смиренного признания предела."
@@ -17207,7 +17207,7 @@
               "roman_display": "so pātisāh sāhā pātisāhib nānak rahaṇ rajāī",
               "translations": {
                 "ksd_ru": {
-                  "main": "Он — Патишах, Патишах над всеми патишахами; Нанак, живи в согласии с Его разой.",
+                  "main": "Он — Патишах, Патишах над всеми патишахами; Нанак, живи в согласии с Его Волей.",
                   "artistic": "Над всеми властями — Его власть; Нанак говорит: останься в живом потоке Его Хукама.",
                   "context_note": "",
                   "confidence": 0.92,
@@ -17231,8 +17231,8 @@
                 },
                 {
                   "roman": "rahaṇ rajāī",
-                  "literal_ru": "жить в разе, в согласии",
-                  "ksd_meta_ru": "пребывать в потоке Его Хукама",
+                  "literal_ru": "жить в Его Воле, в согласии",
+                  "ksd_meta_ru": "пребывать в потоке Его Хукама и Воли",
                   "confidence": 0.93,
                   "grammar_note": ""
                 }
@@ -18128,7 +18128,7 @@
               "is_rahao": false,
               "gurmukhi": "ਓਹੁ ਵੇਖੈ ਓਨਾ ਨਦਰਿ ਨ ਆਵੈ ਬਹੁਤਾ ਏਹੁ ਵਿਡਾਣੁ ॥",
               "roman": "ohu vēkhai onā nadar na āvai bahutā ehu viḍāṇ",
-              "roman_display": "ohu vēkhai onā nadar na āvai bahutā ehu viḍāṇ",
+              "roman_display": "ohu vēkhe onā nadar na āve bahutā ehu viḍāṇ",
               "translations": {
                 "ksd_ru": {
                   "main": "Он видит [[всё внутри]], но они не видят Его через собственный взгляд; велика эта удивительная глубина [[Хукама]].",
@@ -18440,7 +18440,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਰਿ ਕਰਿ ਵੇਖੈ ਸਿਰਜਣਹਾਰੁ ॥",
               "roman": "kar kar vēkhai sirjaṇhār",
-              "roman_display": "kar kar vēkhai sirjaṇhār",
+              "roman_display": "kar kar vēkhe sirjaṇhār",
               "translations": {
                 "ksd_ru": {
                   "main": "Проживая это подчинение снова и снова, разум видит внутри Создателя.",
@@ -18818,7 +18818,7 @@
               "is_rahao": false,
               "gurmukhi": "ਏਤੁ ਰਾਹਿ ਪਤਿ ਪਵੜੀਆ ਚੜੀਐ ਹੋਇ ਇਕੀਸ ॥",
               "roman": "ēt rāh pat pavṛīā chaṛīai hoi ikīs",
-              "roman_display": "ēt rāh pat pavṛīā chaṛīai hoi ikīs",
+              "roman_display": "ēt rāh pat pavṛīā chaṛīe hoi ikīs",
               "translations": {
                 "ksd_ru": {
                   "main": "Путь достоинства — подниматься по ступеням совести, становясь единым с Единым.",
@@ -18950,7 +18950,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾਨਕ ਨਦਰੀ ਪਾਈਐ ਕੂੜੀ ਕੂੜੈ ਠੀਸ ॥੩੨॥",
               "roman": "Nānak nadrī pāīai kūṛī kūṛai ṭhīs",
-              "roman_display": "Nānak nadrī pāīai kūṛī kūṛe ṭhīs",
+              "roman_display": "Nānak nadrī pāīe kūṛī kūṛe ṭhīs",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак передаёт: [[внутреннее возвышение]] обретается через милость сонастроенности; ложная духовность остаётся пустой похвальбой неосознанного.",
@@ -19373,7 +19373,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਿਸੁ ਹਥਿ ਜੋਰੁ ਕਰਿ ਵੇਖੈ ਸੋਇ ॥",
               "roman": "jis hath jor kar vēkhai soi",
-              "roman_display": "jis hath jor kar vēkhai soi",
+              "roman_display": "jis hath jor kar vēkhe soi",
               "translations": {
                 "ksd_ru": {
                   "main": "Тот, в чьих руках есть сила, пусть применит её и сам увидит [[её предел]].",
@@ -20739,7 +20739,7 @@
               "is_rahao": false,
               "gurmukhi": "ਗਿਆਨ ਖੰਡ ਮਹਿ ਗਿਆਨੁ ਪਰਚੰਡੁ ॥",
               "roman": "giān khaṇḍ mahi giān parchand",
-              "roman_display": "giān khaṇḍ mahi giān parchand",
+              "roman_display": "giān khaṇḍ mahi giān parchanḍ",
               "translations": {
                 "ksd_ru": {
                   "main": "В сфере гьяна знание становится яркой, первостепенной реализацией.",
@@ -20902,7 +20902,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਿਥੈ ਘਾੜਤਿ ਘੜੀਐ ਬਹੁਤੁ ਅਨੂਪੁ ॥",
               "roman": "tithai ghāṛat ghaṛīai bahut anūp",
-              "roman_display": "tithe ghāṛat ghaṛīai bahut anūp",
+              "roman_display": "tithe ghāṛat ghaṛīe bahut anūp",
               "translations": {
                 "ksd_ru": {
                   "main": "Там [[в сфере сарам]] внутренний образ формируется и становится несравненно прекрасной скульптурой.",
@@ -21065,7 +21065,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਿਥੈ ਘੜੀਐ ਸੁਰਤਿ ਮਤਿ ਮਨਿ ਬੁਧਿ ॥",
               "roman": "tithai ghaṛīai surat mat man budh",
-              "roman_display": "tithe ghaṛīai surat mat man budh",
+              "roman_display": "tithe ghaṛīe surat mat man budh",
               "translations": {
                 "ksd_ru": {
                   "main": "Там [[в сфере сарам]] сознание, разумение, ум и интеллект формируются в соответствии с Бани.",
@@ -21138,7 +21138,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਿਥੈ ਘੜੀਐ ਸੁਰਾ ਸਿਧਾ ਕੀ ਸੁਧਿ ॥੩੬॥",
               "roman": "tithai ghaṛīai surā siḍhā kī sudh",
-              "roman_display": "tithe ghaṛīai surā siḍhā kī sudh",
+              "roman_display": "tithe ghaṛīe surā siḍhā kī sudh",
               "translations": {
                 "ksd_ru": {
                   "main": "Там [[в сфере сарам]] формируется чистота доблестной и зрелой духовной направленности.",
@@ -22471,7 +22471,7 @@
               "is_rahao": false,
               "gurmukhi": "ਘੜੀਐ ਸਬਦੁ ਸਚੀ ਟਕਸਾਲ ॥",
               "roman": "ghaṛīai sabad sachī ṭaksāl",
-              "roman_display": "ghaṛīai sabad sachī ṭaksāl",
+              "roman_display": "ghaṛīe sabad sachī ṭaksāl",
               "translations": {
                 "ksd_ru": {
                   "main": "В такой истинной таксале формируется Шабд Гуру.",
@@ -22782,7 +22782,7 @@
               "is_rahao": false,
               "gurmukhi": "ਦਿਵਸੁ ਰਾਤਿ ਦੁਇ ਦਾਈ ਦਾਇਆ ਖੇਲੈ ਸਗਲ ਜਗਤੁ ॥",
               "roman": "divas rāt dui dāī dāiā khēlai sagal jagat",
-              "roman_display": "divas rāt dui dāī dāiā khēlai sagal jagat",
+              "roman_display": "divas rāt dui dāī dāiā khēle sagal jagat",
               "translations": {
                 "ksd_ru": {
                   "main": "День и ночь — оба становятся воспитательницами: во всех состояниях моей жизни [[Шабд-Гуру]] растит меня внутри, пока вся жизнь разворачивается в Его Хукаме.",
@@ -22928,7 +22928,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਰਮੀ ਆਪੋ ਆਪਣੀ ਕੇ ਨੇੜੈ ਕੇ ਦੂਰਿ ॥",
               "roman": "karmī āpo āpṇī kē nēṛai kē dūr",
-              "roman_display": "karmī āpo āpṇī kē nēṛai kē dūr",
+              "roman_display": "karmī āpo āpṇī kē nēṛe kē dūr",
               "translations": {
                 "ksd_ru": {
                   "main": "По моим собственным поступкам и внутренним выборам становится ясно: я приближаюсь к реализации Творца внутри или остаюсь далеко от неё.",
@@ -23137,7 +23137,7 @@
           "mahalla": 1,
           "rahao_verse_id": null,
           "rahao_theme": "Внутреннее пространство восприятия раскрывается как место, где всё в кудрате Творца указывает на Его Хукам, Наам и заботу.",
-          "summary": "Шабд раскрывает не внешний небесный двор, а внутренний дар и дом осознания, где вся кудрат, добродетели, религиозные образы, книжное знание и силы жизни указывают на Единого Творца. Итог прост: человек не командует Хукамом, а учится жить в разе Патишаха.",
+          "summary": "Шабд раскрывает не внешний небесный двор, а внутренний дар и дом осознания, где вся кудрат, добродетели, религиозные образы, книжное знание и силы жизни указывают на Единого Творца. Итог прост: человек не командует Хукамом, а учится жить в Воле Патишаха.",
           "lines": [
             {
               "id": "8:41:386",
@@ -23388,18 +23388,18 @@
               "roman_display": "gāvan tudhno chit gupt likh jāṇan likh likh dharam bīchārē",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевает чит-гупт — разум с его внутренней записью; снова и снова он записывает и через дхарм различает свой путь.",
-                  "artistic": "Мой разум хранит скрытый портрет жизни: всё записанное внутри однажды становится разговором совести с Хукамом.",
+                  "main": "Тебя воспевает чит-гупт — сознание с его внутренней записью; снова и снова оно записывает и через дхарм различает свой путь.",
+                  "artistic": "Моё сознание хранит скрытый портрет жизни: всё записанное внутри однажды становится разговором совести с Хукамом.",
                   "context_note": "",
                   "confidence": 0.84,
-                  "confidence_reason": "Уверенность высокая: база прямо задаёт чтение чит-гупт как разум; дхарм удержан как внутреннее различение."
+                  "confidence_reason": "Уверенность высокая: чит здесь читается как сознание; дхарм удержан как внутреннее различение."
                 }
               },
               "word_analysis": [
                 {
                   "roman": "chit gupt",
-                  "literal_ru": "скрытый внутренний портрет",
-                  "ksd_meta_ru": "разум, внутренняя запись сознания",
+                  "literal_ru": "скрытая запись сознания",
+                  "ksd_meta_ru": "сознание с внутренней записью",
                   "confidence": 0.9,
                   "grammar_note": ""
                 }
@@ -23464,18 +23464,18 @@
               "roman_display": "gāvan tudhno indar indrāsaṇ baiṭhē dēvatiā dar nālē",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевает Индра, сидящий на своём индрасане, и девте у Твоего дара: всякая власть и небесный образ признают предел перед Тобой.",
-                  "artistic": "Даже трон Индры и сияние девте теряют самостоятельность у внутренних врат Единого.",
-                  "context_note": "",
+                  "main": "Тебя воспевает Инд, пребывающий в Индасане — внутренней обители божественности; и девте у Твоего дара тоже склоняются к Тебе.",
+                  "artistic": "Даже внутренние образы божественной власти и сияния у Твоих врат теряют самостоятельность перед Единым.",
+                  "context_note": "Индасан здесь читается не как внешний мифологический трон, а как образ внутренней обители божественности.",
                   "confidence": 0.84,
-                  "confidence_reason": "Уверенность высокая: строка продолжает ряд религиозных образов, которые читаются как подчинённые Единому."
+                  "confidence_reason": "Уверенность высокая: строка продолжает ряд религиозных образов, которые читаются как внутренние представления, подчинённые Единому."
                 }
               },
               "word_analysis": [
                 {
                   "roman": "indar indrāsaṇ",
-                  "literal_ru": "Индра на троне Индры",
-                  "ksd_meta_ru": "образ власти, славы и небесного статуса внутри религиозного воображения",
+                  "literal_ru": "Инд / Индасан",
+                  "ksd_meta_ru": "образ обители божественности и внутренней асаны в божественном поле",
                   "confidence": 0.86,
                   "grammar_note": ""
                 }
@@ -23578,9 +23578,9 @@
               "roman_display": "gāvan tudhno paṇḍit paṛan rakhīsur jug jug vēdā nālē",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевают пандиты, читающие век за веком вместе с ведами: даже книжное знание имеет смысл только когда указывает на Тебя.",
-                  "artistic": "Вся древняя учёность и все прочитанные тексты становятся живыми лишь тогда, когда ведут к Творцу внутри.",
-                  "context_note": "Веды здесь не становятся высшим авторитетом; они включены в ряд того, что должно быть переосмыслено через Творца.",
+                  "main": "Тебя воспевают и внутренние образы пандитов, которых люди слушали век за веком вместе с ведами: даже такая учёность раскрывается только когда обращена к Тебе.",
+                  "artistic": "Древние образы учителей и прочитанных текстов оживают внутри лишь тогда, когда ведут к Творцу, а не к себе.",
+                  "context_note": "Пандиты и веды здесь не становятся высшим авторитетом; это внутренние религиозные образы, которые должны быть переосмыслены через Творца.",
                   "confidence": 0.86,
                   "confidence_reason": "Высокая уверенность: правило о ведах и грантхах прямо запрещает делать их авторитетом выше Гурбани."
                 }
@@ -23616,9 +23616,9 @@
               "roman_display": "gāvan tudhno mohṇīā man mohan surag machh paiālē",
               "translations": {
                 "ksd_ru": {
-                  "main": "Тебя воспевают и те очаровывающие силы, что пленяют ум во всех воображаемых сферах — от небесного до глубинного; даже майическое притяжение не вне Твоего Хукама.",
+                  "main": "Тебя воспевают и те очаровывающие силы, что пленяют ум во всех воображаемых сферах — от небесного до глубинного; даже игра майи и её притяжение не вне Твоего Хукама.",
                   "artistic": "Даже то, что завораживает мой разум и рисует небеса, середину и глубины, в конце указывает не на себя, а на Твой Хукам.",
-                  "context_note": "Небеса и нижние сферы здесь не карта мироздания, а диапазон майических представлений, пленяющих сознание.",
+                  "context_note": "Небеса и нижние сферы здесь не карта мироздания, а диапазон представлений майи, пленяющих сознание. Это не про внешних красавиц, а про силы очарования ума.",
                   "confidence": 0.78,
                   "confidence_reason": "Уверенность средне-высокая: строка сложная из-за образов миров, но контекст Джап Джи требует не космологического, а внутреннего чтения."
                 }
@@ -23803,10 +23803,10 @@
               "is_rahao": false,
               "gurmukhi": "ਹੋਰਿ ਕੇਤੇ ਤੁਧਨੋ ਗਾਵਨਿ ਸੇ ਮੈ ਚਿਤਿ ਨ ਆਵਨਿ ਨਾਨਕੁ ਕਿਆ ਬੀਚਾਰੇ ॥",
               "roman": "hor kētē tudhno gāvan sē mai chit na āvan nānak kiā bīchārē",
-              "roman_display": "hor kētē tudhno gāvan sē mai chit na āvan nānak kiā bīchārē",
+              "roman_display": "hor kētē tudhno gāvan sē me chit na āvan nānak kiā bīchārē",
               "translations": {
                 "ksd_ru": {
-                  "main": "Ещё бесчисленные воспевают Тебя — они не входят в мой чит; что может Нанак вместить своим вичаром?",
+                  "main": "Ещё бесчисленные воспевают Тебя — они не входят в моё сознание; что может Нанак вместить своим вичаром?",
                   "artistic": "Сколько ещё голосов кудраты обращены к Тебе — мой разум не охватит; Нанак лишь склоняется перед неизмеримым.",
                   "context_note": "",
                   "confidence": 0.9,
@@ -23955,7 +23955,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਰਿ ਕਰਿ ਦੇਖੈ ਕੀਤਾ ਆਪਣਾ ਜਿਉ ਤਿਸ ਦੀ ਵਡਿਆਈ ॥",
               "roman": "kar kar dēkhai kītā āpṇā jiu tis dī vadiāī",
-              "roman_display": "kar kar dēkhai kītā āpṇā jiu tis dī vadiāī",
+              "roman_display": "kar kar dēkhe kītā āpṇā jiu tis dī vaḍiāī",
               "translations": {
                 "ksd_ru": {
                   "main": "Проявляя снова и снова, Он видит Своё проявленное; такова Его вадиаи.",
@@ -23997,7 +23997,7 @@
               "translations": {
                 "ksd_ru": {
                   "main": "Что Ему созвучно, то и совершится; после этого невозможно навязать Хукаму свой приказ.",
-                  "artistic": "Творцу нельзя выдать распоряжение: всё настоящее раскрывается только в Его разе.",
+                  "artistic": "Творцу нельзя выдать распоряжение: всё настоящее раскрывается только в Его Воле.",
                   "context_note": "",
                   "confidence": 0.9,
                   "confidence_reason": "Высокая уверенность: строка прямо выражает невозможность командовать Хукамом."
@@ -24034,11 +24034,11 @@
               "roman_display": "so pātisāh sāhā pātisāhib nānak rahaṇ rajāī",
               "translations": {
                 "ksd_ru": {
-                  "main": "Он — Патишах, Патишах над всеми шахами; Нанак говорит: жить нужно в Его разе.",
-                  "artistic": "Над всеми властями стоит Его власть; путь Нанака — не спорить с Хукамом, а жить в согласии с разой.",
+                  "main": "Он — Патишах, Патишах над всеми шахами; Нанак говорит: жить нужно в Его Воле.",
+                  "artistic": "Над всеми властями стоит Его власть; путь Нанака — не спорить с Хукамом, а жить в согласии с Его Волей.",
                   "context_note": "",
                   "confidence": 0.9,
-                  "confidence_reason": "Высокая уверенность: заключительная строка ясно подводит к жизни в разе как практическому выводу шабда."
+                  "confidence_reason": "Высокая уверенность: заключительная строка ясно подводит к жизни в Его Воле как практическому выводу шабда."
                 }
               },
               "word_analysis": [
@@ -24143,7 +24143,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੁਣਿ ਵਡਾ ਆਖੈ ਸਭੁ ਕੋਇ ॥",
               "roman": "sun vadā ākhai sabh kōi .",
-              "roman_display": "sun vadā ākhe sabh kōi .",
+              "roman_display": "suṇ vaḍā ākhe sabh kōi .",
               "translations": {
                 "ksd_ru": {
                   "main": "Услышав, каждый говорит: «Он велик».",
@@ -24202,7 +24202,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕੇਵਡੁ ਵਡਾ ਡੀਠਾ ਹੋਇ ॥",
               "roman": "kēvad vadā dīthā hōi .",
-              "roman_display": "kēvad vadā dīthā hōi .",
+              "roman_display": "kēvaḍ vaḍā ḍīṭhā hōi .",
               "translations": {
                 "ksd_ru": {
                   "main": "Но насколько Он велик — это узнаётся только когда [[Его величие]] увидено внутри.",
@@ -24313,7 +24313,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਹਣੈ ਵਾਲੇ ਤੇਰੇ ਰਹੇ ਸਮਾਇ ॥੧॥",
               "roman": "kahanai vālē tērē rahē samāi .1.",
-              "roman_display": "kahane vālē tērē rahē samāi .1.",
+              "roman_display": "kahaṇe vālē tērē rahē samāi .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Те, кто пытались говорить о Тебе, сами растворялись в Тебе.",
@@ -24365,7 +24365,7 @@
               "is_rahao": true,
               "gurmukhi": "ਵਡੇ ਮੇਰੇ ਸਾਹਿਬਾ ਗਹਿਰ ਗੰਭੀਰਾ ਗੁਣੀ ਗਹੀਰਾ ॥",
               "roman": "vadē mērē sāhibā gahir ganbhīrā gunī gahīrā .",
-              "roman_display": "vadē mērē sāhibā gahir ganbhīrā gunī gahīrā .",
+              "roman_display": "vaḍē mērē sāhibā gahir ganbhīrā guṇī gahīrā .",
               "translations": {
                 "ksd_ru": {
                   "main": "О великий мой Господин, Ты глубок, непостижимо глубок, глубок в божественных качествах.",
@@ -24424,7 +24424,7 @@
               "is_rahao": true,
               "gurmukhi": "ਕੋਇ ਨ ਜਾਣੈ ਤੇਰਾ ਕੇਤਾ ਕੇਵਡੁ ਚੀਰਾ ॥੧॥ ਰਹਾਉ ॥",
               "roman": "kōi n jānai tērā kētā kēvad chīrā .1. rahāu .",
-              "roman_display": "kōi n jānai tērā kētā kēvad chīrā .1. rahāu .",
+              "roman_display": "kōi n jāṇe tērā kētā kēvaḍ chīrā .1. rahāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "Никто не знает, каков Твой охват, насколько велика Твоя неизмеримая глубина. Рахао.",
@@ -24653,7 +24653,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਹਣੁ ਨ ਜਾਈ ਤੇਰੀ ਤਿਲੁ ਵਡਿਆਈ ॥੨॥",
               "roman": "kahan n jāī tērī til vadiāī .2.",
-              "roman_display": "kahan n jāī tērī til vadiāī .2.",
+              "roman_display": "kahaṇ n jāī tērī til vaḍiāī .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Даже мельчайшую долю Твоей величины невозможно высказать.",
@@ -24764,7 +24764,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਿਧਾ ਪੁਰਖਾ ਕੀਆ ਵਡਿਆਈਆ ॥",
               "roman": "sidhā purakhā kīā vadiāīā .",
-              "roman_display": "sidhā purakhā kīā vadiāīā .",
+              "roman_display": "sidhā purakhā kīā vaḍiāīā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Все величия, приписываемые достигшим и совершенным духовным людям, [[тоже не равны Твоей величине]].",
@@ -24816,7 +24816,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੁਧੁ ਵਿਣੁ ਸਿਧੀ ਕਿਨੈ ਨ ਪਾਈਆ ॥",
               "roman": "tudh vin sidhī kinai n pāīā .",
-              "roman_display": "tudh vin sidhī kine n pāīā .",
+              "roman_display": "tudh viṇ sidhī kine n pāīā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Без Тебя никто не обрёл духовной завершённости.",
@@ -24868,7 +24868,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਰਮਿ ਮਿਲੈ ਨਾਹੀ ਠਾਕਿ ਰਹਾਈਆ ॥੩॥",
               "roman": "karam milai nāhī thāk rahāīā .3.",
-              "roman_display": "karam mile nāhī thāk rahāīā .3.",
+              "roman_display": "karam mile nāhī ṭhāk rahāīā .3.",
               "translations": {
                 "ksd_ru": {
                   "main": "Когда это приходит как Твоя милость, никто не может остановить или удержать [[это духовное обретение]].",
@@ -24920,7 +24920,7 @@
               "is_rahao": false,
               "gurmukhi": "ਆਖਣ ਵਾਲਾ ਕਿਆ ਵੇਚਾਰਾ ॥",
               "roman": "ākhan vālā kiā vēchārā .",
-              "roman_display": "ākhan vālā kiā vēchārā .",
+              "roman_display": "ākhaṇ vālā kiā vēchārā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Что может бедный говорящий [[сказать о Твоей безмерности]]?",
@@ -24965,7 +24965,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਿਫਤੀ ਭਰੇ ਤੇਰੇ ਭੰਡਾਰਾ ॥",
               "roman": "siphatī bharē tērē bhandārā .",
-              "roman_display": "siphatī bharē tērē bhandārā .",
+              "roman_display": "siphatī bharē tērē bhanḍārā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Твои хранилища переполнены божественными качествами.",
@@ -25017,7 +25017,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਿਸੁ ਤੂ ਦੇਹਿ ਤਿਸੈ ਕਿਆ ਚਾਰਾ ॥",
               "roman": "jis tū dēh tisai kiā chārā .",
-              "roman_display": "jis tū dēh tisai kiā chārā .",
+              "roman_display": "jis tū dēh tise kiā chārā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Тот, кому Ты даёшь [[этот дар осознания]], не имеет другого способа обрести его сам.",
@@ -25069,7 +25069,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾਨਕ ਸਚੁ ਸਵਾਰਣਹਾਰਾ ॥੪॥੨॥",
               "roman": "nānak sach savāranahārā .4.2.",
-              "roman_display": "nānak sach savāranahārā .4.2.",
+              "roman_display": "nānak sach savāraṇahārā .4.2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак: подлинно пребывающий Творец — Тот, кто внутренне выправляет и преображает.",
@@ -25249,7 +25249,7 @@
               "is_rahao": false,
               "gurmukhi": "ਆਖਣਿ ਅਉਖਾ ਸਾਚਾ ਨਾਉ ॥",
               "roman": "ākhan aukhā sāchā nāu .",
-              "roman_display": "ākhan aukhā sāchā nāu .",
+              "roman_display": "ākhaṇ aukhā sāchā nāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "Подлинный Наам трудно выразить: его нельзя свести к лёгкому произнесению.",
@@ -25516,7 +25516,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਾਚੇ ਨਾਮ ਕੀ ਤਿਲੁ ਵਡਿਆਈ ॥",
               "roman": "sāchē nām kī til vadiāī .",
-              "roman_display": "sāchē nām kī til vadiāī .",
+              "roman_display": "sāchē nām kī til vaḍiāī .",
               "translations": {
                 "ksd_ru": {
                   "main": "Даже мельчайшая доля величия подлинного Наама [[не поддаётся полной мере]].",
@@ -25620,7 +25620,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜੇ ਸਭਿ ਮਿਲਿ ਕੈ ਆਖਣ ਪਾਹਿ ॥",
               "roman": "jē sabh mil kai ākhan pāh .",
-              "roman_display": "jē sabh mil ke ākhan pāh .",
+              "roman_display": "jē sabh mil ke ākhaṇ pāh .",
               "translations": {
                 "ksd_ru": {
                   "main": "Даже если все вместе начнут говорить [[о Нааме и Господине]],",
@@ -25672,7 +25672,7 @@
               "is_rahao": false,
               "gurmukhi": "ਵਡਾ ਨ ਹੋਵੈ ਘਾਟਿ ਨ ਜਾਇ ॥੨॥",
               "roman": "vadā n hōvai ghāt n jāi .2.",
-              "roman_display": "vadā n hōvai ghāt n jāi .2.",
+              "roman_display": "vaḍā n hōve ghāṭ n jāi .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "[[От их словам]] Он не станет больше и не станет меньше.",
@@ -25717,7 +25717,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾ ਓਹੁ ਮਰੈ ਨ ਹੋਵੈ ਸੋਗੁ ॥",
               "roman": "nā ōh marai n hōvai sōg .",
-              "roman_display": "nā ōh mare n hōvai sōg .",
+              "roman_display": "nā ōh mare n hōve sōg .",
               "translations": {
                 "ksd_ru": {
                   "main": "Он не умирает, и потому нет скорби утраты.",
@@ -25762,7 +25762,7 @@
               "is_rahao": false,
               "gurmukhi": "ਦੇਦਾ ਰਹੈ ਨ ਚੂਕੈ ਭੋਗੁ ॥",
               "roman": "dēdā rahai n chūkai bhōg .",
-              "roman_display": "dēdā rahai n chūkai bhōg .",
+              "roman_display": "dēdā rahe n chūke bhōg .",
               "translations": {
                 "ksd_ru": {
                   "main": "Он продолжает давать, и поток Его даров не иссякает.",
@@ -25814,7 +25814,7 @@
               "is_rahao": false,
               "gurmukhi": "ਗੁਣੁ ਏਹੋ ਹੋਰੁ ਨਾਹੀ ਕੋਇ ॥",
               "roman": "gun ēhō hōr nāhī kōi .",
-              "roman_display": "gun ēhō hōr nāhī kōi .",
+              "roman_display": "guṇ ēhō hōr nāhī kōi .",
               "translations": {
                 "ksd_ru": {
                   "main": "Таково Его качество: другого подобного нет.",
@@ -25911,7 +25911,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜੇਵਡੁ ਆਪਿ ਤੇਵਡ ਤੇਰੀ ਦਾਤਿ ॥",
               "roman": "jēvad āp tēvad tērī dāt .",
-              "roman_display": "jēvad āp tēvad tērī dāt .",
+              "roman_display": "jēvaḍ āp tēvaḍ tērī dāt .",
               "translations": {
                 "ksd_ru": {
                   "main": "Каков Ты Сам, таков и Твой дар.",
@@ -26186,7 +26186,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਕੇ ਜਨ ਸਤਿਗੁਰ ਸਤਪੁਰਖਾ ਬਿਨਉ ਕਰਉ ਗੁਰ ਪਾਸਿ ॥",
               "roman": "har kē jan satigur satapurakhā binau karau gur pās .",
-              "roman_display": "har kē jan satigur satapurakhā binau karau gur pās .",
+              "roman_display": "har kē jan satgur satapurakhā binau karau gur pās .",
               "translations": {
                 "ksd_ru": {
                   "main": "К людям Творца, к Сатгуру, к подлинно пребывающему Творцу, я обращаюсь с просьбой у Гуру.",
@@ -26252,7 +26252,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਮ ਕੀਰੇ ਕਿਰਮ ਸਤਿਗੁਰ ਸਰਣਾਈ ਕਰਿ ਦਇਆ ਨਾਮੁ ਪਰਗਾਸਿ ॥੧॥",
               "roman": "ham kīrē kiram satigur saranāī kar daiā nām paragās .1.",
-              "roman_display": "ham kīrē kiram satigur saranāī kar daiā nām paragās .1.",
+              "roman_display": "ham kīrē kiram satgur saraṇāī kar daiā nām paragās .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Мы малы и беспомощны; в прибежище Сатгуру, прояви милость и раскрой внутри свет Наама.",
@@ -26443,7 +26443,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਜਨ ਕੇ ਵਡ ਭਾਗ ਵਡੇਰੇ ਜਿਨ ਹਰਿ ਹਰਿ ਸਰਧਾ ਹਰਿ ਪਿਆਸ ॥",
               "roman": "har jan kē vad bhāg vadērē jin har har saradhā har piās .",
-              "roman_display": "har jan kē vad bhāg vadērē jin har har saradhā har piās .",
+              "roman_display": "har jan kē vaḍ bhāg vaḍērē jin har har saradhā har piās .",
               "translations": {
                 "ksd_ru": {
                   "main": "Велика духовная удача тех, кто живёт в Творце, в ком есть доверие к Творцу и жажда Творца.",
@@ -26502,7 +26502,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਮਿਲੈ ਤ੍ਰਿਪਤਾਸਹਿ ਮਿਲਿ ਸੰਗਤਿ ਗੁਣ ਪਰਗਾਸਿ ॥੨॥",
               "roman": "har har nām milai tripatāsah mil sangat gun paragās .2.",
-              "roman_display": "har har nām mile tripatāsah mil sangat gun paragās .2.",
+              "roman_display": "har har nām mile tripatāsah mil sangat guṇ paragās .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Когда раскрывается Наам Творца, внутренняя жажда насыщается; в соединении с сангатом Гуру-Шабда проявляются божественные качества.",
@@ -26561,7 +26561,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਿਨ ਹਰਿ ਹਰਿ ਹਰਿ ਰਸੁ ਨਾਮੁ ਨ ਪਾਇਆ ਤੇ ਭਾਗਹੀਣ ਜਮ ਪਾਸਿ ॥",
               "roman": "jin har har har ras nām n pāiā tē bhāgahīn jam pās .",
-              "roman_display": "jin har har har ras nām n pāiā tē bhāgahīn jam pās .",
+              "roman_display": "jin har har har ras nām n pāiā tē bhāgahīṇ jam pās .",
               "translations": {
                 "ksd_ru": {
                   "main": "Те, кто не обрели вкус Наама Творца, духовно обделены и остаются во власти джама.",
@@ -26620,7 +26620,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜੋ ਸਤਿਗੁਰ ਸਰਣਿ ਸੰਗਤਿ ਨਹੀ ਆਏ ਧ੍ਰਿਗੁ ਜੀਵੇ ਧ੍ਰਿਗੁ ਜੀਵਾਸਿ ॥੩॥",
               "roman": "jō satigur saran sangat nahī āē dhrig jīvē dhrig jīvās .3.",
-              "roman_display": "jō satigur saran sangat nahī āē dhrig jīvē dhrig jīvās .3.",
+              "roman_display": "jō satgur saraṇ sangat nahī āē dhrig jīvē dhrig jīvās .3.",
               "translations": {
                 "ksd_ru": {
                   "main": "Те, кто не вошли в прибежище Сатгуру и в сангат Гуру-Шабда, живут духовно пустой жизнью.",
@@ -26679,7 +26679,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਿਨ ਹਰਿ ਜਨ ਸਤਿਗੁਰ ਸੰਗਤਿ ਪਾਈ ਤਿਨ ਧੁਰਿ ਮਸਤਕਿ ਲਿਖਿਆ ਲਿਖਾਸਿ ॥",
               "roman": "jin har jan satigur sangat pāī tin dhur masatak likhiā likhās .",
-              "roman_display": "jin har jan satigur sangat pāī tin dhur masatak likhiā likhās .",
+              "roman_display": "jin har jan satgur sangat pāī tin dhur masatak likhiā likhās .",
               "translations": {
                 "ksd_ru": {
                   "main": "Те, кто обрели сангат Сатгуру, несут это как запись, вписанную от истока в их внутреннее направление.",
@@ -26991,7 +26991,7 @@
               "is_rahao": true,
               "gurmukhi": "ਮੇਰੇ ਮਾਧਉ ਜੀ ਸਤਸੰਗਤਿ ਮਿਲੇ ਸੁ ਤਰਿਆ ॥",
               "roman": "mērē mādhau jī satasangat milē s tariā .",
-              "roman_display": "mērē mādhau jī satasangat milē s tariā .",
+              "roman_display": "mērē mādhau jī satasangat milē su tariā .",
               "translations": {
                 "ksd_ru": {
                   "main": "О мой Мадхав, тот, кто соединяется с сатсангат, переправляется.",
@@ -27050,7 +27050,7 @@
               "is_rahao": true,
               "gurmukhi": "ਗੁਰ ਪਰਸਾਦਿ ਪਰਮ ਪਦੁ ਪਾਇਆ ਸੂਕੇ ਕਾਸਟ ਹਰਿਆ ॥੧॥ ਰਹਾਉ ॥",
               "roman": "gur parasād param pad pāiā sūkē kāsat hariā .1. rahāu .",
-              "roman_display": "gur parasād param pad pāiā sūkē kāsat hariā .1. rahāu .",
+              "roman_display": "gur parasād param pad pāiā sūkē kāsaṭ hariā .1. rahāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "Через милость Гуру-Шабда обретается высшее состояние; сухое дерево внутренней жизни снова зеленеет. Рахао.",
@@ -27175,7 +27175,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਿਰਿ ਸਿਰਿ ਰਿਜਕੁ ਸੰਬਾਹੇ ਠਾਕੁਰੁ ਕਾਹੇ ਮਨ ਭਉ ਕਰਿਆ ॥੨॥",
               "roman": "sir sir rijak sanbāhē thākur kāhē man bhau kariā .2.",
-              "roman_display": "sir sir rijak sanbāhē thākur kāhē man bhau kariā .2.",
+              "roman_display": "sir sir rijak sanbāhē ṭhākur kāhē man bhau kariā .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Тхакур обеспечивает поддержку каждому существованию; зачем же, разум, ты живёшь в страхе?",
@@ -27234,7 +27234,7 @@
               "is_rahao": false,
               "gurmukhi": "ਊਡੇ ਊਡਿ ਆਵੈ ਸੈ ਕੋਸਾ ਤਿਸੁ ਪਾਛੈ ਬਚਰੇ ਛਰਿਆ ॥",
               "roman": "ūdē ūd āvai sai kōsā tis pāshai bacharē shariā .",
-              "roman_display": "ūdē ūd āve se kōsā tis pāshai bacharē shariā .",
+              "roman_display": "ūḍē ūḍ āve se kōsā tis pāshe bacharē shariā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Птица улетает на сотни косов, а её птенцы остаются позади.",
@@ -27293,7 +27293,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਿਨ ਕਵਣੁ ਖਲਾਵੈ ਕਵਣੁ ਚੁਗਾਵੈ ਮਨ ਮਹਿ ਸਿਮਰਨੁ ਕਰਿਆ ॥੩॥",
               "roman": "tin kavan khalāvai kavan chugāvai man mah simaran kariā .3.",
-              "roman_display": "tin kavan khalāve kavan chugāve man mah simaran kariā .3.",
+              "roman_display": "tin kavaṇ khalāve kavaṇ chugāve man mah simaran kariā .3.",
               "translations": {
                 "ksd_ru": {
                   "main": "Кто кормит их, кто даёт им пищу? Разум удерживает внутри симран [[и видит заботу Творца]].",
@@ -27352,7 +27352,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਭਿ ਨਿਧਾਨ ਦਸ ਅਸਟ ਸਿਧਾਨ ਠਾਕੁਰ ਕਰ ਤਲ ਧਰਿਆ ॥",
               "roman": "sabh nidhān das asat sidhān thākur kar tal dhariā .",
-              "roman_display": "sabh nidhān das asat sidhān thākur kar tal dhariā .",
+              "roman_display": "sabh nidhān das asaṭ sidhān ṭhākur kar tal dhariā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Все сокровища и все мыслимые силы находятся в ладони Тхакура, в Его Хукаме.",
@@ -27411,7 +27411,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਨ ਨਾਨਕ ਬਲਿ ਬਲਿ ਸਦ ਬਲਿ ਜਾਈਐ ਤੇਰਾ ਅੰਤੁ ਨ ਪਾਰਾਵਰਿਆ ॥੪॥੫॥",
               "roman": "jan nānak bal bal sad bal jāīai tērā ant n pārāvariā .4.5.",
-              "roman_display": "jan nānak bal bal sad bal jāīai tērā ant n pārāvariā .4.5.",
+              "roman_display": "jan nānak bal bal sad bal jāīe tērā ant n pārāvariā .4.5.",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак: снова и снова, всегда склоняюсь перед Тобой; Твоей глубине нет найденного предела и берега.",
@@ -27546,7 +27546,7 @@
               "is_rahao": false,
               "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
               "roman": "ik ōunkār satigur prasād .",
-              "roman_display": "ik ōunkār satigur prasād .",
+              "roman_display": "ik ōunkār satgur prasād .",
               "translations": {
                 "ksd_ru": {
                   "main": "Единый Ооанкар; через милость Сатгуру.",
@@ -27650,7 +27650,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਭਿ ਧਿਆਵਹਿ ਸਭਿ ਧਿਆਵਹਿ ਤੁਧੁ ਜੀ ਹਰਿ ਸਚੇ ਸਿਰਜਣਹਾਰਾ ॥",
               "roman": "sabh dhiāvah sabh dhiāvah tudh jī har sachē sirajanahārā .",
-              "roman_display": "sabh dhiāvah sabh dhiāvah tudh jī har sachē sirajanahārā .",
+              "roman_display": "sabh dhiāvah sabh dhiāvah tudh jī har sachē sirajaṇahārā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Все направляют дхьян к Тебе, о подлинно пребывающий Творец, созидающий источник.",
@@ -27754,7 +27754,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਧਿਆਵਹੁ ਸੰਤਹੁ ਜੀ ਸਭਿ ਦੂਖ ਵਿਸਾਰਣਹਾਰਾ ॥",
               "roman": "har dhiāvah santah jī sabh dūkh visāranahārā .",
-              "roman_display": "har dhiāvah santah jī sabh dūkh visāranahārā .",
+              "roman_display": "har dhiāvah santah jī sabh dūkh visāraṇahārā .",
               "translations": {
                 "ksd_ru": {
                   "main": "О санты, удерживайте дхьян на Творце: Он растворяет власть всех страданий.",
@@ -27806,7 +27806,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਆਪੇ ਠਾਕੁਰੁ ਹਰਿ ਆਪੇ ਸੇਵਕੁ ਜੀ ਕਿਆ ਨਾਨਕ ਜੰਤ ਵਿਚਾਰਾ ॥੧॥",
               "roman": "har āpē thākur har āpē sēvak jī kiā nānak jant vichārā .1.",
-              "roman_display": "har āpē thākur har āpē sēvak jī kiā nānak jant vichārā .1.",
+              "roman_display": "har āpē ṭhākur har āpē sēvak jī kiā nānak jant vichārā .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Творец Сам — Хозяин, и Творец Сам — служащая сила внутри творения; что же может бедное существо, Нанак?",
@@ -27858,7 +27858,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੂੰ ਘਟ ਘਟ ਅੰਤਰਿ ਸਰਬ ਨਿਰੰਤਰਿ ਜੀ ਹਰਿ ਏਕੋ ਪੁਰਖੁ ਸਮਾਣਾ ॥",
               "roman": "tūn ghat ghat antar sarab nirantar jī har ēkō purakh samānā .",
-              "roman_display": "tūn ghat ghat antar sarab nirantar jī har ēkō purakh samānā .",
+              "roman_display": "tūn ghaṭ ghaṭ antar sarab nirantar jī har ēkō purakh samāṇā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты внутри каждого сердца-сосуда, непрерывно во всём; Единый Пурукх-Творец пронизывает всё.",
@@ -27910,7 +27910,7 @@
               "is_rahao": false,
               "gurmukhi": "ਇਕਿ ਦਾਤੇ ਇਕਿ ਭੇਖਾਰੀ ਜੀ ਸਭਿ ਤੇਰੇ ਚੋਜ ਵਿਡਾਣਾ ॥",
               "roman": "ik dātē ik bhēkhārī jī sabh tērē chōj vidānā .",
-              "roman_display": "ik dātē ik bhēkhārī jī sabh tērē chōj vidānā .",
+              "roman_display": "ik dātē ik bhēkhārī jī sabh tērē chōj viḍāṇā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Одни проявляются как дающие, другие как просящие; всё это — удивительные проявления Твоего Хукама.",
@@ -27962,7 +27962,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੂੰ ਆਪੇ ਦਾਤਾ ਆਪੇ ਭੁਗਤਾ ਜੀ ਹਉ ਤੁਧੁ ਬਿਨੁ ਅਵਰੁ ਨ ਜਾਣਾ ॥",
               "roman": "tūn āpē dātā āpē bhugatā jī hau tudh bin avar n jānā .",
-              "roman_display": "tūn āpē dātā āpē bhugatā jī hau tudh bin avar n jānā .",
+              "roman_display": "tūn āpē dātā āpē bhugatā jī hau tudh bin avar n jāṇā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты Сам Податель и Сам переживающий дар; кроме Тебя, я не знаю другой опоры.",
@@ -28014,7 +28014,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੂੰ ਪਾਰਬ੍ਰਹਮੁ ਬੇਅੰਤੁ ਬੇਅੰਤੁ ਜੀ ਤੇਰੇ ਕਿਆ ਗੁਣ ਆਖਿ ਵਖਾਣਾ ॥",
               "roman": "tūn pārabraham bēant bēant jī tērē kiā gun ākh vakhānā .",
-              "roman_display": "tūn pārabraham bēant bēant jī tērē kiā gun ākh vakhānā .",
+              "roman_display": "tūn pārabraham bēant bēant jī tērē kiā guṇ ākh vakhāṇā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты — Парабрахм, бесконечный и безмерный; как я могу полностью высказать и описать Твои качества?",
@@ -28066,7 +28066,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜੋ ਸੇਵਹਿ ਜੋ ਸੇਵਹਿ ਤੁਧੁ ਜੀ ਜਨੁ ਨਾਨਕੁ ਤਿਨ ਕੁਰਬਾਣਾ ॥੨॥",
               "roman": "jō sēvah jō sēvah tudh jī jan nānak tin kurabānā .2.",
-              "roman_display": "jō sēvah jō sēvah tudh jī jan nānak tin kurabānā .2.",
+              "roman_display": "jō sēvah jō sēvah tudh jī jan nānak tin kurabāṇā .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Те, кто служат Тебе, кто живут в ориентации на Тебя, — Нанак склоняется перед таким состоянием.",
@@ -28177,7 +28177,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੇ ਮੁਕਤੁ ਸੇ ਮੁਕਤੁ ਭਏ ਜਿਨ ਹਰਿ ਧਿਆਇਆ ਜੀ ਤਿਨ ਤੂਟੀ ਜਮ ਕੀ ਫਾਸੀ ॥",
               "roman": "sē mukat sē mukat bhaē jin har dhiāiā jī tin tūtī jam kī phāsī .",
-              "roman_display": "sē mukat sē mukat bhaē jin har dhiāiā jī tin tūtī jam kī phāsī .",
+              "roman_display": "sē mukat sē mukat bhaē jin har dhiāiā jī tin ṭūtī jam kī phāsī .",
               "translations": {
                 "ksd_ru": {
                   "main": "Освобождены те, кто держал дхьян на Творце; у них разорвалась петля джама — власть духовной мёртвости.",
@@ -28392,7 +28392,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੇਰੀ ਭਗਤਿ ਤੇਰੀ ਭਗਤਿ ਭੰਡਾਰ ਜੀ ਭਰੇ ਬਿਅੰਤ ਬੇਅੰਤਾ ॥",
               "roman": "tērī bhagat tērī bhagat bhandār jī bharē biant bēantā .",
-              "roman_display": "tērī bhagat tērī bhagat bhandār jī bharē biant bēantā .",
+              "roman_display": "tērī bhagat tērī bhagat bhanḍār jī bharē biant bēantā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Хранилища Твоей бхагти наполнены безмерно и неисчерпаемо.",
@@ -28555,7 +28555,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੇਰੇ ਅਨੇਕ ਤੇਰੇ ਅਨੇਕ ਪੜਹਿ ਬਹੁ ਸਿਮ੍ਰਿਤਿ ਸਾਸਤ ਜੀ ਕਰਿ ਕਿਰਿਆ ਖਟੁ ਕਰਮ ਕਰੰਤਾ ॥",
               "roman": "tērē anēk tērē anēk parah bah simrit sāsat jī kar kiriā khat karam karantā .",
-              "roman_display": "tērē anēk tērē anēk parah bah simrit sāsat jī kar kiriā khat karam karantā .",
+              "roman_display": "tērē anēk tērē anēk paṛah bah simrit sāsat jī kar kiriā khaṭ karam karantā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Многие читают смрити и шастры, совершают обряды и выполняют установленные ритуальные действия.",
@@ -28673,7 +28673,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੂੰ ਆਦਿ ਪੁਰਖੁ ਅਪਰੰਪਰੁ ਕਰਤਾ ਜੀ ਤੁਧੁ ਜੇਵਡੁ ਅਵਰੁ ਨ ਕੋਈ ॥",
               "roman": "tūn ād purakh aparanpar karatā jī tudh jēvad avar n kōī .",
-              "roman_display": "tūn ād purakh aparanpar karatā jī tudh jēvad avar n kōī .",
+              "roman_display": "tūn ād purakh aparanpar karatā jī tudh jēvaḍ avar n kōī .",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты — изначальный Пурукх, беспредельный Создатель; нет никого равного Тебе.",
@@ -28791,7 +28791,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੁਧੁ ਆਪੇ ਭਾਵੈ ਸੋਈ ਵਰਤੈ ਜੀ ਤੂੰ ਆਪੇ ਕਰਹਿ ਸੁ ਹੋਈ ॥",
               "roman": "tudh āpē bhāvai sōī varatai jī tūn āpē karah s hōī .",
-              "roman_display": "tudh āpē bhāve sōī varatai jī tūn āpē karah s hōī .",
+              "roman_display": "tudh āpē bhāve sōī varate jī tūn āpē karah su hōī .",
               "translations": {
                 "ksd_ru": {
                   "main": "То, что соответствует Твоему Хукаму, разворачивается; что Ты Сам приводишь в действие, то и происходит.",
@@ -28850,7 +28850,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੁਧੁ ਆਪੇ ਸ੍ਰਿਸਟਿ ਸਭ ਉਪਾਈ ਜੀ ਤੁਧੁ ਆਪੇ ਸਿਰਜਿ ਸਭ ਗੋਈ ॥",
               "roman": "tudh āpē srisat sabh upāī jī tudh āpē siraj sabh gōī .",
-              "roman_display": "tudh āpē srisat sabh upāī jī tudh āpē siraj sabh gōī .",
+              "roman_display": "tudh āpē srisaṭ sabh upāī jī tudh āpē siraj sabh gōī .",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты Сам проявил всё существование; Ты Сам, создав, сворачиваешь всё обратно в Своём Хукаме.",
@@ -28902,7 +28902,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਗੁਣ ਗਾਵੈ ਕਰਤੇ ਕੇ ਜੀ ਜੋ ਸਭਸੈ ਕਾ ਜਾਣੋਈ ॥੫॥੧॥",
               "roman": "jan nānak gun gāvai karatē kē jī jō sabhasai kā jānōī .5.1.",
-              "roman_display": "jan nānak gun gāve karatē kē jī jō sabhase kā jānōī .5.1.",
+              "roman_display": "jan nānak guṇ gāve karatē kē jī jō sabhase kā jāṇōī .5.1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак воспевает качества Создателя, который знает всё и всех.",
@@ -29035,7 +29035,7 @@
               "is_rahao": true,
               "gurmukhi": "ਤੂੰ ਕਰਤਾ ਸਚਿਆਰੁ ਮੈਡਾ ਸਾਂਈ ॥",
               "roman": "tūn karatā sachiār maidā sānhī .",
-              "roman_display": "tūn karatā sachiār maidā sānhī .",
+              "roman_display": "tūn karatā sachiār maiḍā sānhī .",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты — подлинно пребывающий Создатель, мой внутренний Господин.",
@@ -29323,7 +29323,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੁਧੁ ਆਪਿ ਵਿਛੋੜਿਆ ਆਪਿ ਮਿਲਾਇਆ ॥੧॥",
               "roman": "tudh āp vishōriā āp milāiā .1.",
-              "roman_display": "tudh āp vishōriā āp milāiā .1.",
+              "roman_display": "tudh āp vishōṛiā āp milāiā .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты Сам допускаешь разлуку, и Ты Сам соединяешь обратно.",
@@ -29510,7 +29510,7 @@
               "is_rahao": false,
               "gurmukhi": "ਵਿਜੋਗਿ ਮਿਲਿ ਵਿਛੁੜਿਆ ਸੰਜੋਗੀ ਮੇਲੁ ॥੨॥",
               "roman": "vijōg mil vishuriā sanjōgī mēl .2.",
-              "roman_display": "vijōg mil vishuriā sanjōgī mēl .2.",
+              "roman_display": "vijōg mil vishuṛiā sanjōgī mēl .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "В состоянии разлуки соединённые расходятся; в состоянии созвучного соединения происходит встреча.",
@@ -29562,7 +29562,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਿਸ ਨੋ ਤੂ ਜਾਣਾਇਹਿ ਸੋਈ ਜਨੁ ਜਾਣੈ ॥",
               "roman": "jis nō tū jānāih sōī jan jānai .",
-              "roman_display": "jis nō tū jānāih sōī jan jānai .",
+              "roman_display": "jis nō tū jāṇāih sōī jan jāṇe .",
               "translations": {
                 "ksd_ru": {
                   "main": "Только тот знает, кому Ты Сам раскрываешь знание.",
@@ -29614,7 +29614,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਗੁਣ ਸਦ ਹੀ ਆਖਿ ਵਖਾਣੈ ॥",
               "roman": "har gun sad hī ākh vakhānai .",
-              "roman_display": "har gun sad hī ākh vakhāne .",
+              "roman_display": "har guṇ sad hī ākh vakhāṇe .",
               "translations": {
                 "ksd_ru": {
                   "main": "Он всегда распознаёт и выражает качества Хара.",
@@ -29860,7 +29860,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੂ ਕਰਿ ਕਰਿ ਵੇਖਹਿ ਜਾਣਹਿ ਸੋਇ ॥",
               "roman": "tū kar kar vēkhah jānah sōi .",
-              "roman_display": "tū kar kar vēkhah jānah sōi .",
+              "roman_display": "tū kar kar vēkhah jāṇah sōi .",
               "translations": {
                 "ksd_ru": {
                   "main": "Ты снова и снова приводишь всё в действие, видишь это и знаешь.",
@@ -29912,7 +29912,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਨ ਨਾਨਕ ਗੁਰਮੁਖਿ ਪਰਗਟੁ ਹੋਇ ॥੪॥੨॥",
               "roman": "jan nānak guramukh paragat hōi .4.2.",
-              "roman_display": "jan nānak guramukh paragat hōi .4.2.",
+              "roman_display": "jan nānak guramukh paragaṭ hōi .4.2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак: через ориентацию на Гуру-Шабд [[Творец]] становится явным внутри.",
@@ -30038,7 +30038,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਿਤੁ ਸਰਵਰੜੈ ਭਈਲੇ ਨਿਵਾਸਾ ਪਾਣੀ ਪਾਵਕੁ ਤਿਨਹਿ ਕੀਆ ॥",
               "roman": "tit saravararai bhaīlē nivāsā pānī pāvak tinah kīā .",
-              "roman_display": "tit saravarare bhaīlē nivāsā pānī pāvak tinah kīā .",
+              "roman_display": "tit saṛavarare bhaīlē nivāsā pāṇī pāvak tinah kīā .",
               "translations": {
                 "ksd_ru": {
                   "main": "В этом внутреннем озере существования мне дано пребывание; Творец устроил в нём и воду, и огонь.",
@@ -30097,7 +30097,7 @@
               "is_rahao": false,
               "gurmukhi": "ਪੰਕਜੁ ਮੋਹ ਪਗੁ ਨਹੀ ਚਾਲੈ ਹਮ ਦੇਖਾ ਤਹ ਡੂਬੀਅਲੇ ॥੧॥",
               "roman": "pankaj mōh pag nahī chālai ham dēkhā tah dūbīalē .1.",
-              "roman_display": "pankaj mōh pag nahī chālai ham dēkhā tah dūbīalē .1.",
+              "roman_display": "pankaj mōh pag nahī chāle ham dēkhā tah ḍūbīalē .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "В болоте моха нога не движется; я видел, как там тонет сознание.",
@@ -30156,7 +30156,7 @@
               "is_rahao": true,
               "gurmukhi": "ਮਨ ਏਕੁ ਨ ਚੇਤਸਿ ਮੂੜ ਮਨਾ ॥",
               "roman": "man ēk n chētas mūr manā .",
-              "roman_display": "man ēk n chētas mūr manā .",
+              "roman_display": "man ēk n chētas mūṛ manā .",
               "translations": {
                 "ksd_ru": {
                   "main": "О разум, глупый разум, ты не помнишь Единого.",
@@ -30215,7 +30215,7 @@
               "is_rahao": true,
               "gurmukhi": "ਹਰਿ ਬਿਸਰਤ ਤੇਰੇ ਗੁਣ ਗਲਿਆ ॥੧॥ ਰਹਾਉ ॥",
               "roman": "har bisarat tērē gun galiā .1. rahāu .",
-              "roman_display": "har bisarat tērē gun galiā .1. rahāu .",
+              "roman_display": "har bisarat tērē guṇ galiā .1. rahāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "Когда Творец забывается, твои внутренние качества разлагаются. Рахао.",
@@ -30274,7 +30274,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਾ ਹਉ ਜਤੀ ਸਤੀ ਨਹੀ ਪੜਿਆ ਮੂਰਖ ਮੁਗਧਾ ਜਨਮੁ ਭਇਆ ॥",
               "roman": "nā hau jatī satī nahī pariā mūrakh mugadhā janam bhaiā .",
-              "roman_display": "nā hau jatī satī nahī pariā mūrakh mugadhā janam bhaiā .",
+              "roman_display": "nā hau jatī satī nahī paṛiā mūrakh mugadhā janam bhaiā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Я не аскет, не признанный праведник и не учёный; моя жизнь стала жизнью глупой, непробуждённой самости.",
@@ -30340,7 +30340,7 @@
               "is_rahao": false,
               "gurmukhi": "ਪ੍ਰਣਵਤਿ ਨਾਨਕ ਤਿਨ ਕੀ ਸਰਣਾ ਜਿਨ ਤੂ ਨਾਹੀ ਵੀਸਰਿਆ ॥੨॥੩॥",
               "roman": "pranavat nānak tin kī saranā jin tū nāhī vīsariā .2.3.",
-              "roman_display": "pranavat nānak tin kī saranā jin tū nāhī vīsariā .2.3.",
+              "roman_display": "praṇavat nānak tin kī saraṇā jin tū nāhī vīsariā .2.3.",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак смиренно обращается к прибежищу тех, кому Ты не забылся.",
@@ -30492,7 +30492,7 @@
               "is_rahao": false,
               "gurmukhi": "ਗੋਬਿੰਦ ਮਿਲਣ ਕੀ ਇਹ ਤੇਰੀ ਬਰੀਆ ॥",
               "roman": "gōbind milan kī ih tērī barīā .",
-              "roman_display": "gōbind milan kī ih tērī barīā .",
+              "roman_display": "gōbind milaṇ kī ih tērī barīā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Это твоя возможность соединиться с Гобиндом внутри.",
@@ -30530,7 +30530,7 @@
               "is_rahao": false,
               "gurmukhi": "ਅਵਰਿ ਕਾਜ ਤੇਰੈ ਕਿਤੈ ਨ ਕਾਮ ॥",
               "roman": "avar kāj tērai kitai n kām .",
-              "roman_display": "avar kāj tēre kitai n kām .",
+              "roman_display": "avar kāj tēre kite n kām .",
               "translations": {
                 "ksd_ru": {
                   "main": "Другие занятия, которые не ведут к Нааму, не помогают твоей внутренней реализации.",
@@ -30796,7 +30796,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਰਣਿ ਪਰੇ ਕੀ ਰਾਖਹੁ ਸਰਮਾ ॥੨॥੪॥",
               "roman": "saran parē kī rākhah saramā .2.4.",
-              "roman_display": "saran parē kī rākhah saramā .2.4.",
+              "roman_display": "saraṇ parē kī rākhah saramā .2.4.",
               "translations": {
                 "ksd_ru": {
                   "main": "Сохрани внутреннее достоинство того, кто пришёл в Твоё прибежище.",
@@ -30858,7 +30858,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸੋਹਿਲਾ ਰਾਗੁ ਗਉੜੀ ਦੀਪਕੀ ਮਹਲਾ ੧",
               "roman": "Sohilā rāg gaurī dīpakī mehlā 1",
-              "roman_display": "Sohilā rāg gaurī dīpakī mehlā 1",
+              "roman_display": "Sohilā rāg gauṛī dīpakī mehlā 1",
               "translations": {
                 "ksd_ru": {
                   "main": "Сохила, рааг Гаури Дипаки, голос Гуру Нанака Патишаха.",
@@ -30910,7 +30910,7 @@
               "is_rahao": false,
               "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
               "roman": "ik ōunkār satigur prasād .",
-              "roman_display": "ik ōunkār satigur prasād .",
+              "roman_display": "ik ōunkār satgur prasād .",
               "translations": {
                 "ksd_ru": {
                   "main": "Единый Ооанкар; через милость Сатгуру.",
@@ -30955,7 +30955,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜੈ ਘਰਿ ਕੀਰਤਿ ਆਖੀਐ ਕਰਤੇ ਕਾ ਹੋਇ ਬੀਚਾਰੋ ॥",
               "roman": "jai ghar kīrat ākhīai karatē kā hōi bīchārō .",
-              "roman_display": "je ghar kīrat ākhīai karatē kā hōi bīchārō .",
+              "roman_display": "je ghar kīrat ākhīe karatē kā hōi bīchārō .",
               "translations": {
                 "ksd_ru": {
                   "main": "В том внутреннем доме, где произносится хвала и происходит вичар Создателя,",
@@ -31007,7 +31007,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਿਤੁ ਘਰਿ ਗਾਵਹੁ ਸੋਹਿਲਾ ਸਿਵਰਿਹੁ ਸਿਰਜਣਹਾਰੋ ॥੧॥",
               "roman": "tit ghar gāvah sōhilā sivarih sirajanahārō .1.",
-              "roman_display": "tit ghar gāvah sōhilā sivarih sirajanahārō .1.",
+              "roman_display": "tit ghar gāvah sōhilā sivarih sirajaṇahārō .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "в том доме пойте песнь Мира и удерживайте симран Создателя.",
@@ -31111,7 +31111,7 @@
               "is_rahao": true,
               "gurmukhi": "ਹਉ ਵਾਰੀ ਜਿਤੁ ਸੋਹਿਲੈ ਸਦਾ ਸੁਖੁ ਹੋਇ ॥੧॥ ਰਹਾਉ ॥",
               "roman": "hau vārī jit sōhilai sadā sukh hōi .1. rahāu .",
-              "roman_display": "hau vārī jit sōhilai sadā sukh hōi .1. rahāu .",
+              "roman_display": "hau vārī jit sōhile sadā sukh hōi .1. rahāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "Я склоняюсь перед той песней Мира, тем потоком Хукама, через который раскрывается постоянное духовное счастье. Рахао.",
@@ -31170,7 +31170,7 @@
               "is_rahao": false,
               "gurmukhi": "ਨਿਤ ਨਿਤ ਜੀਅੜੇ ਸਮਾਲੀਅਨਿ ਦੇਖੈਗਾ ਦੇਵਣਹਾਰੁ ॥",
               "roman": "nit nit jīarē samālīan dēkhaigā dēvanahār .",
-              "roman_display": "nit nit jīarē samālīan dēkhaigā dēvanahār .",
+              "roman_display": "nit nit jīaṛē samālīan dēkhaigā dēvaṇahār .",
               "translations": {
                 "ksd_ru": {
                   "main": "День за днём живые существа поддерживаются; Податель видит и заботится.",
@@ -31222,7 +31222,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤੇਰੇ ਦਾਨੈ ਕੀਮਤਿ ਨਾ ਪਵੈ ਤਿਸੁ ਦਾਤੇ ਕਵਣੁ ਸੁਮਾਰੁ ॥੨॥",
               "roman": "tērē dānai kīmat nā pavai tis dātē kavan sumār .2.",
-              "roman_display": "tērē dānai kīmat nā pavai tis dātē kavan sumār .2.",
+              "roman_display": "tērē dāne kīmat nā pave tis dātē kavaṇ sumār .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Твоему дару невозможно назначить цену; как же можно исчислить самого Подателя?",
@@ -31326,7 +31326,7 @@
               "is_rahao": false,
               "gurmukhi": "ਦੇਹੁ ਸਜਣ ਅਸੀਸੜੀਆ ਜਿਉ ਹੋਵੈ ਸਾਹਿਬ ਸਿਉ ਮੇਲੁ ॥੩॥",
               "roman": "dēh sajan asīsarīā jiu hōvai sāhib siu mēl .3.",
-              "roman_display": "dēh sajan asīsarīā jiu hōvai sāhib siu mēl .3.",
+              "roman_display": "dēh sajaṇ asīsaṛīā jiu hōve sāhib siu mēl .3.",
               "translations": {
                 "ksd_ru": {
                   "main": "Дайте благословения, о друзья, чтобы произошло соединение с Господином.",
@@ -31371,7 +31371,7 @@
               "is_rahao": false,
               "gurmukhi": "ਘਰਿ ਘਰਿ ਏਹੋ ਪਾਹੁਚਾ ਸਦੜੇ ਨਿਤ ਪਵੰਨਿ ॥",
               "roman": "ghar ghar ēhō pāhuchā sadarē nit pavann .",
-              "roman_display": "ghar ghar ēhō pāhuchā sadarē nit pavann .",
+              "roman_display": "ghar ghar ēhō pāhuchā sadaṛē nit pavann .",
               "translations": {
                 "ksd_ru": {
                   "main": "В каждый внутренний дом постоянно приходит это приглашение.",
@@ -31423,7 +31423,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਦਣਹਾਰਾ ਸਿਮਰੀਐ ਨਾਨਕ ਸੇ ਦਿਹ ਆਵੰਨਿ ॥੪॥੧॥",
               "roman": "sadanahārā simarīai nānak sē dih āvann .4.1.",
-              "roman_display": "sadanahārā simarīai nānak sē dih āvann .4.1.",
+              "roman_display": "sadaṇahārā simarīe nānak sē dih āvann .4.1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Поминай Зовущего, Нанак: те дни встречи приходят.",
@@ -31693,7 +31693,7 @@
               "is_rahao": true,
               "gurmukhi": "ਸੋ ਘਰੁ ਰਾਖੁ ਵਡਾਈ ਤੋਇ ॥੧॥ ਰਹਾਉ ॥",
               "roman": "sō ghar rākh vadāī tōi .1. rahāu .",
-              "roman_display": "sō ghar rākh vadāī tōi .1. rahāu .",
+              "roman_display": "sō ghar rākh vaḍāī tōi .1. rahāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "береги этот дом: в этом твоё духовное достоинство. Рахао.",
@@ -31745,7 +31745,7 @@
               "is_rahao": false,
               "gurmukhi": "ਵਿਸੁਏ ਚਸਿਆ ਘੜੀਆ ਪਹਰਾ ਥਿਤੀ ਵਾਰੀ ਮਾਹੁ ਹੋਆ ॥",
               "roman": "visuē chasiā gharīā paharā thitī vārī māh hōā .",
-              "roman_display": "visuē chasiā gharīā paharā thitī vārī māh hōā .",
+              "roman_display": "visuē chasiā ghaṛīā paharā thitī vārī māh hōā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Мгновения, часы, стражи, лунные дни, дни недели и месяцы стали разными мерами опыта.",
@@ -31968,7 +31968,7 @@
               "is_rahao": false,
               "gurmukhi": "ਗਗਨ ਮੈ ਥਾਲੁ ਰਵਿ ਚੰਦੁ ਦੀਪਕ ਬਨੇ ਤਾਰਿਕਾ ਮੰਡਲ ਜਨਕ ਮੋਤੀ ॥",
               "roman": "gagan mai thāl rav chand dīpak banē tārikā mandal janak mōtī .",
-              "roman_display": "gagan me thāl rav chand dīpak banē tārikā mandal janak mōtī .",
+              "roman_display": "gagan me thāl rav chand dīpak banē tārikā manḍal janak mōtī .",
               "translations": {
                 "ksd_ru": {
                   "main": "Небо становится чашей арати; солнце и луна — светильниками, а звёздные круги — словно жемчужинами.",
@@ -32020,7 +32020,7 @@
               "is_rahao": false,
               "gurmukhi": "ਧੂਪੁ ਮਲਆਨਲੋ ਪਵਣੁ ਚਵਰੋ ਕਰੇ ਸਗਲ ਬਨਰਾਇ ਫੂਲੰਤ ਜੋਤੀ ॥੧॥",
               "roman": "dhūp malaānalō pavan chavarō karē sagal banarāi phūlant jōtī .1.",
-              "roman_display": "dhūp malaānalō pavan chavarō karē sagal banarāi phūlant jōtī .1.",
+              "roman_display": "dhūp malaānalō pavaṇ chavarō karē sagal banarāi phūlant jōtī .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Аромат кудрата становится благовонием, ветер совершает чавар, и вся растительность цветёт светом.",
@@ -32072,7 +32072,7 @@
               "is_rahao": true,
               "gurmukhi": "ਕੈਸੀ ਆਰਤੀ ਹੋਇ ॥ ਭਵ ਖੰਡਨਾ ਤੇਰੀ ਆਰਤੀ ॥",
               "roman": "kaisī āratī hōi . bhav khandanā tērī āratī .",
-              "roman_display": "kaisī āratī hōi . bhav khandanā tērī āratī .",
+              "roman_display": "kaisī āratī hōi . bhav khanḍanā tērī āratī .",
               "translations": {
                 "ksd_ru": {
                   "main": "Какая же арати подлинна? Разрушение иллюзорного восприятия — вот Твоя арати.",
@@ -32294,7 +32294,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਭ ਮਹਿ ਜੋਤਿ ਜੋਤਿ ਹੈ ਸੋਇ ॥",
               "roman": "sabh mah jōt jōt hai sōi .",
-              "roman_display": "sabh mah jōt jōt hai sōi .",
+              "roman_display": "sabh mah jōt jōt he sōi .",
               "translations": {
                 "ksd_ru": {
                   "main": "Во всём есть джот; этот джот — Он.",
@@ -32339,7 +32339,7 @@
               "is_rahao": false,
               "gurmukhi": "ਤਿਸ ਦੈ ਚਾਨਣਿ ਸਭ ਮਹਿ ਚਾਨਣੁ ਹੋਇ ॥",
               "roman": "tis dai chānan sabh mah chānan hōi .",
-              "roman_display": "tis de chānan sabh mah chānan hōi .",
+              "roman_display": "tis de chāṇan sabh mah chāṇan hōi .",
               "translations": {
                 "ksd_ru": {
                   "main": "Через Его свет всё становится освещённым.",
@@ -32384,7 +32384,7 @@
               "is_rahao": false,
               "gurmukhi": "ਗੁਰ ਸਾਖੀ ਜੋਤਿ ਪਰਗਟੁ ਹੋਇ ॥",
               "roman": "gur sākhī jōt paragat hōi .",
-              "roman_display": "gur sākhī jōt paragat hōi .",
+              "roman_display": "gur sākhī jōt paragaṭ hōi .",
               "translations": {
                 "ksd_ru": {
                   "main": "Через свидетельство Гуру-Шабда джот становится явным.",
@@ -32429,7 +32429,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੁ ਆਰਤੀ ਹੋਇ ॥੩॥",
               "roman": "jō tis bhāvai s āratī hōi .3.",
-              "roman_display": "jō tis bhāve s āratī hōi .3.",
+              "roman_display": "jō tis bhāve su āratī hōi .3.",
               "translations": {
                 "ksd_ru": {
                   "main": "То, что созвучно Ему, и есть арати.",
@@ -32474,7 +32474,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਚਰਣ ਕਵਲ ਮਕਰੰਦ ਲੋਭਿਤ ਮਨੋ ਅਨਦਿਨੋੁ ਮੋਹਿ ਆਹੀ ਪਿਆਸਾ ॥",
               "roman": "har charan kaval makarand lōbhit manō anadinō mōh āhī piāsā .",
-              "roman_display": "har charan kaval makarand lōbhit manō anadinō mōh āhī piāsā .",
+              "roman_display": "har charaṇ kaval makarand lōbhit manō anadinō mōh āhī piāsā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Мой разум жаждет нектара лотосной опоры Творца; день и ночь во мне живёт эта жажда.",
@@ -32526,7 +32526,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕ੍ਰਿਪਾ ਜਲੁ ਦੇਹਿ ਨਾਨਕ ਸਾਰਿੰਗ ਕਉ ਹੋਇ ਜਾ ਤੇ ਤੇਰੈ ਨਾਇ ਵਾਸਾ ॥੪॥੩॥",
               "roman": "kripā jal dēh nānak sāring kau hōi jā tē tērai nāi vāsā .4.3.",
-              "roman_display": "kripā jal dēh nānak sāring kau hōi jā tē tērai nāi vāsā .4.3.",
+              "roman_display": "kripā jal dēh nānak sāring kau hōi jā tē tēre nāi vāsā .4.3.",
               "translations": {
                 "ksd_ru": {
                   "main": "Дай воду кирпы Нанаку, жаждущему как саранг, чтобы сознание укоренилось в Твоём Нааме.",
@@ -32602,7 +32602,7 @@
               "is_rahao": false,
               "gurmukhi": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਮਹਲਾ ੪ ॥",
               "roman": "rāg gaurī pūrabī mahalā 4 .",
-              "roman_display": "rāg gaurī pūrabī mahalā 4 .",
+              "roman_display": "rāg gauṛī pūrabī mahalā 4 .",
               "translations": {
                 "ksd_ru": {
                   "main": "Рааг Гаури Пураби, голос Гуру Рам Даса.",
@@ -32647,7 +32647,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਾਮਿ ਕਰੋਧਿ ਨਗਰੁ ਬਹੁ ਭਰਿਆ ਮਿਲਿ ਸਾਧੂ ਖੰਡਲ ਖੰਡਾ ਹੇ ॥",
               "roman": "kām karōdh nagar bah bhariā mil sādhū khandal khandā hē .",
-              "roman_display": "kām karōdh nagar bah bhariā mil sādhū khandal khandā hē .",
+              "roman_display": "kām karōdh nagar bah bhariā mil sādhū khanḍal khanḍā hē .",
               "translations": {
                 "ksd_ru": {
                   "main": "Внутренний город был переполнен камом и кродхом; через соединение с садху-состоянием эта власть была разбита.",
@@ -32706,7 +32706,7 @@
               "is_rahao": false,
               "gurmukhi": "ਪੂਰਬਿ ਲਿਖਤ ਲਿਖੇ ਗੁਰੁ ਪਾਇਆ ਮਨਿ ਹਰਿ ਲਿਵ ਮੰਡਲ ਮੰਡਾ ਹੇ ॥੧॥",
               "roman": "pūrab likhat likhē gur pāiā man har liv mandal mandā hē .1.",
-              "roman_display": "pūrab likhat likhē gur pāiā man har liv mandal mandā hē .1.",
+              "roman_display": "pūrab likhat likhē gur pāiā man har liv manḍal manḍā hē .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Когда прежний духовный посев созревает в Хукаме и обретается Гуру-Шабд, в уме утверждается устойчивый фокус на Харе.",
@@ -32765,7 +32765,7 @@
               "is_rahao": true,
               "gurmukhi": "ਕਰਿ ਸਾਧੂ ਅੰਜੁਲੀ ਪੁਨੁ ਵਡਾ ਹੇ ॥",
               "roman": "kar sādhū anjulī pun vadā hē .",
-              "roman_display": "kar sādhū anjulī pun vadā hē .",
+              "roman_display": "kar sādhū anjulī pun vaḍā hē .",
               "translations": {
                 "ksd_ru": {
                   "main": "Сложи ладони перед садху-состоянием Гуру-Шабда: это великое внутреннее благо.",
@@ -32810,7 +32810,7 @@
               "is_rahao": true,
               "gurmukhi": "ਕਰਿ ਡੰਡਉਤ ਪੁਨੁ ਵਡਾ ਹੇ ॥੧॥ ਰਹਾਉ ॥",
               "roman": "kar dandaut pun vadā hē .1. rahāu .",
-              "roman_display": "kar dandaut pun vadā hē .1. rahāu .",
+              "roman_display": "kar ḍandaut pun vaḍā hē .1. rahāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "Склонись полностью: в этом великое духовное благо. Рахао.",
@@ -32862,7 +32862,7 @@
               "is_rahao": false,
               "gurmukhi": "ਸਾਕਤ ਹਰਿ ਰਸ ਸਾਦੁ ਨ ਜਾਣਿਆ ਤਿਨ ਅੰਤਰਿ ਹਉਮੈ ਕੰਡਾ ਹੇ ॥",
               "roman": "sākat har ras sād n jāniā tin antar haumai kandā hē .",
-              "roman_display": "sākat har ras sād n jāniā tin antar haume kandā hē .",
+              "roman_display": "sākat har ras sād n jāṇiā tin antar haume kanḍā hē .",
               "translations": {
                 "ksd_ru": {
                   "main": "Сознание, отвернувшееся от Хара, не знает вкуса Хар-рас; внутри него вонзена колючка Хоумэ — эгоистической самососредоточенности.",
@@ -32914,7 +32914,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਿਉ ਜਿਉ ਚਲਹਿ ਚੁਭੈ ਦੁਖੁ ਪਾਵਹਿ ਜਮਕਾਲੁ ਸਹਹਿ ਸਿਰਿ ਡੰਡਾ ਹੇ ॥੨॥",
               "roman": "jiu jiu chalah chubhai dukh pāvah jamakāl sahah sir dandā hē .2.",
-              "roman_display": "jiu jiu chalah chubhe dukh pāvah jamakāl sahah sir dandā hē .2.",
+              "roman_display": "jiu jiu chalah chubhe dukh pāvah jamakāl sahah sir ḍandā hē .2.",
               "translations": {
                 "ksd_ru": {
                   "main": "Куда бы такая самость ни двигалась, шип колет и приносит боль; она терпит над собой удар джам-кала — духовной мёртвости и страха.",
@@ -32973,7 +32973,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਰਿ ਜਨ ਹਰਿ ਹਰਿ ਨਾਮਿ ਸਮਾਣੇ ਦੁਖੁ ਜਨਮ ਮਰਣ ਭਵ ਖੰਡਾ ਹੇ ॥",
               "roman": "har jan har har nām samānē dukh janam maran bhav khandā hē .",
-              "roman_display": "har jan har har nām samānē dukh janam maran bhav khandā hē .",
+              "roman_display": "har jan har har nām samāṇē dukh janam maraṇ bhav khanḍā hē .",
               "translations": {
                 "ksd_ru": {
                   "main": "Те, кто живут в Творце, погружены в Наам; у них разрушены боль повторяющихся состояний рождения-смерти и иллюзорное восприятие.",
@@ -33032,7 +33032,7 @@
               "is_rahao": false,
               "gurmukhi": "ਅਬਿਨਾਸੀ ਪੁਰਖੁ ਪਾਇਆ ਪਰਮੇਸਰੁ ਬਹੁ ਸੋਭ ਖੰਡ ਬ੍ਰਹਮੰਡਾ ਹੇ ॥੩॥",
               "roman": "abināsī purakh pāiā paramēsar bah sōbh khand brahamandā hē .3.",
-              "roman_display": "abināsī purakh pāiā paramēsar bah sōbh khand brahamandā hē .3.",
+              "roman_display": "abināsī purakh pāiā paramēsar bah sōbh khanḍ brahamanḍā hē .3.",
               "translations": {
                 "ksd_ru": {
                   "main": "Обретая внутри Неразрушимого Пурукха, Парамешвара, сознание видит Его сияние во множестве сфер проявления.",
@@ -33091,7 +33091,7 @@
               "is_rahao": false,
               "gurmukhi": "ਹਮ ਗਰੀਬ ਮਸਕੀਨ ਪ੍ਰਭ ਤੇਰੇ ਹਰਿ ਰਾਖੁ ਰਾਖੁ ਵਡ ਵਡਾ ਹੇ ॥",
               "roman": "ham garīb masakīn prabh tērē har rākh rākh vad vadā hē .",
-              "roman_display": "ham garīb masakīn prabh tērē har rākh rākh vad vadā hē .",
+              "roman_display": "ham garīb masakīn prabh tērē har rākh rākh vaḍ vaḍā hē .",
               "translations": {
                 "ksd_ru": {
                   "main": "Мы бедные и смиренные, Твои, о Прабху; сохрани нас, сохрани, о великий и величайший Творец.",
@@ -33150,7 +33150,7 @@
               "is_rahao": false,
               "gurmukhi": "ਜਨ ਨਾਨਕ ਨਾਮੁ ਅਧਾਰੁ ਟੇਕ ਹੈ ਹਰਿ ਨਾਮੇ ਹੀ ਸੁਖੁ ਮੰਡਾ ਹੇ ॥੪॥੪॥",
               "roman": "jan nānak nām adhār tēk hai har nāmē hī sukh mandā hē .4.4.",
-              "roman_display": "jan nānak nām adhār tēk hai har nāmē hī sukh mandā hē .4.4.",
+              "roman_display": "jan nānak nām adhār ṭēk he har nāmē hī sukh manḍā hē .4.4.",
               "translations": {
                 "ksd_ru": {
                   "main": "Нанак: Наам — моё основание и опора; только в Хар-Нааме раскрывается духовное счастье.",
@@ -33233,7 +33233,7 @@
               "is_rahao": false,
               "gurmukhi": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਮਹਲਾ ੫ ॥",
               "roman": "rāg gaurī pūrabī mahalā 5 .",
-              "roman_display": "rāg gaurī pūrabī mahalā 5 .",
+              "roman_display": "rāg gauṛī pūrabī mahalā 5 .",
               "translations": {
                 "ksd_ru": {
                   "main": "Рааг Гаури Пураби, голос Гуру Арджана.",
@@ -33278,7 +33278,7 @@
               "is_rahao": false,
               "gurmukhi": "ਕਰਉ ਬੇਨੰਤੀ ਸੁਣਹੁ ਮੇਰੇ ਮੀਤਾ ਸੰਤ ਟਹਲ ਕੀ ਬੇਲਾ ॥",
               "roman": "karau bēnantī sunah mērē mītā sant tahal kī bēlā .",
-              "roman_display": "karau bēnantī sunah mērē mītā sant tahal kī bēlā .",
+              "roman_display": "karau bēnantī suṇah mērē mītā sant ṭahal kī bēlā .",
               "translations": {
                 "ksd_ru": {
                   "main": "Прошу, послушайте, мои друзья: сейчас пора служения сант-состоянию Гуру-Шабда.",
@@ -33337,7 +33337,7 @@
               "is_rahao": false,
               "gurmukhi": "ਈਹਾ ਖਾਟਿ ਚਲਹੁ ਹਰਿ ਲਾਹਾ ਆਗੈ ਬਸਨੁ ਸੁਹੇਲਾ ॥੧॥",
               "roman": "īhā khāt chalah har lāhā āgai basan suhēlā .1.",
-              "roman_display": "īhā khāt chalah har lāhā āge basan suhēlā .1.",
+              "roman_display": "īhā khāṭ chalah har lāhā āge basan suhēlā .1.",
               "translations": {
                 "ksd_ru": {
                   "main": "Здесь и сейчас обрети прибыль Творца, и дальнейшее пребывание станет лёгким.",
@@ -33389,7 +33389,7 @@
               "is_rahao": true,
               "gurmukhi": "ਅਉਧ ਘਟੈ ਦਿਨਸੁ ਰੈਣਾਰੇ ॥ ਮਨ ਗੁਰ ਮਿਲਿ ਕਾਜ ਸਵਾਰੇ ॥੧॥ ਰਹਾਉ ॥",
               "roman": "audh ghatai dinas rainārē . man gur mil kāj savārē .1. rahāu .",
-              "roman_display": "audh ghate dinas rainārē . man gur mil kāj savārē .1. rahāu .",
+              "roman_display": "audh ghaṭe dinas raiṇārē . man gur mil kāj savārē .1. rahāu .",
               "translations": {
                 "ksd_ru": {
                   "main": "Срок жизни убывает днём и ночью; о разум, соединись с Гуру-Шабдом и приведи своё главное дело в порядок. Рахао.",

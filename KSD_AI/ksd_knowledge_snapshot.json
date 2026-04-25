@@ -1,6 +1,30 @@
 {
   "words": [
     {
+      "roman": "Amrit",
+      "literal_ru": "бессмертный, нерождённый (А + Мрит = не-смерть)",
+      "ksd_meta_ru": "ਅੰਮ੍ਰਿਤ = бессмертное, Нерождённое (Ооангкар). НЕ 'нектар', НЕ 'предрассветные часы'. ਅੰਮ੍ਰਿਤ ਵੇਲਾ = Время/Жизнь, наполненная Нерождённым/Бессмертным = жизнь, в которой присутствует осознание и реализация Ооангкара.",
+      "confidence": 10.0,
+      "grammar_note": "Состав: ਅ (a-) + ਮ੍ਰਿਤ (мрит=смерть) → бессмертный",
+      "source": "KSD-анализ Паури 4 Джап Бани"
+    },
+    {
+      "roman": "Dhu",
+      "literal_ru": "путеводная звезда (Полярная звезда)",
+      "ksd_meta_ru": "НЕ святой Дхрува. Dhu = фиксированное направление движения, то, на что ориентируются. Метафора: ведение, наставление, ориентир.",
+      "confidence": 9.0,
+      "grammar_note": "Перед ним: земля (bhumi, метафора: низкое), горы (Mer, метафора: высокое) — логическая прогрессия. Если бы Dhu = имя святого, последовательность разрушалась бы. Слово \"упдеш\" (nastavlenie) следует после — это ряд ориентиров, а не список людей.",
+      "source": "Упрощенное издание + punjabi.com/dictionary"
+    },
+    {
+      "roman": "Vela",
+      "literal_ru": "время, момент",
+      "ksd_meta_ru": "В СГГС ਵੇਲਾ = человеческая жизнь как возможность реализации Создателя. НЕ время суток, НЕ 3 часа ночи. Ключевые смыслы: (1) человеческая жизнь; (2) время, когда происходит реализация Гурбани/Создателя. Это время создаётся практикой, а не часами на часах.",
+      "confidence": 10.0,
+      "grammar_note": "ਵੇਲਾ (mukta) = определение/описание. ਵੇਲੇ (kenna/sihari) = указание на период времени.",
+      "source": "СГГС 28, 20, 35, 146, 422, 435, 520, 540, 1084, 1090"
+    },
+    {
       "roman": "aad",
       "literal_ru": "Источник",
       "ksd_meta_ru": "Создатель",
@@ -15,6 +39,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "aad",
+      "literal_ru": "Источник",
+      "ksd_meta_ru": "Создатель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "aakhyeah",
@@ -33,6 +65,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "aakhyeah",
+      "literal_ru": "говорить, произносить",
+      "ksd_meta_ru": "чантить",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "agas",
       "literal_ru": "(Lit) Верхний, небо, выысокий",
       "ksd_meta_ru": "просвещенный",
@@ -47,6 +87,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "agas",
+      "literal_ru": "(Lit) Верхний, небо, выысокий",
+      "ksd_meta_ru": "просвещенный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "agey",
@@ -65,6 +113,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "agey",
+      "literal_ru": "впереди",
+      "ksd_meta_ru": "раньше; Задача",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "agum",
       "literal_ru": "за гранью понимания",
       "ksd_meta_ru": "Все досягаемости чувств. Описание Создателя.",
@@ -79,6 +135,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "agum",
+      "literal_ru": "за гранью понимания",
+      "ksd_meta_ru": "Все досягаемости чувств. Описание Создателя.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "agun",
@@ -97,6 +161,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "agun",
+      "literal_ru": "(Lit) огонь",
+      "ksd_meta_ru": "интенсивность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "akaas kee",
       "literal_ru": "(Lit) принадлежащий небу",
       "ksd_meta_ru": "“повышенная” духовность, уровня про, продвинутая духовность",
@@ -111,6 +183,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "akaas kee",
+      "literal_ru": "(Lit) принадлежащий небу",
+      "ksd_meta_ru": "“повышенная” духовность, уровня про, продвинутая духовность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "akh",
@@ -129,6 +209,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "akh",
+      "literal_ru": "говорить",
+      "ksd_meta_ru": "приписывать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "akhra",
       "literal_ru": "1) Алфавит (буквы)",
       "ksd_meta_ru": "2) Произведено как слово с приставкой A + Khr; нерушимый; вечный.",
@@ -143,6 +231,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "akhra",
+      "literal_ru": "1) Алфавит (буквы)",
+      "ksd_meta_ru": "2) Произведено как слово с приставкой A + Khr; нерушимый; вечный.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "akhree",
@@ -161,6 +257,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "akhree",
+      "literal_ru": "1) Алфавит (буквы)",
+      "ksd_meta_ru": "2) Произведено как слово с приставкой A + Khr; нерушимый; вечный;",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "amar kar",
       "literal_ru": "A+ Mar = То, что не умирает",
       "ksd_meta_ru": "Стать бессмертным.",
@@ -175,6 +279,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "amar kar",
+      "literal_ru": "A+ Mar = То, что не умирает",
+      "ksd_meta_ru": "Стать бессмертным.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "amrit",
@@ -201,6 +313,14 @@
       "source": "custom_mundavni_example"
     },
     {
+      "roman": "amrit",
+      "literal_ru": "Mrit (смерть) A (нет) + Mrit (смерть)- бессмертие",
+      "ksd_meta_ru": "Гурбани, Наам, Шабд.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "amul",
       "literal_ru": "A + Mul",
       "ksd_meta_ru": "- бесценное; то, что не может иметь ценности (слишком ценное)",
@@ -215,6 +335,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "amul",
+      "literal_ru": "A + Mul",
+      "ksd_meta_ru": "- бесценное; то, что не может иметь ценности (слишком ценное)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "anad",
@@ -233,6 +361,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "anad",
+      "literal_ru": "A + naad =",
+      "ksd_meta_ru": "без звука, без объёма, беззвучный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "anad anahat",
       "literal_ru": "(Lit) без ударных звуков",
       "ksd_meta_ru": "голос моей совести",
@@ -247,6 +383,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "anad anahat",
+      "literal_ru": "(Lit) без ударных звуков",
+      "ksd_meta_ru": "голос моей совести",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "anahat",
@@ -281,6 +425,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "andhey",
+      "literal_ru": "Слепой",
+      "ksd_meta_ru": "Невежество",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "anil",
       "literal_ru": "чистый",
       "ksd_meta_ru": "безупречный",
@@ -295,6 +447,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "anil",
+      "literal_ru": "чистый",
+      "ksd_meta_ru": "безупречный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "anunt",
@@ -313,6 +473,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "anunt",
+      "literal_ru": "безгранично",
+      "ksd_meta_ru": "Создатель, Божественность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "apey janney aap",
       "literal_ru": "самопознание самого себя (вспомним - саибханг)",
       "ksd_meta_ru": "внутренняя реализация; реализация внутри.",
@@ -327,6 +495,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "apey janney aap",
+      "literal_ru": "самопознание самого себя (вспомним - саибханг)",
+      "ksd_meta_ru": "внутренняя реализация; реализация внутри.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "arati",
@@ -353,6 +529,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "asankh",
+      "literal_ru": "Sankh- Считать",
+      "ksd_meta_ru": "A + Sankh- Неисчислимый, неизмеряемый, безлимитный, бесконечный.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "asankha",
       "literal_ru": "A + Sankh, бесчисленные",
       "ksd_meta_ru": "безграничные",
@@ -367,6 +551,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "asankha",
+      "literal_ru": "A + Sankh, бесчисленные",
+      "ksd_meta_ru": "безграничные",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "asgah",
@@ -385,6 +577,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "asgah",
+      "literal_ru": "Глубокий океан",
+      "ksd_meta_ru": "Духовная жизнь.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "aslu",
       "literal_ru": "(Lit) аутентичный, оригинальный",
       "ksd_meta_ru": "тот который имеет значение; корень того или иного значения / вопроса",
@@ -399,6 +599,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "aslu",
+      "literal_ru": "(Lit) аутентичный, оригинальный",
+      "ksd_meta_ru": "тот который имеет значение; корень того или иного значения / вопроса",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "athsath",
@@ -417,6 +625,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "athsath",
+      "literal_ru": "68",
+      "ksd_meta_ru": "Teeraths; места духовного паломничества (Тираты).",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "aveh",
       "literal_ru": "(Lit)  приход (чего-то)",
       "ksd_meta_ru": "достижение",
@@ -431,6 +647,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "aveh",
+      "literal_ru": "(Lit)  приход (чего-то)",
+      "ksd_meta_ru": "достижение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "avey",
@@ -449,6 +673,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "avey",
+      "literal_ru": "достигнут",
+      "ksd_meta_ru": "реализован",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "avra",
       "literal_ru": "нечто иное",
       "ksd_meta_ru": "отклоняющиеся, девиантные",
@@ -463,6 +695,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "avra",
+      "literal_ru": "нечто иное",
+      "ksd_meta_ru": "отклоняющиеся, девиантные",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "avtar",
+      "literal_ru": "аватар, воплощение",
+      "ksd_meta_ru": "цари и властители объявляли себя аватарами; Гурбани не принимает это как постижение предела Творца",
+      "confidence": 0.93,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
     },
     {
       "roman": "ayi panthi",
@@ -481,6 +729,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "ayi panthi",
+      "literal_ru": "ведущий путь, превосходный путь",
+      "ksd_meta_ru": "путь духовности (пантх - это не набор индивидов в Гурбани, это путь)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bahuta",
       "literal_ru": "(Lit) изобилие, много",
       "ksd_meta_ru": "более",
@@ -495,6 +751,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bahuta",
+      "literal_ru": "(Lit) изобилие, много",
+      "ksd_meta_ru": "более",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "baithey",
@@ -513,6 +777,22 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "baithey",
+      "literal_ru": "(Lit) сидеть на",
+      "ksd_meta_ru": "становиться",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "banna (nasal)",
+      "literal_ru": "завязывать",
+      "ksd_meta_ru": "собирать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "banni",
       "literal_ru": "(Lit) высказывание",
       "ksd_meta_ru": "шабд",
@@ -527,6 +807,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "banni",
+      "literal_ru": "(Lit) высказывание",
+      "ksd_meta_ru": "шабд",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhagt",
@@ -545,6 +833,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bhagt",
+      "literal_ru": "наполненный любовью",
+      "ksd_meta_ru": "божественность, преданность, набожность, бхакти",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bhakh",
       "literal_ru": "Есть",
       "ksd_meta_ru": "Потреблять, терпеть",
@@ -559,6 +855,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bhakh",
+      "literal_ru": "Есть",
+      "ksd_meta_ru": "Потреблять, терпеть",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhakhiya",
@@ -577,6 +881,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bhakhiya",
+      "literal_ru": "язык",
+      "ksd_meta_ru": "команда",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bhal thakey",
       "literal_ru": "Искать до конца",
       "ksd_meta_ru": "возможный поиск - в духовном смысле, окончательный поиск.",
@@ -591,6 +903,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bhal thakey",
+      "literal_ru": "Искать до конца",
+      "ksd_meta_ru": "возможный поиск - в духовном смысле, окончательный поиск.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhalee",
@@ -609,6 +929,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bhalee",
+      "literal_ru": "Хорошо",
+      "ksd_meta_ru": "Позитивно, применимо.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bhanda",
       "literal_ru": "(Lit) вместилище",
       "ksd_meta_ru": "разум (Bhanda Dohe - wash the container; cleansing mind)",
@@ -623,6 +951,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bhanda",
+      "literal_ru": "(Lit) вместилище",
+      "ksd_meta_ru": "разум (Bhanda Dohe - wash the container; cleansing mind)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhandar",
@@ -641,6 +977,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bhandar",
+      "literal_ru": "(Lit) коллекция,наполненность",
+      "ksd_meta_ru": "становление",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bhandaran",
       "literal_ru": "(from Bhandar- сокровищница, торговая лавка)",
       "ksd_meta_ru": "владелец; носитель",
@@ -655,6 +999,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bhandaran",
+      "literal_ru": "(from Bhandar- сокровищница, торговая лавка)",
+      "ksd_meta_ru": "владелец; носитель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhandari",
@@ -673,6 +1025,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bhandari",
+      "literal_ru": "(from Bhandar)- сокровище, хранилище",
+      "ksd_meta_ru": "владелец, носитель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bharma",
       "literal_ru": "божество Брахма",
       "ksd_meta_ru": "Порождение",
@@ -689,6 +1049,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bharma",
+      "literal_ru": "божество Брахма",
+      "ksd_meta_ru": "Порождение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bhauta",
       "literal_ru": "изобилие",
       "ksd_meta_ru": "большой, протяженный, великий",
@@ -703,6 +1071,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bhauta",
+      "literal_ru": "изобилие",
+      "ksd_meta_ru": "большой, протяженный, великий",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhav",
@@ -737,6 +1113,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bhebhut",
+      "literal_ru": "Khajana",
+      "ksd_meta_ru": "торговая лавка, сокровище",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bheyd",
       "literal_ru": "Внутренняя работа",
       "ksd_meta_ru": "Чувства (органы чувств)",
@@ -751,6 +1135,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bheyd",
+      "literal_ru": "Внутренняя работа",
+      "ksd_meta_ru": "Чувства (органы чувств)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhikh",
@@ -769,6 +1161,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "bhikh",
+      "literal_ru": "от Bhaykh",
+      "ksd_meta_ru": "Претенциозный, поддельный.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bhou",
       "literal_ru": "(Lit) страх",
       "ksd_meta_ru": "благоговение - в духовном смысле Нанака, т.к. в духовности Нанака нет страха. Это Nirmal Bhou Paya Har Gun Gaya - духовность достижения добродетелей основана только, если она связана с чем-то вроде “страха мирского”;",
@@ -783,6 +1183,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "bhou",
+      "literal_ru": "(Lit) страх",
+      "ksd_meta_ru": "благоговение - в духовном смысле Нанака, т.к. в духовности Нанака нет страха. Это Nirmal Bhou Paya Har Gun Gaya - духовность достижения добродетелей основана только, если она связана с чем-то вроде “страха мирского”;",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "bhumi",
@@ -809,6 +1217,14 @@
       "source": "custom_custom_examples_how_to_work_with_voc"
     },
     {
+      "roman": "bhumi",
+      "literal_ru": "(Lit) земля",
+      "ksd_meta_ru": "низкий",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "bhunchey",
       "literal_ru": "букв. переваривает",
       "ksd_meta_ru": "духовно — внутренне впитывает.",
@@ -833,6 +1249,22 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "brahma",
+      "literal_ru": "(Lit)",
+      "ksd_meta_ru": "творение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "brahma",
+      "literal_ru": "Брахма",
+      "ksd_meta_ru": "не духовный статус; ограниченная пураническая фигура, не образец реализации Единого",
+      "confidence": 0.95,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "chalaye",
       "literal_ru": "драйв, движущая сила",
       "ksd_meta_ru": "в его Хукаме; это сила внутри",
@@ -847,6 +1279,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "chalaye",
+      "literal_ru": "драйв, движущая сила",
+      "ksd_meta_ru": "в его Хукаме; это сила внутри",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "chaley",
@@ -865,6 +1305,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "chaley",
+      "literal_ru": "Путешествие",
+      "ksd_meta_ru": "следование, пересечение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "chand",
       "literal_ru": "(Lit) луна",
       "ksd_meta_ru": "непросвещённость (как состояние)",
@@ -879,6 +1327,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "chand",
+      "literal_ru": "(Lit) луна",
+      "ksd_meta_ru": "непросвещённость (как состояние)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "charan lag",
@@ -905,6 +1361,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "chit gupt",
+      "literal_ru": "(Lit) внутренний портрет",
+      "ksd_meta_ru": "разум",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "chor",
       "literal_ru": "Вор",
       "ksd_meta_ru": "Обман",
@@ -919,6 +1383,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "chor",
+      "literal_ru": "Вор",
+      "ksd_meta_ru": "Обман",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "chota(n) khaye",
+      "literal_ru": "получать побои",
+      "ksd_meta_ru": "страдать от последствий (idiomatic)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "dandda",
@@ -937,6 +1417,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dandda",
+      "literal_ru": "(Lit) стержень",
+      "ksd_meta_ru": "прямой, твёрдый (черты характера как стержень)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dar",
       "literal_ru": "(Lit) дверь",
       "ksd_meta_ru": "разум, восприятие.",
@@ -951,6 +1439,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dar",
+      "literal_ru": "(Lit) дверь",
+      "ksd_meta_ru": "разум, восприятие.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "dar (with sihari)",
+      "literal_ru": "дверной проём",
+      "ksd_meta_ru": "путь",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "darbar",
@@ -969,6 +1473,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "darbar",
+      "literal_ru": "Двора Творца",
+      "ksd_meta_ru": "Его Хукама",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dargah",
       "literal_ru": "Суд совести/ высшего разума",
       "ksd_meta_ru": "справедливость",
@@ -983,6 +1495,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dargah",
+      "literal_ru": "Суд совести/ высшего разума",
+      "ksd_meta_ru": "справедливость",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "dataar",
@@ -1001,6 +1521,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dataar",
+      "literal_ru": "Дающий",
+      "ksd_meta_ru": "Создатель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dayi daya",
       "literal_ru": "(Lit) гувернантки, няни",
       "ksd_meta_ru": "лицо, занимающееся уходом, обучением детей в частном домашнем хозяйстве; репетитор",
@@ -1015,6 +1543,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dayi daya",
+      "literal_ru": "(Lit) гувернантки, няни",
+      "ksd_meta_ru": "лицо, занимающееся уходом, обучением детей в частном домашнем хозяйстве; репетитор",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "deh deh",
@@ -1033,6 +1569,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "deh deh",
+      "literal_ru": "Дай!",
+      "ksd_meta_ru": "бесконечная отдача / “давание”",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "denn",
       "literal_ru": "(Lit) вносить вклад",
       "ksd_meta_ru": "отдавать.",
@@ -1047,6 +1591,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "denn",
+      "literal_ru": "(Lit) вносить вклад",
+      "ksd_meta_ru": "отдавать.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "dev",
+      "literal_ru": "дэв, бог",
+      "ksd_meta_ru": "не божественная сущность в смысле Сикхи; пураническая/социально-историческая категория, которую Гурбани демифологизирует",
+      "confidence": 0.93,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
     },
     {
       "roman": "devi",
@@ -1065,6 +1625,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "devi",
+      "literal_ru": "женское начало devta",
+      "ksd_meta_ru": "виртуозность, добродетельность (в Гурбани)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dey",
       "literal_ru": "Даёт",
       "ksd_meta_ru": "поддерживает творение",
@@ -1079,6 +1647,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dey",
+      "literal_ru": "Даёт",
+      "ksd_meta_ru": "поддерживает творение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "dhaol",
@@ -1097,6 +1673,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dhaol",
+      "literal_ru": "Белый",
+      "ksd_meta_ru": "Чистый",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dhaol dhrm",
       "literal_ru": "Чистый",
       "ksd_meta_ru": "Божественная духовность (в отличие от мирской / претенциозной / фальшивой религии)",
@@ -1111,6 +1695,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dhaol dhrm",
+      "literal_ru": "Чистый",
+      "ksd_meta_ru": "Божественная духовность (в отличие от мирской / претенциозной / фальшивой религии)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "dharam",
@@ -1129,6 +1721,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dharam",
+      "literal_ru": "(Lit) правила и законы (органические)",
+      "ksd_meta_ru": "Хукам",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dharam vicharey",
       "literal_ru": "духовный дискурс",
       "ksd_meta_ru": "духовные команды",
@@ -1143,6 +1743,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dharam vicharey",
+      "literal_ru": "духовный дискурс",
+      "ksd_meta_ru": "духовные команды",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "dhare pyaar",
@@ -1161,6 +1769,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dhare pyaar",
+      "literal_ru": "люби меня",
+      "ksd_meta_ru": "привести к осознанию Творца",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dharm",
       "literal_ru": "Законы, правила, регуляции - делай то, не делай то.",
       "ksd_meta_ru": "Хукам - это закон.",
@@ -1175,6 +1791,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dharm",
+      "literal_ru": "Законы, правила, регуляции - делай то, не делай то.",
+      "ksd_meta_ru": "Хукам - это закон.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "dharo",
@@ -1201,6 +1825,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dhartee",
+      "literal_ru": "Hirdey Dhartee",
+      "ksd_meta_ru": "- Совесть как Центр, Корень и Источник нашей духовной жизни",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dhaval",
       "literal_ru": "Бык поддерживающий землю",
       "ksd_meta_ru": "Законы природы, Хукам",
@@ -1217,6 +1849,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dhaval",
+      "literal_ru": "Бык поддерживающий землю",
+      "ksd_meta_ru": "Законы природы, Хукам",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dhavley",
       "literal_ru": "то, что является белым",
       "ksd_meta_ru": "Чистый, божественный.",
@@ -1231,6 +1871,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dhavley",
+      "literal_ru": "то, что является белым",
+      "ksd_meta_ru": "Чистый, божественный.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "dhu",
@@ -1257,6 +1905,14 @@
       "source": "custom_custom_examples_how_to_work_with_voc"
     },
     {
+      "roman": "dhu",
+      "literal_ru": "(Lit) путеводная звезда",
+      "ksd_meta_ru": "ведение (когда люди хотят, чтобы их вели - они должны ориентироваться на это; звезда что означает фиксированное направление движения)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dissey",
       "literal_ru": "видел",
       "ksd_meta_ru": "зная. пенджабская идиома.",
@@ -1271,6 +1927,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "dissey",
+      "literal_ru": "видел",
+      "ksd_meta_ru": "зная. пенджабская идиома.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "duar",
@@ -1289,6 +1953,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "duar",
+      "literal_ru": "Дверь",
+      "ksd_meta_ru": "Путь",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "dur",
       "literal_ru": "(Lit) далеко (от Создателя)",
       "ksd_meta_ru": "Не Реализованное состояни",
@@ -1305,6 +1977,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "dur",
+      "literal_ru": "(Lit) далеко (от Создателя)",
+      "ksd_meta_ru": "Не Реализованное состояниДуховность Сикха - это духовность для себя, а не для кого-то. Быть рядом с Творцом, соединиться с ним - означает реализовать его внутри.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "duur",
       "literal_ru": "далеко",
       "ksd_meta_ru": "вне досягаемости",
@@ -1319,6 +1999,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "duur",
+      "literal_ru": "далеко",
+      "ksd_meta_ru": "вне досягаемости",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "eh",
@@ -1353,6 +2041,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "ek daata",
+      "literal_ru": "Одному дающему",
+      "ksd_meta_ru": "Поддерживающий бытие; Хукам",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "ek vat",
       "literal_ru": "(Lit) одно",
       "ksd_meta_ru": "вещь, которая имеет ценность.",
@@ -1367,6 +2063,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "ek vat",
+      "literal_ru": "(Lit) одно",
+      "ksd_meta_ru": "вещь, которая имеет ценность.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "esar",
@@ -1385,6 +2089,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "esar",
+      "literal_ru": "Шивджи",
+      "ksd_meta_ru": "принцип разрушения",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "furmaey",
       "literal_ru": "Команда",
       "ksd_meta_ru": "Приказ",
@@ -1399,6 +2111,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "furmaey",
+      "literal_ru": "Команда",
+      "ksd_meta_ru": "Приказ",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gah",
@@ -1417,6 +2137,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gah",
+      "literal_ru": "Поиск",
+      "ksd_meta_ru": "Преследование",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "gavai",
       "literal_ru": "Петь",
       "ksd_meta_ru": "Воспринимать Хукам Творца как что-либо.",
@@ -1431,6 +2159,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "gavai",
+      "literal_ru": "Петь",
+      "ksd_meta_ru": "Воспринимать Хукам Творца как что-либо.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gavan",
@@ -1449,6 +2185,22 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gavan",
+      "literal_ru": "(Lit) петь",
+      "ksd_meta_ru": "в гармонии с",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "gavan (w/sihari)",
+      "literal_ru": "(Lit) петь",
+      "ksd_meta_ru": "быть в гармонии с",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "gavanharey",
       "literal_ru": "(Lit) певцы",
       "ksd_meta_ru": "выражение музыкальных тактов",
@@ -1463,6 +2215,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "gavanharey",
+      "literal_ru": "(Lit) певцы",
+      "ksd_meta_ru": "выражение музыкальных тактов",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gaveay",
@@ -1481,6 +2241,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gaveay",
+      "literal_ru": "Петь",
+      "ksd_meta_ru": "(процесс); принимать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "gaveh",
       "literal_ru": "(Lit) петь",
       "ksd_meta_ru": "в гармонии с",
@@ -1495,6 +2263,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "gaveh",
+      "literal_ru": "(Lit) петь",
+      "ksd_meta_ru": "в гармонии с",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gavhe",
@@ -1513,6 +2289,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gavhe",
+      "literal_ru": "(Lit) петь",
+      "ksd_meta_ru": "в гармонии с",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "geet",
       "literal_ru": "(Lit) Песня, idiomatic: разразиться песней (быть прерванным вдохновенным потоком песни)",
       "ksd_meta_ru": "наполняет меня молитвой; ревербация, отражение.",
@@ -1527,6 +2311,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "geet",
+      "literal_ru": "(Lit) Песня, idiomatic: разразиться песней (быть прерванным вдохновенным потоком песни)",
+      "ksd_meta_ru": "наполняет меня молитвой; ревербация, отражение.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gharrat gharreay",
@@ -1545,6 +2337,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gharrat gharreay",
+      "literal_ru": "(Lit) скульптурированный",
+      "ksd_meta_ru": "скульптура; созданный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "gharreay",
       "literal_ru": "глагол - предавать форму",
       "ksd_meta_ru": "осуществлять резьбу, скульптурировать",
@@ -1559,6 +2359,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "gharreay",
+      "literal_ru": "глагол - предавать форму",
+      "ksd_meta_ru": "осуществлять резьбу, скульптурировать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "girha",
@@ -1577,6 +2385,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "girha",
+      "literal_ru": "(Lit) гора",
+      "ksd_meta_ru": "метафора для обозначения чего-то непоколебимого.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "glla",
       "literal_ru": "говорить",
       "ksd_meta_ru": "повествовать",
@@ -1591,6 +2407,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "glla",
+      "literal_ru": "говорить",
+      "ksd_meta_ru": "повествовать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gorakh",
@@ -1609,6 +2433,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gorakh",
+      "literal_ru": "управитель (йогического) знания",
+      "ksd_meta_ru": "для Сикхов в этом контексте, принцип знания, просветлённости",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "gulvadh",
       "literal_ru": "(Lit) Обезглавить",
       "ksd_meta_ru": "устранить - в духовном смысле, применительно к внутреннему процессу. принудить к молчанию.",
@@ -1623,6 +2455,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "gulvadh",
+      "literal_ru": "(Lit) Обезглавить",
+      "ksd_meta_ru": "устранить - в духовном смысле, применительно к внутреннему процессу. принудить к молчанию.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "gunn",
+      "literal_ru": "Добродетели (Наам), атрибуты (божественные)",
+      "ksd_meta_ru": "paramatma de gunn paramatma de naam. Это в частности то, что описано в преамбуле - 7 добродетелей. Также есть 5 паап, пороков - каам, кродх, ахамкар, лабх, лобх и т.д.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gupt",
@@ -1641,6 +2489,30 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gupt",
+      "literal_ru": "(Lit) сокрытое",
+      "ksd_meta_ru": "внутреннее",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "gurmukh (sihari)",
+      "literal_ru": "Из уст Гуру",
+      "ksd_meta_ru": "Шабд",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "guru",
+      "literal_ru": "Гуру; наставляющее начало",
+      "ksd_meta_ru": "Бани как наставляющее Божественное Слово; обучающий принцип Хукама, ведущий от невежества к Свету",
+      "confidence": 0.96,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "gutt",
       "literal_ru": "Состояние",
       "ksd_meta_ru": "Духовное состояние",
@@ -1655,6 +2527,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "gutt",
+      "literal_ru": "Состояние",
+      "ksd_meta_ru": "Духовное состояние",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "gya",
@@ -1673,6 +2553,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "gya",
+      "literal_ru": "(Lit) ходить, путешествовать",
+      "ksd_meta_ru": "ориентироваться (в духовности)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "gye",
       "literal_ru": "(Lit) шёл, проезжал, путешествовал",
       "ksd_meta_ru": "становиться",
@@ -1687,6 +2575,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "gye",
+      "literal_ru": "(Lit) шёл, проезжал, путешествовал",
+      "ksd_meta_ru": "становиться",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "haath",
@@ -1705,6 +2601,22 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "haath",
+      "literal_ru": "Рука",
+      "ksd_meta_ru": "В руках. В пределах досягаемости.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "hath (w/sihari)",
+      "literal_ru": "(Lit) рука",
+      "ksd_meta_ru": "то что находится под рукой; развертывать, разворчаивать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "hathiar",
       "literal_ru": "(Lit) молот",
       "ksd_meta_ru": "инструмент для придания формы / отливать форму",
@@ -1719,6 +2631,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "hathiar",
+      "literal_ru": "(Lit) молот",
+      "ksd_meta_ru": "инструмент для придания формы / отливать форму",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "haumai",
@@ -1737,6 +2657,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "haumai",
+      "literal_ru": "эго",
+      "ksd_meta_ru": "что я существую",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "hoe vinnas",
       "literal_ru": "(Lit) уничтожен",
       "ksd_meta_ru": "улажен",
@@ -1751,6 +2679,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "hoe vinnas",
+      "literal_ru": "(Lit) уничтожен",
+      "ksd_meta_ru": "улажен",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "hoey udharo",
@@ -1761,6 +2697,14 @@
       "source": "custom_mundavni_example"
     },
     {
+      "roman": "ik ooangkar",
+      "literal_ru": "Единый Ооангкар",
+      "ksd_meta_ru": "Единый Создатель, присутствующий в своём творении и пронизывающий человеческую природу своим Хукамом",
+      "confidence": 0.95,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "ind",
       "literal_ru": "Божество Индра",
       "ksd_meta_ru": "Поддержка, управление процессами бытия.",
@@ -1775,6 +2719,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "ind",
+      "literal_ru": "Божество Индра",
+      "ksd_meta_ru": "Поддержка, управление процессами бытия.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "ind",
+      "literal_ru": "Индра",
+      "ksd_meta_ru": "не духовный статус; в Гурбани раскрывается как нравственно загрязнённая/мифологизированная фигура, а не духовная цель",
+      "confidence": 0.95,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
     },
     {
       "roman": "indasan",
@@ -1793,6 +2753,22 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "indasan",
+      "literal_ru": "Ind + Asan",
+      "ksd_meta_ru": "обитель божественного, внутренняя асана в божественности",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "isar",
+      "literal_ru": "Ишар / Шива",
+      "ksd_meta_ru": "не духовный статус; пураническая фигура, реальность которой Гурбани раскрывает и демифологизирует через слышание Шабда",
+      "confidence": 0.95,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "jaye",
       "literal_ru": "Продолжить",
       "ksd_meta_ru": "проведенный",
@@ -1807,6 +2783,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "jaye",
+      "literal_ru": "Продолжить",
+      "ksd_meta_ru": "проведенный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "jholi",
@@ -1825,6 +2809,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "jholi",
+      "literal_ru": "(Lit) (правительство букв.), одежда, ткань, физическое тело",
+      "ksd_meta_ru": "чувства - состояние органов чувств",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "jin kao",
       "literal_ru": "после чего",
       "ksd_meta_ru": "в результате чего",
@@ -1839,6 +2831,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "jin kao",
+      "literal_ru": "после чего",
+      "ksd_meta_ru": "в результате чего",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "jis",
@@ -1857,6 +2857,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "jis",
+      "literal_ru": "Те, которые",
+      "ksd_meta_ru": "те",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "jodh",
       "literal_ru": "(Lit) воин",
       "ksd_meta_ru": "храбрость",
@@ -1871,6 +2879,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "jodh",
+      "literal_ru": "(Lit) воин",
+      "ksd_meta_ru": "храбрость",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "jog",
@@ -1889,6 +2905,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "jog",
+      "literal_ru": "Союз",
+      "ksd_meta_ru": "Божественная реализация",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "jug charey",
       "literal_ru": "четыре века (психических состояния)",
       "ksd_meta_ru": "Расширенный",
@@ -1903,6 +2927,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "jug charey",
+      "literal_ru": "четыре века (психических состояния)",
+      "ksd_meta_ru": "Расширенный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "jug jug",
@@ -1921,6 +2953,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "jug jug",
+      "literal_ru": "в течение долгого периода времени",
+      "ksd_meta_ru": "всю жизнь; из юги в югу",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "jugat",
       "literal_ru": "Методы",
       "ksd_meta_ru": "Ориентация",
@@ -1935,6 +2975,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "jugat",
+      "literal_ru": "Методы",
+      "ksd_meta_ru": "Ориентация",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "jumm",
@@ -1953,6 +3001,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "jumm",
+      "literal_ru": "Солдаты смерти",
+      "ksd_meta_ru": "Пороки (переопределено в Гурбани)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "jut",
       "literal_ru": "(Lit) мораль",
       "ksd_meta_ru": "контроль над своими чувствами - согласно философии Нанака",
@@ -1967,6 +3023,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "jut",
+      "literal_ru": "(Lit) мораль",
+      "ksd_meta_ru": "контроль над своими чувствами - согласно философии Нанака",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "kadia",
@@ -1985,6 +3049,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kadia",
+      "literal_ru": "Исламское духовенство",
+      "ksd_meta_ru": "знания",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kaheay",
       "literal_ru": "(Lit) Говорить публично (speak out)",
       "ksd_meta_ru": "описывать, произносить.",
@@ -1999,6 +3071,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kaheay",
+      "literal_ru": "(Lit) Говорить публично (speak out)",
+      "ksd_meta_ru": "описывать, произносить.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "kapraa",
@@ -2017,6 +3097,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kapraa",
+      "literal_ru": "ткань",
+      "ksd_meta_ru": "усердие (Sift Saram Ka Kapra)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "karey",
       "literal_ru": "сила, стоящая за действием",
       "ksd_meta_ru": "сила, предшествующая действию",
@@ -2031,6 +3119,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "karey",
+      "literal_ru": "сила, стоящая за действием",
+      "ksd_meta_ru": "сила, предшествующая действию",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "karmi",
@@ -2049,6 +3145,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "karmi",
+      "literal_ru": "Дарительница благословений",
+      "ksd_meta_ru": "Создатель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kartey",
       "literal_ru": "Создатель",
       "ksd_meta_ru": "Сознание, в контексте Паури",
@@ -2063,6 +3167,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kartey",
+      "literal_ru": "Создатель",
+      "ksd_meta_ru": "Сознание, в контексте Паури",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "kaya",
@@ -2081,6 +3193,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kaya",
+      "literal_ru": "физическое тело",
+      "ksd_meta_ru": "чувство",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kayti",
       "literal_ru": "недомогание, болезнь, недуг, заболевание, хворь, расстройство",
       "ksd_meta_ru": "как Koor, Koorearr",
@@ -2095,6 +3215,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kayti",
+      "literal_ru": "недомогание, болезнь, недуг, заболевание, хворь, расстройство",
+      "ksd_meta_ru": "как Koor, Koorearr",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "keeetey",
@@ -2113,6 +3241,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "keeetey",
+      "literal_ru": "(Lit) Делая",
+      "ksd_meta_ru": "интернализируя",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "keeta andar keet",
       "literal_ru": "Червь среди червей, низкий",
       "ksd_meta_ru": "бесполезный",
@@ -2127,6 +3263,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "keeta andar keet",
+      "literal_ru": "Червь среди червей, низкий",
+      "ksd_meta_ru": "бесполезный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "keha",
@@ -2145,6 +3289,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "keha",
+      "literal_ru": "(Lit) Что",
+      "ksd_meta_ru": "(восклицание!) (“Какой у тебя голос! Какая замечательная идея!”)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kehn",
       "literal_ru": "(Lit) Говорить, произносить",
       "ksd_meta_ru": "стоящий",
@@ -2159,6 +3311,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kehn",
+      "literal_ru": "(Lit) Говорить, произносить",
+      "ksd_meta_ru": "стоящий",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "keytey",
@@ -2177,6 +3337,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "keytey",
+      "literal_ru": "множество",
+      "ksd_meta_ru": "неисчислимость",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "khahee",
       "literal_ru": "потребляется",
       "ksd_meta_ru": "пропитание",
@@ -2191,6 +3359,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "khahee",
+      "literal_ru": "потребляется",
+      "ksd_meta_ru": "пропитание",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "khala",
@@ -2209,6 +3385,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "khala",
+      "literal_ru": "(Lit) ревёт, раздувая огонь",
+      "ksd_meta_ru": "обмахивать, чтобы раздувать.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "khanni",
       "literal_ru": "от Khaan, мой",
       "ksd_meta_ru": "источник, источник (из которого мы что-то добываем)",
@@ -2223,6 +3407,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "khanni",
+      "literal_ru": "от Khaan, мой",
+      "ksd_meta_ru": "источник, источник (из которого мы что-то добываем)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "khavey",
@@ -2249,6 +3441,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kheh",
+      "literal_ru": "пепел",
+      "ksd_meta_ru": "разрушает (idiom)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kheyley",
       "literal_ru": "(Lit) игра",
       "ksd_meta_ru": "через игру",
@@ -2263,6 +3463,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kheyley",
+      "literal_ru": "(Lit) игра",
+      "ksd_meta_ru": "через игру",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "khup tuttey",
@@ -2281,6 +3489,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "khup tuttey",
+      "literal_ru": "(Lit) истощение",
+      "ksd_meta_ru": "Устранён; выбывание после изнурительной битвы;",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kirri",
       "literal_ru": "(Lit) муравей",
       "ksd_meta_ru": "незначительный (в духовном значении)",
@@ -2295,6 +3511,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kirri",
+      "literal_ru": "(Lit) муравей",
+      "ksd_meta_ru": "незначительный (в духовном значении)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "kita",
@@ -2313,6 +3537,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kita",
+      "literal_ru": "(Lit) деятельность, действия",
+      "ksd_meta_ru": "поступки",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kitay",
       "literal_ru": "создало",
       "ksd_meta_ru": "сгенерировало",
@@ -2329,6 +3561,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kitay",
+      "literal_ru": "создало",
+      "ksd_meta_ru": "сгенерировало",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "ko & kissey",
       "literal_ru": "множество (Koee)",
       "ksd_meta_ru": "например множество людей",
@@ -2343,6 +3583,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "ko & kissey",
+      "literal_ru": "множество (Koee)",
+      "ksd_meta_ru": "например множество людей",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "koey",
@@ -2377,6 +3625,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kooray",
+      "literal_ru": "Неосознающими, не-реализующими внутри (состояние)",
+      "ksd_meta_ru": "противоположно Sachiara",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kooree",
       "literal_ru": "те, кто без (осознания) Творца",
       "ksd_meta_ru": "те, кто отреклись от Творца, методы не требующие осознания Творца",
@@ -2391,6 +3647,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kooree",
+      "literal_ru": "те, кто без (осознания) Творца",
+      "ksd_meta_ru": "те, кто отреклись от Творца, методы не требующие осознания Творца",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "kotee",
@@ -2409,6 +3673,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kotee",
+      "literal_ru": "0.1 миллиона",
+      "ksd_meta_ru": "неисчислимый",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "kteba",
       "literal_ru": "(Lit) 4 духовные книги",
       "ksd_meta_ru": "метафора всех Авраамических религиозных книг (Abrahamic)",
@@ -2423,6 +3695,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "kteba",
+      "literal_ru": "(Lit) 4 духовные книги",
+      "ksd_meta_ru": "метафора всех Авраамических религиозных книг (Abrahamic)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "kuari",
@@ -2441,6 +3721,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "kuari",
+      "literal_ru": "свобода от страданий (пороков)",
+      "ksd_meta_ru": "освобождение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "lakh",
       "literal_ru": "Сто тысяч",
       "ksd_meta_ru": "неисчислимое",
@@ -2455,6 +3743,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "lakh",
+      "literal_ru": "Сто тысяч",
+      "ksd_meta_ru": "неисчислимое",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "laye",
@@ -2473,6 +3769,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "laye",
+      "literal_ru": "получает",
+      "ksd_meta_ru": "зарабатывает",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "ley ley",
       "literal_ru": "в идеальном ритме, совершенный порядок",
       "ksd_meta_ru": "перманентность",
@@ -2487,6 +3791,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "ley ley",
+      "literal_ru": "в идеальном ритме, совершенный порядок",
+      "ksd_meta_ru": "перманентность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "likh janeh",
@@ -2505,6 +3817,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "likh janeh",
+      "literal_ru": "(Lit) знать как писать",
+      "ksd_meta_ru": "способность записывать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "likh ley jah",
       "literal_ru": "(Lit) предназначенное для записи, письма",
       "ksd_meta_ru": "укореняться, усваиваться.",
@@ -2519,6 +3839,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "likh ley jah",
+      "literal_ru": "(Lit) предназначенное для записи, письма",
+      "ksd_meta_ru": "укореняться, усваиваться.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "likh likh",
@@ -2537,6 +3865,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "likh likh",
+      "literal_ru": "(Lit) записывать повторно",
+      "ksd_meta_ru": "становиться",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "likhanhaar",
       "literal_ru": "Писатель",
       "ksd_meta_ru": "Писательская способность",
@@ -2551,6 +3887,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "likhanhaar",
+      "literal_ru": "Писатель",
+      "ksd_meta_ru": "Писательская способность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "loe",
@@ -2569,6 +3913,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "loe",
+      "literal_ru": "(Lit) свет",
+      "ksd_meta_ru": "просветление",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "mahabl",
       "literal_ru": "Maha + Bal - буквально Великая сила, мощь, потенция, непоколебимость",
       "ksd_meta_ru": "решительность",
@@ -2583,6 +3935,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "mahabl",
+      "literal_ru": "Maha + Bal - буквально Великая сила, мощь, потенция, непоколебимость",
+      "ksd_meta_ru": "решительность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "mal dhan",
@@ -2601,6 +3961,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "mal dhan",
+      "literal_ru": "(Lit) Богатство",
+      "ksd_meta_ru": "ценность.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "maneya",
       "literal_ru": "(Lit) Верить, принимать",
       "ksd_meta_ru": "Становиться",
@@ -2615,6 +3983,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "maneya",
+      "literal_ru": "(Lit) Верить, принимать",
+      "ksd_meta_ru": "Становиться",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "manghey",
@@ -2633,6 +4009,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "manghey",
+      "literal_ru": "(Lit) спрашивать",
+      "ksd_meta_ru": "усваивать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "marag",
       "literal_ru": "Пути",
       "ksd_meta_ru": "Духовное путешествие к осознанию Творца",
@@ -2649,6 +4033,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "marag",
+      "literal_ru": "Пути",
+      "ksd_meta_ru": "Духовное путешествие к осознанию Творца",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "meh",
       "literal_ru": "Внутри Просветления",
       "ksd_meta_ru": "Реализация",
@@ -2663,6 +4055,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "meh",
+      "literal_ru": "Внутри Просветления",
+      "ksd_meta_ru": "Реализация",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "mer",
@@ -2689,6 +4089,14 @@
       "source": "custom_custom_examples_how_to_work_with_voc"
     },
     {
+      "roman": "mer",
+      "literal_ru": "(Lit) горы",
+      "ksd_meta_ru": "высокий, высший",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "mnoh na visreh",
       "literal_ru": "(Lit) Не удалено из моего ума",
       "ksd_meta_ru": "не забыто; отказываться",
@@ -2703,6 +4111,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "mnoh na visreh",
+      "literal_ru": "(Lit) Не удалено из моего ума",
+      "ksd_meta_ru": "не забыто; отказываться",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "moaan",
@@ -2721,6 +4137,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "moaan",
+      "literal_ru": "Тишина",
+      "ksd_meta_ru": "(также - стон или молчание); Свободный от отвлечения внимания",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "mokh",
       "literal_ru": "свобода от рабства",
       "ksd_meta_ru": "свобода",
@@ -2735,6 +4159,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "mokh",
+      "literal_ru": "свобода от рабства",
+      "ksd_meta_ru": "свобода",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "moot pleete",
@@ -2753,6 +4185,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "moot pleete",
+      "literal_ru": "Загрязненный (moot = моча, урина",
+      "ksd_meta_ru": "pleete - нечистоты)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "mreh",
       "literal_ru": "букв. мучительная смерть, страдать смертью",
       "ksd_meta_ru": "духовная смерть",
@@ -2767,6 +4207,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "mreh",
+      "literal_ru": "букв. мучительная смерть, страдать смертью",
+      "ksd_meta_ru": "духовная смерть",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "muhon",
@@ -2785,6 +4233,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "muhon",
+      "literal_ru": "изо рта",
+      "ksd_meta_ru": "полный, дискурс",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "mull",
       "literal_ru": "(Lit) Грязь",
       "ksd_meta_ru": "Отрицательный",
@@ -2799,6 +4255,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "mull",
+      "literal_ru": "(Lit) Грязь",
+      "ksd_meta_ru": "Отрицательный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "mun (w/sihari)",
+      "literal_ru": "внутри моего знания",
+      "ksd_meta_ru": "внутри",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "mund",
@@ -2817,6 +4289,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "mund",
+      "literal_ru": "Плохой",
+      "ksd_meta_ru": "Отрицание Создателя (противоположность Salahan)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "munt",
       "literal_ru": "руководство (корень: Mantar (мантар, а не мантра), совет к реализации не может использоваться как объект для повторения",
       "ksd_meta_ru": "он должен использоваться как наставление к реализации; послания не предназначены для повторений; наставления не достигаются через чантинг)",
@@ -2831,6 +4311,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "munt",
+      "literal_ru": "руководство (корень: Mantar (мантар, а не мантра), совет к реализации не может использоваться как объект для повторения",
+      "ksd_meta_ru": "он должен использоваться как наставление к реализации; послания не предназначены для повторений; наставления не достигаются через чантинг)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "mutt (sihari)",
+      "literal_ru": "Разум",
+      "ksd_meta_ru": "Духовность (место, где она проявляется)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "na avey toat",
@@ -2849,6 +4345,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "na avey toat",
+      "literal_ru": "не иначе",
+      "ksd_meta_ru": "неограниченный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "na janneah",
       "literal_ru": "(Lit) незнание",
       "ksd_meta_ru": "отсутствие отдельной идентичности; слияние. когда ты сливаешься, тогда нет отдельной идентичности.",
@@ -2863,6 +4367,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "na janneah",
+      "literal_ru": "(Lit) незнание",
+      "ksd_meta_ru": "отсутствие отдельной идентичности; слияние. когда ты сливаешься, тогда нет отдельной идентичности.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "na jaye",
@@ -2881,6 +4393,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "na jaye",
+      "literal_ru": "(Lit) не уходит",
+      "ksd_meta_ru": "вечный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "na sakey",
       "literal_ru": "не в состоянии",
       "ksd_meta_ru": "не мочь",
@@ -2895,6 +4415,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "na sakey",
+      "literal_ru": "не в состоянии",
+      "ksd_meta_ru": "не мочь",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "naam",
+      "literal_ru": "имя; добродетель; божественное присутствие",
+      "ksd_meta_ru": "принцип самопроявления Творца; Наам Единого есть Хукам, внутренний закон существования",
+      "confidence": 0.96,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
     },
     {
       "roman": "nadang",
@@ -2913,6 +4449,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "nadang",
+      "literal_ru": "звук",
+      "ksd_meta_ru": "повествование",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "nadar",
       "literal_ru": "Великолепние",
       "ksd_meta_ru": "Благословения; Просветление",
@@ -2927,6 +4471,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "nadar",
+      "literal_ru": "Великолепние",
+      "ksd_meta_ru": "Благословения; Просветление",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "nadar (w/sihari)",
+      "literal_ru": "(Lit) благословение (а не ВИДЕТЬ - второй источник путаницы",
+      "ksd_meta_ru": "это не naZar)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "nadiya atey vah",
@@ -2945,6 +4505,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "nadiya atey vah",
+      "literal_ru": "(Lit) в реках и водоемах течёт вода",
+      "ksd_meta_ru": "метафора разума и чувств, стремящихся к месту назначения. Здесь Нанак хочет усилить послание. Усилить идею о том, что разум и чувства должны двигаться в определённом направлении.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "nadri",
       "literal_ru": "Податель благодати",
       "ksd_meta_ru": "Создатель",
@@ -2959,6 +4527,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "nadri",
+      "literal_ru": "Податель благодати",
+      "ksd_meta_ru": "Создатель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "nahey",
@@ -2977,6 +4553,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "nahey",
+      "literal_ru": "отрицание",
+      "ksd_meta_ru": "отказ, извлечение; дизавуировать, отвергнуть",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "navaan khandaan",
       "literal_ru": "Девять континентов",
       "ksd_meta_ru": "вдоль и поперек, повсюду.",
@@ -2991,6 +4575,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "navaan khandaan",
+      "literal_ru": "Девять континентов",
+      "ksd_meta_ru": "вдоль и поперек, повсюду.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "navey",
@@ -3009,6 +4601,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "navey",
+      "literal_ru": "From Niyam",
+      "ksd_meta_ru": "Hukum, Order",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "nerrey",
       "literal_ru": "(Lit) около, близко (к Создателю)",
       "ksd_meta_ru": "Реализованное состояние",
@@ -3023,6 +4623,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "nerrey",
+      "literal_ru": "(Lit) около, близко (к Создателю)",
+      "ksd_meta_ru": "Реализованное состояние",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "nesaan",
@@ -3041,6 +4649,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "nesaan",
+      "literal_ru": "петь",
+      "ksd_meta_ru": "индикатор, знак",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "nich",
       "literal_ru": "(Lit) низкий",
       "ksd_meta_ru": "не стоящий себя",
@@ -3057,6 +4673,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "nich",
+      "literal_ru": "(Lit) низкий",
+      "ksd_meta_ru": "не стоящий себя",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "nindak",
       "literal_ru": "(Lit) Состояние ума",
       "ksd_meta_ru": "Ум, отрицающий Бога-Творца.",
@@ -3071,6 +4695,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "nindak",
+      "literal_ru": "(Lit) Состояние ума",
+      "ksd_meta_ru": "Ум, отрицающий Бога-Творца.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "nit nit",
@@ -3081,6 +4713,14 @@
       "source": "custom_mundavni_example"
     },
     {
+      "roman": "ooangkar",
+      "literal_ru": "Ооангкар; имя Творца",
+      "ksd_meta_ru": "Мастер без пределов, Причина всего, непрерывно осуществляющий всё во всём; Невыразимый через буквы",
+      "confidence": 0.94,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "paat",
       "literal_ru": "from patshah",
       "ksd_meta_ru": "Императоры",
@@ -3095,6 +4735,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "paat",
+      "literal_ru": "from patshah",
+      "ksd_meta_ru": "Императоры",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "pahara",
@@ -3113,6 +4761,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "pahara",
+      "literal_ru": "(Lit) рабочее место кузнеца по золоту/железу (место для изготовления ювелирных изделий)",
+      "ksd_meta_ru": "жизнь как рабочее место для духовности",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "pahe",
       "literal_ru": "Принять, подчиняться",
       "ksd_meta_ru": "идти по пути",
@@ -3127,6 +4783,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "pahe",
+      "literal_ru": "Принять, подчиняться",
+      "ksd_meta_ru": "идти по пути",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "paon panni baisantar",
@@ -3145,6 +4809,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "paon panni baisantar",
+      "literal_ru": "(Lit) воздух, вода и огонь",
+      "ksd_meta_ru": "(элементы)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "papi",
       "literal_ru": "Тот, кто совершает преступление(juram",
       "ksd_meta_ru": "временное)/ грех(paap; совершенное умом); Наполненный пороками разум.",
@@ -3159,6 +4831,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "papi",
+      "literal_ru": "Тот, кто совершает преступление(juram",
+      "ksd_meta_ru": "временное)/ грех(paap; совершенное умом); Наполненный пороками разум.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "paran",
@@ -3177,6 +4857,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "paran",
+      "literal_ru": "(Lit) читать",
+      "ksd_meta_ru": "достигать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "paravar",
       "literal_ru": "(Lit) эта сторона и та сторона",
       "ksd_meta_ru": "обычно это метафора водоёма, который ты хочешь пересечь.",
@@ -3191,6 +4879,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "paravar",
+      "literal_ru": "(Lit) эта сторона и та сторона",
+      "ksd_meta_ru": "обычно это метафора водоёма, который ты хочешь пересечь.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "parchand",
@@ -3209,6 +4905,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "parchand",
+      "literal_ru": "первостепенный, переопределяющий, жизненно важный",
+      "ksd_meta_ru": "верховный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "parvarey",
       "literal_ru": "Семья",
       "ksd_meta_ru": "Семья в отношении ума, манаса- (5 чувств/каналов восприятия)",
@@ -3223,6 +4927,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "parvarey",
+      "literal_ru": "Семья",
+      "ksd_meta_ru": "Семья в отношении ума, манаса- (5 чувств/каналов восприятия)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "parwaan",
@@ -3241,6 +4953,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "parwaan",
+      "literal_ru": "Стать принятым / одобренным / достойным",
+      "ksd_meta_ru": "Соответствовать. Fit",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "patal",
       "literal_ru": "(Lit) Внизу, очень низко",
       "ksd_meta_ru": "темнота",
@@ -3255,6 +4975,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "patal",
+      "literal_ru": "(Lit) Внизу, очень низко",
+      "ksd_meta_ru": "темнота",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "payeo",
@@ -3281,6 +5009,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "pichey",
+      "literal_ru": "Позади",
+      "ksd_meta_ru": "Последствие",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "poh",
       "literal_ru": "Коснуться",
       "ksd_meta_ru": "Производить эффект",
@@ -3295,6 +5031,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "poh",
+      "literal_ru": "Коснуться",
+      "ksd_meta_ru": "Производить эффект",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "poonji",
@@ -3313,6 +5057,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "poonji",
+      "literal_ru": "Collection, Summation",
+      "ksd_meta_ru": "Vikar- Vices SGGS 153",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "pundtee",
       "literal_ru": "(Lit) пандиты, духовные ученые",
       "ksd_meta_ru": "знания (Пандит экономики, Гуру менеджмента - ученые мужи)",
@@ -3327,6 +5079,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "pundtee",
+      "literal_ru": "(Lit) пандиты, духовные ученые",
+      "ksd_meta_ru": "знания (Пандит экономики, Гуру менеджмента - ученые мужи)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "putt",
@@ -3345,6 +5105,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "putt",
+      "literal_ru": "от Pati",
+      "ksd_meta_ru": "Lit Муж, Лорд, Мастер; Создатель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "pveh samund",
       "literal_ru": "(Lit)",
       "ksd_meta_ru": "впадать в океан; течь в океан божественных добродетелей; метафора становления, маннэ; река (из чувств и разума) втекает в океан (божественных добродетелей)",
@@ -3359,6 +5127,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "pveh samund",
+      "literal_ru": "(Lit)",
+      "ksd_meta_ru": "впадать в океан; течь в океан божественных добродетелей; метафора становления, маннэ; река (из чувств и разума) втекает в океан (божественных добродетелей)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "rag pri",
@@ -3377,6 +5153,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "rag pri",
+      "literal_ru": "(Lit) Rags и Sub-rags, музыкальные такты",
+      "ksd_meta_ru": "визуализация (рендеринг)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "rah",
       "literal_ru": "направление",
       "ksd_meta_ru": "творение",
@@ -3391,6 +5175,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "rah",
+      "literal_ru": "направление",
+      "ksd_meta_ru": "творение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "raheya samayee",
@@ -3409,6 +5201,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "raheya samayee",
+      "literal_ru": "проживает",
+      "ksd_meta_ru": "resides, пребывает, погруженный, содержащийся внутри",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "rahiya",
       "literal_ru": "буквально остатки",
       "ksd_meta_ru": "реализовывать",
@@ -3423,6 +5223,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "rahiya",
+      "literal_ru": "буквально остатки",
+      "ksd_meta_ru": "реализовывать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "rajaan",
@@ -3441,6 +5249,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "rajaan",
+      "literal_ru": "Король",
+      "ksd_meta_ru": "Создатель (как Высший авторитет моей духовности)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "rakheay",
       "literal_ru": "располагать, хранить, предлагать",
       "ksd_meta_ru": "Установить, определить.",
@@ -3455,6 +5271,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "rakheay",
+      "literal_ru": "располагать, хранить, предлагать",
+      "ksd_meta_ru": "Установить, определить.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "rakhey",
@@ -3473,6 +5297,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "rakhey",
+      "literal_ru": "(Lit) держать",
+      "ksd_meta_ru": "устанавливать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "ranga",
       "literal_ru": "цветной",
       "ksd_meta_ru": "проникнутой; пронизанной",
@@ -3487,6 +5319,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "ranga",
+      "literal_ru": "цветной",
+      "ksd_meta_ru": "проникнутой; пронизанной",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "rangi rangi",
@@ -3505,6 +5345,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "rangi rangi",
+      "literal_ru": "(Lit) красочно",
+      "ksd_meta_ru": "разнообразно",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "ratun",
       "literal_ru": "(Lit) жемчуг, бриллианты",
       "ksd_meta_ru": "драгоценные элементы",
@@ -3519,6 +5367,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "ratun",
+      "literal_ru": "(Lit) жемчуг, бриллианты",
+      "ksd_meta_ru": "драгоценные элементы",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "ridh sidh",
@@ -3537,6 +5393,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "ridh sidh",
+      "literal_ru": "(Lit) магические занятия",
+      "ksd_meta_ru": "анти-хукам практики",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "rung",
       "literal_ru": "(Lit) Цвет",
       "ksd_meta_ru": "Наполнять, проявлять.",
@@ -3551,6 +5415,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "rung",
+      "literal_ru": "(Lit) Цвет",
+      "ksd_meta_ru": "Наполнять, проявлять.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "saad",
@@ -3569,6 +5441,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "saad",
+      "literal_ru": "1.  Эссенция, сущность (божественные добродетели должны быть реализованы в уме и в совести",
+      "ksd_meta_ru": "люди, не следующие духовности шабда, не смогут осознать этого принципа) SGGS 644 2. Принцип и его философия, манмукскхая садхана SGGS 1058 & 116 3. Удовлетворенность SGGS 474 4) Разрушение на санскрите",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "saar",
       "literal_ru": "Железо",
       "ksd_meta_ru": "Проблемы, испытания",
@@ -3585,6 +5465,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "saar",
+      "literal_ru": "Железо",
+      "ksd_meta_ru": "Проблемы, испытания",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sabh ja ke",
       "literal_ru": "все, кого …",
       "ksd_meta_ru": "кем …",
@@ -3599,6 +5487,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sabh ja ke",
+      "literal_ru": "все, кого …",
+      "ksd_meta_ru": "кем …",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sabh ko",
@@ -3633,6 +5529,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sachi taksal",
+      "literal_ru": "двор для  чеканки, плавки, скульптурирования",
+      "ksd_meta_ru": "двор Создателя; Совесть",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sadh",
       "literal_ru": "от Sadhana;sodh; Sedh",
       "ksd_meta_ru": "исправлять, корректировать; приводить в соответствие",
@@ -3647,6 +5551,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sadh",
+      "literal_ru": "от Sadhana;sodh; Sedh",
+      "ksd_meta_ru": "исправлять, корректировать; приводить в соответствие",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sagal",
@@ -3665,6 +5577,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sagal",
+      "literal_ru": "Целый",
+      "ksd_meta_ru": "Завершенный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "salahan",
       "literal_ru": "Хвала",
       "ksd_meta_ru": "Признательность",
@@ -3679,6 +5599,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "salahan",
+      "literal_ru": "Хвала",
+      "ksd_meta_ru": "Признательность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "salahh",
@@ -3697,6 +5625,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "salahh",
+      "literal_ru": "(Lit) восхваление",
+      "ksd_meta_ru": "величие",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "salahi salah",
       "literal_ru": "непрерывное восхваление",
       "ksd_meta_ru": "непрерывное признание ценности; реализация",
@@ -3711,6 +5647,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "salahi salah",
+      "literal_ru": "непрерывное восхваление",
+      "ksd_meta_ru": "непрерывное признание ценности; реализация",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "samund",
@@ -3729,6 +5673,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "samund",
+      "literal_ru": "(Lit) Океан",
+      "ksd_meta_ru": "неизмеримой величины. (человек - океан добродетелей;)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sansar",
       "literal_ru": "(Lit) мир",
       "ksd_meta_ru": "временной",
@@ -3745,6 +5697,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sansar",
+      "literal_ru": "(Lit) мир",
+      "ksd_meta_ru": "временной",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sara",
       "literal_ru": "Океан",
       "ksd_meta_ru": "неограниченный, полный",
@@ -3759,6 +5719,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sara",
+      "literal_ru": "Океан",
+      "ksd_meta_ru": "неограниченный, полный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "sarm (персидское слово)",
+      "literal_ru": "Mehnat",
+      "ksd_meta_ru": "Ghalna, усердие, трудолюбие, настойчивость, тяжелая работа",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sat",
@@ -3785,6 +5761,22 @@
       "source": "custom_mundavni_example"
     },
     {
+      "roman": "sat",
+      "literal_ru": "Создатель",
+      "ksd_meta_ru": "Божественный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "sat naam",
+      "literal_ru": "Сат Наам; в существовании пребывающий Наам",
+      "ksd_meta_ru": "Единый Бог, пребывающий в Едином Существовании через Свой Наам; Наам как Хукам внутри существования",
+      "confidence": 0.96,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "sehs athara",
       "literal_ru": "(Lit) 18 тысяч",
       "ksd_meta_ru": "метафора для суммирования всей индийской духовности. Идиома.",
@@ -3799,6 +5791,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sehs athara",
+      "literal_ru": "(Lit) 18 тысяч",
+      "ksd_meta_ru": "метафора для суммирования всей индийской духовности. Идиома.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "ser",
@@ -3817,6 +5817,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "ser",
+      "literal_ru": "(Lit) у каждого в голове",
+      "ksd_meta_ru": "нести бремя (бремя на голову)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sev",
       "literal_ru": "from Sevak",
       "ksd_meta_ru": "последователи",
@@ -3831,6 +5839,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sev",
+      "literal_ru": "from Sevak",
+      "ksd_meta_ru": "последователи",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "shah sultan",
@@ -3849,6 +5865,22 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "shah sultan",
+      "literal_ru": "(Lit)",
+      "ksd_meta_ru": "Шах, Султан, царь царей. Возвышенный.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "sift salah (w/sihari)",
+      "literal_ru": "тот, кто достоин всей Похвалы",
+      "ksd_meta_ru": "создатель; быть тем, кто достоин всей Похвалы;",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sifti",
       "literal_ru": "(Lit) восхваления",
       "ksd_meta_ru": "добродетели",
@@ -3863,6 +5895,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sifti",
+      "literal_ru": "(Lit) восхваления",
+      "ksd_meta_ru": "добродетели",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sikh",
@@ -3881,6 +5921,30 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sikh",
+      "literal_ru": "от Sikhiya",
+      "ksd_meta_ru": "сообщение, совет, руководство",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "sikhi",
+      "literal_ru": "учение; ученичество",
+      "ksd_meta_ru": "учение, обретаемое через опытное исследование Гуру / Слова Гуру",
+      "confidence": 0.94,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "roman": "simran",
+      "literal_ru": "памятование, вспоминание; держать в уме",
+      "ksd_meta_ru": "созерцательное восприятие Творца через удерживание Наам внутри ума",
+      "confidence": 0.96,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "sio kahean",
       "literal_ru": "(Lit) произносить",
       "ksd_meta_ru": "Command",
@@ -3895,6 +5959,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sio kahean",
+      "literal_ru": "(Lit) произносить",
+      "ksd_meta_ru": "Command",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sirr",
@@ -3913,6 +5985,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sirr",
+      "literal_ru": "(Lit) Голова",
+      "ksd_meta_ru": "Разум",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "smadhi",
       "literal_ru": "созерцание",
       "ksd_meta_ru": "фокус, самадхи (в данном контексте); погружение внутрь себя",
@@ -3927,6 +6007,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "smadhi",
+      "literal_ru": "созерцание",
+      "ksd_meta_ru": "фокус, самадхи (в данном контексте); погружение внутрь себя",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "smaley",
@@ -3945,6 +6033,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "smaley",
+      "literal_ru": "заботиться о",
+      "ksd_meta_ru": "взять на себя ответственность",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sohan sada",
       "literal_ru": "в высшей степени красивый",
       "ksd_meta_ru": "божественная красота",
@@ -3959,6 +6055,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sohan sada",
+      "literal_ru": "в высшей степени красивый",
+      "ksd_meta_ru": "божественная красота",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sualeho",
@@ -3977,6 +6081,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sualeho",
+      "literal_ru": "Тот, кто даёт ответы",
+      "ksd_meta_ru": "Достойный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "sudh",
       "literal_ru": "Пробужденность",
       "ksd_meta_ru": "Просветлённость",
@@ -3991,6 +6103,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "sudh",
+      "literal_ru": "Пробужденность",
+      "ksd_meta_ru": "Просветлённость",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sujhayee",
@@ -4009,6 +6129,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sujhayee",
+      "literal_ru": "Знать",
+      "ksd_meta_ru": "Вникать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "suneay",
       "literal_ru": "Слушать",
       "ksd_meta_ru": "принять, адаптировать в себе",
@@ -4023,6 +6151,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "suneay",
+      "literal_ru": "Слушать",
+      "ksd_meta_ru": "принять, адаптировать в себе",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "suneya",
@@ -4041,6 +6177,22 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "suneya",
+      "literal_ru": "(Lit) Слушать",
+      "ksd_meta_ru": "Интернализировать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "suniai isar brahma ind",
+      "literal_ru": "через слышание — Ишар, Брахма, Индра",
+      "ksd_meta_ru": "через подлинное слышание Шабда раскрывается реальность этих так называемых богов; это не получение их статуса",
+      "confidence": 0.97,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "suniyar",
       "literal_ru": "(Lit) ювелир как мастер/создатель/источник своих творений",
       "ksd_meta_ru": "источник/происхождение нашей духовности",
@@ -4055,6 +6207,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "suniyar",
+      "literal_ru": "(Lit) ювелир как мастер/создатель/источник своих творений",
+      "ksd_meta_ru": "источник/происхождение нашей духовностиЗдесь нам важно понять:",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "sunnen",
@@ -4073,6 +6233,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "sunnen",
+      "literal_ru": "(Lit) слушая",
+      "ksd_meta_ru": "становление",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "surga",
       "literal_ru": "(Lit) рай",
       "ksd_meta_ru": "высокие, духовные мысли, возвышенные мысли - более выского уровня.",
@@ -4089,6 +6257,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "surga",
+      "literal_ru": "(Lit) рай",
+      "ksd_meta_ru": "высокие, духовные мысли, возвышенные мысли - более выского уровня.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "surtee",
       "literal_ru": "Созерцание",
       "ksd_meta_ru": "фокус",
@@ -4103,6 +6279,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "surtee",
+      "literal_ru": "Созерцание",
+      "ksd_meta_ru": "фокус",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "tam sansar",
@@ -4129,6 +6313,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "tarey",
+      "literal_ru": "Заставить переплыть",
+      "ksd_meta_ru": "Обеспечить духовную задачу",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "tariay",
       "literal_ru": "букв. переплыть",
       "ksd_meta_ru": "духовно — пройти жизнь.",
@@ -4151,6 +6343,22 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "teerath",
+      "literal_ru": "(Lit) места паломничества",
+      "ksd_meta_ru": "очищения",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "teerath (w/sihari)",
+      "literal_ru": "(Lit) Паломничество",
+      "ksd_meta_ru": "Ритуальное очищение",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "thaal",
@@ -4177,6 +6385,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "thaav",
+      "literal_ru": "(Lit) место",
+      "ksd_meta_ru": "юрисдикция (в контексте Naav)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "thao",
       "literal_ru": "(Lit) place",
       "ksd_meta_ru": "jurisdiction",
@@ -4191,6 +6407,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "thao",
+      "literal_ru": "(Lit) place",
+      "ksd_meta_ru": "jurisdiction",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "til",
@@ -4209,6 +6433,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "til",
+      "literal_ru": "(Lit) кунжутное семя",
+      "ksd_meta_ru": "частичка",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "til ka",
       "literal_ru": "(Lit) Кунжутное семя",
       "ksd_meta_ru": "миниатюрный; временной",
@@ -4223,6 +6455,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "til ka",
+      "literal_ru": "(Lit) Кунжутное семя",
+      "ksd_meta_ru": "миниатюрный; временной",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "tis",
@@ -4241,6 +6481,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "tis",
+      "literal_ru": "в этом случае, (контекст SELF)",
+      "ksd_meta_ru": "тогда",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "tis uchey ko",
       "literal_ru": "Тот, кто Возвышен",
       "ksd_meta_ru": "Создатель",
@@ -4255,6 +6503,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "tis uchey ko",
+      "literal_ru": "Тот, кто Возвышен",
+      "ksd_meta_ru": "Создатель",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "tiss",
@@ -4273,6 +6529,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "tiss",
+      "literal_ru": "Его",
+      "ksd_meta_ru": "Создателя",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "tiv tiv",
       "literal_ru": "Прям как (что-либо, кто-либо)",
       "ksd_meta_ru": "Все",
@@ -4287,6 +6551,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "tiv tiv",
+      "literal_ru": "Прям как (что-либо, кто-либо)",
+      "ksd_meta_ru": "Все",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "trey",
@@ -4305,6 +6577,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "trey",
+      "literal_ru": "Переплыть через",
+      "ksd_meta_ru": "Духовная задача",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "tul",
       "literal_ru": "(Lit) тула, весы для взвешивания",
       "ksd_meta_ru": "такари на панджаби",
@@ -4319,6 +6599,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "tul",
+      "literal_ru": "(Lit) тула, весы для взвешивания",
+      "ksd_meta_ru": "такари на панджаби",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "tunn",
@@ -4337,6 +6625,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "tunn",
+      "literal_ru": "тело",
+      "ksd_meta_ru": "физические существа",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "tup",
       "literal_ru": "Покаяние, аскеза",
       "ksd_meta_ru": "интенсивная форма ритуальной практики",
@@ -4351,6 +6647,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "tup",
+      "literal_ru": "Покаяние, аскеза",
+      "ksd_meta_ru": "интенсивная форма ритуальной практики",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "tup tao",
@@ -4369,6 +6673,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "tup tao",
+      "literal_ru": "(Lit) тает от жара",
+      "ksd_meta_ru": "трудиться с мощными усердиями; усердно трудиться",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "ucha",
       "literal_ru": "Возвышенный",
       "ksd_meta_ru": "великолепный",
@@ -4385,6 +6697,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "ucha",
+      "literal_ru": "Возвышенный",
+      "ksd_meta_ru": "великолепный",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "upar",
       "literal_ru": "Над / Наверху",
       "ksd_meta_ru": "на нём (сверху на чём-то, как груз",
@@ -4399,6 +6719,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "upar",
+      "literal_ru": "Над / Наверху",
+      "ksd_meta_ru": "на нём (сверху на чём-то, как груз",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "ur",
@@ -4425,6 +6753,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "uth uth jahe",
+      "literal_ru": "с энтузиазмом",
+      "ksd_meta_ru": "Gusto, fervor",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "vadda",
       "literal_ru": "Великий, высший",
       "ksd_meta_ru": "первенство",
@@ -4439,6 +6775,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "vadda",
+      "literal_ru": "Великий, высший",
+      "ksd_meta_ru": "первенство",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "vajey",
@@ -4457,6 +6801,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "vajey",
+      "literal_ru": "(Lit)  играть на инструменте",
+      "ksd_meta_ru": "создавать, генерировать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "vapar",
       "literal_ru": "(Lit) относится к торговле (отдача чего-то, получение чего-то), обмену",
       "ksd_meta_ru": "практика",
@@ -4471,6 +6823,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "vapar",
+      "literal_ru": "(Lit) относится к торговле (отдача чего-то, получение чего-то), обмену",
+      "ksd_meta_ru": "практика",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "vapareay",
@@ -4489,6 +6849,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "vapareay",
+      "literal_ru": "(Lit) торговцы, те кто реализуют в мир добродетели получив их от Творца",
+      "ksd_meta_ru": "“практикующий торговлю добродетелями”",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "vedang",
       "literal_ru": "знание",
       "ksd_meta_ru": "просветление",
@@ -4503,6 +6871,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "vedang",
+      "literal_ru": "знание",
+      "ksd_meta_ru": "просветление",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "vekhei",
@@ -4521,6 +6897,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "vekhei",
+      "literal_ru": "(Lit) видеть",
+      "ksd_meta_ru": "оценивать (источник неправильных переводов; в духе “Бог нас видит, но мы не видим Бога” - это часто так переводят, что ошибочно)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "vekhey",
       "literal_ru": "Знающий",
       "ksd_meta_ru": "Понимать",
@@ -4535,6 +6919,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "vekhey",
+      "literal_ru": "Знающий",
+      "ksd_meta_ru": "Понимать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "vela",
@@ -4553,6 +6945,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "vela",
+      "literal_ru": "Время",
+      "ksd_meta_ru": "определение/создание времени/описательное (нет фиксированного времени! Не предрассветные часы!); Человеческая жизнь, Хьюман Лайфтайм.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "veparvah",
       "literal_ru": "без забот",
       "ksd_meta_ru": "несмотря на",
@@ -4569,6 +6969,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "veparvah",
+      "literal_ru": "без забот",
+      "ksd_meta_ru": "несмотря на",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "veykhey",
       "literal_ru": "(Lit) смотреть",
       "ksd_meta_ru": "оценивать (делаем что-то, чтобы понять - стоит ли браться за это в дальнейшем)",
@@ -4583,6 +6991,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "veykhey",
+      "literal_ru": "(Lit) смотреть",
+      "ksd_meta_ru": "оценивать (делаем что-то, чтобы понять - стоит ли браться за это в дальнейшем)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "vich",
@@ -4609,6 +7025,22 @@
       "source": "custom_mundavni_example"
     },
     {
+      "roman": "vich",
+      "literal_ru": "Внутри",
+      "ksd_meta_ru": "Интернализировать, усвоить.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
+      "roman": "vichar",
+      "literal_ru": "размышление, исследование, осмысление",
+      "ksd_meta_ru": "деятельное исследование Бога, Наам и Хукама в собственной жизни через различающий опыт",
+      "confidence": 0.94,
+      "grammar_note": null,
+      "source": "manual_ksd_user_terms"
+    },
+    {
       "roman": "vicharo",
       "literal_ru": "букв. размышление, рассуждение",
       "ksd_meta_ru": "духовно — божественное просветление.",
@@ -4633,6 +7065,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "vidiya",
+      "literal_ru": "обучение",
+      "ksd_meta_ru": "знание, просветлённость",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "vikhum",
       "literal_ru": "трудный",
       "ksd_meta_ru": "за пределами возможностей человеческого интеллекта",
@@ -4647,6 +7087,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "vikhum",
+      "literal_ru": "трудный",
+      "ksd_meta_ru": "за пределами возможностей человеческого интеллекта",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "vir",
@@ -4665,6 +7113,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "vir",
+      "literal_ru": "(Lit) воин",
+      "ksd_meta_ru": "мужество",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "viser na jayee",
       "literal_ru": "разделять, не забывать",
       "ksd_meta_ru": "освобождать, отправлять восвояси (куда подальше)",
@@ -4679,6 +7135,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "viser na jayee",
+      "literal_ru": "разделять, не забывать",
+      "ksd_meta_ru": "освобождать, отправлять восвояси (куда подальше)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "vsaey",
@@ -4697,6 +7161,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "vsaey",
+      "literal_ru": "букв. обитать, пребывать",
+      "ksd_meta_ru": "Реализовывать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "vsey",
       "literal_ru": "букв. жить, обитать",
       "ksd_meta_ru": "реализовывать",
@@ -4711,6 +7183,14 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "jbani_v1"
+    },
+    {
+      "roman": "vsey",
+      "literal_ru": "букв. жить, обитать",
+      "ksd_meta_ru": "реализовывать",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     },
     {
       "roman": "ава гаван",
@@ -4753,6 +7233,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "возвышаться через скульптурирование нашего разума",
+      "literal_ru": "чтобы он превратился в Шабд (Karie Shabd Sachi Taksal",
+      "ksd_meta_ru": "Nanak Nadri Nadar Nihal)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "высшая радость, supreme joy",
       "literal_ru": "это благословение милостью Творца (радость, которую не выразить словами",
       "ksd_meta_ru": "духовная радость от осознания Творца внутри себя)",
@@ -4769,12 +7257,44 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "высшая радость, supreme joy",
+      "literal_ru": "это благословение милостью Творца (радость, которую не выразить словами",
+      "ksd_meta_ru": "духовная радость от осознания Творца внутри себя)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "дарга / даргах",
       "literal_ru": "«двор», «присутствие суда»",
       "ksd_meta_ru": "духовный термин, требующий понимания в контексте Гурбани.",
       "confidence": 0.85,
       "grammar_note": null,
       "source": "concepts_sikhi"
+    },
+    {
+      "roman": "добродетель",
+      "literal_ru": "Наам, божественное качество, божественный атрибут, божественной свойство; Virtue;",
+      "ksd_meta_ru": "Люди дают божественности имена, согласно тем свойствам, которые она им открывает. Эти имена есть “Наам”. Добродетель, Наам заключается в том, что она берет своё начало не из самого человека, а из Присутствия Создателя (Ооангкара) внутри человека. Например, Nirabhau (вне страха). Это бесстрашие, связанное с реализацией своего Единства с Тем, по отношению к Которому нет второй сущности. Это не некая отвага или мужество в привычном смысле, где сама отвага имеет некую мирскую природу, где эта отвага мотивирована какими-то интересами, и имеет тень в виде “смелости / мужества”. Абсолютные ценности побуждают к Абсолютному Бесстрашию. Такому бесстрашию, которое не становится ниже или выше, в зависимости от обстоятельств временного мира. Это духовное бесстрашие. Оно проникнуто различающим, проницательным видением. Относительные ценности, связанные с мирскими вещами, побуждают к Относительному бесстрашию. Если обстоятельства временного мира изменятся (или обещания “рая”, относящиеся к исполнению желаний относящихся к мирскому), то вместе с этим изменится и бесстрашие. Такому бесстрашию часто не достаёт различающего видения и проницательности. В этом ключевое отличие мирского бесстрашия и духовного – и критерий божественных атрибутов.",
+      "confidence": 0.88,
+      "grammar_note": null,
+      "source": "ast_example"
+    },
+    {
+      "roman": "духовность ради кого",
+      "literal_ru": "то другого, или духовность навязанная с рождением",
+      "ksd_meta_ru": "не ради себя, ради показного эффекта\tДуховность - из себя, для себя",
+      "confidence": 0.85,
+      "grammar_note": null,
+      "source": "jbani_v2"
+    },
+    {
+      "roman": "духовность ради кого",
+      "literal_ru": "то другого, или духовность навязанная с рождением",
+      "ksd_meta_ru": "не ради себя, ради показного эффекта\tДуховность - из себя, для себя",
+      "confidence": 0.85,
+      "grammar_note": null,
+      "source": "jbani_v1"
     },
     {
       "roman": "дхарм радж",
@@ -4809,12 +7329,28 @@
       "source": "course_4"
     },
     {
+      "roman": "милость",
+      "literal_ru": "Надар, Бакшиш, Шактипат, Баракят, Благодать, Ануграха",
+      "ksd_meta_ru": "Переживание, где Ооангкар раскрывает человеку себя, проявляет себя в нём, уплотняет себя в нём; и раскрывает знание об обыденной и высшей реальности, которые оказываются Достоверными, Надёжными, выдерживающими проверку реальностью.",
+      "confidence": 0.88,
+      "grammar_note": null,
+      "source": "ast_example"
+    },
+    {
       "roman": "мукти",
       "literal_ru": "освобождение",
       "ksd_meta_ru": "в Сикхи прежде всего как внутреннее освобождение при жизни.",
       "confidence": 0.85,
       "grammar_note": null,
       "source": "concepts_sikhi"
+    },
+    {
+      "roman": "настоящее, настоящий",
+      "literal_ru": "Вечное, Сач, Настоящий, Создатель, Вечный Создатель",
+      "ksd_meta_ru": "То, что стоит над нами, то, что присутствует здесь и теперь.«На» — предлог, указывающий на местоположение, близость.«Стоящее» — от глагола стоять, т.е. то, что стоит, пребывает, имеет устойчивое присутствие.В древнерусском и старославянском это слово могло означать нечто происходящее прямо сейчас, находящееся в непосредственной близости, буквально стоящее перед глазами, перед умом.Со временем оно приобрело абстрактное значение «текущий момент времени» — то, что есть, в отличие от того, что было (прошлое) и того, что будет (будущее).",
+      "confidence": 0.88,
+      "grammar_note": null,
+      "source": "ast_example"
     },
     {
       "roman": "он видит и слышит",
@@ -4841,12 +7377,28 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "реализация хукама",
+      "literal_ru": "это реализация Творца (Nanak Hukmey Je Budhjey Ta Haumai Kahei Na Koi - от “я” к “ты”",
+      "ksd_meta_ru": "монета перевернулась, и стало понятно, что другая сторона монеты - это Ты)",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "сатгуру",
       "literal_ru": "Истинный Гуру",
       "ksd_meta_ru": "в контексте Сикхи — просветляющее руководство Божественным Словом.",
       "confidence": 0.85,
       "grammar_note": null,
       "source": "concepts_sikhi"
+    },
+    {
+      "roman": "сачиара",
+      "literal_ru": "Богореализованное существо",
+      "ksd_meta_ru": "Как стать Сачиарой – описывает Джап джи",
+      "confidence": 0.88,
+      "grammar_note": null,
+      "source": "ast_example"
     },
     {
       "roman": "сикхизм",
@@ -4865,6 +7417,30 @@
       "source": "custom_номер_1_из_неправильно_приведенных_шабдов_с_разбором"
     },
     {
+      "roman": "слово",
+      "literal_ru": "Шабд",
+      "ksd_meta_ru": "Письмо потока Хукама, живого закона; Гурбани, божественная речь",
+      "confidence": 0.88,
+      "grammar_note": null,
+      "source": "ast_example"
+    },
+    {
+      "roman": "совесть",
+      "literal_ru": "Просветленная Совесть, “Реагирующее Начало”, Внутренний “Суд Совести”, “пробный камень милости”; Conscience",
+      "ksd_meta_ru": "Совесть - внутри человека, берущая своё начало из Бесконечной сущности (Ооангкар), а не сущности, имеющей предел, сторону и так далее. В этом состоит “просветлённость”. Это духовная совесть, а не мирская, социальная.Эту совесть можно понять и определить внутри как “реагирующее начало”. В каждом из нас - есть \"реагирующее начало\". Это те глубинные реакции возникающие в нас, которые предшествуют нашей мыслительной обработке. Тот первичный уровень, энергия, чувство направления, которое приходит к нам, которое мы не можем выбрать, в отношении которого мы строим свою жизнь и считаем это “самой глубинной глубиной” себя.",
+      "confidence": 0.88,
+      "grammar_note": null,
+      "source": "ast_example"
+    },
+    {
+      "roman": "хукам",
+      "literal_ru": "Божественная Воля, Живой Закон, Закон Природы, Дхарам",
+      "ksd_meta_ru": "Твой Наам – это Хукам Принцип Закона – начинающегося с законов природы, боли или удовольствия, учитывания или игнорирования обратной связи от реальности; начинающийся со здравого смысла, физических вещей. И, путешествуя по следам этого Закона, можно найти Закон Божественный, с той же отчетливой силой Его Реализма, которая присутствует и в законах обыденной реальности.",
+      "confidence": 0.88,
+      "grammar_note": null,
+      "source": "ast_example"
+    },
+    {
       "roman": "чтение смрити и шастр",
       "literal_ru": "индуистских писаний – (бичаард-е) приводит к размышлению в категориях (пуун) добродетельных поступков и (паап) проступков, грехов – основанных на суевериях",
       "ksd_meta_ru": "такое чтении не (jaani) приносит  (saar = новости) осознание (tatai) реальности Добродетелей и Хукама.",
@@ -4881,6 +7457,14 @@
       "source": "jbani_v1"
     },
     {
+      "roman": "чтение смрити и шастр",
+      "literal_ru": "индуистских писаний – (бичаард-е) приводит к размышлению в категориях (пуун) добродетельных поступков и (паап) проступков, грехов – основанных на суевериях",
+      "ksd_meta_ru": "такое чтении не (jaani) приносит  (saar = новости) осознание (tatai) реальности Добродетелей и Хукама.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
+    },
+    {
       "roman": "шабд",
       "literal_ru": "Божественное Слово",
       "ksd_meta_ru": "духовный принцип и просветляющее послание Гурбани.",
@@ -4895,9 +7479,67 @@
       "confidence": 0.85,
       "grammar_note": null,
       "source": "ast_example"
+    },
+    {
+      "roman": "я растворил свое эго, (аб) теперь (хам) я и (тум) ты (хех) стали (бха",
+      "literal_ru": "е) (эк) одним, т.е. я поглощен Тобой",
+      "ksd_meta_ru": "(декхат = видение) ощущение двоих как (экай) одного, (человек) ум (патиахи) чувствует удовлетворение/счастье. 1.",
+      "confidence": 0.9,
+      "grammar_note": null,
+      "source": "jbani_v2_blocks"
     }
   ],
   "canvas_concepts": [
+    {
+      "concept": "Devte / Vedantic Gods / Боги в Гурбани",
+      "ksd_meaning": "Гурбани не принимает индуистских богов, богинь, аватаров и пуранические истории как духовный идеал. Когда такие имена встречаются в Гурбани, они обычно раскрывают подлинную внутреннюю, историческую или мифологическую реальность этих фигур, либо переопределяются в сторону Единого Создателя и Его Хука",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Guru / Гуру (ਗੁਰੂ)",
+      "ksd_meaning": "Гуру в Сикхи — не просто учитель и не мастер-человек. Гуру — это наставляющее Божественное Слово, через которое Безграничный Создатель, присутствующий в творении, выразил Себя в Сири Гуру Грантх Сахиб как Учитель. Бани — это Гуру, и Гуру — это Бани. Это Слово содержит смысловое наставление, рас / вк",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Naam / Наам (ਨਾਮ)",
+      "ksd_meaning": "Наам — не просто имя как слово и не только качество Бога. Это принцип самопроявления Божественного Сознания: закон, ритм и разумная энергия, через которую Непроявленное становится Проявленным. Наам относится к Единому и является Хукамом: вектором Его намерения, высшей формой Самоосознания Творца, ст",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Ooangkar / Ооангкар (ਓਅੰਕਾਰ)",
+      "ksd_meaning": "Ооангкар — не то, что можно исчерпывающе облечь в буквы. Через Patti Гуру Нанака можно созерцать три смысловые части: ਓ / ਊੜੈ указывает на отсутствие пределов; ਅੰ / Airra указывает на Причинность всего, Источник причинности и Его свободность от творения при присутствии в нём; ਕਾਰ указывает на непрер",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Sant (ਸੰਤ/ਸੰਤੁ) — Sant, святой, сант",
+      "ksd_meaning": "1. ਸੰਤੁ (aungkar, единственное число) = Создатель или Гуру — не человек с титулом.\n   Пример: ਭਾਗੁ ਹੋਆ ਗੁਰਿ ਸੰਤੁ ਮਿਲਾਇਆ (СГГС 97) = \"Удача улыбнулась, и я объединился со Святым Гуру (внутри)\".\n\n2. ਸੰਤ (mukta, множественное число) = обычные сикхи, искатели Оангкара (Создателя). \"Достичь пыли стоп сан",
+      "source": "word_sant_in_gurbani.txt; Karminder Singh Dhillon — Hijacking Of Sikhi (sikhivicharforum.org)"
+    },
+    {
+      "concept": "Sat Naam / Сат Наам (ਸਤਿ ਨਾਮੁ)",
+      "ksd_meaning": "Сат Наам означает: Единый Бог, пребывающий в Едином Существовании через Свой Наам. Сат (ਸਤਿ) имеет санскритское происхождение: бытие, существование, реальность. Сихари в ਸਤਿ грамматически указывает на «внутри существования / реальности / постоянного пребывания», даже если это не произносится. Поэтом",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Sikhi / Сикхи (ਸਿਖੀ)",
+      "ksd_meaning": "Сикхи в определении Гуру Нанака — это учение, обретаемое через опытное исследование Гуру / Слова Гуру: ਸਿਖੀ ਸਿਖਿਆ ਗੁਰ ਵੀਚਾਰਿ. Следующая строка уточняет плод этого процесса: Его Милость, приходящая в ответ на усердие в таком исследовании, переправляет через реку Майи.",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Sikhi-Guru-Vichar / Ученичество-Гуру-Вичар",
+      "ksd_meaning": "Сикхи — это изучение и претворение в жизнь мудрости Гуру, содержащейся в Его священном Слове, Бани. Такого рода ученичество вызывает Милость Создателя. Бани здесь означает Гурбани — Сири Гуру Грантх Сахиб. Содержание СГГС говорит, что Письмо Его Воли вместе с наставлением, заключённым в него, проявл",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Simran / Симран (ਸਿਮਰਨ)",
+      "ksd_meaning": "Симран в Гурбани — не механическое повторение слова, а памятование, восприятие и созерцательное удерживание Творца внутри ума. В Sodar строка ਮਨ ਮਹਿ ਸਿਮਰਨੁ ਕਰਿਆ показывает бытовой смысл: флорикан, улетев далеко от птенцов, держит их в уме; это памятование поддерживает связь. Духовный эквивалент тако",
+      "source": "manual_ksd_user_terms"
+    },
+    {
+      "concept": "Vichar / Вичар (ਵੀਚਾਰ)",
+      "ksd_meaning": "Вичар выходит за пределы простого размышления. Этимологически vi + char указывает на движение с различением: исследовать, осмысливать и проверять через внутреннее движение ума и опыта. Вичар — это деятельное исследование темы Бога, Наам и Его Хукама в собственной жизни.",
+      "source": "manual_ksd_user_terms"
+    },
     {
       "concept": "ава гаун",
       "ksd_meaning": "еревод: русский язык Asia Samachar, 2021 СОДЕРЖАНИЕ Часть 1. Холст Гуру Нанака Часть 2. Смерть Часть 3. Жизнь После Смерти Часть 4. Чаураси Лакх — 8,4 Миллиона Форм Жизни Часть 5. Реинкарнация — Ава Гаун Часть 6. Рай и Ад Часть 7. Спасение — Мукти — Джеван Мукт Часть 8. Суд — Дарга Часть 9. Дхарм Ра",
@@ -5438,9 +8080,44 @@
       "source": "jbani_v2"
     },
     {
+      "pattern": "aapi_apu_aap_full_disambiguation",
+      "meaning": "three forms: ਆਪਿ (sihari) = Creator as past agent OR Being (whose self is one with Creator); ਆਪੁ (aungkar) = ego-self / His own self; ਆਪ (mukta) = reflexive \"himself/itself\"",
+      "source": "grammar_pdf_p106"
+    },
+    {
+      "pattern": "aapinai_aap_correct_reading",
+      "meaning": "\"ਆਪੀਨੈ ਆਪੁ ਸਾਜਿਓ ਆਪੀਨੈ ਰਚਿਓ ਨਾਉ\" (Asa di Var) is misread as \"Creator created the world Himself and created names for beings\" — wrong; ਆਪੁ = reflexive \"He Himself\" (not world-creation); correct: He Himself, appearing in both Nirgun and Sargun forms, no other created Him",
+      "source": "grammar_pdf_p107"
+    },
+    {
+      "pattern": "arabic_feminine_ti_ending",
+      "meaning": "Arabic-origin feminine nouns ending in ਤ take sihari = -ਤਿ ending; large category of Arabic loanwords in Gurbani",
+      "source": "grammar_pdf_p62"
+    },
+    {
+      "pattern": "arabic_feminine_ti_extended_list",
+      "meaning": "Section 30.4: extended list of Arabic-origin feminine nouns ending in -ਤਿ; all take permanent sihari on ਤ",
+      "source": "grammar_pdf_p97"
+    },
+    {
+      "pattern": "aungkar_singular_marker",
+      "meaning": "Section 21.0: aungkar (ੁ) marks singular on BOTH noun and its adjective — both take aungkar together; this is the fundamental singular agreement rule",
+      "source": "grammar_pdf_p77"
+    },
+    {
       "pattern": "aunkard",
       "meaning": "мужской род, единственное число (u-ending)",
       "source": "jbani_v2"
+    },
+    {
+      "pattern": "bapi_past_agent_father",
+      "meaning": "ਬਾਪਿ (sihari) = father as past agent \"Father did [action]\"; ਬਾਪ (mukta) = father as noun object — both in same verse",
+      "source": "grammar_pdf_p104"
+    },
+    {
+      "pattern": "bhagti_vs_bhagtu",
+      "meaning": "ਭਗਤਿ (original sihari) = devotion/bhakti (abstract noun); ਭਗਤੁ (aungkar) = devotee singular (person); ਭਗਤ (mukta) = devotees plural",
+      "source": "grammar_pdf_p88"
     },
     {
       "pattern": "bihari",
@@ -5448,9 +8125,399 @@
       "source": "grammar_pdf"
     },
     {
+      "pattern": "bihari_as_preposition",
+      "meaning": "bihari (ੀ) on noun = instrumental preposition \"by means of / through / with\" (ਨਾਲ); ਨਦਰੀ=ਨਦਰ ਨਾਲ, ਵਿਜੋਗੀ=ਵਿਜੋਗ ਨਾਲ",
+      "source": "grammar_pdf_p76"
+    },
+    {
+      "pattern": "bihari_first_person_verb",
+      "meaning": "Section 20.2: bihari (ੀ) on verb = 1st person singular \"I [do/will do]\" (ਮੈਂ ਕਰਾਂ); present/future tense self-reference",
+      "source": "grammar_pdf_p76"
+    },
+    {
+      "pattern": "bihari_first_person_verb_extended",
+      "meaning": "Section 35.2: bihari (ੀ) on verb = 1st person singular \"I [do]\" — additional examples beyond ਸੋਚੀ/ਕਰੀ",
+      "source": "grammar_pdf_p112"
+    },
+    {
+      "pattern": "bihari_plural_preposition",
+      "meaning": "Section 20.1: bihari (ੀ) on noun = plural preposition form — \"with the [plural noun]s / by the [plural noun]s / to the [plural noun]s\"; equivalent to ਾਂ ਨੇ/ਨੂੰ/ਨਾਲ",
+      "source": "grammar_pdf_p75"
+    },
+    {
+      "pattern": "bihari_plural_preposition_extended",
+      "meaning": "Section 35.1: extended examples of bihari (ੀ) on plural noun = preposition \"to/by/with/from\"; each noun+bihari encodes specific case relationship",
+      "source": "grammar_pdf_p111"
+    },
+    {
+      "pattern": "bihari_plural_preposition_restatement",
+      "meaning": "Section 35.1/4.1: bihari (ੀ) on end of plural noun = preposition meaning \"to/by/with/from the [plurals]\" — bihari marks the plural noun as taking a case relationship",
+      "source": "grammar_pdf_p110"
+    },
+    {
+      "pattern": "bihari_replacing_sihari",
+      "meaning": "Section 20.3: bihari (ੀ) replaces sihari for poetic meter — same grammatical meaning; ਲਹਨੀ=ਲਹਨਿ (3rd plural \"they receive\"), ਜਾਣੀ=ਜਾਣਿ (conjunctive/preposition)",
+      "source": "grammar_pdf_p76"
+    },
+    {
+      "pattern": "bihari_replacing_sihari_3pl_instrumental",
+      "meaning": "Section 35.3: bihari replaces sihari in two roles: (1) 3rd person plural verb \"they do\" (=ਨਿ ending); (2) instrumental preposition \"by means of / with\" — same form, context distinguishes",
+      "source": "grammar_pdf_p112"
+    },
+    {
+      "pattern": "budhi_vs_budhu",
+      "meaning": "ਬੁਧਿ (original sihari) = intellect/wisdom (abstract noun); ਬੁਧੁ (aungkar) = Buddha/wise person (masculine singular); ਬੁਧ ਸਿਧ (mukta) = plural wise ones",
+      "source": "grammar_pdf_p89"
+    },
+    {
+      "pattern": "chari_four_vs_char",
+      "meaning": "ਚਾਰਿ (sihari or laa'n) = ਚਾਰੇ \"all four\" (stressed numeral with emphasis); ਚਾਰ (no syllable) = \"four\" (unstressed, simple count)",
+      "source": "grammar_pdf_p110"
+    },
+    {
+      "pattern": "compound_noun_vs_conjunctive_participle",
+      "meaning": "when sihari is absent on what looks like a conjunctive participle, the word forms a compound noun; determines correct parsing",
+      "source": "grammar_pdf_p40"
+    },
+    {
+      "pattern": "compound_verb_subject_sihari",
+      "meaning": "in compound verbs: sihari on subject end means \"this/for/the\" (preposition role); differs from noun+sihari preposition case because here the subject IS the main verb",
+      "source": "grammar_pdf_p44"
+    },
+    {
+      "pattern": "conjunction_no_sihari",
+      "meaning": "conjunctions (ਯੋਜਕ) connect two clauses and do NOT take sihari at end — they look like adverbs but are not",
+      "source": "grammar_pdf_p37"
+    },
+    {
+      "pattern": "conjunctive_participle_sihari",
+      "meaning": "conjunctive participle (ਪੂਰਬ-ਪੂਰਨ-ਕਾਰਦੰਤਕ): sihari on base verb = \"having done [action]\"; action completed before the main verb",
+      "source": "grammar_pdf_p39"
+    },
+    {
+      "pattern": "context_determines_gender_not_neighboring_words",
+      "meaning": "do not assign gender based on neighboring words in verse; ਤਰਣੁ is wrongly read as \"woman\" because ਖਸਮੁ (husband) appears in same line — grammar (aungkar on ਣ) determines meaning, not context of surrounding nouns",
+      "source": "grammar_pdf_p95"
+    },
+    {
+      "pattern": "count_words_sihari_plural_aungkar_singular",
+      "meaning": "systematic pattern for count/numeral words: aungkar or mukta = singular; sihari = indefinite plural — applies to ਇਕਿ/ਇਕੁ, ਹਿਕਿ/ਹਿਕੁ, ਏਕਿ/ਏਕੁ, ਹੋਰਿ/ਹੋਰੁ, ਅਵਰਿ/ਅਵਰੁ",
+      "source": "grammar_pdf_p99"
+    },
+    {
+      "pattern": "demonstrative_gender_marking",
+      "meaning": "demonstrative pronouns/adjectives (ਇਹੁ, ਏਹੁ, ਓਹੁ): masculine singular = aungkar on ਹ; feminine singular = sihari on ਹ; plural = sihari on ਹ",
+      "source": "grammar_pdf_p66"
+    },
+    {
+      "pattern": "demonstrative_sihari_plural_masculine",
+      "meaning": "Section 32.0: demonstrative pronouns ਇਹੁ/ਏਹੁ/ਓਹੁ — aungkar on ਹ = masculine singular; sihari on ਹ = feminine singular OR plural (including masculine plural); sihari overrides gender to mark plurality",
+      "source": "grammar_pdf_p102"
+    },
+    {
+      "pattern": "dulaava_adjective_agreement",
+      "meaning": "Section 28.3: when noun carries sihari or dulaava, its adjective must also take dulaava (ੈ) — agreement in oblique case; dulaava replaces laa'n on adjective",
+      "source": "grammar_pdf_p84"
+    },
+    {
+      "pattern": "dulaava_noun_preposition",
+      "meaning": "Section 28.2: dulaava (ੈ) on noun = locative \"in/to/of the [noun]\" where a preposition word follows; parallels sihari but for different case contexts",
+      "source": "grammar_pdf_p84"
+    },
+    {
+      "pattern": "dulaava_place_preposition",
+      "meaning": "Section 28.0-28.1: dulaava (ੈ) marks locative/place preposition \"in/at/on/with\" — used with place nouns, nouns of location, and relational nouns",
+      "source": "grammar_pdf_p83"
+    },
+    {
+      "pattern": "dulaava_verb_causal",
+      "meaning": "Section 28.4: dulaava on verb-noun = causal \"by means of [verb action]\"; ਸੁਣਿਓ = ਸੁਣਨ ਕਰਕੇ \"by hearing\" — same pattern as sihari on verb (rule 14 cross-reference)",
+      "source": "grammar_pdf_p86"
+    },
+    {
+      "pattern": "dulangkar_as_preposition",
+      "meaning": "Section 26.2: dulangkar used as preposition meaning \"in/within\" — word with aungkar itself functions as locative (ਵਿਚ)",
+      "source": "grammar_pdf_p82"
+    },
+    {
+      "pattern": "dulangkar_noun_before_preposition",
+      "meaning": "Section 26.0-26.1: dulangkar (ੁ, aungkar) on noun when followed by a preposition word; marks noun as object/base for preposition",
+      "source": "grammar_pdf_p81"
+    },
+    {
+      "pattern": "dulangkar_replacing_hora",
+      "meaning": "Section 26.3: dulangkar replaces hora (ੋ) for poetic meter — meaning identical to hora form; ਜਿਦੂ=ਜਿਦੋਂ (from which), ਤਿਦੂ=ਤਿਦੋਂ (from then), ਕੂ=ਕੋ",
+      "source": "grammar_pdf_p82"
+    },
+    {
+      "pattern": "eki_plural_count",
+      "meaning": "ਏਕਿ (sihari) = indefinite plural \"some/certain ones\" (parallel to ਇਕਿ); ਏਕੁ (aungkar) = singular \"one/the One\"",
+      "source": "grammar_pdf_p97"
+    },
+    {
+      "pattern": "feminine_adjective_as_noun_sihari",
+      "meaning": "adjectives used as feminine nouns take sihari; same adjective without sihari is masculine",
+      "source": "grammar_pdf_p61"
+    },
+    {
+      "pattern": "feminine_agent_noun_ni_ending",
+      "meaning": "Section 30.2: feminine agent/role nouns end in -ਣਿ (ਣ + sihari); masculine counterpart has -ਣ/ਣੁ; these are professional/relational feminine nouns",
+      "source": "grammar_pdf_p94"
+    },
+    {
+      "pattern": "feminine_original_aungkar",
+      "meaning": "some feminine nouns carry original aungkar — they are feminine despite the aungkar which normally marks masculine; reader must know these by recognition",
+      "source": "grammar_pdf_p79"
+    },
+    {
+      "pattern": "feminine_sihari_additional_list",
+      "meaning": "additional feminine words with original/permanent sihari: ਬੇਲਿ/ਵੇਲਿ, ਦਾਲਿ, ਭਾਲਿ, ਭੀਤਿ, ਕਰਤੂਤਿ, ਦਾਤਿ, ਤਪਤਿ, ਮਸੀਤਿ, ਹਟਤਾਰਿ, ਲਬਧਿ, ਨਦਰਿ, ਖਬਰਿ, ਡੋਰਿ, ਵਾਰਿ/ਵਾੜਿ, ਅਰਦਾਸਿ, ਫੁਰਮਾਇਸਿ, ਸਾਬਾਸਿ, ਰਹਰਾਸਿ, ਰਾਸਿ",
+      "source": "grammar_pdf_p95"
+    },
+    {
+      "pattern": "feminine_sihari_ni_ending",
+      "meaning": "sihari marks feminine gender on nouns ending in -ਣਿ or -ਨਿ; list of common feminine nouns with inherent sihari",
+      "source": "grammar_pdf_p59"
+    },
+    {
+      "pattern": "future_tense_3rd_plural_sni",
+      "meaning": "future tense (ਭਵਿਖੱਤ ਕਾਲ) 3rd person plural: verb ending in ਸ+ਨ takes sihari on final ਨ = \"they will [do]\"",
+      "source": "grammar_pdf_p52"
+    },
+    {
+      "pattern": "future_tense_ay_ending",
+      "meaning": "будущее время / потенциальное",
+      "source": "Упрощенное издание + Nanak Canvas + KSD принципы"
+    },
+    {
+      "pattern": "gati_vs_gatu",
+      "meaning": "ਗਤਿ (original sihari) = spiritual state/condition (abstract); ਗਤੁ (aungkar) = went/departed/passed (verb form meaning \"became gone\")",
+      "source": "grammar_pdf_p89"
+    },
+    {
+      "pattern": "grammar_over_tradition",
+      "meaning": "KSD-подход: грамматика + контекст Гурбани определяет смысл. Традиционные толкования и мейнстрим-переводы — не авторитет, если противоречат грамматике.",
+      "source": "Упрощенное издание + Nanak Canvas + KSD принципы"
+    },
+    {
+      "pattern": "gur_parsadi_bihari_instrumental",
+      "meaning": "ਗੁਰ ਪਰਸਾਦੀ (bihari) = ਗੁਰੂ ਦੇ ਪਰਸਾਦਿ ਨਾਲ \"by Guru's grace\" — bihari as instrumental preposition on noun",
+      "source": "grammar_pdf_p113"
+    },
+    {
+      "pattern": "hahu_ablative_case",
+      "meaning": "double ਹਹੁ (two ਹ with aungkar) = ablative case \"from / out of / away from\"; distinguishes direction away from subject",
+      "source": "grammar_pdf_p80"
+    },
+    {
+      "pattern": "hasti_elephant_vs_hast",
+      "meaning": "ਹਸਤਿ/ਹਸਤੀ (sihari/bihari) = elephant; ਹਸਤੁ/ਹਸਤ (aungkar/mukta) = happen, hand, or laughing — opposite meanings, same spelling root",
+      "source": "grammar_pdf_p93"
+    },
+    {
+      "pattern": "hu_single_vs_hahu_double_comprehensive",
+      "meaning": "Section 39.0: single ਹੁ (one ਹ + aungkar, no nasal) = (1) on nouns: nominative/subject case singular; (2) on verbs: future tense 2nd person singular imperative; double ਹਹੁ (two ਹ + aungkar) = (1) on nouns: ablative case singular \"from\"; (2) on verbs: future tense 2nd person plural imperative",
+      "source": "grammar_pdf_p117"
+    },
+    {
+      "pattern": "hu_subject_case",
+      "meaning": "Section 25.0: single ਹੁ (ਹ + aungkar, no nasal) after word = nominative/subject case marker \"the Creator/subject\"; marks the main agent",
+      "source": "grammar_pdf_p80"
+    },
+    {
+      "pattern": "imperative_aungkar",
+      "meaning": "Section 23.0: aungkar (ੁ) on verb = imperative \"You [singular, respectful] do this!\" — formal command directed to one person; differs from sihari imperative (less formal)",
+      "source": "grammar_pdf_p78"
+    },
+    {
+      "pattern": "imperative_examples_list",
+      "meaning": "imperative mood examples: ਸਾਲਾਹਿ=praise (you), ਸਿਮਰਿ=remember (you), ਆਹਿ=desire (you), ਲੇਹਿ=take (you), ਦੇਹਿ=give (you), ਸੁਣਿ=listen (you), ਕਰਿ=do (you), ਧਰਿ=hold/place (you)",
+      "source": "grammar_pdf_p47"
+    },
+    {
+      "pattern": "imperative_mood_sihari",
+      "meaning": "imperative mood (ਅਨੁਮਤਯਾਰਥ ਲਕਾਰ): command \"you do this\" — sihari sometimes appears on verb last consonant",
+      "source": "grammar_pdf_p45"
+    },
+    {
+      "pattern": "jini_agent_vs_jin_relative",
+      "meaning": "ਜਿਨਿ (sihari) = Creator as past agent \"Creator who did\"; ਜਿਨ (no sihari) = relative pronoun \"those who/whoever\" referring to humans",
+      "source": "grammar_pdf_p104"
+    },
+    {
+      "pattern": "kali_vs_kal",
+      "meaning": "ਕਲਿ (sihari) = Kalyug (dark age) OR anxiety/mental anguish; ਕਲ (no sihari) = art/skill/power/plan — no sihari when meaning is craft or creative power",
+      "source": "grammar_pdf_p91"
+    },
+    {
+      "pattern": "kaman_charm_vs_kamani_woman",
+      "meaning": "ਕਾਮਣ (mukta) = charm/spell/love-talisman; ਕਾਮਣਿ (sihari) = woman — same root, opposite roles in same verse",
+      "source": "grammar_pdf_p94"
+    },
+    {
+      "pattern": "kenora_ablative_preposition",
+      "meaning": "Section 29.0: kenora (ੈਂ / ਹੈਂ) used as ablative preposition \"from / away from / out of\" on locative nouns; ਆਪੈਂ=ਆਪ ਥੋਂ (from oneself), ਮੁਹੈਂ=ਮੁੰਹ ਤੋਂ (from the mouth)",
+      "source": "grammar_pdf_p86"
+    },
+    {
+      "pattern": "kinni_how_many",
+      "meaning": "ਕਿੰਨਿ (sihari) = ਕਿੰਨੇ \"how many/where\" — sihari replaces laa'n for meter",
+      "source": "grammar_pdf_p110"
+    },
+    {
+      "pattern": "koti_million_vs_kot_fort",
+      "meaning": "ਕੋਟਿ (sihari on ਟ) = ten million/crore (number); ਕੋਟੁ/ਕੋਟ (aungkar/mukta) = fort/fortress",
+      "source": "grammar_pdf_p93"
+    },
+    {
+      "pattern": "laan_replacing_sihari",
+      "meaning": "Section 27.0: laa'n (ਾ, lavan) replaces sihari for poetic meter — same grammatical meaning; forms are interchangeable",
+      "source": "grammar_pdf_p82"
+    },
+    {
+      "pattern": "laan_sihari_same_line",
+      "meaning": "same verse can use both laa'n and sihari forms of same word — confirms they are stylistic variants, not grammatically distinct",
+      "source": "grammar_pdf_p83"
+    },
+    {
+      "pattern": "mati_vs_matu",
+      "meaning": "ਮਤਿ (original sihari) = intellect/understanding (abstract); ਮਤੁ (aungkar) = drunk/intoxicated (adjective/verb form = ਮੱਤਾ ਹੋਇਆ)",
+      "source": "grammar_pdf_p89"
+    },
+    {
+      "pattern": "miti_vs_mitu",
+      "meaning": "ਮਿਤਿ (original sihari) = measure/extent/limit (abstract); ਮਿਤੁ (aungkar) = friend (masculine noun)",
+      "source": "grammar_pdf_p90"
+    },
+    {
       "pattern": "mukta",
       "meaning": "множественное число или базовая форма",
       "source": "grammar_pdf"
+    },
+    {
+      "pattern": "mukti_vs_muktu",
+      "meaning": "ਮੁਕਤਿ (original sihari) = liberation/mukti (abstract noun); ਮੁਕਤੁ (aungkar) = liberated one (person); ਮੁਕਤ (mukta) = liberated plural",
+      "source": "grammar_pdf_p88"
+    },
+    {
+      "pattern": "murti_vs_murtu",
+      "meaning": "ਮੂਰਤਿ (sihari) = idol/image/form (original sihari, from Sanskrit ਮੂਰ੍ਤਿ); ਮੂਰਤੁ (aungkar) = auspicious time/muhurat (ਮੁਹੂਰਤ)",
+      "source": "grammar_pdf_p93"
+    },
+    {
+      "pattern": "nirgun_sargun_distinction",
+      "meaning": "Nirgun (ਨਿਰਗੁਣ) = Creator without attributes, beyond creation; Sargun (ਸਰਗੁਣ) = Creator manifest in creation with attributes — same One, two aspects; ਆਪਿ used for both because the Being is Creator",
+      "source": "grammar_pdf_p72"
+    },
+    {
+      "pattern": "ohi_oie_plural",
+      "meaning": "ਓਹੁ (aungkar) = singular \"that one/He\"; ਓਹਿ/ਓਇ (sihari) = plural \"those/they\"",
+      "source": "grammar_pdf_p102"
+    },
+    {
+      "pattern": "original_aungkar_comprehensive",
+      "meaning": "Section 38.0: original/inherited aungkar words — permanent, not grammatical singular marker; includes both masculine and feminine nouns",
+      "source": "grammar_pdf_p115"
+    },
+    {
+      "pattern": "original_aungkar_words",
+      "meaning": "Section 24.0: some words carry original/inherited aungkar from Sanskrit/Arabic — permanent, not grammatical number marker; must be recognized to avoid misreading as masculine singular",
+      "source": "grammar_pdf_p79"
+    },
+    {
+      "pattern": "original_sihari_extended_list",
+      "meaning": "Section 30.1: extended list of original/inherited sihari words — sihari is permanent, comes from source language (Sanskrit/Arabic); cannot be removed or replaced by aungkar",
+      "source": "grammar_pdf_p88"
+    },
+    {
+      "pattern": "original_sihari_inherited",
+      "meaning": "original/inherent sihari (ਮੂਲਿਕ ਸਿਹਾਰੀ): words borrowed from Sanskrit/Persian/Arabic that bring sihari from source language — it remains permanently regardless of grammatical function",
+      "source": "grammar_pdf_p54"
+    },
+    {
+      "pattern": "parkhiani_plural_vs_parkhianu_singular",
+      "meaning": "ਪਰਖੀਅਨਿ (sihari on ਨ) = plural past \"they examined/were examined\"; ਪਰਖਿਅਨੁ (aungkar on ਨ) = singular past \"He examined\" — sihari/aungkar on ਨ determines number of agent",
+      "source": "grammar_pdf_p114"
+    },
+    {
+      "pattern": "participle_with_auxiliary_verb",
+      "meaning": "participle (ਕਾਰਦੰਤਕ) combined with auxiliary verbs (ਆਣਾ, ਜਾਣਾ, ਬਹਿਣਾ, ਰਹਿਣਾ, ਸਕਣਾ) forming compound verbs: sihari on participle last consonant",
+      "source": "grammar_pdf_p43"
+    },
+    {
+      "pattern": "past_agent_contraction",
+      "meaning": "past agent marker can contract: ਸੁਲਤਾਣੇ = ਸੁਲਤਾਣਿ ਦੇ (\"by the Sultan\"); ਕਰਤਾਰੇ = ਕਰਤਾਰਿ ਦੇ (\"by the Creator\") — oblique agentive contraction",
+      "source": "grammar_pdf_p67"
+    },
+    {
+      "pattern": "past_agent_extended_examples",
+      "meaning": "Section 33.0: extended list of past tense agent markers with sihari — sihari prolongs the vowel (ਕਿ sounds like ਕੇ, ਤਿ like ਤੇ); covers Guru names, divine titles, and human agents",
+      "source": "grammar_pdf_p103"
+    },
+    {
+      "pattern": "past_tense_agent_sihari",
+      "meaning": "past tense: sihari on the agent/subject marks who performed the past action; sihari also lengthens pronunciation (ਕਿ sounds like ਕੇ, ਤਿ like ਤੇ)",
+      "source": "grammar_pdf_p67"
+    },
+    {
+      "pattern": "past_tense_ee_ending",
+      "meaning": "прошедшее время (женский род, завершённое действие)",
+      "source": "Упрощенное издание + Nanak Canvas + KSD принципы"
+    },
+    {
+      "pattern": "past_tense_nu_ending",
+      "meaning": "Section 22.0: past tense singular verb ending -ਨੁ (ਨ + aungkar) = \"he/she/Creator did [action to plural objects]\"; subject is singular, objects are plural",
+      "source": "grammar_pdf_p77"
+    },
+    {
+      "pattern": "past_tense_nu_extended_examples",
+      "meaning": "Past tense -ਨੁ (singular agent, plural objects) extended examples: verb-stem + ਿਅਨੁ or ਿਓਨੁ = \"he/Creator did [to many]\"",
+      "source": "grammar_pdf_p114"
+    },
+    {
+      "pattern": "past_tense_nu_vs_ni",
+      "meaning": "past tense contrast: -ਨੁ (aungkar) = singular agent \"he examined/did\"; -ਨਿ (sihari) = plural \"they examined/did\"",
+      "source": "grammar_pdf_p78"
+    },
+    {
+      "pattern": "pati_vs_patu",
+      "meaning": "ਪਤਿ (original sihari) = husband OR honor/dignity (abstract); ਪਤੁ (aungkar/mukta) = leaf/petal (noun) OR Jogi's ਪੱਟਾ (begging cloth)",
+      "source": "grammar_pdf_p90"
+    },
+    {
+      "pattern": "possessive_drops_aungkar",
+      "meaning": "in possessive case (sambandh karak), aungkar is removed from last consonant whether preposition ਦਾ/ਕਾ appears or not",
+      "source": "grammar_pdf_p33"
+    },
+    {
+      "pattern": "present_imperfect_3rd_plural_ni",
+      "meaning": "present imperfect verb (ਸਮਾਨ ਵਰਤਮਾਨ) in 3rd person plural (ਬਹੁਵਚਨ ਅਨਯ ਪੁਰਖ): verb ends with ਨਿ (ਨ + sihari) = \"they are [doing/singing/etc.]\"",
+      "source": "grammar_pdf_p50"
+    },
+    {
+      "pattern": "present_tense_2nd_singular_hi",
+      "meaning": "present tense 2nd person singular (ਇਕ-ਵਚਨ ਮੱਧਮ ਪੁਰਖ): same -ਹਿ ending as 3rd plural; context determines person",
+      "source": "grammar_pdf_p53"
+    },
+    {
+      "pattern": "present_tense_3rd_plural_hi",
+      "meaning": "present tense (ਵਰਤਮਾਨ ਕਾਲ) 3rd person plural: verb ending in ਹ takes sihari = \"they [do]\"",
+      "source": "grammar_pdf_p53"
+    },
+    {
+      "pattern": "sathi_number_vs_fool",
+      "meaning": "ਸਠਿ (sihari) = 68 (number, from Sanskrit ਸ਼ਾਸ਼ਟਿ); ਸਠੀ = older form of the same; ਸਠ (mukta) = fool/stubborn",
+      "source": "grammar_pdf_p93"
+    },
+    {
+      "pattern": "sati_vs_satu",
+      "meaning": "ਸਤਿ (original sihari) = True/Truth as adjective (eternal attribute of Creator); ਸਤੁ (aungkar/mukta) = truth/virtue/reality as noun",
+      "source": "grammar_pdf_p90"
+    },
+    {
+      "pattern": "satu_virtue_noun",
+      "meaning": "ਸਤੁ (aungkar) = virtue/chastity/giving as concrete noun (act of purity, charity); distinct from ਸਤਿ (adjective \"True\")",
+      "source": "grammar_pdf_p91"
     },
     {
       "pattern": "sihari",
@@ -5461,13 +8528,608 @@
       "pattern": "sihari",
       "meaning": "в пределах / внутри (locative, sihari lavan)",
       "source": "grammar_pdf"
+    },
+    {
+      "pattern": "sihari_determines_ik_meaning",
+      "meaning": "if ਇਕ means \"some\" (indefinite plural pronoun) then ਕ must have sihari = ਇਕਿ; if sihari absent and word ਪਤਿ follows, ਪਤਿ means honor (with sihari) — absence of sihari on ਇਕ forces different reading of whole verse",
+      "source": "grammar_pdf_p98"
+    },
+    {
+      "pattern": "sihari_determines_parsing",
+      "meaning": "absence of sihari where conjunctive participle is expected means the word is a noun — this changes sentence meaning entirely; critical for correct Gurbani parsing",
+      "source": "grammar_pdf_p40"
+    },
+    {
+      "pattern": "sihari_for_greater_matr_bihari_substitution",
+      "meaning": "Section 34.0: sihari replaces bihari (and other long vowels) when poem requires shorter matra count; full list of bihari→sihari substitutions in Gurbani verse",
+      "source": "grammar_pdf_p108"
+    },
+    {
+      "pattern": "sihari_reduplicated_words",
+      "meaning": "reduplicated verb-adjectives take sihari on both instances",
+      "source": "grammar_pdf_p31"
+    },
+    {
+      "pattern": "sihari_replacing_bihari_meter",
+      "meaning": "Section 19.0: sihari replaces bihari (ੀ) for poetic meter needs — meaning unchanged, both forms valid; Guru Granth uses shorter sihari to fit poetic rhythm (ਕਾਵਿ-ਰਚਨਾ)",
+      "source": "grammar_pdf_p73"
+    },
+    {
+      "pattern": "sihari_replacing_lava_meter",
+      "meaning": "sihari also replaces ਲਾਵਾਂ (other vowel markers) for poetic meter: ਨੇਰਿ=ਨੇੜੇ (near), ਚਾਰਿ=ਚਾਰੇ (all four), ਤਲਿ=ਤਲੇ (below/under)",
+      "source": "grammar_pdf_p74"
+    },
+    {
+      "pattern": "sihari_verb_adjective_list",
+      "meaning": "sihari appears on adverbs/verb-adjectives of manner or repetition",
+      "source": "grammar_pdf_p31"
+    },
+    {
+      "pattern": "subordinate_clause_examples",
+      "meaning": "subordinate clause examples: ਨਾਮਿ ਸਲਾਹਿਐ=by praising the Naam, ਧਾਨਿ ਖਾਧੈ=by eating this grain, ਸਤਿਗੁਰਿ ਮਿਲਿਐ=by meeting the Satguru, ਪਿੰਡਿ ਮੁਐ=by dying of body, ਮੁਖਿ ਜੋਰਿਐ=by joining mouths",
+      "source": "grammar_pdf_p49"
+    },
+    {
+      "pattern": "subordinate_clause_noun_only",
+      "meaning": "sihari in subordinate clause appears on NOUN only, not on pronoun; when subject is a pronoun, sihari is absent",
+      "source": "grammar_pdf_p49"
+    },
+    {
+      "pattern": "subordinate_clause_structure",
+      "meaning": "subordinate clause (ਅਧੀਨ ਵਾਕੰਸ): two words — (1) noun with sihari on last consonant + (2) verb ending with dulava; means \"by [noun-action], [main result]\"",
+      "source": "grammar_pdf_p48"
+    },
+    {
+      "pattern": "sudhi_vs_sudhu",
+      "meaning": "ਸੁਧਿ (sihari) = realization/awareness/consciousness; ਸੁਧੁ (aungkar) = corrected/purified/set right",
+      "source": "grammar_pdf_p93"
+    },
+    {
+      "pattern": "suri_muni_sihari_for_bihari",
+      "meaning": "ਸੁਰਿ (sihari) = ਸੁਰੀ = deity/divine one; ਮੁਨਿ (sihari) = ਮੁਨੀ = sage/hermit — sihari replaces bihari for meter; both are adjectives for persons",
+      "source": "grammar_pdf_p109"
+    },
+    {
+      "pattern": "taruni_vs_taranu_vs_tarun",
+      "meaning": "ਤਰੁਣਿ (sihari) = young woman; ਤਰਣੁ (aungkar on ਣ) = swimming/crossing over (verbal noun); ਤਰੁਣ (mukta) = youth/adolescence — three distinct meanings from similar forms",
+      "source": "grammar_pdf_p95"
+    },
+    {
+      "pattern": "tense_determines_meaning",
+      "meaning": "Временная форма глагола кардинально меняет смысл — прошедшее ≠ будущее. Мейнстрим-переводы часто игнорируют временную форму, превращая прошедшее в будущее.",
+      "source": "Упрощенное издание + Nanak Canvas + KSD принципы"
+    },
+    {
+      "pattern": "terai_mani_bhavde_correct_reading",
+      "meaning": "ਭਗਤ ਤੇਰੈ ਮਨਿ ਭਾਵਦੇ (Asa di Var) = \"devotees are pleasing to Your mind\" NOT \"devotees are pleasing Your mind\"; ਤੇਰੈ = locative \"to Your [mind]\", ਮਨਿ = dative; subject is ਭਗਤ",
+      "source": "grammar_pdf_p85"
+    },
+    {
+      "pattern": "tini_creator_vs_tin_pronoun_vs_number",
+      "meaning": "ਤਿਨਿ (sihari on ਨ) = Creator as past agent OR number three (3); ਤਿਨ (no sihari) = pronoun \"those/they\" (human, plural)",
+      "source": "grammar_pdf_p105"
+    },
+    {
+      "pattern": "vowel_mark_master_parsing_key",
+      "meaning": "master parsing key: same word changes meaning based on vowel mark — aungkar (ੁ)=singular noun/masculine OR imperative OR original; sihari (ਿ)=preposition/locative/agent/feminine/plural/conjunctive participle/imperative OR original; bihari (ੀ)=plural preposition/1st person verb/replaces sihari; dulangkar/dulaava (ੁ/ੈ)=case markers; context + vowel together determine meaning",
+      "source": "grammar_pdf_p123"
+    },
+    {
+      "pattern": "КРИТИЧЕСКИ ВАЖНО: ਔਂਕੜ на слове ≠ possessive",
+      "meaning": "Если слово оканчивается на ਔਂਕੜ — оно НЕ МОЖЕТ читаться как притяжательный падеж ('X ਦਾ'). Aungkar указывает на именительный падеж или прилагательное, но НЕ на possessive. Это устраняет целый класс ошибок мейнстрим-переводов.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "Прилагательное (ਵਿਸ਼ੇਸ਼ਣ) мн.ч. = mukta",
+      "meaning": "Прилагательное ко множественному существительному тоже принимает форму mukta (без ਔਂਕੜ на последней букве)",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "Принцип непротиворечивости СГГС (Gurbani interprets Gurbani)",
+      "meaning": "Если перевод одного шабда противоречит другим шабдам того же Гуру или другого Гуру СГГС — перевод неверен. Гурбани самосогласована: один шабд объясняет другой. Алгоритм проверки: (1) найти все шабды с тем же ключевым словом; (2) если мейнстрим-перевод создаёт противоречие между ними — перевод неверен; (3) искать значение, при котором все шабды согласуются.",
+      "source": "KSD-анализ Амрит Вела (Паури 4 Джап Бани + кросс-ссылки СГГС)"
+    },
+    {
+      "pattern": "ਅਖੀ_plural_preposition",
+      "meaning": "ਅਖੀ (bihari) = plural preposition \"with/through the eyes\" (ਅੱਖਾਂ ਨਾਲ/ਨੂੰ); ਅਖੁ (aungkar) = noun singular \"eye\"",
+      "source": "grammar_pdf_p75"
+    },
+    {
+      "pattern": "ਅਨਯ ਪੁਰਖ (Third Person)",
+      "meaning": "Говорящий о ком-то третьем: он, она, они",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਅਵਰਿ_vs_ਅਵਰੁ",
+      "meaning": "ਅਵਰੁ (aungkar) = singular \"another/other one\"; ਅਵਰਿ (sihari) = plural \"others/all other means\"",
+      "source": "grammar_pdf_p65"
+    },
+    {
+      "pattern": "ਅੰਤਰਿ_vs_ਅੰਤਰੁ",
+      "meaning": "ਅੰਤਰਿ with sihari = locative preposition \"inside/within\"; ਅੰਤਰੁ with aungkar = noun \"different/separation\"",
+      "source": "grammar_pdf_p34"
+    },
+    {
+      "pattern": "ਅੰਤੁ_noun",
+      "meaning": "ਅੰਤੁ with aungkar = noun \"end/limit\"; no sihari because it is a noun",
+      "source": "grammar_pdf_p35"
+    },
+    {
+      "pattern": "ਆਪਿ_creator_and_being",
+      "meaning": "ਆਪਿ (sihari) = Creator/Almighty as past agent OR \"the being/self\" (sihari used because being and Creator are one — theological point)",
+      "source": "grammar_pdf_p70"
+    },
+    {
+      "pattern": "ਆਪਿ_vs_ਆਪੁ",
+      "meaning": "ਆਪਿ (sihari) = Creator as past agent / \"the Being\" whose self IS Creator; ਆਪੁ (aungkar) = the individual self/ego \"himself/herself\"",
+      "source": "grammar_pdf_p71"
+    },
+    {
+      "pattern": "ਇਕਿ_indefinite_plural",
+      "meaning": "ਇਕ (no sihari) = singular \"one\"; ਇਕਿ (sihari) = indefinite plural pronoun/adjective \"some/certain ones\"",
+      "source": "grammar_pdf_p63"
+    },
+    {
+      "pattern": "ਇਸਤ੍ਰੀਲਿੰਗ (Feminine)",
+      "meaning": "Слово, обозначающее или относящееся к женскому роду",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਇਸਤ੍ਰੀਲਿੰਗ ਨਾਵਾਂ (Feminine Nouns) = НЕТ ਔਂਕੜ",
+      "meaning": "Существительные женского рода оканчиваются на mukta (без ਔਂਕੜ на последнем согласном). Список типичных слов женского рода (mukta): ਵਿਖ, ਦੇਹ, ਵਾਤ, ਬਾਤ, ਧੋਖ, ਧਰਿ, ਪਿਆਸ, ਖੇਹ, ਸੇਵ, ਵੇਲ, ਘਾਲ, ਠਉਰ, ਗਣਤ, ਕਲਮ, ਵਾਟ, ਪੂਜ, ਭੁਖ, ਨੀਂਦ, ਕੰਧ, ਤਿਖ, ਪੀੜ, ਪੀਰ, ਬਾਹ, ਆਸ",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਉੱਤਮ ਪੁਰਖ (First Person)",
+      "meaning": "Говорящий о себе: я, мы",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਓੜਕਿ (orhki) = 'в конце концов, в итоге'",
+      "meaning": "Наречие ਓੜਕਿ = 'в конце, в итоге'. Сихари — наречный маркер.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਓੜਕਿ_vs_ਓੜਕ",
+      "meaning": "ਓੜਕਿ with sihari = adverb \"forever/eternally\"; ਓੜਕ without syllable = noun \"end\"",
+      "source": "grammar_pdf_p35"
+    },
+    {
+      "pattern": "ਔਂਕੜ (aungkar) = Singular",
+      "meaning": "Слова, оканчивающиеся на ਔਂਕੜ (aungkar, -u), как правило, являются единственным числом (ਇਕ-ਵਚਨ)",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਕਲਿ_vs_ਕਲ",
+      "meaning": "ਕਲਿ (sihari) = Kali Yuga (current age) OR mental distress/worry/anxiety; ਕਲ (no sihari) = skill/art/ability/power (no sihari when meaning skill)",
+      "source": "grammar_pdf_p57"
+    },
+    {
+      "pattern": "ਕਾਮਣਿ_vs_ਕਾਮਣ",
+      "meaning": "ਕਾਮਣਿ (sihari) = woman/wife (feminine noun); ਕਾਮਣ (no sihari) = magic charm/spell (different meaning)",
+      "source": "grammar_pdf_p60"
+    },
+    {
+      "pattern": "ਕਾਰਕ (Case markers)",
+      "meaning": "Слова, связывающие существительное/местоимение с глаголом в предложении. Определяют падежные отношения.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਕਿਰਿਆ (Verb)",
+      "meaning": "Слово, обозначающее действие. Изменяется по числу, роду и времени (ਕਾਲ) — поэтому произношение требует особого внимания. Также выражает приказ, просьбу, желание.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਕਿਰਿਆ ਵਿਸ਼ੇਸ਼ਣ (Adverb)",
+      "meaning": "Слово, уточняющее характеристику глагола (место, время, образ действия, степень)",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਕੋਟਿ_vs_ਕੋਟੁ",
+      "meaning": "ਕੋਟਿ (original sihari) = ten million/crore (number); ਕੋਟੁ (aungkar) = fort/castle",
+      "source": "grammar_pdf_p59"
+    },
+    {
+      "pattern": "ਕੰਨਾ (kenna, -aa ending) = Plural",
+      "meaning": "Слова, оканчивающиеся на ਕੰਨਾ (-aa), являются множественным числом. ВНИМАНИЕ: конечный ਕੰਨਾ — признак множественного числа, а НЕ падежный маркер.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਖੁਦਿ_creator_agent",
+      "meaning": "ਖੁਦਿ (sihari) = Arabic/Persian \"Khud\" (self/God) as past agent marker — equivalent to ਆਪਿ; Creator performed the action",
+      "source": "grammar_pdf_p72"
+    },
+    {
+      "pattern": "ਗਤਿ_vs_ਗਤੁ",
+      "meaning": "ਗਤਿ (original sihari) = state/condition/spiritual state; ਗਤੁ/ਗਤ = \"gone/past/happened\" (different word entirely)",
+      "source": "grammar_pdf_p54"
+    },
+    {
+      "pattern": "ਗੁਣਿ (sihari) = 'через добродетели / благодаря добродетелям'",
+      "meaning": "ਗੁਣਿ с сихари = 'посредством добродетелей, благодаря добродетелям'. НЕ именительный 'добродетели'.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਗੁਰ = possessive ('Guru's') → mukta на ਰ",
+      "meaning": "ਗੁਰੁ (base form) имеет aungkar на ਰ. Когда значение 'Гуру принадлежащий (da)' — ਰ становится mukta. В словах ਗੁਰ ਸੰਗਤਿ, ਗੁਰਬਾਣੀ, ਗੁਰ ਸਿੱਖ — ਗੁਰ без ਔਂਕੜ.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਜਪਿ_vs_ਜਪੁ_vs_ਜਪ",
+      "meaning": "ਜਪਿ (sihari) = imperative \"You recite!\" (command); ਜਪੁ (aungkar) = noun+verb-noun \"recitation\" (title of Jap Ji + command to activate); ਜਪ (no syllable) = plural",
+      "source": "grammar_pdf_p45"
+    },
+    {
+      "pattern": "ਜਰਿ_vs_ਜਰ",
+      "meaning": "ਜਰਿ (sihari) = conjunctive participle \"having endured/burned away\"; ਜਰ (no sihari) = noun \"sword/gold\" — opposite meanings",
+      "source": "grammar_pdf_p41"
+    },
+    {
+      "pattern": "ਜਿਨਿ_creator_vs_ਜਿਨ_pronoun",
+      "meaning": "ਜਿਨਿ (sihari) = past agent \"Creator/Almighty who did [action]\"; ਜਿਨ (no sihari) = relative pronoun \"those who / whoever\"",
+      "source": "grammar_pdf_p68"
+    },
+    {
+      "pattern": "ਜੋਬਨਿ_subordinate_clause",
+      "meaning": "ਜੋਬਨਿ (sihari) = subordinate clause noun \"by/through [act of] youth [squandered]\"; NOT \"old age comes, youth is lost\" — sihari marks it as cause, not sequence",
+      "source": "grammar_pdf_p49"
+    },
+    {
+      "pattern": "ਤਰੁਣਿ_vs_ਤਰਣੁ",
+      "meaning": "ਤਰੁਣਿ (sihari, feminine) = young woman; ਤਰਣੁ (aungkar) = to swim/cross over — common misreading in Gurbani",
+      "source": "grammar_pdf_p60"
+    },
+    {
+      "pattern": "ਤਿਨਿ_creator_vs_ਤਿਨ_pronoun",
+      "meaning": "ਤਿਨਿ (sihari) = past agent \"Creator\" OR number three (3); ਤਿਨ (no sihari) = pronoun \"those/they\"",
+      "source": "grammar_pdf_p69"
+    },
+    {
+      "pattern": "ਤੇ (te) — preposition 'от, из'",
+      "meaning": "Послелог 'от, из, с'. Существительное перед ним = mukta.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਤੋਂ / ਥੋਂ (ton/thon) = 'от, из, с' (ablative)",
+      "meaning": "Послелоги ਤੋਂ / ਥੋਂ = 'от, из, с'. Существительное перед ними = mukta (без aungkar). Когда послелог явный — у существительного нет сихари на рааре.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਤੱਕ / ਤੋੜੀ = 'до, вплоть до'",
+      "meaning": "Послелоги ਤੱਕ / ਤੋੜੀ = 'до, вплоть до'. Существительное перед ними = mukta.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਦਰਬਾਰਿ_bihari_meter",
+      "meaning": "ਦਰਬਾਰਿ (sihari) = ਦਰਬਾਰੀ \"of the Court / courtly\" — bihari replaced by sihari for meter; NOT the locative \"in the Court\" (which uses different grammar)",
+      "source": "grammar_pdf_p73"
+    },
+    {
+      "pattern": "ਦਰਸਨਿ / ਰੂਪਿ (sihari) = послелог 'через даршан/форму'",
+      "meaning": "Сихари на ਦਰਸਨਿ и ਰੂਪਿ делает их послелогами ('через'), а НЕ объектами действия. Мейнстрим-перевод 'Индусы хвалят даршан и красивую форму идолов' — неверен. Правильно: 'хвалят Господа через даршан и форму'.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਧਿਆਨ теряет ਔਂਕੜ перед словом ਕੀ",
+      "meaning": "ਧਿਆਨ должно было бы иметь ਔਂਕੜ (как ਸੰਤੋਖੁ, ਸਰਮੁ рядом с ним), но предшествующее слово ਕੀ убирает ਔਂਕੜ.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਧੰਨਿ_short_form",
+      "meaning": "ਧੰਨਿ = short poetic form of ਧੰਨਾ/ਧੰਨੁ \"blessed/praise be\"; sihari is meter contraction — same meaning as full form",
+      "source": "grammar_pdf_p74"
+    },
+    {
+      "pattern": "ਨਾਂਵ (Noun)",
+      "meaning": "Слово, называющее живое существо, место или предмет (имя существительное)",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਨਾਤੁਰ_conjunction",
+      "meaning": "ਨਾਤੁਰ = conjunction \"otherwise/or else\" (= ਨਹੀਂ ਤਾਂ, ਵਰਨਾ); no sihari",
+      "source": "grammar_pdf_p38"
+    },
+    {
+      "pattern": "ਨਾਲ (nal) = 'с помощью, вместе с, посредством'",
+      "meaning": "Послелог ਨਾਲ = 'с, вместе с, посредством'. Существительное перед ним = mukta.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਨੂੰ / ਵਲਿ = направление 'к, в сторону'",
+      "meaning": "Послелоги ਨੂੰ / ਵਲਿ указывают направление ('к, в сторону кого-то/чего-то'). Существительное перед ними = mukta.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਪਤਿ_vs_ਪਤੁ_vs_ਪਤ",
+      "meaning": "ਪਤਿ (original sihari) = husband OR honor/respect (two meanings, context dependent); ਪਤੁ (aungkar) = honor as abstract; ਪਤ (no syllable) = leaf/paper OR yogis begging bowl",
+      "source": "grammar_pdf_p55"
+    },
+    {
+      "pattern": "ਪਹਿ (pahi) — preposition 'к, у'",
+      "meaning": "Послелог 'к, у (кого-то)'. Существительное перед ним = mukta.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਪੁਲਿੰਗ (Masculine)",
+      "meaning": "Слово, обозначающее или относящееся к мужскому роду",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਪੜਨਾਂਵ (Pronoun)",
+      "meaning": "Слово, заменяющее уже упомянутое существительное во избежание повтора",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਫੇਰਿ_vs_ਫੇਰੁ",
+      "meaning": "ਫੇਰਿ with sihari = adverb \"again/then\"; ਫੇਰੁ with aungkar = noun (name Pheru, or cycle/circle)",
+      "source": "grammar_pdf_p36"
+    },
+    {
+      "pattern": "ਬਾਹਰ_noun_vs_preposition",
+      "meaning": "ਬਾਹਰ as noun: no sihari, uses ਕਾ as possessive marker; ਬਾਹਰਿ with sihari = preposition \"outside of\"",
+      "source": "grammar_pdf_p33"
+    },
+    {
+      "pattern": "ਬਿਨੁ_original_aungkar",
+      "meaning": "ਬਿਨੁ = \"without\" — conjunction/preposition with original aungkar; NOT singular marker; always written with aungkar on ਨ",
+      "source": "grammar_pdf_p79"
+    },
+    {
+      "pattern": "ਬੁਧਿ_vs_ਬੁਧੁ",
+      "meaning": "ਬੁਧਿ (original sihari) = intellect/wisdom (abstract); ਬੁਧੁ = the wise one (person); ਸਿਧਿ = spiritual power (abstract); ਸਿਧੁ = siddha/adept (person)",
+      "source": "grammar_pdf_p55"
+    },
+    {
+      "pattern": "ਬੇਗਿ (begi) = 'быстро, немедленно' (=ਛੇਤੀ)",
+      "meaning": "Наречие ਬੇਗਿ = 'быстро'. Сихари — показатель наречия.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਭਗਤਿ_vs_ਭਗਤੁ",
+      "meaning": "ਭਗਤਿ (original sihari) = devotion/bhakti (abstract noun); ਭਗਤੁ (aungkar) = singular devotee (person); ਭਗਤ (no syllable) = plural devotees",
+      "source": "grammar_pdf_p54"
+    },
+    {
+      "pattern": "ਭੰਡਿ (sihari) = 'через женщину / посредством женщины'",
+      "meaning": "ਭੰਡੁ = существительное (женщина). ਭੰਡਿ с сихари = 'через женщину, посредством'. НЕ именительный падеж.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਮਤਿ_vs_ਮੱਤ",
+      "meaning": "ਮਤਿ (original sihari) = intellect/mind/reasoning (abstract noun); ਮੱਤ (no sihari, different root) = \"drunk/intoxicated\" or compound word element",
+      "source": "grammar_pdf_p55"
+    },
+    {
+      "pattern": "ਮਤੁ_conjunction",
+      "meaning": "ਮਤੁ = conjunction \"lest / so that not\"; no sihari — not an adverb",
+      "source": "grammar_pdf_p38"
+    },
+    {
+      "pattern": "ਮਧਮ ਪੁਰਖ (Second Person)",
+      "meaning": "Говорящий обращается к другому: ты, вы",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਮਨਿ = 'через ум / в уме'; ਮੁਖਿ = 'через уста'",
+      "meaning": "ਮਨਿ с сихари = 'через ум, в уме'. ਮੁਖਿ с сихари = 'через уста, устами'. Противопоставление: ਮਨਮੁਖਿ (следующий уму-без-Гуру) vs ਗੁਰਮੁਖਿ (следующий устами Гуру).",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਮਰਨਿ_vs_ਮਰਨੁ",
+      "meaning": "ਮਰਨਿ (sihari on ਨ) = \"they die\" (3rd person plural present imperfect); ਮਰਨੁ (aungkar) = noun \"death\"",
+      "source": "grammar_pdf_p51"
+    },
+    {
+      "pattern": "ਮਹਿ (mahi) — preposition 'внутри, среди'",
+      "meaning": "Послелог, означающий 'внутри, среди, в'. Существительное перед ним = mukta.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਮਿਤਿ_vs_ਮਿਤੁ",
+      "meaning": "ਮਿਤਿ (original sihari) = extent/measure/limit; ਮਿਤੁ (aungkar) = friend/companion",
+      "source": "grammar_pdf_p56"
+    },
+    {
+      "pattern": "ਮੁਕਤਾ (mukta) = Plural (from aungkar noun)",
+      "meaning": "Чтобы образовать множественное число от слова на ਔਂਕੜ — убирают ਔਂਕੜ с последней буквы (mukta). Правило: aungkar → убрать aungkar = plural.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਮੁਕਤਿ_vs_ਮੁਕਤੁ",
+      "meaning": "ਮੁਕਤਿ (original sihari) = liberation (abstract noun); ਮੁਕਤੁ (aungkar) = liberated one (person)",
+      "source": "grammar_pdf_p54"
+    },
+    {
+      "pattern": "ਮੂਰਤਿ_vs_ਮੂਰਤੁ",
+      "meaning": "ਮੂਰਤਿ (original sihari) = idol/form/image (murti); ਮੂਰਤੁ (aungkar) = auspicious moment/muhurat",
+      "source": "grammar_pdf_p59"
+    },
+    {
+      "pattern": "ਯੋਜਕ/ਕਾਰਕ (Conjunction)",
+      "meaning": "Слово, соединяющее части предложения или предложения между собой",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਲਈ / ਹੇਤ / ਨੂੰ = 'для, ради' (с инфинитивом)",
+      "meaning": "Послелоги ਲਈ, ਹੇਤ, ਨੂੰ с инфинитивом = 'для того чтобы, ради'. Сихари появляется на конце инфинитива (глагол-имя) при этих послелогах.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਵਾਰ (feminine со значением 'время/раз/черёд')",
+      "meaning": "ਵਾਰ в значении 'раз, черёд' — женского рода (mukta). Когда ਵਾਰਿ = 'заграда/препятствие' — sihari на 'ਰ'.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਵਿਚਿ (sihari) = 'в, внутри X' — sihari означает нахождение внутри",
+      "meaning": "ਵਿਚਿ с сихари = 'в чём-то, внутри чего-то'. ਸਚਿ (ਸਚ+ਿ) = 'в Истине/Создателе'; ਮੁਖਿ ਵਿਚਿ = 'внутри/через уста'.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਵਿਚਿ_vs_ਵਿਚੁ",
+      "meaning": "ਵਿਚਿ with sihari = preposition \"in/inside\"; ਵਿਚੁ with aungkar = noun \"middle/intermediary\"",
+      "source": "grammar_pdf_p36"
+    },
+    {
+      "pattern": "ਵਿਣੁ_conjunction",
+      "meaning": "ਵਿਣੁ = conjunction \"without\" connecting two clauses; no sihari",
+      "source": "grammar_pdf_p38"
+    },
+    {
+      "pattern": "ਵਿਸ਼ੇਸ਼ਣ (Adjective)",
+      "meaning": "Слово, описывающее признак существительного или местоимения",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਵਿਸ਼ੇਸ਼ਣ ਇਸਤ੍ਰੀਲਿੰਗ (Adj. for feminine) = mukta",
+      "meaning": "Прилагательное к существительному женского рода также оканчивается на mukta (без ਔਂਕੜ)",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਵਿੱਚਿ (vichi) — preposition 'в, внутри'",
+      "meaning": "Послелог 'в, внутри'. Существительное перед ним = mukta.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਵੇਲਾ (Vela, mukta) vs ਵੇਲੇ (Velee/Velei, kenna)",
+      "meaning": "ਵੇਲਾ (без ਕੰਨਾ) = ОПРЕДЕЛЕНИЕ термина ('Амрит Вела — это...'). ਵੇਲੇ (с ਕੰਨਾ/sihari) = УКАЗАНИЕ НА ПЕРИОД ВРЕМЕНИ ('в течение Амрит Велы', 'в момент Амрит Велы'). Аналог в русском: 'Вечер — это когда папа дома' (определение) vs 'Папа приходит вечером' (время). В Паури 4 Джап Бани — ਵੇਲਾ (без ਕੰਨਾ) → это определение, а НЕ указание на 3 часа ночи.",
+      "source": "Гурбани грамматика.pdf + KSD-анализ Амрит Вела (из комментариев пользователя)"
+    },
+    {
+      "pattern": "ਸਣੁ_conjunction",
+      "meaning": "ਸਣੁ = conjunction \"along with / and with\" (= ਅਤੇ ਨਾਲੋਂ); no sihari",
+      "source": "grammar_pdf_p38"
+    },
+    {
+      "pattern": "ਸਤਿ_adjective_vs_ਸਤੁ_noun",
+      "meaning": "ਸਤਿ (adjective, original sihari) = True/Eternal (divine attribute, e.g. Sat Naam); ਸਤੁ (aungkar, noun) = charity/essence/purity/truth as quality",
+      "source": "grammar_pdf_p56"
+    },
+    {
+      "pattern": "ਸਬਦਿ (sihari) = 'через Шабад' — НЕ 'Шабад'",
+      "meaning": "ਸਬਦਿ с сихари = 'через Шабад / посредством Шабада'. Мейнстрим часто читает как именительный 'Шабад', меняя смысл. Правильно: 'через Шабад Гуру' — инструментальный падеж.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸਬੰਧਕ (Preposition)",
+      "meaning": "Слово, связывающее существительное/местоимение с другими словами предложения",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਸਾਰ (feminine=mukta / masculine=aungkar)",
+      "meaning": "Слово ਸਾਰ (khabar=новость/суть) — женского рода, mukta. НО ਸਾਰੁ (철/iron, essence/оригинал) — мужского рода, с aungkar. Контекст определяет род и форму.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਸਾਲਾਹਨਿ_vs_ਸਾਲਾਹਣ",
+      "meaning": "ਸਾਲਾਹਨਿ (sihari on ਨ) = \"they praise\" (3rd person plural); ਸਾਲਾਹਣ (no sihari) = verb-noun \"praise-worthy/deserving praise\"",
+      "source": "grammar_pdf_p51"
+    },
+    {
+      "pattern": "ਸਿਹਾਰੀ (sihari) = послелог 'в, внутри, через, посредством'",
+      "meaning": "Сихари — прежде всего маркер послелога (preposition). ਵਿਚਿ, ਬਾਹਰਿ, ਉਪਰਿ и подобные — выражают отношение к другому слову: 'в, снаружи, над'. Сихари на последнем согласном существительного превращает его в инструментальный/локативный падеж: 'через X, посредством X, в X'.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸਿਹਾਰੀ меняет смысл — системная ошибка мейнстрим-переводов",
+      "meaning": "Игнорирование сихари — источник многих неверных переводов. Мейнстрим читает слова с сихари как именительный, упуская инструментальный/локативный смысл. Примеры системных ошибок: ਸਬਦਿ → 'the Word' вместо 'through the Word'; ਦਰਸਨਿ ਰੂਪਿ → 'the darshan and the form' вместо 'through darshan and form'; ਕਰਮਿ → 'karma/deed' вместо 'through grace/deed'; ਧਰਮਿ → 'religion' вместо 'through dharam'.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸਿਹਾਰੀ на инфинитиве (ਭਾਵਾਰਥ) = целевой послелог 'для того чтобы'",
+      "meaning": "Сихари на конце инфинитивных форм (оканчивающихся на ਣੇ или ਨੇ) = целевой послелог. Смысл: 'для X-ния, ради X-ния'. Это НЕ именительный и НЕ прямой объект.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸਿਹਾਰੀ на существительном = 'через / посредством X'",
+      "meaning": "Когда сихари стоит на последней букве существительного — оно становится инструментальным: 'через X', 'посредством X', 'в X'. Это меняет смысл переводов кардинально по сравнению с мейнстримом.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸਿਹਾਰੀ послелоги — полный список",
+      "meaning": "Послелоги с сихари на последнем согласном: ਵਿਚਿ (в), ਉਪਰਿ (над), ਹੇਠਿ (под), ਮਧਿ/ਮੰਝਾਰਿ (в середине), ਬਾਹਰਿ (снаружи), ਸੰਗਿ/ਸਾਥਿ (вместе с), ਨਾਲਿ (с), ਪਾਸਿ (рядом/у), ਵਸਿ (во власти), ਨਜੀਕਿ (близко), ਬਰਾਬਰਿ (наравне), ਗੈਲਿ (с/рядом), ਤੁਲਿ (наравне/как), ਸਰਿ/ਸਿਰਿ (над/на голове), ਭੀਤਰਿ (внутри), ਬੀਚਿ (в середине), ਅੰਤਰਿ (внутри), ਮਹਿ/ਮਾਹਿ (в), ਨਿਕਟਿ (близко), ਅੰਤਿ (в конце), ਵਲਿ (в сторону), ਪਾਰਿ (за, на той стороне), ਭਰਿ (полностью)",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸਿਹਾਰੀ ਸਥਾਨ — сихари с наречиями (ਕਿਰਿਆ-ਵਿਸ਼ੇਸ਼ਣ)",
+      "meaning": "Сихари также появляется с наречиями, функционируя как послелог (preposition). Эти слова часто стоят без связанного существительного. Список: ਵਿਚਿ, ਅੰਤਰਿ, ਬਾਹਰਿ, ਸਾਥਿ, ਸੰਗਿ, ਨਾਲਿ, ਦੂਰਿ, ਮੰਝਿ, ਨੇੜਿ, ਫਿਰਿ, ਬਹੁੜਿ, ਤਲਿ, ਉਪਰਿ, ਬਾਹਰਿ ਵਾਰਿ, ਹਦੂਰਿ, ਉਰਵਾਰਿ, ਪਾਰਿ, ਵਲਿ, ਓੜਕਿ, ਆਦਿ, ਮਧਿ, ਅੰਤਿ, ਪਾਸਿ, ਨਿਦਾਨਿ, ਮੁਲਿ, ਵਖਿ, ਬੇਗਿ, ਹੁਣਿ, ਅਬਿ, ਕਦਿ",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸੁਣਿ (sihari) = 'через слушание / посредством слушания'",
+      "meaning": "ਸੁਣਿ с сихари = инструментальный: 'через состояние слушания', 'посредством'. НЕ 'для слушания' и НЕ именительный 'слушание'.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਸੁਧਿ_vs_ਸੁਧੁ",
+      "meaning": "ਸੁਧਿ (sihari) = awareness/realization/consciousness; ਸੁਧੁ (aungkar) = corrected/purified",
+      "source": "grammar_pdf_p59"
+    },
+    {
+      "pattern": "ਸੇਵਕਿ_feminine",
+      "meaning": "ਸੇਵਕਿ (sihari) = female servant (feminine form); ਸੇਵਕੁ (aungkar) = male servant",
+      "source": "grammar_pdf_p61"
+    },
+    {
+      "pattern": "ਸੰਗਿ_vs_ਸੰਗੁ",
+      "meaning": "same word in one verse: ਸੰਗਿ with sihari = preposition \"with\"; ਸੰਗੁ with aungkar = noun \"company/association\"",
+      "source": "grammar_pdf_p35"
+    },
+    {
+      "pattern": "ਸੰਬੋਧਕ (Exclamation/Vocative marker)",
+      "meaning": "Слово-обращение к конкретному лицу. После него в письме ставится '!'",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਸੰਬੋਧਨ ਕਾਰਕ (Vocative Case) = mukta",
+      "meaning": "Когда существительное стоит в звательном падеже (обращение «Эй, X!»), его последняя буква принимает форму mukta (теряет ਔਂਕੜ). ИСКЛЮЧЕНИЕ: если в звательном падеже обращаются к Создателю — сохраняется aungkar.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਸੰਬੋਧਨ ਕਾਰਕ ਵਿਸ਼ੇਸ਼ਣ (Adjective for Vocative) = mukta",
+      "meaning": "Прилагательное при существительном в звательном падеже тоже принимает форму mukta",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਸੰਬੰਧ ਕਾਰਕ (Possessive Case) = mukta",
+      "meaning": "В притяжательном падеже (мурккаб изафи) — у притяжательного существительного убирают ਔਂਕੜ (mukta), даже если послелог 'ਦਾ'/'ਕਾ' не указан явно.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਸੰਬੰਧਕੀ ਪਦ (Prepositions) — предшествующее слово = mukta",
+      "meaning": "Существительные перед послелогами ਬਿਨੁ, ਵਿਟਹੁ, ਕਉ, ਸੇਤੀ, ਵਿੱਚ, ਮਹਿ, ਉਪਰਿ, ਤੇ, ਪਹਿ, ਪਾਸਿ — принимают mukta (последний согласный без ਔਂਕੜ).",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 6-15"
+    },
+    {
+      "pattern": "ਹਦੂਰਿ (haduri) = 'в присутствии, лицом к лицу'",
+      "meaning": "Наречие/послелог ਹਦੂਰਿ = 'в присутствии, прямо перед'. Сихари — послелог.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਹਸਤਿ_vs_ਹਸਤੁ",
+      "meaning": "ਹਸਤਿ/ਹਸਤੀ (sihari/bihari) = elephant; ਹਸਤੁ/ਹਸਤ (aungkar/no syllable) = hand OR \"happens/laughed\"",
+      "source": "grammar_pdf_p59"
+    },
+    {
+      "pattern": "ਹਿਕਿ_vs_ਹਿਕੁ",
+      "meaning": "ਹਿਕੁ (aungkar) = singular \"one\"; ਹਿਕਿ (sihari) = plural \"some/ones\" (Punjabi dialect form of ਇਕ)",
+      "source": "grammar_pdf_p64"
+    },
+    {
+      "pattern": "ਹੁਣਿ (huni) = 'сейчас, теперь'",
+      "meaning": "Наречие времени ਹੁਣਿ = 'сейчас'. Сихари здесь указывает на временной послелог.",
+      "source": "Гурбани грамматика.pdf (Gurbani Viakaran), стр. 16-30"
+    },
+    {
+      "pattern": "ਹੋਰਿ_vs_ਹੋਰੁ",
+      "meaning": "ਹੋਰੁ/ਹੋਰ (aungkar/no syllable) = singular \"another/other\"; ਹੋਰਿ (sihari on ਰ) = plural \"others\"",
+      "source": "grammar_pdf_p65"
     }
   ],
   "_stats": {
-    "words": 3149,
-    "canvas_concepts": 54,
+    "words": 4632,
+    "canvas_concepts": 64,
     "ksd_principles": 12,
-    "grammar_rules": 46,
-    "ksd_examples": 9
+    "grammar_rules": 250,
+    "ksd_examples": 433
   }
 }

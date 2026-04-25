@@ -272,10 +272,10 @@ Gradle note:
 - The app module applies `com.android.application` and `org.jetbrains.kotlin.plugin.compose`.
 
 Testing note:
-- To test by file, send `nitnem_mobile/app/build/outputs/apk/debug/app-debug.apk` to the phone and install it.
-- To install by USB, connect the phone with USB debugging and run:
-  `ANDROID_HOME=/home/royal/Work/Spiritual/KSD_AI/.android-sdk PATH=/home/royal/Work/Spiritual/KSD_AI/.android-sdk/platform-tools:$PATH adb install -r nitnem_mobile/app/build/outputs/apk/debug/app-debug.apk`
-- To rebuild: `cd nitnem_mobile && ./gradlew assembleDebug`.
+- To rebuild and install on the connected phone in one step, use the deploy script:
+  `cd nitnem_mobile && ./deploy.sh`
+- `deploy.sh` runs `./gradlew assembleDebug` then `adb install -r`. It works as a seamless update (no uninstall needed) as long as the same debug keystore is used. If the keystore changes (new machine/agent), uninstall the old version from the phone once, then `./deploy.sh` will work from that point on.
+- The phone must be connected via USB with USB debugging enabled.
 
 Future comments/audio note:
 - Do not store audio bytes inside translation JSON.

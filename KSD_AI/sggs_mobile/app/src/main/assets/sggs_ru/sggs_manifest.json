@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "content_version": 1,
+  "package_id": "sri_guru_granth_sahib_ru_ksd_v1",
+  "title": "Sri Guru Granth Sahib RU",
+  "app_authors": [
+    "Ilia Potseluev"
+  ],
+  "generated_at": "2026-05-01T19:30:30.576599+00:00",
+  "ang_start": 1,
+  "ang_end": 1430,
+  "ang_count": 1430,
+  "shabad_count": 6684,
+  "line_count": 60403,
+  "default_layers": [
+    "gurmukhi",
+    "roman",
+    "sahib_singh_pa",
+    "sahib_singh_ru"
+  ],
+  "indexes": {
+    "raags": "indexes/raags.json",
+    "authors": "indexes/authors.json",
+    "shabads": "indexes/shabads.json",
+    "works": "indexes/works.json"
+  },
+  "ang_path_pattern": "angs/ksd_ang_%04d.json",
+  "articles": {
+    "about_sahib_singh": "articles/about_sahib_singh_ru.md"
+  }
+}

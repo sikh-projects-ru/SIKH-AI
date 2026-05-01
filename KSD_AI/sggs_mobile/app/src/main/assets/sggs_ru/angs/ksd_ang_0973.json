@@ -1,0 +1,741 @@
+{
+  "ang": 973,
+  "shabads": [
+    {
+      "shabad_id": 3605,
+      "rahao_verse_id": 41594,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41592,
+          "is_rahao": false,
+          "gurmukhi": "ਅਖੰਡ ਮੰਡਲ ਨਿਰੰਕਾਰ ਮਹਿ ਅਨਹਦ ਬੇਨੁ ਬਜਾਵਉਗੋ ॥੧॥",
+          "roman": "akhaṇḍ maṇḍal nirankār meh anahad bēn bajāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В нераздельной области Бесформенного я буду играть на неслышной, самозвучащей флейте."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41593,
+          "is_rahao": true,
+          "gurmukhi": "ਬੈਰਾਗੀ ਰਾਮਹਿ ਗਾਵਉਗੋ ॥",
+          "roman": "bērāgī rāmeh gāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Став отрешённым, я буду воспевать Рама."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41594,
+          "is_rahao": true,
+          "gurmukhi": "ਸਬਦਿ ਅਤੀਤ ਅਨਾਹਦਿ ਰਾਤਾ ਆਕੁਲ ਕੈ ਘਰਿ ਜਾਉਗੋ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "sabad atīt anāhad rātā ākul kē ghar jāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пропитанный Словом, погружённый в неслышный звук, я войду в дом Того, кто вне рода и происхождения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41595,
+          "is_rahao": true,
+          "gurmukhi": "ਇੜਾ ਪਿੰਗੁਲਾ ਅਉਰੁ ਸੁਖਮਨਾ ਪਉਨੈ ਬੰਧਿ ਰਹਾਉਗੋ ॥",
+          "roman": "iṛā piṅgulā aur sukhamnā paunē bandh rahāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я удержу дыхание, связав иду, пингалу и сушумну."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41596,
+          "is_rahao": false,
+          "gurmukhi": "ਚੰਦੁ ਸੂਰਜੁ ਦੁਇ ਸਮ ਕਰਿ ਰਾਖਉ ਬ੍ਰਹਮ ਜੋਤਿ ਮਿਲਿ ਜਾਉਗੋ ॥੨॥",
+          "roman": "chand sūraj dui sam kar rākhau brahm jot mil jāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Уравновесив луну и солнце, я соединюсь со светом Брахма."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41597,
+          "is_rahao": false,
+          "gurmukhi": "ਤੀਰਥ ਦੇਖਿ ਨ ਜਲ ਮਹਿ ਪੈਸਉ ਜੀਅ ਜੰਤ ਨ ਸਤਾਵਉਗੋ ॥",
+          "roman": "tīrath dekh na jal meh pēsau jīa jant na satāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Увидев места паломничества, я не стану входить в воду и не буду мучить живых существ."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41598,
+          "is_rahao": false,
+          "gurmukhi": "ਅਠਸਠਿ ਤੀਰਥ ਗੁਰੂ ਦਿਖਾਏ ਘਟ ਹੀ ਭੀਤਰਿ ਨੑਾਉਗੋ ॥੩॥",
+          "roman": "aṭhsaṭh tīrath gurū dikhāē ghaṭ hī bhītar nhāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру показал мне шестьдесят восемь святых мест, и я буду омываться внутри собственного сердца."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41599,
+          "is_rahao": false,
+          "gurmukhi": "ਪੰਚ ਸਹਾਈ ਜਨ ਕੀ ਸੋਭਾ ਭਲੋ ਭਲੋ ਨ ਕਹਾਵਉਗੋ ॥",
+          "roman": "panch sahāī jan kī sobhā bhalo bhalo na kahāvauṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пять помощников станут славой слуги Господа, но я не стану добиваться, чтобы меня называли хорошим."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41600,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਮਾ ਕਹੈ ਚਿਤੁ ਹਰਿ ਸਿਉ ਰਾਤਾ ਸੁੰਨ ਸਮਾਧਿ ਸਮਾਉਗੋ ॥੪॥੨॥",
+          "roman": "nāmā kahē chit har siu rātā sunn samādh samāuṅgo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нама говорит: моё сознание окрашено любовью к Хари, и я погружусь в самадхи безмолвной пустоты."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3606,
+      "rahao_verse_id": 41604,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41601,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਇ ਨ ਹੋਤੀ ਬਾਪੁ ਨ ਹੋਤਾ ਕਰਮੁ ਨ ਹੋਤੀ ਕਾਇਆ ॥",
+          "roman": "māe na hotī bāp na hotā karam na hotī kāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было ни матери, ни отца, ни кармы, ни тела,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41602,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਨਹੀ ਹੋਤੇ ਤੁਮ ਨਹੀ ਹੋਤੇ ਕਵਨੁ ਕਹਾਂ ਤੇ ਆਇਆ ॥੧॥",
+          "roman": "ham nahī hotē tum nahī hotē kavan kahāṅ tē āiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "когда не было ни нас, ни вас, кто и откуда тогда пришёл?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41603,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਕੋਇ ਨ ਕਿਸ ਹੀ ਕੇਰਾ ॥",
+          "roman": "rām koi na kis hī kērā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Рам, никто никому не принадлежит навеки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41604,
+          "is_rahao": true,
+          "gurmukhi": "ਜੈਸੇ ਤਰਵਰਿ ਪੰਖਿ ਬਸੇਰਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jēsē tarvar paṅkh basērā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Это подобно птицам, которые лишь временно ночуют на дереве."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41605,
+          "is_rahao": false,
+          "gurmukhi": "ਚੰਦੁ ਨ ਹੋਤਾ ਸੂਰੁ ਨ ਹੋਤਾ ਪਾਨੀ ਪਵਨੁ ਮਿਲਾਇਆ ॥",
+          "roman": "chand na hotā sūr na hotā pānī pavan milāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было ни луны, ни солнца, а вода и воздух ещё были слиты воедино,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41606,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਸਤੁ ਨ ਹੋਤਾ ਬੇਦੁ ਨ ਹੋਤਾ ਕਰਮੁ ਕਹਾਂ ਤੇ ਆਇਆ ॥੨॥",
+          "roman": "sāsat na hotā bēd na hotā karam kahāṅ tē āiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "когда не было ни шастр, ни Вед, откуда тогда взялась карма?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41607,
+          "is_rahao": false,
+          "gurmukhi": "ਖੇਚਰ ਭੂਚਰ ਤੁਲਸੀ ਮਾਲਾ ਗੁਰ ਪਰਸਾਦੀ ਪਾਇਆ ॥",
+          "roman": "khēchar bhūchar tulsī mālā gur prasādī pāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Все странствующие по небу и земле, все внешние чётки из тулси обретают смысл лишь милостью Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41608,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਮਾ ਪ੍ਰਣਵੈ ਪਰਮ ਤਤੁ ਹੈ ਸਤਿਗੁਰ ਹੋਇ ਲਖਾਇਆ ॥੩॥੩॥",
+          "roman": "nāmā praṇvē param tat hē satgur hoe lakhāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нама смиренно говорит: высшая Сущность существует, и Сатгуру даёт её распознать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3607,
+      "rahao_verse_id": 41613,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41609,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਕਲੀ ਘਰੁ ੨ ॥",
+          "roman": "rāmkalī ghar dūjā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Рамкали, второй дом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41610,
+          "is_rahao": false,
+          "gurmukhi": "ਬਾਨਾਰਸੀ ਤਪੁ ਕਰੈ ਉਲਟਿ ਤੀਰਥ ਮਰੈ ਅਗਨਿ ਦਹੈ ਕਾਇਆ ਕਲਪੁ ਕੀਜੈ ॥",
+          "roman": "bānārasī tap karē ulaṭ tīrath marē agan dahē kāiā kalap kījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пусть человек совершает аскезу в Бенаресе, умирает в святых местах, сжигает тело огнём и совершает телесное обновление,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41611,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸੁਮੇਧ ਜਗੁ ਕੀਜੈ ਸੋਨਾ ਗਰਭ ਦਾਨੁ ਦੀਜੈ ਰਾਮ ਨਾਮ ਸਰਿ ਤਊ ਨ ਪੂਜੈ ॥੧॥",
+          "roman": "asumēdh jag kījē sonā garabh dān dījē rām nām sar tau na pūjē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "пусть совершает жертвоприношение коня и отдаёт золото в дар — всё это всё равно не сравнится с Именем Рама."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41612,
+          "is_rahao": true,
+          "gurmukhi": "ਛੋਡਿ ਛੋਡਿ ਰੇ ਪਾਖੰਡੀ ਮਨ ਕਪਟੁ ਨ ਕੀਜੈ ॥",
+          "roman": "chhoḍ chhoḍ rē pākhaṇḍī man kapaṭ na kījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О лицемерный ум, оставь, оставь притворство, не совершай обмана."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41613,
+          "is_rahao": true,
+          "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਨਿਤ ਨਿਤਹਿ ਲੀਜੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "har kā nām nit niteh lījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Постоянно, снова и снова принимай Имя Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41614,
+          "is_rahao": false,
+          "gurmukhi": "ਗੰਗਾ ਜਉ ਗੋਦਾਵਰਿ ਜਾਈਐ ਕੁੰਭਿ ਜਉ ਕੇਦਾਰ ਨੑਾਈਐ ਗੋਮਤੀ ਸਹਸ ਗਊ ਦਾਨੁ ਕੀਜੈ ॥",
+          "roman": "gaṅgā jau godāvar jāīē kumbh jau kēdār nhāīē gomatī sahas gaū dān kījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пусть человек идёт к Ганге и Годавари, пусть омывается на Кумбхе и в Кедаре, пусть дарит тысячу коров у Гомати,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41615,
+          "is_rahao": false,
+          "gurmukhi": "ਕੋਟਿ ਜਉ ਤੀਰਥ ਕਰੈ ਤਨੁ ਜਉ ਹਿਵਾਲੇ ਗਾਰੈ ਰਾਮ ਨਾਮ ਸਰਿ ਤਊ ਨ ਪੂਜੈ ॥੨॥",
+          "roman": "koṭ jau tīrath karē tan jau hivālē gārē rām nām sar tau na pūjē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "пусть совершит миллионы паломничеств и истощит тело в ледяном холоде — всё это всё равно не сравнится с Именем Рама."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41616,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸੁ ਦਾਨ ਗਜ ਦਾਨ ਸਿਹਜਾ ਨਾਰੀ ਭੂਮਿ ਦਾਨ ਐਸੋ ਦਾਨੁ ਨਿਤ ਨਿਤਹਿ ਕੀਜੈ ॥",
+          "roman": "as dān gaj dān sihjā nārī bhūm dān ēso dān nit niteh kījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пусть человек постоянно дарит коней, слонов, ложа, женщин и землю, пусть снова и снова совершает такие дары,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41617,
+          "is_rahao": false,
+          "gurmukhi": "ਆਤਮ ਜਉ ਨਿਰਮਾਇਲੁ ਕੀਜੈ ਆਪ ਬਰਾਬਰਿ ਕੰਚਨੁ ਦੀਜੈ ਰਾਮ ਨਾਮ ਸਰਿ ਤਊ ਨ ਪੂਜੈ ॥੩॥",
+          "roman": "ātam jau nirmāil kījē āp barābar kanchan dījē rām nām sar tau na pūjē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "пусть очищает себя и отдаёт золото весом, равным своему телу, — всё это всё равно не сравнится с Именем Рама."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41618,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਹਿ ਨ ਕੀਜੈ ਰੋਸੁ ਜਮਹਿ ਨ ਦੀਜੈ ਦੋਸੁ ਨਿਰਮਲ ਨਿਰਬਾਣ ਪਦੁ ਚੀਨਿੑ ਲੀਜੈ ॥",
+          "roman": "maneh na kījē ros jameh na dījē dos nirmal nirbāṇ pad chīn lījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Не сердись в уме и не обвиняй Джама; распознай чистое состояние освобождения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41619,
+          "is_rahao": false,
+          "gurmukhi": "ਜਸਰਥ ਰਾਇ ਨੰਦੁ ਰਾਜਾ ਮੇਰਾ ਰਾਮ ਚੰਦੁ ਪ੍ਰਣਵੈ ਨਾਮਾ ਤਤੁ ਰਸੁ ਅੰਮ੍ਰਿਤੁ ਪੀਜੈ ॥੪॥੪॥",
+          "roman": "jasrath rāe nand rājā mērā rām chand praṇvē nāmā tat ras amrit pījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мой царь — Рам Чанд, сын царя Дашаратха; Нама смиренно говорит: пей нектарный вкус истинной Сущности."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3608,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41620,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਕਲੀ ਬਾਣੀ ਰਵਿਦਾਸ ਜੀ ਕੀ",
+          "roman": "rāmkalī bāṇī ravidās jī kī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Рамкали, бани Равидаса джи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41621,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Один Эконкар, по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41622,
+          "is_rahao": false,
+          "gurmukhi": "ਪੜੀਐ ਗੁਨੀਐ ਨਾਮੁ ਸਭੁ ਸੁਨੀਐ ਅਨਭਉ ਭਾਉ ਨ ਦਰਸੈ ॥",
+          "roman": "paṛīē gunīē nām sabh sunīē anbhau bhāu na darsē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Можно читать, размышлять и слушать обо всём, что зовётся Именем, но без непосредственного переживания любовь не проявляется."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41623,
+          "is_rahao": false,
+          "gurmukhi": "ਲੋਹਾ ਕੰਚਨੁ ਹਿਰਨ ਹੋਇ ਕੈਸੇ ਜਉ ਪਾਰਸਹਿ ਨ ਪਰਸੈ ॥੧॥",
+          "roman": "lohā kanchan hiran hoe kēsē jau pārseh na parsē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Как железо может стать золотом, если оно не коснётся философского камня?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "ang": 483,
+  "shabads": [
+    {
+      "shabad_id": 1795,
+      "rahao_verse_id": 21708,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21705,
+          "is_rahao": false,
+          "gurmukhi": "ਜਉ ਮੈ ਰੂਪ ਕੀਏ ਬਹੁਤੇਰੇ ਅਬ ਫੁਨਿ ਰੂਪੁ ਨ ਹੋਈ ॥",
+          "roman": "jau mē rūp kīē bahutērē ab phun rūp na hoī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В майином мохе я блуждал по многим рождениям, но теперь этот круг рождения и смерти прекратился."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21706,
+          "is_rahao": false,
+          "gurmukhi": "ਤਾਗਾ ਤੰਤੁ ਸਾਜੁ ਸਭੁ ਥਾਕਾ ਰਾਮ ਨਾਮ ਬਸਿ ਹੋਈ ॥੧॥",
+          "roman": "tāgā tant sāj sabh thākā rām nām bas hoī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нить моха, его струна и весь его обманный строй исчерпались; теперь мой ум оказался во власти имени Рама."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21707,
+          "is_rahao": true,
+          "gurmukhi": "ਅਬ ਮੋਹਿ ਨਾਚਨੋ ਨ ਆਵੈ ॥",
+          "roman": "ab moh nāchno na āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь я перестал плясать в руках майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21708,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰਾ ਮਨੁ ਮੰਦਰੀਆ ਨ ਬਜਾਵੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "mērā man mandarīā na bajāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь мой ум больше не бьёт в барабан моха майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21709,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮੁ ਕ੍ਰੋਧੁ ਮਾਇਆ ਲੈ ਜਾਰੀ ਤ੍ਰਿਸਨਾ ਗਾਗਰਿ ਫੂਟੀ ॥",
+          "roman": "kām krodh māiā lē jārī trisnā gāgar phūṭī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По милости Господа я сжёг влияние похоти, гнева и майи; кувшин жажды внутри меня разбился."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21710,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮ ਚੋਲਨਾ ਭਇਆ ਹੈ ਪੁਰਾਨਾ ਗਇਆ ਭਰਮੁ ਸਭੁ ਛੂਟੀ ॥੨॥",
+          "roman": "kām cholnā bhēā hē purānā gēā bharam sabh chhūṭī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Грубая одежда похоти стала старой и ненужной; блуждание исчезло, и вся игра майи отпала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21711,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਬ ਭੂਤ ਏਕੈ ਕਰਿ ਜਾਨਿਆ ਚੂਕੇ ਬਾਦ ਬਿਬਾਦਾ ॥",
+          "roman": "sarab bhūt ēkē kar jāniā chūkē bād bibādā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь я понял, что во всех существах пребывает один Господь; поэтому все споры, вражда и противоречия прекратились."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21712,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਿ ਕਬੀਰ ਮੈ ਪੂਰਾ ਪਾਇਆ ਭਏ ਰਾਮ ਪਰਸਾਦਾ ॥੩॥੬॥੨੮॥",
+          "roman": "kah Kabīr mē pūrā pāiā bhaē rām parsādā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: на меня снизошла милость Рама, я обрёл совершенного Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1796,
+      "rahao_verse_id": 21717,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21713,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ॥",
+          "roman": "āsā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Аса."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21714,
+          "is_rahao": false,
+          "gurmukhi": "ਰੋਜਾ ਧਰੈ ਮਨਾਵੈ ਅਲਹੁ ਸੁਆਦਤਿ ਜੀਅ ਸੰਘਾਰੈ ॥",
+          "roman": "rojā dharē manāvē alah suādat jīa saṅghārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кази держит пост, приносит жертву во имя Аллаха, но ради собственного вкуса убивает живые существа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21715,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪਾ ਦੇਖਿ ਅਵਰ ਨਹੀ ਦੇਖੈ ਕਾਹੇ ਕਉ ਝਖ ਮਾਰੈ ॥੧॥",
+          "roman": "āpā dēkh avar nahī dēkhē kāhē kau jhakh mārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он смотрит только на свою выгоду и не считается с другими; поэтому все эти старания — лишь бесполезная суета."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21716,
+          "is_rahao": true,
+          "gurmukhi": "ਕਾਜੀ ਸਾਹਿਬੁ ਏਕੁ ਤੋਹੀ ਮਹਿ ਤੇਰਾ ਸੋਚਿ ਬਿਚਾਰਿ ਨ ਦੇਖੈ ॥",
+          "roman": "kājī sāhib ēk tohī meh tērā soch bichār na dēkhē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О кази, Владыка один; Он и твой Господь, и Он присутствует в тебе, но ты не всматриваешься в это с размышлением."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21717,
+          "is_rahao": true,
+          "gurmukhi": "ਖਬਰਿ ਨ ਕਰਹਿ ਦੀਨ ਕੇ ਬਉਰੇ ਤਾ ਤੇ ਜਨਮੁ ਅਲੇਖੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "khabar na kareh dīn kē baurē tā tē janam alēkhē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О обезумевший в религиозном законе кази, ты не понимаешь этого тайного смысла; потому твоя жизнь проходит впустую."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21718,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਚੁ ਕਤੇਬ ਬਖਾਨੈ ਅਲਹੁ ਨਾਰਿ ਪੁਰਖੁ ਨਹੀ ਕੋਈ ॥",
+          "roman": "sāch katēb bakhānē alah nār purakh nahī koī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ваши священные книги тоже говорят: Аллах вечен; без Его света ни женщина, ни мужчина не могут жить."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21719,
+          "is_rahao": false,
+          "gurmukhi": "ਪਢੇ ਗੁਨੇ ਨਾਹੀ ਕਛੁ ਬਉਰੇ ਜਉ ਦਿਲ ਮਹਿ ਖਬਰਿ ਨ ਹੋਈ ॥੨॥",
+          "roman": "paṛhē gunē nāhī kachh baurē jau dil meh khabar na hoī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О безумный кази, если в сердце нет этого понимания, то чтение и размышление над книгами не дают духовной пользы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21720,
+          "is_rahao": false,
+          "gurmukhi": "ਅਲਹੁ ਗੈਬੁ ਸਗਲ ਘਟ ਭੀਤਰਿ ਹਿਰਦੈ ਲੇਹੁ ਬਿਚਾਰੀ ॥",
+          "roman": "alah gēb sagal ghaṭ bhītar hirdē lēh bichārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Взгляни в своё сердце и поразмысли: скрытый Аллах пребывает внутри каждого тела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21721,
+          "is_rahao": false,
+          "gurmukhi": "ਹਿੰਦੂ ਤੁਰਕ ਦੁਹੂੰ ਮਹਿ ਏਕੈ ਕਹੈ ਕਬੀਰ ਪੁਕਾਰੀ ॥੩॥੭॥੨੯॥",
+          "roman": "hindū turak duhū meh ēkē kahē Kabīr pukārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир громко провозглашает: и в индуисте, и в мусульманине пребывает один и тот же Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1797,
+      "rahao_verse_id": 21726,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21722,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ॥ ਤਿਪਦਾ ॥ ਇਕਤੁਕਾ ॥",
+          "roman": "āsā tipdā iktukā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Аса, трёхстишие, одна строка."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21723,
+          "is_rahao": false,
+          "gurmukhi": "ਕੀਓ ਸਿੰਗਾਰੁ ਮਿਲਨ ਕੇ ਤਾਈ ॥",
+          "roman": "kīo siṅgār milan kē tāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я украсила себя, чтобы встретиться с супругом-Господом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21724,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਨ ਮਿਲੇ ਜਗਜੀਵਨ ਗੁਸਾਈ ॥੧॥",
+          "roman": "har na milē jagjīvan gusāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но Господь, жизнь мира и Владыка мира, мне не встретился."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21725,
+          "is_rahao": true,
+          "gurmukhi": "ਹਰਿ ਮੇਰੋ ਪਿਰੁ ਹਉ ਹਰਿ ਕੀ ਬਹੁਰੀਆ ॥",
+          "roman": "har mēro pir hau har kī bahurīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Господь — мой супруг, а я Его юная, неопытная невеста."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21726,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਬਡੇ ਮੈ ਤਨਕ ਲਹੁਰੀਆ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "rām baḍē mē tanak lahurīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мой Господь-Рам велик, а я малая, незрелая девочка-невеста."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21727,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨ ਪਿਰ ਏਕੈ ਸੰਗਿ ਬਸੇਰਾ ॥",
+          "roman": "dhan pir ēkē saṅg basērā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Невеста-душа и супруг-Господь живут в одном месте."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21728,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇਜ ਏਕ ਪੈ ਮਿਲਨੁ ਦੁਹੇਰਾ ॥੨॥",
+          "roman": "sēj ēk pē milan duhērā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ложе сердца у них одно, но встретиться с Ним всё же очень трудно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21729,
+          "is_rahao": false,
+          "gurmukhi": "ਧੰਨਿ ਸੁਹਾਗਨਿ ਜੋ ਪੀਅ ਭਾਵੈ ॥",
+          "roman": "dhann suhāgan jo pīa bhāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благословенна та счастливая супруга-душа, которая приятна своему Возлюбленному."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21730,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਿ ਕਬੀਰ ਫਿਰਿ ਜਨਮਿ ਨ ਆਵੈ ॥੩॥੮॥੩੦॥",
+          "roman": "kah Kabīr phir janam na āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: такая душа больше не приходит в рождение и смерть."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1798,
+      "rahao_verse_id": 21736,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21731,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ਸ੍ਰੀ ਕਬੀਰ ਜੀਉ ਕੇ ਦੁਪਦੇ",
+          "roman": "āsā srī Kabīr jīo kē dupdē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Аса, двустишия почтенного Кабира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21732,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Единый Онкар; по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21733,
+          "is_rahao": false,
+          "gurmukhi": "ਹੀਰੈ ਹੀਰਾ ਬੇਧਿ ਪਵਨ ਮਨੁ ਸਹਜੇ ਰਹਿਆ ਸਮਾਈ ॥",
+          "roman": "hīrē hīrā bēdh pavan man sahjē rahiā samāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда алмаз-душа пронзает алмаз-Господа, то есть соединяет сознание с Его стопами, её ветреный ум пребывает в спокойной, устойчивой сахадж-авस्थе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21734,
+          "is_rahao": false,
+          "gurmukhi": "ਸਗਲ ਜੋਤਿ ਇਨਿ ਹੀਰੈ ਬੇਧੀ ਸਤਿਗੁਰ ਬਚਨੀ ਮੈ ਪਾਈ ॥੧॥",
+          "roman": "sagal jot in hīrē bēdhī satgur bachnī mē pāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Этот алмаз-Господь пронизывает светом всех живых существ; это я понял благодаря наставлению Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21735,
+          "is_rahao": true,
+          "gurmukhi": "ਹਰਿ ਕੀ ਕਥਾ ਅਨਾਹਦ ਬਾਨੀ ॥",
+          "roman": "har kī kathā anāhad bānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Через восхваление Господа и соединение с непрерывной Бани Гуру душа становится лебедем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21736,
+          "is_rahao": true,
+          "gurmukhi": "ਹੰਸੁ ਹੁਇ ਹੀਰਾ ਲੇਇ ਪਛਾਨੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "haṅs hui hīrā lē pachhānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Став лебедем, она распознаёт алмаз-Господа, как лебедь распознаёт жемчуг."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21737,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਿ ਕਬੀਰ ਹੀਰਾ ਅਸ ਦੇਖਿਓ ਜਗ ਮਹ ਰਹਾ ਸਮਾਈ ॥",
+          "roman": "kah Kabīr hīrā as dēkhio jag meh rahā samāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: я увидел такой алмаз-Господа, который пронизывает весь мир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21738,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਪਤਾ ਹੀਰਾ ਪ੍ਰਗਟ ਭਇਓ ਜਬ ਗੁਰ ਗਮ ਦੀਆ ਦਿਖਾਈ ॥੨॥੧॥੩੧॥",
+          "roman": "guptā hīrā pragaṭ bhaiō jab gur gam dīā dikhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда достигший Господа Сатгуру показал мне Его, этот скрытый алмаз проявился во мне самом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1799,
+      "rahao_verse_id": 21743,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21739,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ॥",
+          "roman": "āsā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Аса."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21740,
+          "is_rahao": false,
+          "gurmukhi": "ਪਹਿਲੀ ਕਰੂਪਿ ਕੁਜਾਤਿ ਕੁਲਖਨੀ ਸਾਹੁਰੈ ਪੇਈਐ ਬੁਰੀ ॥",
+          "roman": "pahilī karūp kujāt kulakhnī sāhurē pēīē burī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Первая склонность моего ума была безобразной, дурного происхождения и дурных признаков; она была плоха и в этом мире, и в будущем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21741,
+          "is_rahao": false,
+          "gurmukhi": "ਅਬ ਕੀ ਸਰੂਪਿ ਸੁਜਾਨਿ ਸੁਲਖਨੀ ਸਹਜੇ ਉਦਰਿ ਧਰੀ ॥੧॥",
+          "roman": "ab kī sarūp sujān sulakhnī sahjē udar dharī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нынешнюю склонность, прекрасную, разумную и добрых признаков, я поселил внутри себя через духовную устойчивость."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21742,
+          "is_rahao": true,
+          "gurmukhi": "ਭਲੀ ਸਰੀ ਮੁਈ ਮੇਰੀ ਪਹਿਲੀ ਬਰੀ ॥",
+          "roman": "bhalī sarī muī mērī pahilī barī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Хорошо, что умерла прежняя склонность моего ума, которую я раньше считал хорошей и избранной."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21743,
+          "is_rahao": true,
+          "gurmukhi": "ਜੁਗੁ ਜੁਗੁ ਜੀਵਉ ਮੇਰੀ ਅਬ ਕੀ ਧਰੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jug jug jīvao mērī ab kī dharī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пусть та, которую я теперь принял и сохранил, живёт вечно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21744,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਕਬੀਰ ਜਬ ਲਹੁਰੀ ਆਈ ਬਡੀ ਕਾ ਸੁਹਾਗੁ ਟਰਿਓ ॥",
+          "roman": "kah Kabīr jab lahurī āī baḍī kā suhāg ṭariō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: с тех пор как пришла эта малая, смиренная склонность, сила высокомерной склонности ушла."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21745,
+          "is_rahao": false,
+          "gurmukhi": "ਲਹੁਰੀ ਸੰਗਿ ਭਈ ਅਬ ਮੇਰੈ ਜੇਠੀ ਅਉਰੁ ਧਰਿਓ ॥੨॥੨॥੩੨॥",
+          "roman": "lahurī saṅg bhaī ab mērē jēṭhī aur dhariō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь эта смиренная мудрость осталась со мной, а старшая, гордая склонность, должно быть, нашла себе другое место."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

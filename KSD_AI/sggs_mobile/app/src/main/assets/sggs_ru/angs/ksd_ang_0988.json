@@ -1,0 +1,911 @@
+{
+  "ang": 988,
+  "shabads": [
+    {
+      "shabad_id": 3647,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42123,
+          "is_rahao": false,
+          "gurmukhi": "ਆਲ ਜਾਲ ਬਿਕਾਰ ਤਜਿ ਸਭਿ ਹਰਿ ਗੁਨਾ ਨਿਤਿ ਗਾਉ ॥",
+          "roman": "āl jāl bikār taj sabh har gunā nit gāo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Оставь все сети привязанностей и пороки; всегда воспевай все качества Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42124,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰ ਜੋੜਿ ਨਾਨਕੁ ਦਾਨੁ ਮਾਂਗੈ ਦੇਹੁ ਅਪਨਾ ਨਾਉ ॥੨॥੧॥੬॥",
+          "roman": "kar joṛ Nānak dān māṅgē dēho apnā nāo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак, сложив руки, просит дар: даруй мне Твоё Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3648,
+      "rahao_verse_id": 42127,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42125,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਲੀ ਗਉੜਾ ਮਹਲਾ ੫ ॥",
+          "roman": "Mālī Gauṛā mahalā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мали Гаура, пятая Махла."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42126,
+          "is_rahao": true,
+          "gurmukhi": "ਪ੍ਰਭ ਸਮਰਥ ਦੇਵ ਅਪਾਰ ॥",
+          "roman": "Prabh samrath dēv apār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! О владелец всех сил! О светозарный! О беспредельный!"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42127,
+          "is_rahao": true,
+          "gurmukhi": "ਕਉਨੁ ਜਾਨੈ ਚਲਿਤ ਤੇਰੇ ਕਿਛੁ ਅੰਤੁ ਨਾਹੀ ਪਾਰ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "kaun jāṇē chalit tērē kichh ant nāhī pār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кто может постичь Твои чудесные деяния? Им не находится ни конца, ни дальнего берега."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42128,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕ ਖਿਨਹਿ ਥਾਪਿ ਉਥਾਪਦਾ ਘੜਿ ਭੰਨਿ ਕਰਨੈਹਾਰੁ ॥",
+          "roman": "ik khin thāp uthāpdā ghaṛ bhann karnēhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Всеспособный Бог, создав и устроив, в одно мгновение разрушает и уничтожает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42129,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇਤ ਕੀਨ ਉਪਾਰਜਨਾ ਪ੍ਰਭੁ ਦਾਨੁ ਦੇਇ ਦਾਤਾਰ ॥੧॥",
+          "roman": "jēt kīn upārjanā Prabh dān dē dātār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сколько бы творения Он ни создал, этот Господь-Даритель даёт дары всему творению."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42130,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਸਰਨਿ ਆਇਓ ਦਾਸੁ ਤੇਰਾ ਪ੍ਰਭ ਊਚ ਅਗਮ ਮੁਰਾਰ ॥",
+          "roman": "Har saran āio dās tērā Prabh ūch agam Murār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Хари! О Господь, высочайший, недостижимый, Мурари! Твой раб пришёл в Твоё прибежище."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42131,
+          "is_rahao": false,
+          "gurmukhi": "ਕਢਿ ਲੇਹੁ ਭਉਜਲ ਬਿਖਮ ਤੇ ਜਨੁ ਨਾਨਕੁ ਸਦ ਬਲਿਹਾਰ ॥੨॥੨॥੭॥",
+          "roman": "kaḍh lēho bhaujal bikham tē jan Nānak sad balihār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Выведи Своего раба из трудного океана мира; раб Нанак всегда отдаёт себя в жертву Тебе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3649,
+      "rahao_verse_id": 42134,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42132,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਲੀ ਗਉੜਾ ਮਹਲਾ ੫ ॥",
+          "roman": "Mālī Gauṛā mahalā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мали Гаура, пятая Махла."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42133,
+          "is_rahao": true,
+          "gurmukhi": "ਮਨਿ ਤਨਿ ਬਸਿ ਰਹੇ ਗੋਪਾਲ ॥",
+          "roman": "man tan bas rahē Gopāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Хранитель творения, Ты Сам пребываешь в моём уме и теле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42134,
+          "is_rahao": true,
+          "gurmukhi": "ਦੀਨ ਬਾਂਧਵ ਭਗਤਿ ਵਛਲ ਸਦਾ ਸਦਾ ਕ੍ਰਿਪਾਲ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "dīn bāndhav bhagat vachhal sadā sadā kripāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О помощник бедных, любящий преданность, всегда и всегда милостивый!"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42135,
+          "is_rahao": false,
+          "gurmukhi": "ਆਦਿ ਅੰਤੇ ਮਧਿ ਤੂਹੈ ਪ੍ਰਭ ਬਿਨਾ ਨਾਹੀ ਕੋਇ ॥",
+          "roman": "ād ant madh tūhē Prabh binā nāhī koē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! В начале был только Ты, в конце будешь только Ты, и посреди, теперь, есть только Ты; без Тебя нет никого вечно пребывающего."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42136,
+          "is_rahao": false,
+          "gurmukhi": "ਪੂਰਿ ਰਹਿਆ ਸਗਲ ਮੰਡਲ ਏਕੁ ਸੁਆਮੀ ਸੋਇ ॥੧॥",
+          "roman": "pūr rahiā sagal maṇḍal ēk suāmī soē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Этот единый Господь-Владыка наполняет все миры и пребывает во всём."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42137,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਨਿ ਹਰਿ ਜਸੁ ਨੇਤ੍ਰ ਦਰਸਨੁ ਰਸਨਿ ਹਰਿ ਗੁਨ ਗਾਉ ॥",
+          "roman": "karan Har jas nētr darsan rasan Har gun gāo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ушами я слушаю славу Хари, глазами вижу Его даршан, языком воспеваю качества Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42138,
+          "is_rahao": false,
+          "gurmukhi": "ਬਲਿਹਾਰਿ ਜਾਏ ਸਦਾ ਨਾਨਕੁ ਦੇਹੁ ਅਪਣਾ ਨਾਉ ॥੨॥੩॥੮॥੬॥੧੪॥",
+          "roman": "balihār jāē sadā Nānak dēho apṇā nāo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак всегда отдаёт себя в жертву Ему и молится: о Господь, даруй мне Своё Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3650,
+      "rahao_verse_id": 42142,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42139,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਲੀ ਗਉੜਾ ਬਾਣੀ ਭਗਤ ਨਾਮਦੇਵ ਜੀ ਕੀ",
+          "roman": "Mālī Gauṛā bāṇī Bhagat Nāmdēv jī kī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мали Гаура, бани святого Бхагата Намдева джи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42140,
+          "is_rahao": true,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "Ik Oankār Satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Единый Онкар, по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42141,
+          "is_rahao": true,
+          "gurmukhi": "ਧਨਿ ਧੰਨਿ ਓ ਰਾਮ ਬੇਨੁ ਬਾਜੈ ॥",
+          "roman": "dhan dhann o Rām bēn bājē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я отдаю себя в жертву флейте Рама, которая звучит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42142,
+          "is_rahao": true,
+          "gurmukhi": "ਮਧੁਰ ਮਧੁਰ ਧੁਨਿ ਅਨਹਤ ਗਾਜੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "madhur madhur dhun anhat gājē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Она сладчайшим звуком непрерывно разносит свою мелодию."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42143,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨਿ ਧਨਿ ਮੇਘਾ ਰੋਮਾਵਲੀ ॥",
+          "roman": "dhan dhan mēghā romāvalī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благословенна шерсть того барана; я отдаю себя ей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42144,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨਿ ਧਨਿ ਕ੍ਰਿਸਨ ਓਢੈ ਕਾਂਬਲੀ ॥੧॥",
+          "roman": "dhan dhan Krishan oḍhē kāṅbalī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благословенна та накидка, которую носит Кришна."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42145,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨਿ ਧਨਿ ਤੂ ਮਾਤਾ ਦੇਵਕੀ ॥",
+          "roman": "dhan dhan tū mātā Dēvkī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мать Деваки, я и тебе отдаю себя в жертву."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42146,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਹ ਗ੍ਰਿਹ ਰਮਈਆ ਕਵਲਾਪਤੀ ॥੨॥",
+          "roman": "jih grih Ramaīā Kavalāpatī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ведь в твоём доме родился прекрасный Рам, Кришна, супруг Лакшми."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42147,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨਿ ਧਨਿ ਬਨ ਖੰਡ ਬਿੰਦ੍ਰਾਬਨਾ ॥",
+          "roman": "dhan dhan ban khaṇḍ Bindrābanā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благословен тот участок леса, тот Вриндаван."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42148,
+          "is_rahao": false,
+          "gurmukhi": "ਜਹ ਖੇਲੈ ਸ੍ਰੀ ਨਾਰਾਇਨਾ ॥੩॥",
+          "roman": "jah khēlē Srī Nārāinā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Там Шри Нараян в образе Кришны играет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42149,
+          "is_rahao": false,
+          "gurmukhi": "ਬੇਨੁ ਬਜਾਵੈ ਗੋਧਨੁ ਚਰੈ ॥",
+          "roman": "bēn bajāvē godhan charē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он играет на флейте и пасёт коров."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42150,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਮੇ ਕਾ ਸੁਆਮੀ ਆਨਦ ਕਰੈ ॥੪॥੧॥",
+          "roman": "Nāmē kā suāmī ānad karē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Господь Намдева в образе Кришны творит радость и дивную игру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3651,
+      "rahao_verse_id": 42151,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42151,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰੋ ਬਾਪੁ ਮਾਧਉ ਤੂ ਧਨੁ ਕੇਸੌ ਸਾਂਵਲੀਓ ਬੀਠੁਲਾਇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "mēro bāp Mādhau tū dhan Kēsau sāṅvalīo Bīṭhulāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Мадхо! О длинноволосый Господь! О смуглоликий Господь, о Битхул! Ты благословен; Ты мой Отец, мой Создатель и Защитник."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42152,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰ ਧਰੇ ਚਕ੍ਰ ਬੈਕੁੰਠ ਤੇ ਆਏ ਗਜ ਹਸਤੀ ਕੇ ਪ੍ਰਾਨ ਉਧਾਰੀਅਲੇ ॥",
+          "roman": "kar dharē chakr Bēkunṭh tē āē gaj hastī kē prān udhārīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Мадхо! С диском в руках Ты пришёл из Байкунтха и спас жизнь слона Гаджа от хищника."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42153,
+          "is_rahao": false,
+          "gurmukhi": "ਦੁਹਸਾਸਨ ਕੀ ਸਭਾ ਦ੍ਰੋਪਤੀ ਅੰਬਰ ਲੇਤ ਉਬਾਰੀਅਲੇ ॥੧॥",
+          "roman": "Duhsāsan kī sabhā Dropatī ambar lēt ubārīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О смуглоликий Господь! В собрании Духшасана, когда с Драупади снимали одежды, Ты спас её честь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42154,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਤਮ ਨਾਰਿ ਅਹਲਿਆ ਤਾਰੀ ਪਾਵਨ ਕੇਤਕ ਤਾਰੀਅਲੇ ॥",
+          "roman": "Gotam nār Ahaliā tārī pāvan kētak tārīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Битхул! Ты освободил Ахалью, жену риши Готама; о Мадхо, Ты очистил и спас многих падших."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42155,
+          "is_rahao": false,
+          "gurmukhi": "ਐਸਾ ਅਧਮੁ ਅਜਾਤਿ ਨਾਮਦੇਉ ਤਉ ਸਰਨਾਗਤਿ ਆਈਅਲੇ ॥੨॥੨॥",
+          "roman": "aisā adham ajāt Nāmdēo tau sarnāgat āīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я, Намдев, тоже крайне низок и принадлежу к низкой касте; я пришёл в Твоё прибежище, спаси и меня."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3652,
+      "rahao_verse_id": 42157,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42156,
+          "is_rahao": true,
+          "gurmukhi": "ਸਭੈ ਘਟ ਰਾਮੁ ਬੋਲੈ ਰਾਮਾ ਬੋਲੈ ॥",
+          "roman": "sabhē ghaṭ Rām bolē Rāmā bolē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Во всех телах говорит Бог; только Бог говорит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42157,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਬਿਨਾ ਕੋ ਬੋਲੈ ਰੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "Rām binā ko bolē rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Без Бога кто ещё говорит?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42158,
+          "is_rahao": false,
+          "gurmukhi": "ਏਕਲ ਮਾਟੀ ਕੁੰਜਰ ਚੀਟੀ ਭਾਜਨ ਹੈਂ ਬਹੁ ਨਾਨਾ ਰੇ ॥",
+          "roman": "ēkal māṭī kunjar chīṭī bhājan hēṅ bah nānā rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Как из одной и той же глины создают сосуды многих видов, так и от слона до муравья всё сделано из одной основы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42159,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਥਾਵਰ ਜੰਗਮ ਕੀਟ ਪਤੰਗਮ ਘਟਿ ਘਟਿ ਰਾਮੁ ਸਮਾਨਾ ਰੇ ॥੧॥",
+          "roman": "asthāvar jaṅgam kīṭ pataṅgam ghaṭ ghaṭ Rām samānā rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В неподвижных предметах, в движущихся живых существах, в насекомых и мотыльках — в каждом теле пребывает Бог."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42160,
+          "is_rahao": false,
+          "gurmukhi": "ਏਕਲ ਚਿੰਤਾ ਰਾਖੁ ਅਨੰਤਾ ਅਉਰ ਤਜਹੁ ਸਭ ਆਸਾ ਰੇ ॥",
+          "roman": "ēkal chintā rākh Anantā aur tajah sabh āsā rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Оставь надежду на всех прочих и держи внимание на одном бесконечном Господе, присутствующем во всех."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42161,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਣਵੈ ਨਾਮਾ ਭਏ ਨਿਹਕਾਮਾ ਕੋ ਠਾਕੁਰੁ ਕੋ ਦਾਸਾ ਰੇ ॥੨॥੩॥",
+          "roman": "praṇvē Nāmā bhaē nihkāmā ko ṭhākur ko dāsā rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Намдев молится: тот, кто, созерцая Господа, становится свободным от желаний, — между ним и Господом уже не остаётся различия."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

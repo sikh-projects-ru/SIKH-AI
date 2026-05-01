@@ -1,0 +1,889 @@
+{
+  "ang": 219,
+  "shabads": [
+    {
+      "shabad_id": 693,
+      "rahao_verse_id": 9371,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9368,
+          "is_rahao": true,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oāṅkār satigur prasād ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акал Пуракх один, и встреча с Ним бывает по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9369,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਗੁ ਗਉੜੀ ਮਹਲਾ ੯ ॥",
+          "roman": "rāg gauṛī mehlā 9 ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਗਉੜੀ ਵਿੱਚ ਗੁਰੂ ਤੇਗਬਹਾਦਰ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бāṇī Гуру Тегбахадура Джи в раге Гаури."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9370,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਧੋ ਮਨ ਕਾ ਮਾਨੁ ਤਿਆਗਉ ॥",
+          "roman": "sādho man kā mān tiāgau ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸੰਤ ਜਨੋ! (ਆਪਣੇ) ਮਨ ਦਾ ਅਹੰਕਾਰ ਛੱਡ ਦਿਉ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О святые люди! Оставьте гордыню своего ума."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9371,
+          "is_rahao": true,
+          "gurmukhi": "ਕਾਮੁ ਕ੍ਰੋਧੁ ਸੰਗਤਿ ਦੁਰਜਨ ਕੀ ਤਾ ਤੇ ਅਹਿਨਿਸਿ ਭਾਗਉ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "kām krodh sangat durjan kī tā te ahinis bhāgau ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਾਮ ਅਤੇ ਕ੍ਰੋਧ (ਭੀ) ਭੈੜੇ ਮਨੁੱਖ ਦੀ ਸੰਗਤਿ (ਵਾਂਗ ਹੀ) ਹੈ, ਇਸ ਤੋਂ (ਭੀ) ਦਿਨ ਰਾਤ (ਹਰ ਵੇਲੇ) ਪਰੇ ਰਹੋ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Кам и кродх тоже подобны обществу дурного человека, поэтому держитесь от них в стороне день и ночь, всегда. ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9372,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਖੁ ਦੁਖੁ ਦੋਨੋ ਸਮ ਕਰਿ ਜਾਨੈ ਅਉਰੁ ਮਾਨੁ ਅਪਮਾਨਾ ॥",
+          "roman": "sukh dukh dono sam kar jānē aur mān apmānā ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਸੰਤ ਜਨੋ! ਜੇਹੜਾ ਮਨੁੱਖ) ਸੁਖ ਅਤੇ ਦੁੱਖ ਦੋਹਾਂ ਨੂੰ ਇਕੋ ਜਿਹਾ ਜਾਣਦਾ ਹੈ, ਅਤੇ ਜੇਹੜਾ ਆਦਰ ਤੇ ਨਿਰਾਦਰੀ ਨੂੰ (ਭੀ) ਇਕ ਸਮਾਨ ਜਾਣਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот человек, который считает радость и страдание одинаковыми и так же одинаковыми считает почёт и унижение,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9373,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਖ ਸੋਗ ਤੇ ਰਹੈ ਅਤੀਤਾ ਤਿਨਿ ਜਗਿ ਤਤੁ ਪਛਾਨਾ ॥੧॥",
+          "roman": "harakh sog te rahē atītā tin jag tat pachhānā ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕੋਈ ਮਨੁੱਖ ਉਸ ਦਾ ਆਦਰ ਕਰੇ ਤਾਂ ਭੀ ਪਰਵਾਹ ਨਹੀਂ, ਜੇ ਕੋਈ ਉਸ ਦੀ ਨਿਰਾਦਰੀ ਕਰੇ ਤਾਂ ਭੀ ਪਰਵਾਹ ਨਹੀਂ), ਤੇ ਜੇਹੜਾ ਮਨੁੱਖ ਖ਼ੁਸ਼ੀ ਅਤੇ ਗ਼ਮੀ ਦੋਹਾਂ ਤੋਂ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ (ਖ਼ੁਸ਼ੀ ਦੇ ਵੇਲੇ ਅਹੰਕਾਰ ਵਿਚ ਨਹੀਂ ਆ ਜਾਂਦਾ ਤੇ ਗ਼ਮੀ ਦੇ ਵੇਲੇ ਘਬਰਾ ਨਹੀਂ ਜਾਂਦਾ) ਉਸ ਨੇ ਜਗਤ ਵਿਚ ਜੀਵਨ ਦਾ ਭੇਤ ਸਮਝ ਲਿਆ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "и который остаётся непривязанным и к веселью, и к печали, тот постиг в мире суть жизни. ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9374,
+          "is_rahao": false,
+          "gurmukhi": "ਉਸਤਤਿ ਨਿੰਦਾ ਦੋਊ ਤਿਆਗੈ ਖੋਜੈ ਪਦੁ ਨਿਰਬਾਨਾ ॥",
+          "roman": "ustat nindā doū tiāgē khojē pad nirbānā ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਸੰਤ ਜਨੋ! ਉਸ ਮਨੁੱਖ ਨੇ ਅਸਲੀਅਤ ਲੱਭ ਲਈ ਹੈ ਜੇਹੜਾ) ਨਾਹ ਕਿਸੇ ਦੀ ਖ਼ੁਸ਼ਾਮਦ ਕਰਦਾ ਹੈ ਨਾਹ ਕਿਸੇ ਦੀ ਨਿੰਦਾ ਕਰਦਾ ਹੈ, ਤੇ ਜੋ ਉਸ ਆਤਮਕ ਅਵਸਥਾ ਦੀ ਸਦਾ ਭਾਲ ਕਰਦਾ ਹੈ ਜਿਥੇ ਕੋਈ ਵਾਸਨਾ ਪੋਹ ਨਹੀਂ ਸਕਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот нашёл подлинное, кто не льстит никому и никого не порицает и кто всегда ищет то духовное состояние, куда не может проникнуть никакое желание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9375,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਇਹੁ ਖੇਲੁ ਕਠਨੁ ਹੈ ਕਿਨਹੂੰ ਗੁਰਮੁਖਿ ਜਾਨਾ ॥੨॥੧॥",
+          "roman": "jan Nānak ih khel kaṭhan hē kinhūṅ gurmukh jānā ॥2॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ) ਹੇ ਨਾਨਕ! ਇਹ (ਜੀਵਨ-) ਖੇਡ (ਖੇਡਣੀ) ਔਖੀ ਹੈ। ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਇਸ ਨੂੰ ਸਮਝਦਾ ਹੈ ॥੨॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но, о Нанак, эта жизненная игра трудна. Лишь редкий человек, припав к прибежищу Гуру, понимает её. ॥2॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 694,
+      "rahao_verse_id": 9378,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9376,
+          "is_rahao": true,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੯ ॥",
+          "roman": "gauṛī mehlā 9 ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9377,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਧੋ ਰਚਨਾ ਰਾਮ ਬਨਾਈ ॥",
+          "roman": "sādho rachnā rām banāī ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸੰਤ ਜਨੋ! ਪਰਮਾਤਮਾ ਨੇ (ਜਗਤ ਦੀ ਇਹ ਅਸਚਰਜ) ਰਚਨਾ ਰਚ ਦਿੱਤੀ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О святые люди! Параматма создал это удивительное творение мира,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9378,
+          "is_rahao": true,
+          "gurmukhi": "ਇਕਿ ਬਿਨਸੈ ਇਕ ਅਸਥਿਰੁ ਮਾਨੈ ਅਚਰਜੁ ਲਖਿਓ ਨ ਜਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "ik binsē ik asthir mānē acharaj lakhio na jāī ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿ) ਇਕ ਮਨੁੱਖ (ਤਾਂ) ਮਰਦਾ ਹੈ (ਪਰ) ਦੂਜਾ ਮਨੁੱਖ (ਉਸ ਨੂੰ ਮਰਦਿਆਂ ਵੇਖ ਕੇ ਭੀ ਆਪਣੇ ਆਪ ਨੂੰ) ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲਾ ਸਮਝਦਾ ਹੈ। ਇਹ ਇਕ ਅਸਚਰਜ ਤਮਾਸ਼ਾ ਹੈ ਜੋ ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "что один человек умирает, а другой, даже видя это, считает себя вечным. Это такое удивительное зрелище, что его невозможно описать. ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9379,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮ ਕ੍ਰੋਧ ਮੋਹ ਬਸਿ ਪ੍ਰਾਨੀ ਹਰਿ ਮੂਰਤਿ ਬਿਸਰਾਈ ॥",
+          "roman": "kām krodh moh bas prānī har mūrat bisrāī ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਸੰਤ ਜਨੋ!) ਮਨੁੱਖ ਕਾਮ ਦੇ ਕ੍ਰੋਧ ਦੇ ਮੋਹ ਦੇ ਕਾਬੂ ਵਿਚ ਆਇਆ ਰਹਿੰਦਾ ਹੈ ਤੇ ਪਰਮਾਤਮਾ ਦੀ ਹਸਤੀ ਨੂੰ ਭੁਲਾਈ ਰੱਖਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Человек находится во власти кама, кродха и моха и забывает о сущности Параматмы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9380,
+          "is_rahao": false,
+          "gurmukhi": "ਝੂਠਾ ਤਨੁ ਸਾਚਾ ਕਰਿ ਮਾਨਿਓ ਜਿਉ ਸੁਪਨਾ ਰੈਨਾਈ ॥੧॥",
+          "roman": "jhūṭhā tan sāchā kar mānio jiu supnā rēnāī ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਸਰੀਰ ਸਦਾ ਨਾਲ ਰਹਿਣ ਵਾਲਾ ਨਹੀਂ ਹੈ, ਪਰ ਮਨੁੱਖ ਇਸ ਨੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਸਮਝਦਾ ਹੈ, ਜਿਵੇਂ ਰਾਤ ਵੇਲੇ (ਸੁੱਤਿਆਂ ਜੇਹੜਾ) ਸੁਪਨਾ (ਆਉਂਦਾ ਹੈ ਮਨੁੱਖ ਨੀਂਦਰ ਦੀ ਹਾਲਤ ਵਿਚ ਉਸ ਸੁਪਨੇ ਨੂੰ ਅਸਲੀ ਵਾਪਰ ਰਹੀ ਗੱਲ ਸਮਝਦਾ ਹੈ) ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Это тело не пребывает вечно рядом, но человек считает его вечным, как ночной сон, который во сне принимают за происходящее наяву. ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9381,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਦੀਸੈ ਸੋ ਸਗਲ ਬਿਨਾਸੈ ਜਿਉ ਬਾਦਰ ਕੀ ਛਾਈ ॥",
+          "roman": "jo dīsē so sagal bināsē jiu bādar kī chhāī ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਸੰਤ ਜਨੋ!) ਜਿਵੇਂ ਬੱਦਲ ਦੀ ਛਾਂ (ਸਦਾ ਇੱਕ ਥਾਂ ਟਿਕੀ ਨਹੀਂ ਰਹਿ ਸਕਦੀ, ਤਿਵੇਂ) ਜੋ ਕੁਝ (ਜਗਤ ਵਿਚ) ਦਿੱਸ ਰਿਹਾ ਹੈ ਇਹ ਸਭ ਕੁਝ (ਆਪਣੇ ਆਪਣੇ ਸਮੇ) ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Как тень облака не может постоянно оставаться на одном месте, так и всё, что видно в мире, в своё время исчезает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9382,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਜਗੁ ਜਾਨਿਓ ਮਿਥਿਆ ਰਹਿਓ ਰਾਮ ਸਰਨਾਈ ॥੨॥੨॥",
+          "roman": "jan Nānak جگ jānio mithiā rahio rām sarnāī ॥2॥2॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਜਿਸ ਮਨੁੱਖ ਨੇ) ਜਗਤ ਨੂੰ ਨਾਸਵੰਤ ਸਮਝ ਲਿਆ ਹੈ, ਉਹ (ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ) ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪਿਆ ਰਹਿੰਦਾ ਹੈ ॥੨॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак! Тот, кто понял, что мир преходящ, остаётся в прибежище Параматмы, Который пребывает вечно. ॥2॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 695,
+      "rahao_verse_id": 9385,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9383,
+          "is_rahao": true,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੯ ॥",
+          "roman": "gauṛī mehlā 9 ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9384,
+          "is_rahao": true,
+          "gurmukhi": "ਪ੍ਰਾਨੀ ਕਉ ਹਰਿ ਜਸੁ ਮਨਿ ਨਹੀ ਆਵੈ ॥",
+          "roman": "prānī kau har jas man nahī āvē ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਆਪਣੇ) ਮਨ ਵਿਚ (ਵਸਾਣੀ) ਨਹੀਂ ਆਉਂਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Человек не умеет поселить в своём уме хвалу Параматме."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9385,
+          "is_rahao": true,
+          "gurmukhi": "ਅਹਿਨਿਸਿ ਮਗਨੁ ਰਹੈ ਮਾਇਆ ਮੈ ਕਹੁ ਕੈਸੇ ਗੁਨ ਗਾਵੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "ahinis magan rahē māiā mē kaho kēse gun gāvē ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਦੱਸ, ਉਹ ਮਨੁੱਖ ਕਿਵੇਂ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾ ਸਕਦਾ ਹੈ ਜੇਹੜਾ ਦਿਨ ਰਾਤ ਮਾਇਆ (ਦੇ ਮੋਹ) ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ? ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Скажи, как может петь качества Параматмы тот, кто день и ночь опьянён майей и привязанностью к ней? ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9386,
+          "is_rahao": false,
+          "gurmukhi": "ਪੂਤ ਮੀਤ ਮਾਇਆ ਮਮਤਾ ਸਿਉ ਇਹ ਬਿਧਿ ਆਪੁ ਬੰਧਾਵੈ ॥",
+          "roman": "pūt mīt māiā mamtā siu ih bidh āp bandhāvē ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਮਸਤ ਰਹਿਣ ਵਾਲਾ ਮਨੁੱਖ) ਪੁੱਤਰ ਮਿੱਤਰ ਮਾਇਆ (ਆਦਿਕ) ਦੀ ਅਪਣੱਤ ਨਾਲ ਬੱਝਾ ਰਹਿੰਦਾ ਹੈ, ਤੇ ਇਸ ਤਰ੍ਹਾਂ ਆਪਣੇ ਆਪ ਨੂੰ (ਮੋਹ ਦੇ ਬੰਧਨਾਂ ਵਿਚ) ਬੰਨ੍ਹੀ ਰੱਖਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Человек, опьянённый привязанностью к майе, остаётся связан узами сына, друга, майи и прочего чувства ‘моё’, и так сам держит себя в этих узах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9387,
+          "is_rahao": false,
+          "gurmukhi": "ਮ੍ਰਿਗ ਤ੍ਰਿਸਨਾ ਜਿਉ ਝੂਠੋ ਇਹੁ ਜਗ ਦੇਖਿ ਤਾਸਿ ਉਠਿ ਧਾਵੈ ॥੧॥",
+          "roman": "mrig trisnā jiu jhūṭho ih jag dekhi tās uṭh dhāvē ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਮਾਇਆ-ਗ੍ਰਸਿਆ ਮਨੁੱਖ ਇਹ ਨਹੀਂ ਸਮਝਦਾ ਕਿ) ਇਹ ਜਗਤ (ਤਾਂ) ਠਗ-ਨੀਰੇ ਵਾਂਗ (ਠੱਗੀ ਹੀ ਠੱਗੀ ਹੈ, ਜਿਵੇਂ ਹਰਨ ਠਗਨੀਰੇ ਨੂੰ ਵੇਖ ਕੇ ਉਸ ਵਲ ਦੌੜਦਾ ਤੇ ਭਟਕ ਭਟਕ ਕੇ ਮਰਦਾ ਹੈ, ਤਿਵੇਂ ਮਨੁੱਖ ਇਸ ਜਗਤ ਨੂੰ) ਵੇਖ ਕੇ ਇਸ ਵਲ (ਸਦਾ) ਦੌੜਦਾ ਰਹਿੰਦਾ ਹੈ (ਤੇ ਆਤਮਕ ਮੌਤ ਸਹੇੜਦਾ ਹੈ) ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Такой человек не понимает, что этот мир подобен миражу-обманке. Как олень, увидев мираж, бежит к нему и, блуждая, гибнет, так и человек, видя этот мир, всё время бежит к нему и навлекает на себя духовную смерть. ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9388,
+          "is_rahao": false,
+          "gurmukhi": "ਭੁਗਤਿ ਮੁਕਤਿ ਕਾ ਕਾਰਨੁ ਸੁਆਮੀ ਮੂੜ ਤਾਹਿ ਬਿਸਰਾਵੈ ॥",
+          "roman": "bhugat mukt kā kāran suāmī mūṛ tāh bisrāvē ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੂਰਖ ਮਨੁੱਖ ਉਸ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੂੰ ਭੁਲਾਈ ਰੱਖਦਾ ਹੈ ਜੇਹੜਾ ਦੁਨੀਆ ਦੇ ਭੋਗਾਂ ਤੇ ਸੁਖਾਂ ਦਾ ਭੀ ਮਾਲਕ ਹੈ ਤੇ ਜੇਹੜਾ ਮੋਖ ਭੀ ਦੇਣ ਵਾਲਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Глупый человек забывает того Владыку, Который даёт и мирские наслаждения, и освобождение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9389,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਕੋਟਨ ਮੈ ਕੋਊ ਭਜਨੁ ਰਾਮ ਕੋ ਪਾਵੈ ॥੨॥੩॥",
+          "roman": "jan Nānak koṭan mē koū bhajan rām ko pāvē ॥2॥3॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਕ੍ਰੋੜਾਂ ਵਿਚੋਂ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਹੁੰਦਾ ਹੈ ਜੇਹੜਾ (ਜਗਤ ਠਗ-ਨੀਰੇ ਦੇ ਮੋਹ ਤੋਂ ਬਚ ਕੇ) ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ ॥੨॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак! Скажи: среди миллионов лишь редкий человек, избежав обмана мира-миража, обретает преданность Параматме. ॥2॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 696,
+      "rahao_verse_id": 9392,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9390,
+          "is_rahao": true,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੯ ॥",
+          "roman": "gauṛī mehlā 9 ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9391,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਧੋ ਇਹੁ ਮਨੁ ਗਹਿਓ ਨ ਜਾਈ ॥",
+          "roman": "sādho ihu man gahio na jāī ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸੰਤ ਜਨੋ! ਇਹ ਮਨ ਵੱਸ ਵਿਚ ਕੀਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О святые люди! Этот ум невозможно подчинить себе,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9392,
+          "is_rahao": true,
+          "gurmukhi": "ਚੰਚਲ ਤ੍ਰਿਸਨਾ ਸੰਗਿ ਬਸਤੁ ਹੈ ਯਾ ਤੇ ਥਿਰੁ ਨ ਰਹਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "chanchal trisnā sang basat hē yā te thir na rahāī ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿਉਂਕਿ ਇਹ ਮਨ ਸਦਾ) ਅਨੇਕਾਂ ਹਾਵ-ਭਾਵ ਕਰਨ ਵਾਲੀ ਤ੍ਰਿਸ਼ਨਾ ਨਾਲ ਵੱਸਦਾ ਰਹਿੰਦਾ ਹੈ, ਇਸ ਵਾਸਤੇ ਇਹ ਕਦੇ ਟਿਕ ਕੇ ਨਹੀਂ ਰਹਿੰਦਾ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "потому что он постоянно живёт вместе с мечущейся, многоликой жаждой и потому никогда не пребывает устойчиво. ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9393,
+          "is_rahao": false,
+          "gurmukhi": "ਕਠਨ ਕਰੋਧ ਘਟ ਹੀ ਕੇ ਭੀਤਰਿ ਜਿਹ ਸੁਧਿ ਸਭ ਬਿਸਰਾਈ ॥",
+          "roman": "kaṭhan karodh ghaṭ hī ke bhītar jih sudh sabh bisrāī ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਸੰਤ ਜਨੋ!) ਵੱਸ ਵਿਚ ਨਾਹ ਆ ਸਕਣ ਵਾਲਾ ਕ੍ਰੋਧ ਭੀ ਇਸ ਹਿਰਦੇ ਵਿਚ ਹੀ ਵੱਸਦਾ ਹੈ, ਜਿਸ ਨੇ (ਮਨੁੱਖ ਨੂੰ ਭਲੇ ਪਾਸੇ ਦੀ) ਸਾਰੀ ਹੋਸ਼ ਭੁਲਾ ਦਿੱਤੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О святые люди! В этом сердце живёт и неукротимый кродх, который заставил человека забыть всякую здравую память о добром пути."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9394,
+          "is_rahao": false,
+          "gurmukhi": "ਰਤਨੁ ਗਿਆਨੁ ਸਭ ਕੋ ਹਿਰਿ ਲੀਨਾ ਤਾ ਸਿਉ ਕਛੁ ਨ ਬਸਾਈ ॥੧॥",
+          "roman": "ratan giān sabh ko hir līnā tā siu kachh na basāī ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕ੍ਰੋਧ ਨੇ) ਹਰੇਕ ਮਨੁੱਖ ਦਾ ਸ੍ਰੇਸ਼ਟ ਗਿਆਨ ਚੁਰਾ ਲਿਆ ਹੈ, ਉਸ ਨਾਲ ਕਿਸੇ ਦੀ ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Он украл у каждого человека драгоценное знание, и никто ничего не может с ним поделать. ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9395,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋਗੀ ਜਤਨ ਕਰਤ ਸਭਿ ਹਾਰੇ ਗੁਨੀ ਰਹੇ ਗੁਨ ਗਾਈ ॥",
+          "roman": "jogī jatan karat sabh hāre gunī rahe gun gāī ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਾਰੇ ਜੋਗੀ (ਇਸ ਮਨ ਨੂੰ ਕਾਬੂ ਕਰਨ ਦੇ) ਜਤਨ ਕਰਦੇ ਕਰਦੇ ਥੱਕ ਗਏ, ਵਿਦਵਾਨ ਮਨੁੱਖ ਆਪਣੀ ਵਿੱਦਿਆ ਦੀਆਂ ਵਡਿਆਈਆਂ ਕਰਦੇ ਥੱਕ ਗਏ (ਨਾਹ ਜੋਗ-ਸਾਧਨ, ਨਾਹ ਵਿੱਦਿਆ-ਮਨ ਨੂੰ ਕੋਈ ਭੀ ਵੱਸ ਵਿਚ ਲਿਆਉਣ ਦੇ ਸਮਰੱਥ ਨਹੀਂ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Все йоги, стараясь обуздать этот ум, устали; учёные люди устали, восхваляя свою учёность. Ни йогические практики, ни учёность не способны подчинить ум."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9396,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਹਰਿ ਭਏ ਦਇਆਲਾ ਤਉ ਸਭ ਬਿਧਿ ਬਨਿ ਆਈ ॥੨॥੪॥",
+          "roman": "jan Nānak har bhae daiālā tau sabh bidh ban āī ॥2॥4॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! ਜਦੋਂ ਪ੍ਰਭੂ ਜੀ ਦਇਆਵਾਨ ਹੁੰਦੇ ਹਨ, ਤਾਂ (ਇਸ ਮਨ ਨੂੰ ਕਾਬੂ ਵਿਚ ਰੱਖਣ ਦੇ) ਸਾਰੇ ਢੋ ਢੁਕ ਪੈਂਦੇ ਹਨ ॥੨॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак! Когда Господь становится милостив, тогда все способы подчинить этот ум удаются. ॥2॥4॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 697,
+      "rahao_verse_id": 9399,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9397,
+          "is_rahao": true,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੯ ॥",
+          "roman": "gauṛī mehlā 9 ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9398,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਧੋ ਗੋਬਿੰਦ ਕੇ ਗੁਨ ਗਾਵਉ ॥",
+          "roman": "sādho gobind ke gun gāvau ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸੰਤ ਜਨੋ! (ਸਦਾ) ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਗਾਂਦੇ ਰਿਹਾ ਕਰੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О святые люди! Всегда пойте качества Гобинда."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9399,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਨਸ ਜਨਮੁ ਅਮੋਲਕੁ ਪਾਇਓ ਬਿਰਥਾ ਕਾਹਿ ਗਵਾਵਉ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "mānas janam amolak pāio birthā kāhi gavāvau ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਬੜਾ ਕੀਮਤੀ ਮਨੁੱਖਾ ਜਨਮ ਮਿਲਿਆ ਹੈ, ਇਸ ਨੂੰ ਅਜਾਈਂ ਕਿਉਂ ਗਵਾਂਦੇ ਹੋ? ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Вам дарована драгоценная человеческая жизнь. Зачем тратить её напрасно? ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9400,
+          "is_rahao": false,
+          "gurmukhi": "ਪਤਿਤ ਪੁਨੀਤ ਦੀਨ ਬੰਧ ਹਰਿ ਸਰਨਿ ਤਾਹਿ ਤੁਮ ਆਵਉ ॥",
+          "roman": "patit punīt dīn bandh har saran tāh tum āvau ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਸੰਤ ਜਨੋ!) ਪਰਮਾਤਮਾ ਉਹਨਾਂ ਬੰਦਿਆਂ ਨੂੰ ਭੀ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ ਹੈ ਜੇਹੜੇ ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਹੋਏ ਹੁੰਦੇ ਹਨ, ਉਹ ਹਰੀ ਗਰੀਬਾਂ ਦਾ ਸਹਾਈ ਹੈ। ਤੁਸੀ ਭੀ ਉਸੇ ਦੀ ਸਰਨ ਪਵੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Параматма очищает даже тех, кто пал в пороки; Хари — помощник бедных. И вы тоже приходите в Его прибежище."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9401,
+          "is_rahao": false,
+          "gurmukhi": "ਗਜ ਕੋ ਤ੍ਰਾਸੁ ਮਿਟਿਓ ਜਿਹ ਸਿਮਰਤ ਤੁਮ ਕਾਹੇ ਬਿਸਰਾਵਉ ॥੧॥",
+          "roman": "gaj ko trās miṭio jih simrat tum kāhe bisrāvau ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਦਾ ਸਿਮਰਨ ਕਰ ਕੇ ਹਾਥੀ ਦਾ ਡਰ ਮਿਟ ਗਿਆ ਸੀ, ਤੁਸੀ ਉਸ ਨੂੰ ਕਿਉਂ ਭੁਲਾ ਰਹੇ ਹੋ? ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Того, память о Ком сняла страх слона, почему вы забываете? ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9402,
+          "is_rahao": false,
+          "gurmukhi": "ਤਜਿ ਅਭਿਮਾਨ ਮੋਹ ਮਾਇਆ ਫੁਨਿ ਭਜਨ ਰਾਮ ਚਿਤੁ ਲਾਵਉ ॥",
+          "roman": "taj abhimān moh māiā phun bhajan rām chit lāvau ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਸੰਤ ਜਨੋ!) ਅਹੰਕਾਰ ਦੂਰ ਕਰ ਕੇ ਅਤੇ ਮਾਇਆ ਦਾ ਮੋਹ ਦੂਰ ਕਰ ਕੇ ਆਪਣਾ ਚਿੱਤ ਪਰਮਾਤਮਾ ਦੇ ਭਜਨ ਵਿਚ ਜੋੜੀ ਰੱਖੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О святые люди! Отбросив гордыню и привязанность к майе, удерживайте своё сознание в бхаджане Параматмы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9403,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕਹਤ ਮੁਕਤਿ ਪੰਥ ਇਹੁ ਗੁਰਮੁਖਿ ਹੋਇ ਤੁਮ ਪਾਵਉ ॥੨॥੫॥",
+          "roman": "Nānak kahat mukat panth ihu gurmukh hoi tum pāvau ॥2॥5॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਪ੍ਰਾਪਤ ਕਰਨ ਦਾ ਇਹੀ ਰਸਤਾ ਹੈ, ਪਰ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਹੀ ਤੁਸੀ ਇਹ ਰਸਤਾ ਲੱਭ ਸਕੋਗੇ ॥੨॥੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак говорит: это и есть путь освобождения от пороков, но найти его вы сможете, лишь припав к прибежищу Гуру. ॥2॥5॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 698,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9404,
+          "is_rahao": false,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੯ ॥",
+          "roman": "gauṛī mehlā 9 ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9405,
+          "is_rahao": false,
+          "gurmukhi": "ਕੋਊ ਮਾਈ ਭੂਲਿਓ ਮਨੁ ਸਮਝਾਵੈ ॥",
+          "roman": "koū māī bhūlio man samjhāvē ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ (ਮੇਰੀ) ਮਾਂ! (ਮਾਇਆ ਦੇ ਮੋਹ ਨਾਲ ਨਕਾ-ਨਕ ਭਰੇ ਹੋਏ ਸੰਸਾਰ-ਜੰਗਲ ਵਿਚ ਮੇਰਾ ਮਨ ਕੁਰਾਹੇ ਪੈ ਗਿਆ ਹੈ, ਮੈਨੂੰ) ਕੋਈ (ਐਸਾ ਗੁਰਮੁਖ ਮਿਲ ਪਵੇ ਜੇਹੜਾ ਮੇਰੇ ਇਸ) ਕੁਰਾਹੇ ਪਏ ਹੋਏ ਮਨ ਨੂੰ ਮਤਿ ਦੇਵੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя мать! В лесу мира, до краёв наполненном привязанностью к майе, мой ум сбился с пути. Пусть найдётся такой гурмukh, который наставит этот заблудший ум."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

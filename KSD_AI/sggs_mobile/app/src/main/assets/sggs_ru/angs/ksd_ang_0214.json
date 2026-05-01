@@ -1,0 +1,837 @@
+{
+  "ang": 214,
+  "shabads": [
+    {
+      "shabad_id": 676,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9172,
+          "is_rahao": false,
+          "gurmukhi": "ਹੈ ਨਾਨਕ ਨੇਰ ਨੇਰੀ ॥੩॥੩॥੧੫੬॥",
+          "roman": "he nānak ner nerī.3.3.156.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ (ਹਰੇਕ ਜੀਵ ਦੇ) ਅੱਤ ਨੇੜੇ ਵੱਸਦਾ ਹੈ ॥੩॥੩॥੧੫੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Господь обитает предельно близко к каждому существу. ॥3॥3॥156॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 677,
+      "rahao_verse_id": 9174,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9173,
+          "is_rahao": true,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+          "roman": "gauṛī mahelā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9174,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਤੋ ਹਰਿ ਰੰਗਿ ਮਾਤੋ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "māto har rang māto. 1. rahāu.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਜੋਗੀ! ਮੈਂ ਭੀ) ਮਤਵਾਲਾ ਹਾਂ (ਪਰ ਮੈਂ ਤਾਂ) ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਸ਼ਰਾਬ ਨਾਲ ਮਤਵਾਲਾ ਹੋ ਰਿਹਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О йог! Я тоже опьянён, но я пьянею от вина любви к Параматме. 1. Пауза."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9175,
+          "is_rahao": false,
+          "gurmukhi": "ਓੁਹੀ ਪੀਓ ਓੁਹੀ ਖੀਓ ਗੁਰਹਿ ਦੀਓ ਦਾਨੁ ਕੀਓ ॥",
+          "roman": "ūhī pīo ūhī khīo gureh dīo dān kīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਜੋਗੀ!) ਮੈਂ ਉਹ ਨਾਮ-ਮਦ ਹੀ ਪੀਤਾ ਹੈ, ਉਹ ਨਾਮ-ਮਦ ਪੀ ਕੇ ਹੀ ਮੈਂ ਖੀਵਾ ਹੋ ਰਿਹਾ ਹਾਂ, ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਇਹ ਨਾਮ-ਮਦ ਦਿੱਤਾ ਹੈ, ਮੈਨੂੰ ਇਹ  ਦਾਤ ਦਿੱਤੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О йог! Я пил именно этот хмель Нам, и, выпив этот хмель Нам, я опьяняюсь. Гуру дал мне этот хмель Нам, дал мне этот дар."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9176,
+          "is_rahao": false,
+          "gurmukhi": "ਉਆਹੂ ਸਿਉ ਮਨੁ ਰਾਤੋ ॥੧॥",
+          "roman": "uāhū siu man rāto. 1.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੁਣ ਉਸੇ ਨਾਮ-ਮਦ ਨਾਲ ਹੀ ਮੇਰਾ ਮਨ ਰੱਤਾ ਹੋਇਆ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь моё сердце окрашено только этим хмелем Нам. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9177,
+          "is_rahao": false,
+          "gurmukhi": "ਓੁਹੀ ਭਾਠੀ ਓੁਹੀ ਪੋਚਾ ਉਹੀ ਪਿਆਰੋ ਉਹੀ ਰੂਚਾ ॥",
+          "roman": "ūhī bhāṭhī ūhī pochā uhī piāro uhī rūchā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਜੋਗੀ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ (ਸ਼ਰਾਬ ਕੱਢਣ ਵਾਲੀ) ਭੱਠੀ ਹੈ, ਉਹ ਨਾਮ ਹੀ (ਸ਼ਰਾਬ ਨਿਕਲਣ ਵਾਲੀ ਨਾਲ ਉਤੇ ਠੰਢਕ ਅਪੜਾਣ ਵਾਲਾ) ਪੋਚਾ ਹੈ, ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ (ਮੇਰੇ ਵਾਸਤੇ) ਪਿਆਲਾ ਹੈ, ਅਤੇ ਨਾਮ-ਮਦ ਹੀ ਮੇਰੀ ਲਗਨ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О йог! Имя Параматмы и есть винокурня, из которой выходит это вино; это же Имя и есть охлаждающая повязка на ней; Имя Владыки и есть для меня чаша, и хмель Нам — это же и моя любовь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9178,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਿ ਓਹੋ ਸੁਖੁ ਜਾਤੋ ॥੨॥",
+          "roman": "man ohō sukh jāto. 2.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਜੋਗੀ!) ਮੈਂ ਆਪਣੇ ਮਨ ਵਿਚ ਉਹੀ (ਨਾਮ-ਮਦ ਦਾ) ਆਨੰਦ ਮਾਣ ਰਿਹਾ ਹਾਂ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О йог! В своём сердце я вкушаю именно это блаженство хмеля Нам. 2."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9179,
+          "is_rahao": false,
+          "gurmukhi": "ਸਹਜ ਕੇਲ ਅਨਦ ਖੇਲ ਰਹੇ ਫੇਰ ਭਏ ਮੇਲ ॥",
+          "roman": "sahaj kel anad khel rahe pher bhae mel",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਜੋਗੀ! ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ) ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਪ੍ਰੋਇਆ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, скажи: о йог! У того человека, чьё сердце вплетается в Слово Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9180,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਗੁਰ ਸਬਦਿ ਪਰਾਤੋ ॥੩॥੪॥੧੫੭॥",
+          "roman": "nānak gur sabad parāto. 3. 4. 157.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਆਤਮਕ ਅਡੋਲਤਾ ਦੇ ਚੋਜ ਆਨੰਦ ਮਾਣਦਾ ਹੈ, ਉਸ ਦਾ (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਨਾਲ) ਮਿਲਾਪ ਹੋ ਜਾਂਦਾ ਹੈ, ਤੇ ਉਸ ਦੇ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਮੁੱਕ ਜਾਂਦੇ ਹਨ ॥੩॥੪॥੧੪੭॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Он наслаждается игрой духовной устойчивости, обретает соединение со Стопами Владыки, и круги рождения и смерти для него прекращаются. 3. 4. 147."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 678,
+      "rahao_verse_id": 9183,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9181,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਗੁ ਗੌੜੀ ਮਾਲਵਾ ਮਹਲਾ ੫",
+          "roman": "rāg gauṛī mālvā mahelā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਗਉੜੀ-ਮਾਲਵਾ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бани Гуру Арджандэва Джи в раге Гоури-Малва."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9182,
+          "is_rahao": true,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankār satigur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акал Пуракх один, и обретается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9183,
+          "is_rahao": true,
+          "gurmukhi": "ਹਰਿ ਨਾਮੁ ਲੇਹੁ ਮੀਤਾ ਲੇਹੁ ਆਗੈ ਬਿਖਮ ਪੰਥੁ ਭੈਆਨ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "har nām leh mītā leh āgē bikham panth bhēān. 1. rahāu.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ, ਨਾਮ ਸਿਮਰ। ਜਿਸ ਜੀਵਨ ਪੰਥ ਉਤੇ ਤੂੰ ਤੁਰ ਰਿਹਾ ਹੈਂ ਉਹ ਰਸਤਾ (ਵਿਕਾਰਾਂ ਦੇ ਹੱਲਿਆਂ ਦੇ ਕਾਰਨ) ਔਖਾ ਹੈ ਤੇ ਡਰਾਵਨਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг! Помни Имя Параматмы, помни Имя. Тот жизненный путь, по которому ты идёшь, труден и страшен из-за натиска пороков. 1. Пауза."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9184,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇਵਤ ਸੇਵਤ ਸਦਾ ਸੇਵਿ ਤੇਰੈ ਸੰਗਿ ਬਸਤੁ ਹੈ ਕਾਲੁ ॥",
+          "roman": "sevat sevat sadā sev terē sang bast hē kāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮਿੱਤਰ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਸਿਮਰਦਿਆਂ ਸਦਾ ਸਿਮਰਦਾ ਰਹੁ, ਮੌਤ ਹਰ ਵੇਲੇ ਤੇਰੇ ਨਾਲ ਵੱਸਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг! Повторяя и повторяя Имя Параматмы, помни его всегда: смерть всё время пребывает рядом с тобой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9185,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਸੇਵਾ ਤੂੰ ਸਾਧ ਕੀ ਹੋ ਕਾਟੀਐ ਜਮ ਜਾਲੁ ॥੧॥",
+          "roman": "kar sevā tū sādh kī ho kāṭīai jam jāl. 1.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸੇਵਾ ਕਰ (ਗੁਰੂ ਦੀ ਸਰਨ ਪਉ। ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ) ਉਹ (ਮੋਹ-) ਜਾਲ ਕੱਟਿਆ ਜਾਂਦਾ ਹੈ ਜੋ ਆਤਮਕ ਮੌਤ ਵਿਚ ਫਸਾ ਦੇਂਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Служи Гуру, приди в прибежище Гуру. Когда человек приходит в прибежище Гуру, разрубается та сеть привязанности, которая ввергает в духовную смерть. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9186,
+          "is_rahao": false,
+          "gurmukhi": "ਹੋਮ ਜਗ ਤੀਰਥ ਕੀਏ ਬਿਚਿ ਹਉਮੈ ਬਧੇ ਬਿਕਾਰ ॥",
+          "roman": "hom jag tīrath kīe bich haumē badhe bikār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸਿਮਰਨ ਛੱਡ ਕੇ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਨਿਰੇ) ਹਵਨ ਕੀਤੇ ਜੱਗ ਕੀਤੇ ਤੀਰਥ-ਇਸ਼ਨਾਨ ਕੀਤੇ, ਉਹ (ਇਹਨਾਂ ਕੀਤੇ ਕਰਮਾਂ ਦੀ) ਹਉਮੈ ਵਿਚ ਫਸਦੇ ਗਏ ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਵਿਕਾਰ ਵਧਦੇ ਗਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг! Те люди, которые оставили памятование Имени Параматмы и занимались лишь хаванами, жертвоприношениями и омовениями в тиртхах, всё глубже запутывались в эго от этих дел, и пороки в них только возрастали."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9187,
+          "is_rahao": false,
+          "gurmukhi": "ਨਰਕੁ ਸੁਰਗੁ ਦੁਇ ਭੁੰਚਨਾ ਹੋਇ ਬਹੁਰਿ ਬਹੁਰਿ ਅਵਤਾਰ ॥੨॥",
+          "roman": "narak surag dui bhuñchnā hoi bahur bahur avtār. 2.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਸ ਤਰ੍ਹਾਂ ਨਰਕ ਤੇ ਸੁਰਗ ਦੋਵੇਂ ਭੋਗਣੇ ਪੈਂਦੇ ਹਨ, ਤੇ ਮੁੜ ਮੁੜ ਜਨਮਾਂ ਦਾ ਚੱਕਰ ਚੱਲਦਾ ਰਹਿੰਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Так приходится испытывать и ад, и рай, и круг новых рождений продолжается снова и снова. 2."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9188,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਵ ਪੁਰੀ ਬ੍ਰਹਮ ਇੰਦ੍ਰ ਪੁਰੀ ਨਿਹਚਲੁ ਕੋ ਥਾਉ ਨਾਹਿ ॥",
+          "roman": "siv purī braham indr purī nihchal ko thāu nāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮਿੱਤਰ! ਹਵਨ ਜੱਗ ਤੀਰਥ ਆਦਿਕ ਕਰਮ ਕਰ ਕੇ ਲੋਕ ਸ਼ਿਵ-ਪੁਰੀ ਬ੍ਰਹਮ-ਪੁਰੀ ਇੰਦਰ-ਪੁਰੀ ਆਦਿਕ ਦੀ ਪ੍ਰਾਪਤੀ ਦੀਆਂ ਆਸਾਂ ਬਣਾਂਦੇ ਹਨ, ਪਰ) ਸ਼ਿਵ-ਪੁਰੀ, ਬ੍ਰਹਮ-ਪੁਰੀ, ਇੰਦ੍ਰ-ਪੁਰੀ-ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਥਾਂ ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲਾ ਨਹੀਂ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг! Совершая хаваны, ягьи, тиртхи и подобные дела, люди лелеют надежды достичь Шив-пури, Брахм-пури, Индр-пури и прочего. Но ни одно из этих мест не является вечным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9189,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਹਰਿ ਸੇਵਾ ਸੁਖੁ ਨਹੀ ਹੋ ਸਾਕਤ ਆਵਹਿ ਜਾਹਿ ॥੩॥",
+          "roman": "bin har sevā sukh nahī ho sākat āveh jāhi. 3.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਕਿਤੇ ਆਤਮਕ ਆਨੰਦ ਭੀ ਨਹੀਂ ਮਿਲਦਾ। ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਵਿਛੁੱੜੇ ਮਨੁੱਖ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਏ ਰਹਿੰਦੇ ਹਨ (ਜੰਮਦੇ ਹਨ ਮਰਦੇ ਹਨ, ਜੰਮਦੇ ਹਨ ਮਰਦੇ ਹਨ) ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Без памятования Параматмы нигде не обретается и духовное блаженство. О брат! Люди, оторванные от Параматмы, остаются в круге рождения и смерти: рождаются, умирают, рождаются, умирают. 3."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9190,
+          "is_rahao": false,
+          "gurmukhi": "ਜੈਸੋ ਗੁਰਿ ਉਪਦੇਸਿਆ ਮੈ ਤੈਸੋ ਕਹਿਆ ਪੁਕਾਰਿ ॥",
+          "roman": "jēso gur updesiā mē tēso kahiā pukār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਜਿਸ ਤਰ੍ਹਾਂ ਗੁਰੂ ਨੇ (ਮੈਨੂੰ) ਉਪਦੇਸ਼ ਦਿੱਤਾ ਹੈ, ਮੈਂ ਉਸੇ ਤਰ੍ਹਾਂ ਉੱਚੀ ਬੋਲ ਕੇ ਦੱਸ ਦਿੱਤਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Как Гуру наставил меня, так я и возгласил вслух."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9191,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕੁ ਕਹੈ ਸੁਨਿ ਰੇ ਮਨਾ ਕਰਿ ਕੀਰਤਨੁ ਹੋਇ ਉਧਾਰੁ ॥੪॥੧॥੧੫੮॥",
+          "roman": "nānak kahē sun re manā kar kīrtan hoi udhār. 4. 1. 158.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਹੇ (ਮੇਰੇ) ਮਨ! ਸੁਣ ਪਰਮਾਤਮਾ ਦਾ ਕੀਰਤਨ ਕਰਦਾ ਰਹੁ (ਕੀਰਤਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਵਿਕਾਰਾਂ ਤੋਂ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਤੋਂ) ਬਚਾਉ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੧॥੧੫੮॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак говорит: о моё сердце, слушай — продолжай воспевать Параматму, и по благодати киртана приходит спасение от пороков и от круга рождения и смерти. 4. 1. 158."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 679,
+      "rahao_verse_id": 9195,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9192,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਗੁ ਗਉੜੀ ਮਾਲਾ ਮਹਲਾ ੫",
+          "roman": "rāg gauṛī mālā mahelā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਗਉੜੀ-ਮਾਲਾ ਵਿੱਚ ਗੁਰੂ ਅਰਜਨਦੇਵ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бани Гуру Арджандэва Джи в раге Гоури-Мала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9193,
+          "is_rahao": true,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankār satigur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акал Пуракх один, и обретается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9194,
+          "is_rahao": true,
+          "gurmukhi": "ਪਾਇਓ ਬਾਲ ਬੁਧਿ ਸੁਖੁ ਰੇ ॥",
+          "roman": "pāio bāl budh sukh re",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਜਿਸ ਨੇ ਭੀ ਸੁਖ-ਆਨੰਦ ਲੱਭਾ) ਬਾਲਕਾਂ ਵਾਲੀ ਅਕਲ ਨਾਲ (ਹੀ) ਸੁਖ-ਆਨੰਦ ਲੱਭਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Тот, кто нашёл блаженство и покой, нашёл их именно с детской простотой ума."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9195,
+          "is_rahao": true,
+          "gurmukhi": "ਹਰਖ ਸੋਗ ਹਾਨਿ ਮਿਰਤੁ ਦੂਖ ਸੁਖ ਚਿਤਿ ਸਮਸਰਿ ਗੁਰ ਮਿਲੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "harakh sog hān mirt dūkh sukh chit samsar gur mile. 1. rahāu.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਨੂੰ ਮਿਲਿਆਂ (ਬਾਲ-ਬੁਧਿ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੀ ਹੈ, ਤੇ) ਖ਼ੁਸ਼ੀ, ਗ਼ਮੀ, ਘਾਟਾ, ਮੌਤ, ਦੁਖ-ਸੁਖ (ਇਹ ਸਾਰੇ) ਚਿੱਤ ਵਿਚ ਇਕੋ ਜਿਹੇ (ਪ੍ਰਤੀਤ ਹੋਣ ਲੱਗ ਪੈਂਦੇ ਹਨ) ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "При встрече с Гуру приходит детская простота ума, и тогда радость и печаль, потеря, смерть, страдание и счастье — всё это начинает восприниматься сердцем одинаково. 1. Пауза."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9196,
+          "is_rahao": false,
+          "gurmukhi": "ਜਉ ਲਉ ਹਉ ਕਿਛੁ ਸੋਚਉ ਚਿਤਵਉ ਤਉ ਲਉ ਦੁਖਨੁ ਭਰੇ ॥",
+          "roman": "jau lau hau kichh sochau chitvau tau lau dukhan bhare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਜਦ ਤਕ ਮੈਂ (ਆਪਣੀ ਚਤੁਰਾਈ ਦੀਆਂ) ਕੁਝ (ਸੋਚਾਂ) ਸੋਚਦਾ ਰਿਹਾ ਹਾਂ, ਚਿਤਵਦਾ ਰਿਹਾ ਹਾਂ, ਤਦ ਤਕ ਮੈਂ ਦੁੱਖਾਂ ਨਾਲ ਭਰਿਆ ਰਿਹਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Пока я продолжал строить какие-то свои умные расчёты и замыслы, до тех пор я был наполнен страданиями."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9197,
+          "is_rahao": false,
+          "gurmukhi": "ਜਉ ਕ੍ਰਿਪਾਲੁ ਗੁਰੁ ਪੂਰਾ ਭੇਟਿਆ ਤਉ ਆਨਦ ਸਹਜੇ ॥੧॥",
+          "roman": "jau kripāl gur pūrā bheṭiā tau ānad sahaje. 1.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ (ਹੁਣ ਮੈਨੂੰ) ਪੂਰਾ ਗੁਰੂ ਮਿਲ ਪਿਆ ਹੈ, ਤਦੋਂ ਮੈਂ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਆਨੰਦ ਮਾਣ ਰਿਹਾ ਹਾਂ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но теперь, когда мне встретился Совершенный Гуру, я пребываю в радости духовной устойчивости. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9198,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇਤੀ ਸਿਆਨਪ ਕਰਮ ਹਉ ਕੀਏ ਤੇਤੇ ਬੰਧ ਪਰੇ ॥",
+          "roman": "jetī siānap karam hau kīe tete bandh pare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਮੈਂ ਜਿਤਨੇ ਭੀ ਚਤੁਰਾਈ ਦੇ ਕੰਮ ਕਰਦਾ ਰਿਹਾ, ਉਤਨੇ ਹੀ ਮੈਨੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਬੰਧਨ ਪੈਂਦੇ ਗਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Сколько бы я ни действовал из хитрости и расчётливости, столько же всё сильнее опутывался узами привязанности к майе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9199,
+          "is_rahao": false,
+          "gurmukhi": "ਜਉ ਸਾਧੂ ਕਰੁ ਮਸਤਕਿ ਧਰਿਓ ਤਬ ਹਮ ਮੁਕਤ ਭਏ ॥੨॥",
+          "roman": "jau sādhū kar mastak dhario tab ham mukt bhae. 2.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ (ਹੁਣ) ਗੁਰੂ ਨੇ (ਮੇਰੇ) ਮੱਥੇ ਉੱਤੇ (ਆਪਣਾ) ਹੱਥ ਰੱਖਿਆ ਹੈ, ਤਦੋਂ ਮੈਂ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਸੁਤੰਤਰ ਹੋ ਗਿਆ ਹਾਂ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда теперь Гуру положил Свою руку на мой лоб, тогда я стал свободен от уз привязанности к майе. 2."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9200,
+          "is_rahao": false,
+          "gurmukhi": "ਜਉ ਲਉ ਮੇਰੋ ਮੇਰੋ ਕਰਤੋ ਤਉ ਲਉ ਬਿਖੁ ਘੇਰੇ ॥",
+          "roman": "jau lau mero mero karto tau lau bikh ghere",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਜਦ ਤਕ ਮੈਂ ਇਹ ਕਰਦਾ ਰਿਹਾ ਕਿ (ਇਹ ਘਰ) ਮੇਰਾ ਹੈ (ਇਹ ਧਨ) ਮੇਰਾ ਹੈ (ਇਹ ਪੁੱਤਰ ਆਦਿਕ ਸਨਬੰਧੀ) ਮੇਰਾ ਹੈ, ਤਦ ਤਕ ਮੈਨੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ) ਜ਼ਹਰ ਨੇ ਘੇਰੀ ਰੱਖਿਆ (ਤੇ ਉਸ ਨੇ ਮੇਰੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਮਾਰ ਦਿੱਤਾ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Пока я твердил: это мой дом, это моё богатство, это мои сыновья и прочие родные, — до тех пор яд привязанности к майе держал меня в окружении и убивал мою духовную жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9201,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਤਨੁ ਬੁਧਿ ਅਰਪੀ ਠਾਕੁਰ ਕਉ ਤਬ ਹਮ ਸਹਜਿ ਸੋਏ ॥੩॥",
+          "roman": "man tan budh arpī ṭhākur kau tab ham sahaj soe. 3.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੁਣ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਮੈਂ ਆਪਣੀ ਚਤੁਰਾਈ ਆਪਣਾ ਮਨ ਆਪਣਾ ਸਰੀਰ (ਹਰੇਕ ਗਿਆਨ-ਇੰਦ੍ਰਾ) ਪਰਮਾਤਮਾ ਦੇ ਹਵਾਲੇ ਕਰ ਦਿੱਤਾ ਹੈ, ਤਦੋਂ ਮੈਂ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹਾਂ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь, по милости Гуру, я предал Параматме свою хитрость, свой ум, своё тело и все чувства, и потому пребываю в опьянённости духовной устойчивости. 3."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9202,
+          "is_rahao": false,
+          "gurmukhi": "ਜਉ ਲਉ ਪੋਟ ਉਠਾਈ ਚਲਿਅਉ ਤਉ ਲਉ ਡਾਨ ਭਰੇ ॥",
+          "roman": "jau lau poṭ uṭhāī chaliāu tau lau ḍān bhare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਤਕ ਮੈਂ (ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਪੋਟਲੀ (ਸਿਰ ਤੇ) ਚੁੱਕ ਕੇ ਤੁਰਦਾ ਰਿਹਾ, ਤਦ ਤਕ ਮੈਂ (ਦੁਨੀਆ ਦੇ ਡਰਾਂ-ਸਹਮਾਂ ਦਾ) ਡੰਨ ਭਰਦਾ ਰਿਹਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Пока я нёс на голове узел привязанности к майе, до тех пор я оставался наполнен страхами и ужасами мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9203,
+          "is_rahao": false,
+          "gurmukhi": "ਪੋਟ ਡਾਰਿ ਗੁਰੁ ਪੂਰਾ ਮਿਲਿਆ ਤਉ ਨਾਨਕ ਨਿਰਭਏ ॥੪॥੧॥੧੫੯॥",
+          "roman": "poṭ ḍāri gur pūrā miliā tau nānak nirbhae. 4. 1. 159.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਹੁਣ ਮੈਨੂੰ ਪੂਰਾ ਗੁਰੂ ਮਿਲ ਪਿਆ ਹੈ, (ਉਸ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਪੋਟਲੀ ਸੁੱਟ ਕੇ ਮੈਂ ਨਿਡਰ ਹੋ ਗਿਆ ਹਾਂ ॥੪॥੧॥੧੫੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, скажи: о брат! Теперь мне встретился Совершенный Гуру, и по Его милости, отбросив узел привязанности к майе, я стал бесстрашным. 4. 1. 159."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 680,
+      "rahao_verse_id": 9207,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 9204,
+          "is_rahao": true,
+          "gurmukhi": "ਗਉੜੀ ਮਾਲਾ ਮਹਲਾ ੫ ॥",
+          "roman": "gauṛī mālā mahelā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9205,
+          "is_rahao": true,
+          "gurmukhi": "ਭਾਵਨੁ ਤਿਆਗਿਓ ਰੀ ਤਿਆਗਿਓ ॥",
+          "roman": "bhāvan tiāgio rī tiāgio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭੈਣ! ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਸੁੱਖਾਂ ਦੇ ਗ੍ਰਹਣ ਕਰਨ ਤੇ ਦੁੱਖਾਂ ਤੋਂ ਡਰਨ ਦਾ) ਸੰਕਲਪ ਛੱਡ ਦਿੱਤਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О сестра! Встретив Гуру, я оставила само это намерение — хвататься за радости и бояться страданий."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9206,
+          "is_rahao": true,
+          "gurmukhi": "ਤਿਆਗਿਓ ਮੈ ਗੁਰ ਮਿਲਿ ਤਿਆਗਿਓ ॥",
+          "roman": "tiāgio mē gur mil tiāgio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਦਾ ਲਈ ਛੱਡ ਦਿੱਤਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Оставила навсегда."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 9207,
+          "is_rahao": true,
+          "gurmukhi": "ਸਰਬ ਸੁਖ ਆਨੰਦ ਮੰਗਲ ਰਸ ਮਾਨਿ ਗੋਬਿੰਦੈ ਆਗਿਓ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "sarab sukh ānand mangal ras mān gobindē āgio. 1. rahāu.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੁਣ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ (ਮਿੱਠੀ) ਮੰਨ ਕੇ ਮੈਨੂੰ ਸਾਰੇ ਸੁਖ-ਆਨੰਦ ਹੀ ਹਨ, ਖ਼ੁਸ਼ੀਆਂ ਮੰਗਲ ਹੀ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь, по милости Гуру, сладко принимая волю Параматмы, я обрела только счастье и блаженство, только радость и благословенность. 1. Пауза."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

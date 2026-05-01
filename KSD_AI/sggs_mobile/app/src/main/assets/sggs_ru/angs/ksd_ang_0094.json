@@ -1,0 +1,615 @@
+{
+  "ang": 94,
+  "shabads": [
+    {
+      "shabad_id": 270,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 3740,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਗੁ ਮਾਝ ਚਉਪਦੇ ਘਰੁ ੧ ਮਹਲਾ ੪",
+          "roman": "rāg mājh chaupade ghar 1 mehlā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਮਾਝ, ਘਰ ੧ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਚਾਰ-ਬੰਦਾਂ ਵਾਲੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Раг Мадж, в доме 1, бани Гуру Рамдас Джи из четырёх строф."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3741,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik ōaṅkār sat nām kartā purakh nirbhau nirvēr akāl mūrat ajūnī sēbhaṅ gur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ, ਜਿਸ ਦਾ ਨਾਮ 'ਹੋਂਦ ਵਾਲਾ' ਹੈ ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਨਹਾਰ ਹੈ, ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਭੈ ਤੋਂ ਰਹਿਤ ਹੈ, ਵੈਰ-ਰਹਿਤ ਹੈ, ਜਿਸ ਦਾ ਸਰੂਪ ਕਾਲ ਤੋਂ ਪਰੇ ਹੈ, (ਭਾਵ, ਜਿਸ ਦਾ ਸਰੀਰ ਨਾਸ-ਰਹਿਤ ਹੈ), ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਜਿਸ ਦਾ ਪ੍ਰਕਾਸ਼ ਆਪਣੇ ਆਪ ਤੋਂ ਹੋਇਆ ਹੈ ਅਤੇ ਜੋ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акал Пуракх один, имя которого «Сущий», который является Творцом, который пронизывает всё, бесстрашен, без вражды, чья сущность вне времени (то есть тело не подвержено разрушению), который не рождается, чьё проявление из самого себя и который постигается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3742,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਮੈ ਹਰਿ ਮਨਿ ਭਾਇਆ ॥",
+          "roman": "har har nām mē har man bhāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੇ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗ ਰਿਹਾ ਹੈ, ਪਰਮਾਤਮਾ ਮੈਨੂੰ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗ ਰਿਹਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Имя Бога стало дорогим моему уму, Сам Бог стал дорогим моему уму."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3743,
+          "is_rahao": false,
+          "gurmukhi": "ਵਡਭਾਗੀ ਹਰਿ ਨਾਮੁ ਧਿਆਇਆ ॥",
+          "roman": "vaḍbhāgī har nām dhiāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ (ਹੀ) ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "По великой удаче я сосредоточился на Имени Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3744,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਹਰਿ ਨਾਮ ਸਿਧਿ ਪਾਈ ਕੋ ਵਿਰਲਾ ਗੁਰਮਤਿ ਚਲੈ ਜੀਉ ॥੧॥",
+          "roman": "gur pūrē har nām sḏh pāī ko virlā gurmat chalē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ ਦੀ ਇਹ ਸਫਲਤਾ ਮੈਂ ਪੂਰੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਹਾਸਲ ਕੀਤੀ ਹੈ (ਜਿਸ ਉਤੇ ਗੁਰੂ ਦੀ ਮਿਹਰ ਹੋਵੇ, ਉਸ ਨੂੰ ਇਹ  ਦਾਤ ਮਿਲਦੀ ਹੈ) ਕੋਈ ਵਿਰਲਾ (ਵਡਭਾਗੀ) ਗੁਰੂ ਦੀ ਮਤਿ ਉਤੇ ਤੁਰਦਾ ਹੈ (ਤੇ ਨਾਮ ਸਿਮਰਦਾ ਹੈ) ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Эту успешность в повторении Имени Бога я достиг через совершенного Гуру; лишь редкий следует учению Гуру и помнит Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3745,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਹਰਿ ਹਰਿ ਖਰਚੁ ਲਇਆ ਬੰਨਿ ਪਲੈ ॥",
+          "roman": "mē har har kharach lēā bann palē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪੂਰੇ ਗੁਰੂ ਦੀ ਮਿਹਰ ਨਾਲ) ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਆਪਣੇ ਜੀਵਨ-ਸਫ਼ਰ ਵਾਸਤੇ) ਖ਼ਰਚ ਪੱਲੇ ਬੰਨ੍ਹ ਲਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "По милости совершенного Гуру я взял Имя Бога как запас в свой путь жизни и завязал его в узел."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3746,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਰਾ ਪ੍ਰਾਣ ਸਖਾਈ ਸਦਾ ਨਾਲਿ ਚਲੈ ॥",
+          "roman": "merā prāṇ sakhāī sadā nāl chalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਹਰਿ-ਨਾਮ ਮੇਰੀ ਜਿੰਦ ਦਾ ਸਾਥੀ ਬਣ ਗਿਆ ਹੈ, (ਹੁਣ ਇਹ) ਸਦਾ ਮੇਰੇ ਨਾਲ ਰਹਿੰਦਾ ਹੈ (ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Это Имя стало спутником моей жизни и всегда остаётся со мной."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3747,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਹਰਿ ਨਾਮੁ ਦਿੜਾਇਆ ਹਰਿ ਨਿਹਚਲੁ ਹਰਿ ਧਨੁ ਪਲੈ ਜੀਉ ॥੨॥",
+          "roman": "gur pūrē har nām diṛāiā har nihchal har dhan palē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪੂਰੇ ਗੁਰੂ ਨੇ (ਇਹ) ਹਰਿ-ਨਾਮ (ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ) ਪੱਕਾ ਕਰ ਕੇ ਟਿਕਾ ਦਿੱਤਾ ਹੈ, ਹਰਿ-ਨਾਮ ਧਨ ਮੇਰੇ ਪਾਸ ਹੁਣ ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲਾ ਧਨ ਹੋ ਗਿਆ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Совершенный Гуру утвердил это Имя в моём сердце, и это богатство Имени стало для меня вечным богатством."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3748,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਸਜਣੁ ਮੇਰਾ ਪ੍ਰੀਤਮੁ ਰਾਇਆ ॥",
+          "roman": "har har sajan merā prītam rāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ (ਹੀ) ਮੇਰਾ (ਅਸਲ) ਸੱਜਣ ਹੈ, ਪਰਮਾਤਮਾ ਹੀ ਮੇਰਾ ਪ੍ਰੀਤਮ ਪਾਤਿਸ਼ਾਹ ਹੈ, ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Сам Бог — мой истинный друг, Он мой возлюбленный Царь, дающий духовную жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3749,
+          "is_rahao": false,
+          "gurmukhi": "ਕੋਈ ਆਣਿ ਮਿਲਾਵੈ ਮੇਰੇ ਪ੍ਰਾਣ ਜੀਵਾਇਆ ॥",
+          "roman": "koī āṇ milāvē mere prāṇ jīvāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਮੇਰੀ ਹਰ ਵੇਲੇ ਤਾਂਘ ਹੈ ਕਿ) ਕੋਈ (ਗੁਰਮੁਖ ਉਹ ਪ੍ਰੀਤਮ) ਲਿਆ ਕੇ ਮੈਨੂੰ ਮਿਲਾ ਦੇਵੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Моё постоянное стремление — чтобы кто-то привёл и соединил меня с этим Возлюбленным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3750,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਰਹਿ ਨ ਸਕਾ ਬਿਨੁ ਦੇਖੇ ਪ੍ਰੀਤਮਾ ਮੈ ਨੀਰੁ ਵਹੇ ਵਹਿ ਚਲੈ ਜੀਉ ॥੩॥",
+          "roman": "hau rahi na sakā bin dekhe prītamā mē nīr vahe vahi chalē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰਾ ਦਰਸ਼ਨ ਕਰਨ ਤੋਂ ਬਿਨਾ ਰਹਿ ਨਹੀਂ ਸਕਦਾ (ਤੇਰੇ ਵਿਛੋੜੇ ਵਿਚ ਮੇਰੀਆਂ ਅੱਖਾਂ ਵਿਚੋਂ ਬਿਰਹੋਂ ਦਾ) ਪਾਣੀ ਇਕ-ਸਾਰ ਚੱਲ ਪੈਂਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Возлюбленный Господь! Я не могу жить без твоего видения; в разлуке с тобой слёзы текут из моих глаз непрерывно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3751,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰੁ ਮਿਤ੍ਰੁ ਮੇਰਾ ਬਾਲ ਸਖਾਈ ॥",
+          "roman": "satgur mitr merā bāl sakhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਮਾਂ! ਗੁਰੂ ਮੇਰਾ (ਅਜੇਹਾ) ਮਿਤ੍ਰ ਹੈ (ਜਿਵੇਂ) ਬਚਪਨ ਦਾ ਸਾਥੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О мать! Гуру — мой друг, как спутник детства."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3752,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਰਹਿ ਨ ਸਕਾ ਬਿਨੁ ਦੇਖੇ ਮੇਰੀ ਮਾਈ ॥",
+          "roman": "hau rah na sakā bin dekhe merī māī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕਰਨ ਤੋਂ ਬਿਨਾ ਰਹਿ ਨਹੀਂ ਸਕਦਾ (ਮੈਨੂੰ ਧੀਰਜ ਨਹੀਂ ਆਉਂਦੀ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я не могу жить без созерцания Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3753,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜੀਉ ਕ੍ਰਿਪਾ ਕਰਹੁ ਗੁਰੁ ਮੇਲਹੁ ਜਨ ਨਾਨਕ ਹਰਿ ਧਨੁ ਪਲੈ ਜੀਉ ॥੪॥੧॥",
+          "roman": "har jīo kirpā karah gur melah jan nānak har dhan palē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਹੇ ਪ੍ਰਭੂ ਜੀ! ਜਿਸ ਉਤੇ ਤੁਸੀ ਕਿਰਪਾ ਕਰਦੇ ਹੋ, ਉਸ ਨੂੰ ਗੁਰੂ ਮਿਲਾਂਦੇ ਹੋ, ਤੇ ਉਸ ਦੇ ਪੱਲੇ ਹਰਿ-ਨਾਮ ਧਨ ਇਕੱਠਾ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Тому, на кого ты проявляешь милость, ты даёшь встречу с Гуру, и тогда у него накапливается богатство Имени."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 271,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 3754,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਝ ਮਹਲਾ ੪ ॥",
+          "roman": "mājh mehlā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3755,
+          "is_rahao": false,
+          "gurmukhi": "ਮਧੁਸੂਦਨ ਮੇਰੇ ਮਨ ਤਨ ਪ੍ਰਾਨਾ ॥",
+          "roman": "madhusūdan mere man tan prānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਮੇਰੇ ਮਨ ਦਾ ਆਸਰਾ ਹੈ, ਮੇਰੇ ਸਰੀਰ ਦਾ (ਗਿਆਨ-ਇੰਦ੍ਰਿਆਂ ਦਾ) ਆਸਰਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бог — опора моего ума и моего тела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3756,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਹਰਿ ਬਿਨੁ ਦੂਜਾ ਅਵਰੁ ਨ ਜਾਨਾ ॥",
+          "roman": "hau har bin dūjā avar na jānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਨੂੰ ਮੈਂ (ਜੀਵਨ-ਆਸਰਾ) ਨਹੀਂ ਜਾਣਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Кроме Бога я не знаю никого другого как опору жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3757,
+          "is_rahao": false,
+          "gurmukhi": "ਕੋਈ ਸਜਣੁ ਸੰਤੁ ਮਿਲੈ ਵਡਭਾਗੀ ਮੈ ਹਰਿ ਪ੍ਰਭੁ ਪਿਆਰਾ ਦਸੈ ਜੀਉ ॥੧॥",
+          "roman": "koī sajan sant milē vaḍbhāgī mē har prabh piārā dasē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੇਰੇ ਵਡੇ ਭਾਗਾਂ ਨੂੰ ਕੋਈ ਗੁਰਮੁਖ ਸੱਜਣ ਮੈਨੂੰ ਮਿਲ ਪਏ ਤੇ ਮੈਨੂੰ ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ ਪਤਾ ਦੱਸ ਦੇਵੇ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "По великой удаче пусть встретится мне святой друг, который укажет мне на любимого Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3758,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਮਨੁ ਤਨੁ ਖੋਜੀ ਭਾਲਿ ਭਾਲਾਈ ॥",
+          "roman": "hau man tan khojī bhāl bhālāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਭਾਲ ਕਰ ਕੇ ਤੇ ਭਾਲ ਕਰਾ ਕੇ ਆਪਣਾ ਮਨ ਖੋਜਦਾ ਹਾਂ ਆਪਣਾ ਸਰੀਰ ਖੋਜਦਾ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я ищу и расспрашиваю, исследую свой ум и тело."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3759,
+          "is_rahao": false,
+          "gurmukhi": "ਕਿਉ ਪਿਆਰਾ ਪ੍ਰੀਤਮੁ ਮਿਲੈ ਮੇਰੀ ਮਾਈ ॥",
+          "roman": "kiu piārā prītam milē merī māī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਸ ਖ਼ਾਤਰ ਕਿ) ਹੇ ਮੇਰੀ ਮਾਂ! ਕਿਵੇਂ ਮੈਨੂੰ ਪਿਆਰਾ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ ਮਿਲ ਪਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя мать! Как же мне встретить любимого Возлюбленного?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3760,
+          "is_rahao": false,
+          "gurmukhi": "ਮਿਲਿ ਸਤਸੰਗਤਿ ਖੋਜੁ ਦਸਾਈ ਵਿਚਿ ਸੰਗਤਿ ਹਰਿ ਪ੍ਰਭੁ ਵਸੈ ਜੀਉ ॥੨॥",
+          "roman": "mil satsangat khoj dasāī vich sangat har prabh vasē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਾਧ ਸੰਗਤਿ ਵਿਚ (ਭੀ) ਮਿਲ ਕੇ (ਉਸ ਪ੍ਰੀਤਮ ਦਾ) ਪਤਾ ਪੁੱਛਦਾ ਹਾਂ (ਕਿਉਂਕਿ ਉਹ) ਹਰਿ-ਪ੍ਰਭੂ ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਵੱਸਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Я ищу и спрашиваю в святом собрании, ведь Господь пребывает в собрании святых."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3761,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਰਾ ਪਿਆਰਾ ਪ੍ਰੀਤਮੁ ਸਤਿਗੁਰੁ ਰਖਵਾਲਾ ॥",
+          "roman": "merā piārā prītam satgur rakhvālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਨੂੰ ਪਿਆਰਾ ਪ੍ਰੀਤਮ ਗੁਰੂ ਮਿਲਾ (ਵਿਕਾਰਾਂ ਤੋਂ ਉਹੀ ਮੇਰੀ) ਰਾਖੀ ਕਰਨ ਵਾਲਾ (ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Дай мне встретить любимого Гуру, ведь он — мой защитник от пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3762,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਬਾਰਿਕ ਦੀਨ ਕਰਹੁ ਪ੍ਰਤਿਪਾਲਾ ॥",
+          "roman": "ham bārik dīn karah pratipālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਪ੍ਰਭੂ!) ਅਸੀਂ ਤੇਰੇ ਅੰਞਾਣ ਬੱਚੇ ਹਾਂ। ਸਾਡੀ ਰੱਖਿਆ ਕਰ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Мы твои неразумные дети — защити нас."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3763,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਰਾ ਮਾਤ ਪਿਤਾ ਗੁਰੁ ਸਤਿਗੁਰੁ ਪੂਰਾ ਗੁਰ ਜਲ ਮਿਲਿ ਕਮਲੁ ਵਿਗਸੈ ਜੀਉ ॥੩॥",
+          "roman": "merā māt pitā gur satgur pūrā gur jal mil kamal vigsē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪੂਰਾ ਗੁਰੂ ਸਤਿਗੁਰੂ (ਮੈਨੂੰ ਇਉਂ ਹੀ ਪਿਆਰਾ ਹੈ ਜਿਵੇਂ) ਮੇਰੀ ਮਾਂ ਤੇ ਮੇਰਾ ਪਿਉ ਹੈ (ਜਿਵੇਂ) ਪਾਣੀ ਨੂੰ ਮਿਲ ਕੇ ਕੌਲ-ਫੁੱਲ ਖਿੜਦਾ ਹੈ (ਤਿਵੇਂ) ਗੁਰੁ ਨੂੰ (ਮਿਲ ਕੇ ਮੇਰਾ ਹਿਰਦਾ ਖਿੜ ਪੈਂਦਾ ਹੈ) ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Совершенный Сатгуру для меня как мать и отец; как лотос расцветает, соприкасаясь с водой, так и моё сердце расцветает, встретив Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3764,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਬਿਨੁ ਗੁਰ ਦੇਖੇ ਨੀਦ ਨ ਆਵੈ ॥",
+          "roman": "mē bin gur dekhe nīd na āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਹਰੀ! ਗੁਰੂ ਦਾ ਦਰਸ਼ਨ ਕਰਨ ਤੋਂ ਬਿਨਾ ਮੇਰੇ ਮਨ ਨੂੰ ਸ਼ਾਂਤੀ ਨਹੀਂ ਆਉਂਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Без созерцания Гуру моему уму не приходит покой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3765,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਰੇ ਮਨ ਤਨਿ ਵੇਦਨ ਗੁਰ ਬਿਰਹੁ ਲਗਾਵੈ ॥",
+          "roman": "mere man tan vedan gur birah lagāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਤੋਂ ਵਿਛੋੜਾ (ਇਕ ਐਸੀ) ਪੀੜਾ (ਹੈ ਜੋ ਸਦਾ) ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਤਨ ਵਿਚ ਲੱਗੀ ਰਹਿੰਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Разлука с Гуру — это боль, которая постоянно пребывает в моём уме и теле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3766,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਦਇਆ ਕਰਹੁ ਗੁਰੁ ਮੇਲਹੁ ਜਨ ਨਾਨਕ ਗੁਰ ਮਿਲਿ ਰਹਸੈ ਜੀਉ ॥੪॥੨॥",
+          "roman": "har har dayā karah gur melah jan nānak gur mil rahasē jīo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਹਰੀ! (ਮੇਰੇ ਉਤੇ) ਮਿਹਰ ਕਰ (ਮੈਨੂੰ) ਗੁਰੂ ਮਿਲਾ। ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਪ-) ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਮਨ) ਖਿੜ ਪੈਂਦਾ ਹੈ ॥੪॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Прояви милость и дай встретить Гуру; говорит слуга Нанак: встретив Гуру, ум расцветает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

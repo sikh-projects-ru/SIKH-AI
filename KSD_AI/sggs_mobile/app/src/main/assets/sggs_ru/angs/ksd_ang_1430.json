@@ -1,0 +1,1267 @@
+{
+  "ang": 1430,
+  "shabads": [
+    {
+      "shabad_id": 5540,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 60347,
+          "is_rahao": false,
+          "gurmukhi": "ਪੰਚ ਰਾਗਨੀ ਸੰਗਿ ਉਚਰਹੀ ॥",
+          "roman": "pañch rāgnī saṅg uchrahī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Вместе произносятся пять рагини."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60348,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਥਮ ਭੈਰਵੀ ਬਿਲਾਵਲੀ ॥",
+          "roman": "pratham bhērvī bilāvalī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Первыми идут Бхайрави и Билавали."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60349,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁੰਨਿਆਕੀ ਗਾਵਹਿ ਬੰਗਲੀ ॥",
+          "roman": "punniākī gāvah baṅgalī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Затем поются Пунния и Бангали."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60350,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁਨਿ ਅਸਲੇਖੀ ਕੀ ਭਈ ਬਾਰੀ ॥",
+          "roman": "pun aslekhī kī bhaī bārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Потом настала очередь Аслехи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60351,
+          "is_rahao": false,
+          "gurmukhi": "ਏ ਭੈਰਉ ਕੀ ਪਾਚਉ ਨਾਰੀ ॥",
+          "roman": "e bhērau kī pāchau nārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Это пять рагини рага Бхайрау: Бхайрави, Билавали, Пунния, Бангали и Аслехи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60352,
+          "is_rahao": false,
+          "gurmukhi": "ਪੰਚਮ ਹਰਖ ਦਿਸਾਖ ਸੁਨਾਵਹਿ ॥",
+          "roman": "pañcham harakh disākh sunāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Панчам, Харакх и Дисакх звучат."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60353,
+          "is_rahao": false,
+          "gurmukhi": "ਬੰਗਾਲਮ ਮਧੁ ਮਾਧਵ ਗਾਵਹਿ ॥੧॥",
+          "roman": "baṅgālam madh mādhav gāvahi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Бангалам, Мадх и Мадхав поются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60354,
+          "is_rahao": false,
+          "gurmukhi": "ਲਲਤ ਬਿਲਾਵਲ ਗਾਵਹੀ ਅਪੁਨੀ ਅਪੁਨੀ ਭਾਂਤਿ ॥",
+          "roman": "lalat bilāval gāvahī apunī apunī bhāṅt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Лалат и Билавал поются каждый своим особым способом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60355,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਟ ਪੁਤ੍ਰ ਭੈਰਵ ਕੇ ਗਾਵਹਿ ਗਾਇਨ ਪਾਤ੍ਰ ॥੧॥",
+          "roman": "asaṭ putra bhērav ke gāvahi gāyan pātra",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти восемь сыновей рага Бхайрав — певцы, достойные пения: Панчам, Харакх, Дисакх, Бангалам, Мадх, Мадхав, Лалат и Билавал."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60356,
+          "is_rahao": false,
+          "gurmukhi": "ਦੁਤੀਆ ਮਾਲਕਉਸਕ ਆਲਾਪਹਿ ॥",
+          "roman": "dutīā mālakausak ālāpah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Вторым исполняется раг Малкаусак."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60357,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਗਿ ਰਾਗਨੀ ਪਾਚਉ ਥਾਪਹਿ ॥",
+          "roman": "saṅg rāgnī pāchau thāpah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Вместе с ним устанавливаются пять рагини."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60358,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਂਡਕਰੀ ਅਰੁ ਦੇਵਗੰਧਾਰੀ ॥",
+          "roman": "goṅḍkarī ar devgaṅdhārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Это Гондкари и Девгандхари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60359,
+          "is_rahao": false,
+          "gurmukhi": "ਗੰਧਾਰੀ ਸੀਹੁਤੀ ਉਚਾਰੀ ॥",
+          "roman": "gaṅdhārī sīhutī uchārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Также называются Гандхари и Сихути."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60360,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨਾਸਰੀ ਏ ਪਾਚਉ ਗਾਈ ॥",
+          "roman": "dhanāsrī e pāchau gāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Дханасари тоже поётся среди этих пяти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60361,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਲ ਰਾਗ ਕਉਸਕ ਸੰਗਿ ਲਾਈ ॥",
+          "roman": "māl rāg kausak saṅg lāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти пять рагини соединены с рагом Малкаусак: Гондкари, Девгандхари, Гандхари, Сихути и Дханасари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60362,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਰੂ ਮਸਤਅੰਗ ਮੇਵਾਰਾ ॥",
+          "roman": "mārū masataṅg mevārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мару, Маст Анг и Мевара."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60363,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਬਲਚੰਡ ਕਉਸਕ ਉਭਾਰਾ ॥",
+          "roman": "prabalchaṇḍ kausak ubhārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Прабал Чанд, Каусак и Убхара."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60364,
+          "is_rahao": false,
+          "gurmukhi": "ਖਉਖਟ ਅਉ ਭਉਰਾਨਦ ਗਾਏ ॥",
+          "roman": "khaukhaṭ au bhaurānad gāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кхаукхат и Бхаурананд поются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60365,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਟ ਮਾਲਕਉਸਕ ਸੰਗਿ ਲਾਏ ॥੧॥",
+          "roman": "asaṭ mālakausak saṅg lāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти восемь сыновей соединены с Малкаусаком: Мару, Маст Анг, Мевара, Прабал Чанд, Каусак, Убхара, Кхаукхат и Бхаурананд."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60366,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁਨਿ ਆਇਅਉ ਹਿੰਡੋਲੁ ਪੰਚ ਨਾਰਿ ਸੰਗਿ ਅਸਟ ਸੁਤ ॥",
+          "roman": "pun āiau hiṅḍol pañch nār saṅg asaṭ sut",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Затем приходит Хиндол вместе с пятью рагини и восемью сыновьями."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60367,
+          "is_rahao": false,
+          "gurmukhi": "ਉਠਹਿ ਤਾਨ ਕਲੋਲ ਗਾਇਨ ਤਾਰ ਮਿਲਾਵਹੀ ॥੧॥",
+          "roman": "uṭhahi tān kalol gāyan tār milāvahī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Поднимаются мелодии, звучит радостное пение, и певцы соединяют высокие струны."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60368,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇਲੰਗੀ ਦੇਵਕਰੀ ਆਈ ॥",
+          "roman": "telaṅgī devkarī āī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пришли Теланги и Девкари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60369,
+          "is_rahao": false,
+          "gurmukhi": "ਬਸੰਤੀ ਸੰਦੂਰ ਸੁਹਾਈ ॥",
+          "roman": "basantī sandūr suhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Также прекрасные Басенти и Сандур."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60370,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਸ ਅਹੀਰੀ ਲੈ ਭਾਰਜਾ ॥",
+          "roman": "saras ahīrī lē bhārjā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Взята также Сарас Ахири как рагини."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60371,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਗਿ ਲਾਈ ਪਾਂਚਉ ਆਰਜਾ ॥",
+          "roman": "saṅg lāī pāṅchau ārjā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти пять рагини соединены с Хиндолом: Теланги, Девкари, Басенти, Сандур и Сарас Ахири."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60372,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਰਮਾਨੰਦ ਭਾਸਕਰ ਆਏ ॥",
+          "roman": "surmānand bhāskar āe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пришли Сурмананд и Бхаскар."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60373,
+          "is_rahao": false,
+          "gurmukhi": "ਚੰਦ੍ਰਬਿੰਬ ਮੰਗਲਨ ਸੁਹਾਏ ॥",
+          "roman": "chandrabimb maṅgalan suhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Также прекрасные Чандрабимб и Мангалан."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60374,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਸਬਾਨ ਅਉ ਆਹਿ ਬਿਨੋਦਾ ॥",
+          "roman": "sarasbān au āh binodā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сарасбан и Бинода также названы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60375,
+          "is_rahao": false,
+          "gurmukhi": "ਗਾਵਹਿ ਸਰਸ ਬਸੰਤ ਕਮੋਦਾ ॥",
+          "roman": "gāvah saras basant kamodā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Поются также Басанат и Камода."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60376,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਟ ਪੁਤ੍ਰ ਮੈ ਕਹੇ ਸਵਾਰੀ ॥",
+          "roman": "asaṭ putra mē kahe savārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Так перечислены восемь сыновей Хиндола: Сурмананд, Бхаскар, Чандрабимб, Мангалан, Сарасбан, Бинода, Басант и Камода."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60377,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁਨਿ ਆਈ ਦੀਪਕ ਕੀ ਬਾਰੀ ॥੧॥",
+          "roman": "pun āī dīpak kī bārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Затем пришла очередь рага Дипак."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60378,
+          "is_rahao": false,
+          "gurmukhi": "ਕਛੇਲੀ ਪਟਮੰਜਰੀ ਟੋਡੀ ਕਹੀ ਅਲਾਪਿ ॥",
+          "roman": "kachhelī paṭmañjarī ṭoḍī kahī ālāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Алапом названы Качхели, Патманджари и Тоди."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60379,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮੋਦੀ ਅਉ ਗੂਜਰੀ ਸੰਗਿ ਦੀਪਕ ਕੇ ਥਾਪਿ ॥੧॥",
+          "roman": "kāmodī au gūjrī saṅg dīpak ke thāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Камоди и Гуджри установлены вместе с Дипаком; это пять рагини рага Дипак."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60380,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਲੰਕਾ ਕੁੰਤਲ ਅਉ ਰਾਮਾ ॥",
+          "roman": "kālaṅkā kuntal au rāmā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Каланка, Кунтал и Рама."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60381,
+          "is_rahao": false,
+          "gurmukhi": "ਕਮਲਕੁਸਮ ਚੰਪਕ ਕੇ ਨਾਮਾ ॥",
+          "roman": "kamalkusam champak ke nāmā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Также имена Камал Кусам и Чампак."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60382,
+          "is_rahao": false,
+          "gurmukhi": "ਗਉਰਾ ਅਉ ਕਾਨਰਾ ਕਲੵਾਨਾ ॥",
+          "roman": "gaurā au kānrā kalyānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гаура, Канра и Кальяна."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60383,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਟ ਪੁਤ੍ਰ ਦੀਪਕ ਕੇ ਜਾਨਾ ॥੧॥",
+          "roman": "asaṭ putra dīpak ke jānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти восемь известны как сыновья Дипака: Каланка, Кунтал, Рама, Камал Кусам, Чампак, Гаура, Канра и Кальяна."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60384,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭ ਮਿਲਿ ਸਿਰੀਰਾਗ ਵੈ ਗਾਵਹਿ ॥",
+          "roman": "sabh mil sirīrāg vē gāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Все вместе те знатоки поют Сирираг."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60385,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਂਚਉ ਸੰਗਿ ਬਰੰਗਨ ਲਾਵਹਿ ॥",
+          "roman": "pāṅchau saṅg baraṅgan lāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "С ним соединяют пять рагини."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60386,
+          "is_rahao": false,
+          "gurmukhi": "ਬੈਰਾਰੀ ਕਰਨਾਟੀ ਧਰੀ ॥",
+          "roman": "bērārī karnāṭī dharī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Установлены Байрари и Карнати."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60387,
+          "is_rahao": false,
+          "gurmukhi": "ਗਵਰੀ ਗਾਵਹਿ ਆਸਾਵਰੀ ॥",
+          "roman": "gavrī gāvah āsāvarī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Поются Гаври и Асавари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60388,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਹ ਪਾਛੈ ਸਿੰਧਵੀ ਅਲਾਪੀ ॥",
+          "roman": "tih pāchhē siṅdhvī ālāpī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "После них исполняется Синдхви."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60389,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਰੀਰਾਗ ਸਿਉ ਪਾਂਚਉ ਥਾਪੀ ॥੧॥",
+          "roman": "sirīrāg siu pāṅchau thāpī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти пять рагини установлены вместе с Сирирагом: Байрари, Карнати, Гаври, Асавари и Синдхви."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60390,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਲੂ ਸਾਰਗ ਸਾਗਰਾ ਅਉਰ ਗੋਂਡ ਗੰਭੀਰ ॥",
+          "roman": "sālū sārag sāgrā aur goṅḍ gambhīr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Салу, Сараг, Сагра, а также Гонд и Гамбхир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60391,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਟ ਪੁਤ੍ਰ ਸ੍ਰੀਰਾਗ ਕੇ ਗੁੰਡ ਕੁੰਭ ਹਮੀਰ ॥੧॥",
+          "roman": "asaṭ putra srīrāg ke guṇḍ kumbh hamīr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гунд, Кумбх и Хамир завершают восемь сыновей Срирага: Салу, Сараг, Сагра, Гонд, Гамбхир, Гунд, Кумбх и Хамир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60392,
+          "is_rahao": false,
+          "gurmukhi": "ਖਸਟਮ ਮੇਘ ਰਾਗ ਵੈ ਗਾਵਹਿ ॥",
+          "roman": "khasṭam megh rāg vē gāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Шестым те знатоки поют раг Мегх."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60393,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਂਚਉ ਸੰਗਿ ਬਰੰਗਨ ਲਾਵਹਿ ॥",
+          "roman": "pāṅchau saṅg baraṅgan lāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "С ним соединяют пять рагини."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60394,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋਰਠਿ ਗੋਂਡ ਮਲਾਰੀ ਧੁਨੀ ॥",
+          "roman": "soraṭh goṅḍ malārī dhunī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Соратх, Гонд и мелодия Малари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60395,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁਨਿ ਗਾਵਹਿ ਆਸਾ ਗੁਨ ਗੁਨੀ ॥",
+          "roman": "pun gāvah āsā gun gunī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Потом поётся Аса, полная достоинств."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60396,
+          "is_rahao": false,
+          "gurmukhi": "ਊਚੈ ਸੁਰਿ ਸੂਹਉ ਪੁਨਿ ਕੀਨੀ ॥",
+          "roman": "ūchē sur sūhau pun kīnī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Затем высоким тоном исполняется Сухау."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60397,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਘ ਰਾਗ ਸਿਉ ਪਾਂਚਉ ਚੀਨੀ ॥੧॥",
+          "roman": "megh rāg siu pāṅchau chīnī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти пять распознаны как рагини рага Мегх: Соратх, Гонд, Малари, Аса и Сухау."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60398,
+          "is_rahao": false,
+          "gurmukhi": "ਬੈਰਾਧਰ ਗਜਧਰ ਕੇਦਾਰਾ ॥",
+          "roman": "bērādhar gajdhar kedārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Байрадхар, Гадждхар и Кедара."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60399,
+          "is_rahao": false,
+          "gurmukhi": "ਜਬਲੀਧਰ ਨਟ ਅਉ ਜਲਧਾਰਾ ॥",
+          "roman": "jablīdhar naṭ au jaldhārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Джаблидхар, Нат и Джалдхара."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60400,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁਨਿ ਗਾਵਹਿ ਸੰਕਰ ਅਉ ਸਿਆਮਾ ॥",
+          "roman": "pun gāvah saṅkar au siāmā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Потом поются Санкар и Сьяма."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60401,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਘ ਰਾਗ ਪੁਤ੍ਰਨ ਕੇ ਨਾਮਾ ॥੧॥",
+          "roman": "megh rāg putran ke nāmā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Это имена восьми сыновей рага Мегх: Байрадхар, Гадждхар, Кедара, Джаблидхар, Нат, Джалдхара, Санкар и Сьяма."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60402,
+          "is_rahao": false,
+          "gurmukhi": "ਖਸਟ ਰਾਗ ਉਨਿ ਗਾਏ ਸੰਗਿ ਰਾਗਨੀ ਤੀਸ ॥",
+          "roman": "khasṭ rāg un gāe saṅg rāgnī tīs",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ими спеты шесть рагов вместе с тридцатью рагини."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 60403,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭੈ ਪੁਤ੍ਰ ਰਾਗੰਨ ਕੇ ਅਠਾਰਹ ਦਸ ਬੀਸ ॥੧॥੧॥",
+          "roman": "sabhē putra rāgaṅn ke aṭhārah das bīs",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "А всех сыновей этих рагов — сорок восемь; общий счёт составляет шесть рагов, тридцать рагини и сорок восемь сыновей, всего восемьдесят четыре."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "ang": 795,
+  "shabads": [
+    {
+      "shabad_id": 2990,
+      "rahao_verse_id": 33789,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 33784,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankār sat nām kartā purakh nirbhau nirvēr akāl mūrat ajūnī sēbhaṅ gur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Единый Онкар: Сат Нам, Карта Пуракх, Нирбхау, Нирвэр, образ вне времени, Аджуни, Сэйбханг; по Гур прасаду."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33785,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਗੁ ਬਿਲਾਵਲੁ ਮਹਲਾ ੧ ਚਉਪਦੇ ਘਰੁ ੧ ॥",
+          "roman": "rāg bilāval mahalā 1 chaupade ghar 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Раг Билавал, Махала 1, четверостишия, дом 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33786,
+          "is_rahao": false,
+          "gurmukhi": "ਤੂ ਸੁਲਤਾਨੁ ਕਹਾ ਹਉ ਮੀਆ ਤੇਰੀ ਕਵਨ ਵਡਾਈ ॥",
+          "roman": "tū sultān kahā hau mīā terī kavan vaḍāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, Ты царь; что я добавляю к Твоему величию, называя Тебя господином?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33787,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤੂ ਦੇਹਿ ਸੁ ਕਹਾ ਸੁਆਮੀ ਮੈ ਮੂਰਖ ਕਹਣੁ ਨ ਜਾਈ ॥੧॥",
+          "roman": "jo tū deh so kahā suāmī mē mūrakh kahaṇ na jāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Владыка, сколько силы говорить Ты даёшь, столько я и произношу; от меня, глупого, Твои качества не могут быть высказаны."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33788,
+          "is_rahao": true,
+          "gurmukhi": "ਤੇਰੇ ਗੁਣ ਗਾਵਾ ਦੇਹਿ ਬੁਝਾਈ ॥",
+          "roman": "tere guṇ gāvā deh bujhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Даруй мне такое понимание, чтобы я мог воспевать Твои качества."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33789,
+          "is_rahao": true,
+          "gurmukhi": "ਜੈਸੇ ਸਚ ਮਹਿ ਰਹਉ ਰਜਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jēse sach mah rahau rajāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "И чтобы через это восхваление я пребывал в Тебе, о Владыка воли."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33790,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਕਿਛੁ ਹੋਆ ਸਭੁ ਕਿਛੁ ਤੁਝ ਤੇ ਤੇਰੀ ਸਭ ਅਸਨਾਈ ॥",
+          "roman": "jo kichh hoā sabh kichh tujh te terī sabh asnāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Всё, что возникло, всё это возникло от Тебя; всё это — Твоя слава и величие."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33791,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇਰਾ ਅੰਤੁ ਨ ਜਾਣਾ ਮੇਰੇ ਸਾਹਿਬ ਮੈ ਅੰਧੁਲੇ ਕਿਆ ਚਤੁਰਾਈ ॥੨॥",
+          "roman": "terā ant na jāṇā mere sāhib mē aṅdhule kiā chaturāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Владыка, я не могу узнать предела Твоих качеств; я слеп, ничтожен разумом, какая во мне может быть мудрость?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33792,
+          "is_rahao": false,
+          "gurmukhi": "ਕਿਆ ਹਉ ਕਥੀ ਕਥੇ ਕਥਿ ਦੇਖਾ ਮੈ ਅਕਥੁ ਨ ਕਥਨਾ ਜਾਈ ॥",
+          "roman": "kiā hau kathī kathe kath dekhā mē akath na kathnā jāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я вовсе не могу высказать Твои качества; произнося их снова и снова, я вижу, что Твой образ вне описания, и я не способен его выразить."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33793,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤੁਧੁ ਭਾਵੈ ਸੋਈ ਆਖਾ ਤਿਲੁ ਤੇਰੀ ਵਡਿਆਈ ॥੩॥",
+          "roman": "jo tudh bhāvē soī ākhā til terī vaḍiāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Даже малую крупицу Твоего величия я говорю лишь так, как Тебе угодно, то есть насколько Ты Сам даёшь мне понимание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33794,
+          "is_rahao": false,
+          "gurmukhi": "ਏਤੇ ਕੂਕਰ ਹਉ ਬੇਗਾਨਾ ਭਉਕਾ ਇਸੁ ਤਨ ਤਾਈ ॥",
+          "roman": "ete kūkar hau begānā bhaukā is tan tāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, здесь множество псов — страстей и пороков; я чужой среди них и лаю, чтобы защитить это тело от них."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33795,
+          "is_rahao": false,
+          "gurmukhi": "ਭਗਤਿ ਹੀਣੁ ਨਾਨਕੁ ਜੇ ਹੋਇਗਾ ਤਾ ਖਸਮੈ ਨਾਉ ਨ ਜਾਈ ॥੪॥੧॥",
+          "roman": "bhagat hīṇ Nānak je hoigā tā khasmē nāu na jāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Если Нанак и окажется лишённым преданности, всё же слава Хозяина не исчезнет: Ты изначально помогаешь пришедшему под Твоё покровительство."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2991,
+      "rahao_verse_id": 33801,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 33796,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੧ ॥",
+          "roman": "bilāval mahalā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Билавал, Махала 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33797,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਮੰਦਰੁ ਤਨੁ ਵੇਸ ਕਲੰਦਰੁ ਘਟ ਹੀ ਤੀਰਥਿ ਨਾਵਾ ॥",
+          "roman": "man mandar tan ves kalandar ghaṭ hī tīrath nāvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мой ум стал храмом для пребывания Господа, тело и чувства стали странствующими садху; теперь я совершаю омовение на святом месте внутри сердца."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33798,
+          "is_rahao": false,
+          "gurmukhi": "ਏਕੁ ਸਬਦੁ ਮੇਰੈ ਪ੍ਰਾਨਿ ਬਸਤੁ ਹੈ ਬਾਹੁੜਿ ਜਨਮਿ ਨ ਆਵਾ ॥੧॥",
+          "roman": "ek śabad merē prān basat hē bāhuṛ janam na āvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Слово восхваления Бога утвердилось в моей жизни и стало её опорой; поэтому я уверен, что больше не приду в рождение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33799,
+          "is_rahao": true,
+          "gurmukhi": "ਮਨੁ ਬੇਧਿਆ ਦਇਆਲ ਸੇਤੀ ਮੇਰੀ ਮਾਈ ॥",
+          "roman": "man bedhiā daiāl setī merī māī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О моя мать, мой ум пронзён и привязан к стопам милостивого Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33800,
+          "is_rahao": true,
+          "gurmukhi": "ਕਉਣੁ ਜਾਣੈ ਪੀਰ ਪਰਾਈ ॥",
+          "roman": "kauṇ jāṇē pīr parāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кроме Бога никто не может по-настоящему понять чужую боль и страдание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33801,
+          "is_rahao": true,
+          "gurmukhi": "ਹਮ ਨਾਹੀ ਚਿੰਤ ਪਰਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "ham nāhī chint parāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь я не держу надежды ни на кого другого, кроме Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33802,
+          "is_rahao": false,
+          "gurmukhi": "ਅਗਮ ਅਗੋਚਰ ਅਲਖ ਅਪਾਰਾ ਚਿੰਤਾ ਕਰਹੁ ਹਮਾਰੀ ॥",
+          "roman": "agam agochar alakh apārā chintā karah hamārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О непостижимый, недоступный чувствам, невидимый и бесконечный Господь, Ты заботишься обо всех нас, живых существах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33803,
+          "is_rahao": false,
+          "gurmukhi": "ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਭਰਿਪੁਰਿ ਲੀਣਾ ਘਟਿ ਘਟਿ ਜੋਤਿ ਤੁਮੑਾਰੀ ॥੨॥",
+          "roman": "jal thal mahīal bharipur līṇā ghaṭ ghaṭ jot tumhārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ты полно и повсюду пронизываешь воду, землю и небо; в каждом сердце присутствует Твой свет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33804,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਖ ਮਤਿ ਸਭ ਬੁਧਿ ਤੁਮੑਾਰੀ ਮੰਦਿਰ ਛਾਵਾ ਤੇਰੇ ॥",
+          "roman": "sikh mat sabh budh tumhārī mandar chhāvā tere",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, умы и тела всех существ созданы Тобой; наставление, разум и понимание все получают от Тебя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33805,
+          "is_rahao": false,
+          "gurmukhi": "ਤੁਝ ਬਿਨੁ ਅਵਰੁ ਨ ਜਾਣਾ ਮੇਰੇ ਸਾਹਿਬਾ ਗੁਣ ਗਾਵਾ ਨਿਤ ਤੇਰੇ ॥੩॥",
+          "roman": "tujh bin avar na jāṇā mere sāhibā guṇ gāvā nit tere",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Владыка, я не знаю никого равного Тебе; я постоянно воспеваю Твои качества."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33806,
+          "is_rahao": false,
+          "gurmukhi": "ਜੀਅ ਜੰਤ ਸਭਿ ਸਰਣਿ ਤੁਮੑਾਰੀ ਸਰਬ ਚਿੰਤ ਤੁਧੁ ਪਾਸੇ ॥",
+          "roman": "jīa jant sabh saraṇ tumhārī sarab chint tudh pāse",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Все живые существа находятся под Твоей защитой; забота обо всех принадлежит Тебе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33807,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤੁਧੁ ਭਾਵੈ ਸੋਈ ਚੰਗਾ ਇਕ ਨਾਨਕ ਕੀ ਅਰਦਾਸੇ ॥੪॥੨॥",
+          "roman": "jo tudh bhāvē soī chaṅgā ik Nānak kī ardāse",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Единственная молитва Нанака у Твоих дверей такова: пусть всё, что угодно Твоей воле, кажется мне благим, и пусть я пребываю довольным в Твоей воле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2992,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 33808,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੧ ॥",
+          "roman": "bilāval mahalā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Билавал, Махала 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33809,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪੇ ਸਬਦੁ ਆਪੇ ਨੀਸਾਨੁ ॥",
+          "roman": "āpe śabad āpe nīsān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он Сам — Шабад, и Он Сам — знак, печать и указание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33810,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪੇ ਸੁਰਤਾ ਆਪੇ ਜਾਨੁ ॥",
+          "roman": "āpe surtā āpe jān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он Сам — осознающий, и Он Сам — знание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33811,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪੇ ਕਰਿ ਕਰਿ ਵੇਖੈ ਤਾਣੁ ॥",
+          "roman": "āpe kar kar vekhē tāṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он Сам творит, снова и снова совершает деяния и Сам видит Свою силу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33812,
+          "is_rahao": false,
+          "gurmukhi": "ਤੂ ਦਾਤਾ ਨਾਮੁ ਪਰਵਾਣੁ ॥੧॥",
+          "roman": "tū dātā nām parvāṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ты — Даритель; именно Твоё Имя становится принятым и истинно достойным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

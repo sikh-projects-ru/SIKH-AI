@@ -2,12 +2,11 @@
 """Create ksd_ang_json files for new angs using custom_khoj_sahib_singh as the structural base.
 
 Reads custom_khoj_sahib_singh/ang_json/ang_XXXX.json (flat, read-only),
-writes ksd_ang_json/ksd_ang_XXXX.json with multi-translator slots.
+writes ksd_ang_json/ksd_ang_XXXX.json in the unified shabads[] format with
+multi-translator slots.
 
 If ksd_ang_XXXX.json already exists, skips it (preserves existing ksd_ru translations).
 Use --force to overwrite (CAUTION: will erase existing ksd_ru content).
-
-TODO: shabad_id enrichment per line from sggs_meta/shabad_index.json
 
 Usage:
   python3 expand_ksd_angs.py --ang 14
@@ -19,28 +18,118 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
+import sqlite3
+import sys
 from pathlib import Path
 
 ROOT       = Path(__file__).parent
 KSD_DIR    = ROOT / "ksd_ang_json"
 SOURCE_DIR = ROOT.parent / "custom_khoj_sahib_singh" / "ang_json"
+BANIDB     = ROOT.parent / "banidb" / "sggs.db"
+FIX_SCRIPT = ROOT.parent / "custom_khoj_sahib_singh" / "fix_romanization_rules.py"
+
+sys.path.insert(0, str(FIX_SCRIPT.parent))
+from fix_romanization_rules import fix_roman_line  # noqa: E402
 
 EMPTY_KSD  = {"main": "", "artistic": "", "context_note": ""}
 EMPTY_SLOT = {"main": ""}
 
+# Matches lines that close a numbered stanza: ends with ॥੧॥, ॥੨॥, etc.
+_STANZA_END_RE = re.compile(r"[੦-੯]॥\s*$")
+
+
+def normalize_source_value(value: object) -> str:
+    if value is None or value == "None":
+        return ""
+    return str(value)
+
 
 def build_line(src: dict) -> dict:
+    gurmukhi = normalize_source_value(src.get("gurmukhi", ""))
+    roman, _ = fix_roman_line(gurmukhi, normalize_source_value(src.get("roman", "")))
+
     return {
         "verse_id": src["verse_id"],
-        "gurmukhi": src.get("gurmukhi", ""),
-        "roman":    src.get("roman", ""),
+        "is_rahao": "ਰਹਾਉ" in gurmukhi,
+        "gurmukhi": gurmukhi,
+        "roman":    roman,
         "translations": {
             "ksd_ru":         dict(EMPTY_KSD),
-            "sahib_singh_pa": {"main": src.get("sahib_singh_pa", "")},
-            "sahib_singh_ru": {"main": src.get("translation_ru", "")},
+            "sahib_singh_pa": {"main": normalize_source_value(src.get("sahib_singh_pa", ""))},
+            "sahib_singh_ru": {"main": normalize_source_value(src.get("translation_ru", ""))},
             "ipotseluev_ru":  dict(EMPTY_SLOT),
         },
     }
+
+
+def load_shabad_map(ang: int) -> dict[int, int]:
+    if not BANIDB.exists():
+        raise FileNotFoundError(f"BaniDB not found: {BANIDB}")
+
+    conn = sqlite3.connect(BANIDB)
+    try:
+        rows = conn.execute(
+            "SELECT verse_id, shabad_id FROM verses WHERE ang=? ORDER BY verse_id",
+            (ang,),
+        ).fetchall()
+    finally:
+        conn.close()
+
+    return {verse_id: shabad_id for verse_id, shabad_id in rows}
+
+
+def expand_rahao_blocks(lines: list[dict]) -> None:
+    """Extend is_rahao backwards to cover the full rahao block (in-place).
+
+    A rahao block = every line from just after the previous stanza-end marker
+    (a line whose gurmukhi ends with ॥N॥) up to and including the line that
+    contains ਰਹਾਉ. There can be multiple rahao blocks in one shabad.
+    """
+    for i, line in enumerate(lines):
+        if not line.get("is_rahao"):
+            continue
+        j = i - 1
+        while j >= 0:
+            if _STANZA_END_RE.search(lines[j]["gurmukhi"]):
+                j += 1
+                break
+            j -= 1
+        else:
+            j = 0
+        for k in range(j, i):
+            lines[k]["is_rahao"] = True
+
+
+def group_lines(ang: int, lines: list[dict]) -> list[dict]:
+    shabad_by_verse = load_shabad_map(ang)
+    grouped: dict[int, dict] = {}
+
+    for line in lines:
+        verse_id = line["verse_id"]
+        shabad_id = shabad_by_verse.get(verse_id)
+        if shabad_id is None:
+            raise KeyError(f"Missing shabad_id for ang {ang}, verse_id {verse_id}")
+
+        shabad = grouped.setdefault(
+            shabad_id,
+            {
+                "shabad_id": shabad_id,
+                "rahao_verse_id": None,
+                "rahao_theme": "",
+                "shabad_summary": "",
+                "lines": [],
+            },
+        )
+        shabad["lines"].append(line)
+
+    for shabad in grouped.values():
+        expand_rahao_blocks(shabad["lines"])
+        for line in shabad["lines"]:
+            if line.get("is_rahao") and shabad["rahao_verse_id"] is None:
+                shabad["rahao_verse_id"] = line["verse_id"]
+
+    return list(grouped.values())
 
 
 def expand_ang(ang: int, force: bool) -> str:
@@ -54,9 +143,10 @@ def expand_ang(ang: int, force: bool) -> str:
 
     src = json.loads(src_path.read_text(encoding="utf-8"))
     lines = [build_line(ln) for ln in src.get("lines", [])]
-    out = {"ang": ang, "lines": lines}
+    shabads = group_lines(ang, lines)
+    out = {"ang": ang, "shabads": shabads}
     dst_path.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    return f"created ({len(lines)} lines)"
+    return f"created ({len(shabads)} shabads, {len(lines)} lines)"
 
 
 def parse_ang_range(s: str) -> list[int]:

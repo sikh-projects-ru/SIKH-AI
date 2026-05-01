@@ -1,0 +1,807 @@
+{
+  "ang": 969,
+  "shabads": [
+    {
+      "shabad_id": 3592,
+      "rahao_verse_id": 41436,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41434,
+          "is_rahao": false,
+          "gurmukhi": "ਤ੍ਰਿਸਨਾ ਕਾਮੁ ਕ੍ਰੋਧੁ ਮਦ ਮਤਸਰ ਕਾਟਿ ਕਾਟਿ ਕਸੁ ਦੀਨੁ ਰੇ ॥੧॥",
+          "roman": "trisnā kām krodh mad matsar kāṭ kāṭ kas dīn rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Жажду, похоть, гнев, опьянённую гордыню и зависть я отсёк и отсёк, и выжал из них сок."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41435,
+          "is_rahao": true,
+          "gurmukhi": "ਕੋਈ ਹੈ ਰੇ ਸੰਤੁ ਸਹਜ ਸੁਖ ਅੰਤਰਿ ਜਾ ਕਉ ਜਪੁ ਤਪੁ ਦੇਉ ਦਲਾਲੀ ਰੇ ॥",
+          "roman": "koī hē rē sant sahaj sukh antar jā kau jap tap dēu dalālī rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Есть ли такой святой, в чьём сердце пребывает естественный мир и радость? Я отдал бы ему свой джап и тап как плату посредника."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41436,
+          "is_rahao": true,
+          "gurmukhi": "ਏਕ ਬੂੰਦ ਭਰਿ ਤਨੁ ਮਨੁ ਦੇਵਉ ਜੋ ਮਦੁ ਦੇਇ ਕਲਾਲੀ ਰੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "ēk būnd bhar tan man dēvau jo mad dēi kalālī rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "За одну лишь каплю я отдал бы тело и ум тому виночерпию, который даст мне это опьяняющее вино."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41437,
+          "is_rahao": false,
+          "gurmukhi": "ਭਵਨ ਚਤੁਰ ਦਸ ਭਾਠੀ ਕੀਨੑੀ ਬ੍ਰਹਮ ਅਗਨਿ ਤਨਿ ਜਾਰੀ ਰੇ ॥",
+          "roman": "bhavan chatur das bhāṭhī kīnhī brahm agan tan jārī rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Четырнадцать миров я сделал перегонным чаном, и в теле зажёг огонь Брахмана."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41438,
+          "is_rahao": false,
+          "gurmukhi": "ਮੁਦ੍ਰਾ ਮਦਕ ਸਹਜ ਧੁਨਿ ਲਾਗੀ ਸੁਖਮਨ ਪੋਚਨਹਾਰੀ ਰੇ ॥੨॥",
+          "roman": "mudrā madak sahaj dhun lāgī sukhman pochanhārī rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мудра и дурман стали естественной внутренней мелодией; она омывает путь Сукхманы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41439,
+          "is_rahao": false,
+          "gurmukhi": "ਤੀਰਥ ਬਰਤ ਨੇਮ ਸੁਚਿ ਸੰਜਮ ਰਵਿ ਸਸਿ ਗਹਨੈ ਦੇਉ ਰੇ ॥",
+          "roman": "tīrath barat nēm such sañjam rav sas gahnē dēu rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Паломничества, посты, обеты, чистоту и самообуздание, солнце и луну я отдаю как залог."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41440,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਰਤਿ ਪਿਆਲ ਸੁਧਾ ਰਸੁ ਅੰਮ੍ਰਿਤੁ ਏਹੁ ਮਹਾ ਰਸੁ ਪੇਉ ਰੇ ॥੩॥",
+          "roman": "surat piāl sudhā ras amrit ēh mahā ras pēu rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сознание стало чашей, нектарный амрит — напитком; этот великий रस я пью."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41441,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਝਰ ਧਾਰ ਚੁਐ ਅਤਿ ਨਿਰਮਲ ਇਹ ਰਸ ਮਨੂਆ ਰਾਤੋ ਰੇ ॥",
+          "roman": "nijhar dhār chuai at nirmal ih ras manūā rāto rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Изнутри течёт источник, струя предельно чиста; в этот रस окрашен мой ум."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41442,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਿ ਕਬੀਰ ਸਗਲੇ ਮਦ ਛੂਛੇ ਇਹੈ ਮਹਾ ਰਸੁ ਸਾਚੋ ਰੇ ॥੪॥੧॥",
+          "roman": "kahi Kabīr saglē mad chhūchhē ihē mahā ras sācho rē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Говорит Кабир: все прочие опьянения пусты; только этот великий рас — истинный."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3593,
+      "rahao_verse_id": 41446,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41443,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁੜੁ ਕਰਿ ਗਿਆਨੁ ਧਿਆਨੁ ਕਰਿ ਮਹੂਆ ਭਉ ਭਾਠੀ ਮਨ ਧਾਰਾ ॥",
+          "roman": "guṛ kar giān dhiān kar mahūā bhau bhāṭhī man dhārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Для извлечения вина Naam-rasa я сделал духовное знание патокой, сосредоточенность в стопах Господа — цветами махуа, а страх Божий, утверждённый в моём уме, — перегонным чаном."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41444,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਖਮਨ ਨਾਰੀ ਸਹਜ ਸਮਾਨੀ ਪੀਵੈ ਪੀਵਨਹਾਰਾ ॥੧॥",
+          "roman": "sukhman nārī sahaj samānī pīvē pīvanhārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "От этого Naam-rasa мой ум погрузился в устойчивое состояние; словно йог, выпив вино, удерживает праны в Сукхмане, так теперь мой ум стал пригодным пить Naam-rasa и пьёт его."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41445,
+          "is_rahao": true,
+          "gurmukhi": "ਅਉਧੂ ਮੇਰਾ ਮਨੁ ਮਤਵਾਰਾ ॥",
+          "roman": "audhū mērā man matvārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О йог! Мой ум тоже опьянён и пребывает в блаженной духовной мāсти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41446,
+          "is_rahao": true,
+          "gurmukhi": "ਉਨਮਦ ਚਢਾ ਮਦਨ ਰਸੁ ਚਾਖਿਆ ਤ੍ਰਿਭਵਨ ਭਇਆ ਉਜਿਆਰਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "unmad chaṛhā madan ras chākhiyā tribhavan bhaiā ujiārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я вкусил опьяняющий Naam-rasa; по его благодати во всём мире мне видится сияние Его света."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41447,
+          "is_rahao": false,
+          "gurmukhi": "ਦੁਇ ਪੁਰ ਜੋਰਿ ਰਸਾਈ ਭਾਠੀ ਪੀਉ ਮਹਾ ਰਸੁ ਭਾਰੀ ॥",
+          "roman": "dui pur jor rasāī bhāṭhī pīu mahā ras bhārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Поставив под власть привязанность к майе, я разжёг эту йогическую печь и теперь пью великий, могучий Naam-rasa."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41448,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮੁ ਕ੍ਰੋਧੁ ਦੁਇ ਕੀਏ ਜਲੇਤਾ ਛੂਟਿ ਗਈ ਸੰਸਾਰੀ ॥੨॥",
+          "roman": "kām krodh dui kīē jalētā chhūṭ gaī sansārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Похоть и гнев я сделал топливом и сжёг их в этой печи; так исчезла склонность, связывающая с миром."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41449,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਗਟ ਪ੍ਰਗਾਸ ਗਿਆਨ ਗੁਰ ਗੰਮਿਤ ਸਤਿਗੁਰ ਤੇ ਸੁਧਿ ਪਾਈ ॥",
+          "roman": "pragaṭ pragās giān gur gammit satgur tē sudh pāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По благодати знания Гуру, имеющего доступ к Господу, внутри меня проявился свет Naam; от Сатгуру я получил высшее понимание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41450,
+          "is_rahao": false,
+          "gurmukhi": "ਦਾਸੁ ਕਬੀਰੁ ਤਾਸੁ ਮਦ ਮਾਤਾ ਉਚਕਿ ਨ ਕਬਹੂ ਜਾਈ ॥੩॥੨॥",
+          "roman": "dās Kabīr tās mad mātā uchak na kabhū jāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Раб Господа Кабир опьянён этим божественным опьянением; его мāсти никогда не прерывается и не исчезает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3594,
+      "rahao_verse_id": 41454,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41451,
+          "is_rahao": false,
+          "gurmukhi": "ਤੂੰ ਮੇਰੋ ਮੇਰੁ ਪਰਬਤੁ ਸੁਆਮੀ ਓਟ ਗਹੀ ਮੈ ਤੇਰੀ ॥",
+          "roman": "tūṃ mēro mēr parbat suāmī ōṭ gahī mē tērī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Ты — моя величайшая опора; я держусь только за Твоё прибежище и не опираюсь на жизнь в каком-либо тиртхе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41452,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾ ਤੁਮ ਡੋਲਹੁ ਨਾ ਹਮ ਗਿਰਤੇ ਰਖਿ ਲੀਨੀ ਹਰਿ ਮੇਰੀ ॥੧॥",
+          "roman": "nā tum ḍolah nā ham girtē rakh līnī Har mērī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ты всегда остаёшься неподвижным; держась за Твой край, я тоже не колеблюсь, потому что Ты Сам сохранил мою честь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41453,
+          "is_rahao": true,
+          "gurmukhi": "ਅਬ ਤਬ ਜਬ ਕਬ ਤੁਹੀ ਤੁਹੀ ॥",
+          "roman": "ab tab jab kab tuhī tuhī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Отныне и тогда, всегда и во всякое время, Ты один — моя опора."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41454,
+          "is_rahao": true,
+          "gurmukhi": "ਹਮ ਤੁਅ ਪਰਸਾਦਿ ਸੁਖੀ ਸਦ ਹੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "ham tua parsād sukhī sad hī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По Твоей милости я всегда пребываю в мире и счастье."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41455,
+          "is_rahao": false,
+          "gurmukhi": "ਤੋਰੇ ਭਰੋਸੇ ਮਗਹਰ ਬਸਿਓ ਮੇਰੇ ਤਨ ਕੀ ਤਪਤਿ ਬੁਝਾਈ ॥",
+          "roman": "torē bharōsē Magahar basiō mērē tan kī tapat bujhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Полагаясь на Тебя, я поселился в Магхаре; Ты проявил милость и уже там погасил жар пороков в моём теле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41456,
+          "is_rahao": false,
+          "gurmukhi": "ਪਹਿਲੇ ਦਰਸਨੁ ਮਗਹਰ ਪਾਇਓ ਫੁਨਿ ਕਾਸੀ ਬਸੇ ਆਈ ॥੨॥",
+          "roman": "pahilē darsan Magahar pāiō phun Kāsī basē āī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Сначала я обрёл Твой даршан, живя в Магхаре, а затем пришёл жить в Каши."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41457,
+          "is_rahao": false,
+          "gurmukhi": "ਜੈਸਾ ਮਗਹਰੁ ਤੈਸੀ ਕਾਸੀ ਹਮ ਏਕੈ ਕਰਿ ਜਾਨੀ ॥",
+          "roman": "jēsā Magahar tēsī Kāsī ham ēkē kar jānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благодаря богатству Твоего Naam я понял Магхар и Каши как одно и то же."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41458,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਨਿਰਧਨ ਜਿਉ ਇਹੁ ਧਨੁ ਪਾਇਆ ਮਰਤੇ ਫੂਟਿ ਗੁਮਾਨੀ ॥੩॥",
+          "roman": "ham nirdhan jiu ih dhan pāiā martē phūṭ gumānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Как бедняк, получивший богатство, я обрёл богатство Твоего Naam; а гордецы, гордящиеся жизнью в Каши, страдают в своём эго."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41459,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰੈ ਗੁਮਾਨੁ ਚੁਭਹਿ ਤਿਸੁ ਸੂਲਾ ਕੋ ਕਾਢਨ ਕਉ ਨਾਹੀ ॥",
+          "roman": "karē gumān chubhah tis sūlā ko kāḍhan kau nāhī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Того, кто гордится чем бы то ни было, словно пронзают колючки; никто не может вынуть эти колючки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41460,
+          "is_rahao": false,
+          "gurmukhi": "ਅਜੈ ਸੁ ਚੋਭ ਕਉ ਬਿਲਲ ਬਿਲਾਤੇ ਨਰਕੇ ਘੋਰ ਪਚਾਹੀ ॥੪॥",
+          "roman": "ajē su chobh kau bilal bilātē narkē ghor pachāhī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Всю жизнь такие гордецы стонут от этих уколов и, как бы сгорая в страшном аду, остаются в страдании."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41461,
+          "is_rahao": false,
+          "gurmukhi": "ਕਵਨੁ ਨਰਕੁ ਕਿਆ ਸੁਰਗੁ ਬਿਚਾਰਾ ਸੰਤਨ ਦੋਊ ਰਾਦੇ ॥",
+          "roman": "kavan narak kiā surag bichārā santan doū rādē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Что такое ад и что такое жалкий рай? Святые отвергли и то и другое."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41462,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਕਾਹੂ ਕੀ ਕਾਣਿ ਨ ਕਢਤੇ ਅਪਨੇ ਗੁਰ ਪਰਸਾਦੇ ॥੫॥",
+          "roman": "ham kāhū kī kāṇ na kaḍhatē apnē gur parsādē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По милости своего Гуру святые не зависят ни от рая, ни от ада, ни от кого бы то ни было."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41463,
+          "is_rahao": false,
+          "gurmukhi": "ਅਬ ਤਉ ਜਾਇ ਚਢੇ ਸਿੰਘਾਸਨਿ ਮਿਲੇ ਹੈ ਸਾਰਿੰਗਪਾਨੀ ॥",
+          "roman": "ab tau jāi chaṛhē singhāsan milē hē Sāringpānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По милости своего Гуру я теперь достиг высокого духовного престола, где встретился с परमात्मой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41464,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਕਬੀਰਾ ਏਕ ਭਏ ਹੈ ਕੋਇ ਨ ਸਕੈ ਪਛਾਨੀ ॥੬॥੩॥",
+          "roman": "Rām Kabīrā ēk bhaē hē koi na sakē pachhānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я, Кабир, и мой Рам стали единым образом; никто не может различить между нами разницы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3595,
+      "rahao_verse_id": 41468,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41465,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਤਾ ਮਾਨਉ ਦੂਤਾ ਡਾਨਉ ਇਹ ਕੁਟਵਾਰੀ ਮੇਰੀ ॥",
+          "roman": "santā mānau dūtā ḍānau ih kuṭvārī mērī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Для охраны этого города-тела мой долг таков: я приветствую добрые качества и изгоняю пороки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41466,
+          "is_rahao": false,
+          "gurmukhi": "ਦਿਵਸ ਰੈਨਿ ਤੇਰੇ ਪਾਉ ਪਲੋਸਉ ਕੇਸ ਚਵਰ ਕਰਿ ਫੇਰੀ ॥੧॥",
+          "roman": "divas rēn tērē pāu palosau kēs chavar kar phērī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Днём и ночью, о Господь, я касаюсь Твоих стоп и своими волосами, как чаваром, вею над Тобой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41467,
+          "is_rahao": true,
+          "gurmukhi": "ਹਮ ਕੂਕਰ ਤੇਰੇ ਦਰਬਾਰਿ ॥",
+          "roman": "ham kūkar tērē darbār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! Я — пёс у Твоего двора."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41468,
+          "is_rahao": true,
+          "gurmukhi": "ਭਉਕਹਿ ਆਗੈ ਬਦਨੁ ਪਸਾਰਿ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "bhaukahi āgē badan pasār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я раскрываю пасть и лаю перед Тобой: то есть у Твоего двора я пою Твою славу, чтобы защитить это тело от псов-пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

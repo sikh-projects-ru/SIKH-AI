@@ -203,14 +203,16 @@ def build(conn: sqlite3.Connection) -> None:
     print(f"raags.json: {len(raags)} raags/sections")
 
     # ── Shabad index ─────────────────────────────────────────────────────────
+    # MAX(CASE...) picks the non-empty writer even when the first verse is a
+    # heading line (ਸਲੋਕੁ ॥, ਅਸਟਪਦੀ ॥, etc.) with no writer_en assigned.
     c.execute("""
         SELECT shabad_id,
                MIN(ang) AS ang,
                MIN(line_no) AS first_line,
                MAX(line_no) AS last_line,
                COUNT(*) AS verse_count,
-               writer_en,
-               raag_en
+               MAX(CASE WHEN writer_en != '' THEN writer_en ELSE NULL END) AS writer_en,
+               MAX(raag_en) AS raag_en
         FROM verses
         GROUP BY shabad_id
         ORDER BY shabad_id
@@ -225,6 +227,16 @@ def build(conn: sqlite3.Connection) -> None:
             "author_id": author_id_for(writer_en) if writer_en else None,
             "verse_count": verse_count,
         })
+
+    # Propagate author from the previous shabad for the ~21 pure-header shabads
+    # that have no author in any of their lines (structural markers).
+    last_author: str | None = None
+    for sh in shabads:
+        if sh["author_id"] is not None:
+            last_author = sh["author_id"]
+        elif last_author is not None:
+            sh["author_id"] = last_author
+
     (OUT / "shabad_index.json").write_text(json.dumps(shabads, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"shabad_index.json: {len(shabads)} shabads")
 

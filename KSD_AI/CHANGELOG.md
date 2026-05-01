@@ -20,8 +20,19 @@
 
 _(изменения в словаре — вносить сюда)_
 
+## sggs_mobile — Android app
+
+- 2026-05-01 | Claude | export_sggs_content.py + works.json | Добавлены 14 именных произведений с точной фильтрацией по shabad_id: Барах Маха (Маджх М5 / Тукхари М1), Патти Ликхи (М1), Патти (М3), Дакхни (Гаури М1 / Онкар Рамкали М1), Баван Акхари (Гаури М5 / Кабир), Тхити (Гаури М5 / Билавал М1), Алахниа, Кучхаджи, Сучхаджи, Сидх Гости; итого 31 произведение
+- 2026-05-01 | Claude | MainActivity.kt | `Work` data class: добавлено поле `shabadIdEnd: Int?`; фильтрация в `filteredShabads`/`filterSearchResults`/`angMatchesSelection` переключается на диапазон shabad_id когда он задан — это устраняет ложные пересечения ангов у Патти М1 и М3 на анге 434
+- 2026-05-01 | Claude | MainActivity.kt | Поиск по ангу: `KeyboardType.Number` + `ImeAction.Go`, `angInput.trim().toIntOrNull()`, отдельная секция «Перейти к ангу» в drawer
+- 2026-05-01 | Claude | MainActivity.kt | Глобальный поиск: `CircularProgressIndicator` вместо голого текста «Ищу», инлайн-спиннер в статус-строке, ошибки выделяются цветом `ReaderColors.Rahao`
+- 2026-05-01 | Claude | fix_rahao_blocks.py | Одноразовый скрипт-фикс: распространение `is_rahao=true` на все строки блока рахао назад до предыдущего `॥N॥`; применён к 852 ангам (3534 строк)
+- 2026-05-01 | Claude | expand_ksd_angs.py | Добавлена `expand_rahao_blocks()` с той же логикой — теперь новые анги создаются сразу корректно
+- 2026-05-01 | Claude | build_sggs_meta.py | Исправлена атрибуция авторов: SQL-запрос теперь берёт `MAX(CASE WHEN writer_en != '' ...)`, пропагация на шабды без автора; 451 → 0 шабдов с `author_id: null`
+
 ## nitnem_mobile — Android app
 
+- 2026-05-01 | Codex | sggs_app + sggs_mobile | Создан MVP Android-приложения Sri Guru Granth Sahib RU: exporter полного SGGS content pack, offline assets 1430 ангов, reader с поиском по текущему ангу, навигацией по ангам, drawer-фильтрами по рагам/авторам/произведениям
 - 2026-05-01 | Claude | export_nitnem_content.py | Экспортёр теперь автоматически копирует JSON в nitnem_mobile/app/src/main/assets/ и выводит статистику (angs/shabads/lines)
 - 2026-04-26 | Codex | MainActivity.kt, assets/* | Добавлен ночной режим, Анand Бани, настройки слоёв переживают поворот экрана
 - 2026-04-25 | Codex/Claude | MainActivity.kt | Исправлена навигация: переход на работу (Со Дар и т.д.) теперь корректно устанавливает selectedAng
@@ -34,6 +45,7 @@ _(изменения в словаре — вносить сюда)_
 
 ## ksd_ang_json — переводы ангов
 
+- 2026-05-01 | Codex | ksd_ang_json/ksd_ang_0014–1430.json + expand_ksd_angs.py | Закрыт TODO по единому формату: недостающие анги созданы в `shabads[]` формате, строки сгруппированы по `shabad_id` из BaniDB; генератор теперь сразу пишет unified multi-translator format
 - 2026-05-01 | Claude | ksd_ang_json/ksd_ang_0001–0013.json | Влит sahib_singh_ru из custom_khoj_sahib_singh (577 строк по ангам 1–13); ang 917–922 пока не переведены в источнике
 - 2026-05-01 | Claude | ksd_ang_json/*.json (все 19 файлов) | Мигрированы в мультиавторский формат: translations.{ksd_ru, sahib_singh_pa, sahib_singh_ru, ipotseluev_ru}; ksd_ru сохраняет confidence+confidence_reason; удалены word_analysis/roman_display; применены правила романизации (ai→ē, final sihari/onkar)
 
@@ -47,6 +59,8 @@ _(правки переводов — вносить сюда с номером 
 
 ## Скрипты
 
+- 2026-05-01 | Codex | SGGS_RU_APP_CONCEPT.md | Обновлены решения по SGGS app: рабочее название Sri Guru Granth Sahib RU, первый релиз со всеми ангами offline, основной слой Sahib Singh, скрытие пустых слоёв, дизайн как Nitnem, будущий `works.json` для Ананд/Сукхмани и других баний
+- 2026-05-01 | Codex | SGGS_RU_APP_CONCEPT.md | Добавлен концепт отдельного Android-приложения SGGS RU на базе unified `ksd_ang_json`, с фильтрами по рагам, авторам, разделам и ангам
 - 2026-05-01 | Codex | add_grammar_shackle_L17_24.py, grammar_index_progress.md | Добавлен и выполнен скрипт индексации Shackle SLS L17–L24; прогресс зафиксирован отдельным блоком
 - 2026-05-01 | Claude | ksd_coverage.py | Отчёт покрытия KSD-перевода: full/partial/empty по ангам, флаг строк для ревью (--review), поиск гурмукхи в BaniDB
 - 2026-05-01 | Claude | WORKFLOW.md | Обязательные правила для Claude+Codex: источник истины, цикл обновления, формат ang_json, правила CHANGELOG

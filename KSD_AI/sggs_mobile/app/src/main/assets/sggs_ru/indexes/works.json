@@ -1,0 +1,324 @@
+[
+  {
+    "id": "jap",
+    "title_ru": "Джап",
+    "title_gurmukhi": "ਜਪੁ",
+    "source": "raags",
+    "raag_id": "jap",
+    "ang_start": 1,
+    "ang_end": 8,
+    "shabad_count": 39
+  },
+  {
+    "id": "so_dar",
+    "title_ru": "Со Дар",
+    "title_gurmukhi": "ਸੋ ਦਰੁ",
+    "source": "raags",
+    "raag_id": "so_dar",
+    "ang_start": 8,
+    "ang_end": 10,
+    "shabad_count": 5
+  },
+  {
+    "id": "so_purakh",
+    "title_ru": "Со Пуркх",
+    "title_gurmukhi": "ਸੋ ਪੁਰਖੁ",
+    "source": "raags",
+    "raag_id": "so_purakh",
+    "ang_start": 10,
+    "ang_end": 12,
+    "shabad_count": 4
+  },
+  {
+    "id": "sohila",
+    "title_ru": "Сохила",
+    "title_gurmukhi": "ਸੋਹਿਲਾ",
+    "source": "raags",
+    "raag_id": "sohila",
+    "ang_start": 12,
+    "ang_end": 13,
+    "shabad_count": 5
+  },
+  {
+    "id": "salok_sehskritee",
+    "title_ru": "Шлок Санскрит",
+    "title_gurmukhi": "ਸਲੋਕ ਸਹਸਕ੍ਰਿਤੀ",
+    "source": "raags",
+    "raag_id": "salok_sehskritee",
+    "ang_start": 1353,
+    "ang_end": 1360,
+    "shabad_count": 63
+  },
+  {
+    "id": "fifth_mehl_gaathaa",
+    "title_ru": "Гатха, Махла 5",
+    "title_gurmukhi": "ਗਾਥਾ ਮਹਲਾ ੫",
+    "source": "raags",
+    "raag_id": "fifth_mehl_gaathaa",
+    "ang_start": 1360,
+    "ang_end": 1361,
+    "shabad_count": 1
+  },
+  {
+    "id": "phunhay_fifth_mehl",
+    "title_ru": "Пхунхэ, Махла 5",
+    "title_gurmukhi": "ਫੁਨਹੇ ਮਹਲਾ ੫",
+    "source": "raags",
+    "raag_id": "phunhay_fifth_mehl",
+    "ang_start": 1361,
+    "ang_end": 1363,
+    "shabad_count": 1
+  },
+  {
+    "id": "chaubolas_fifth_mehl",
+    "title_ru": "Чаубола, Махла 5",
+    "title_gurmukhi": "ਚਉਬੋਲੇ ਮਹਲਾ ੫",
+    "source": "raags",
+    "raag_id": "chaubolas_fifth_mehl",
+    "ang_start": 1363,
+    "ang_end": 1364,
+    "shabad_count": 1
+  },
+  {
+    "id": "salok_kabeer_jee",
+    "title_ru": "Шлок Кабира",
+    "title_gurmukhi": "ਸਲੋਕ ਕਬੀਰ ਜੀਉ",
+    "source": "raags",
+    "raag_id": "salok_kabeer_jee",
+    "ang_start": 1364,
+    "ang_end": 1377,
+    "shabad_count": 242
+  },
+  {
+    "id": "salok_fareed_jee",
+    "title_ru": "Шлок Фарида",
+    "title_gurmukhi": "ਸਲੋਕ ਫਰੀਦ ਜੀਉ",
+    "source": "raags",
+    "raag_id": "salok_fareed_jee",
+    "ang_start": 1377,
+    "ang_end": 1384,
+    "shabad_count": 125
+  },
+  {
+    "id": "svaiyay_mehl_5",
+    "title_ru": "Свайе Махла 5",
+    "title_gurmukhi": "ਸਵਈਏ ਮਹਲੇ ਪੰਜਵੇ ਕੇ",
+    "source": "raags",
+    "raag_id": "svaiyay_mehl_5",
+    "ang_start": 1385,
+    "ang_end": 1410,
+    "shabad_count": 142
+  },
+  {
+    "id": "salok_vaaraan_thay_vadheek",
+    "title_ru": "Шлок, Вааран тхэ вадхик",
+    "title_gurmukhi": "ਸਲੋਕ ਵਾਰਾਂ ਤੇ ਵਧੀਕ",
+    "source": "raags",
+    "raag_id": "salok_vaaraan_thay_vadheek",
+    "ang_start": 1410,
+    "ang_end": 1426,
+    "shabad_count": 6
+  },
+  {
+    "id": "salok_mehl_9",
+    "title_ru": "Шлок, Махла 9",
+    "title_gurmukhi": "ਸਲੋਕੁ ਮਹਲਾ ੯",
+    "source": "raags",
+    "raag_id": "salok_mehl_9",
+    "ang_start": 1426,
+    "ang_end": 1429,
+    "shabad_count": 57
+  },
+  {
+    "id": "mundhaavanee_fifth_mehl",
+    "title_ru": "Мундхавани",
+    "title_gurmukhi": "ਮੁੰਦਾਵਣੀ ਮਹਲਾ ੫",
+    "source": "raags",
+    "raag_id": "mundhaavanee_fifth_mehl",
+    "ang_start": 1429,
+    "ang_end": 1429,
+    "shabad_count": 3
+  },
+  {
+    "id": "raag_maalaa",
+    "title_ru": "Раг Мала",
+    "title_gurmukhi": "ਰਾਗਮਾਲਾ",
+    "source": "raags",
+    "raag_id": "raag_maalaa",
+    "ang_start": 1429,
+    "ang_end": 1430,
+    "shabad_count": 1
+  },
+  {
+    "id": "anand",
+    "title_ru": "Ананд",
+    "title_gurmukhi": "ਅਨੰਦੁ",
+    "source": "manual_todo",
+    "ang_start": 917,
+    "ang_end": 922,
+    "note": "Черновая граница для будущей точной индексации по shabad_id/verse_id."
+  },
+  {
+    "id": "sukhmani",
+    "title_ru": "Сукхмани",
+    "title_gurmukhi": "ਸੁਖਮਨੀ",
+    "source": "manual_todo",
+    "ang_start": 262,
+    "ang_end": 296,
+    "note": "Черновая граница для будущей точной индексации по ashtpadi."
+  },
+  {
+    "id": "barah_maha_majh_m5",
+    "title_ru": "Барах Маха (Маджх, М5)",
+    "title_gurmukhi": "ਬਾਰਹ ਮਾਹਾ ਮਾਂਝ ਮਹਲਾ ੫",
+    "source": "manual",
+    "ang_start": 133,
+    "ang_end": 136,
+    "start_shabad_id": 358,
+    "shabad_id_end": 358,
+    "start_verse_id": 5422
+  },
+  {
+    "id": "dakhni_gauri_m1",
+    "title_ru": "Дакхни (Гаури, М1)",
+    "title_gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੧ ਦਖਣੀ",
+    "source": "manual",
+    "ang_start": 152,
+    "ang_end": 152,
+    "start_shabad_id": 454,
+    "shabad_id_end": 454,
+    "start_verse_id": 6295
+  },
+  {
+    "id": "bavan_akhari_gauri_m5",
+    "title_ru": "Баван Акхари (Гаури, М5)",
+    "title_gurmukhi": "ਗਉੜੀ ਬਾਵਨ ਅਖਰੀ ਮਹਲਾ ੫",
+    "source": "manual",
+    "ang_start": 250,
+    "ang_end": 250,
+    "start_shabad_id": 759,
+    "shabad_id_end": 759,
+    "start_verse_id": 10820
+  },
+  {
+    "id": "thhiti_gauri_m5",
+    "title_ru": "Тхити (Гаури, М5)",
+    "title_gurmukhi": "ਥਿਤੀ ਗਉੜੀ ਮਹਲਾ ੫",
+    "source": "manual",
+    "ang_start": 296,
+    "ang_end": 296,
+    "start_shabad_id": 1087,
+    "shabad_id_end": 1087,
+    "start_verse_id": 13512
+  },
+  {
+    "id": "bavan_akhari_kabir",
+    "title_ru": "Баван Акхари (Гаури Пурби, Кабир)",
+    "title_gurmukhi": "ਗਉੜੀ ਪੂਰਬੀ ਬਾਵਨ ਅਖਰੀ ਕਬੀਰ ਜੀਉ",
+    "source": "manual",
+    "ang_start": 340,
+    "ang_end": 343,
+    "start_shabad_id": 1359,
+    "shabad_id_end": 1359,
+    "start_verse_id": 15434
+  },
+  {
+    "id": "patti_likhi_m1",
+    "title_ru": "Патти Ликхи (Аса, М1)",
+    "title_gurmukhi": "ਆਸਾ ਮਹਲਾ ੧ ਪਟੀ ਲਿਖੀ",
+    "source": "manual",
+    "ang_start": 432,
+    "ang_end": 434,
+    "start_shabad_id": 1639,
+    "shabad_id_end": 1639,
+    "start_verse_id": 19723
+  },
+  {
+    "id": "patti_asa_m3",
+    "title_ru": "Патти (Аса, М3)",
+    "title_gurmukhi": "ਆਸਾ ਮਹਲਾ ੩ ਪਟੀ",
+    "source": "manual",
+    "ang_start": 434,
+    "ang_end": 435,
+    "start_shabad_id": 1641,
+    "shabad_id_end": 1641,
+    "start_verse_id": 19796
+  },
+  {
+    "id": "alahnia_vadhans_m1",
+    "title_ru": "Алахниа (Вадханс, М1)",
+    "title_gurmukhi": "ਵਡਹੰਸੁ ਮਹਲਾ ੧ ਅਲਾਹਣੀਆ",
+    "source": "manual",
+    "ang_start": 578,
+    "ang_end": 579,
+    "start_shabad_id": 2194,
+    "shabad_id_end": 2194,
+    "start_verse_id": 25305
+  },
+  {
+    "id": "kuchhaji_suhi_m1",
+    "title_ru": "Кучхаджи (Сухи, М1)",
+    "title_gurmukhi": "ਸੂਹੀ ਮਹਲਾ ੧ ਕੁਚਜੀ",
+    "source": "manual",
+    "ang_start": 762,
+    "ang_end": 762,
+    "start_shabad_id": 2881,
+    "shabad_id_end": 2881,
+    "start_verse_id": 32533
+  },
+  {
+    "id": "suchaji_suhi_m1",
+    "title_ru": "Сучхаджи (Сухи, М1)",
+    "title_gurmukhi": "ਸੂਹੀ ਮਹਲਾ ੧ ਸੁਚਜੀ",
+    "source": "manual",
+    "ang_start": 762,
+    "ang_end": 762,
+    "start_shabad_id": 2882,
+    "shabad_id_end": 2882,
+    "start_verse_id": 32551
+  },
+  {
+    "id": "thhiti_bilaval_m1",
+    "title_ru": "Тхити (Билавал, М1)",
+    "title_gurmukhi": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੧ ਥਿਤੀ",
+    "source": "manual",
+    "ang_start": 838,
+    "ang_end": 840,
+    "start_shabad_id": 3150,
+    "shabad_id_end": 3150,
+    "start_verse_id": 35546
+  },
+  {
+    "id": "dakhni_onkar_ramkali_m1",
+    "title_ru": "Онкар / Дакхни Онкар (Рамкали, М1)",
+    "title_gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੧ ਦਖਣੀ ਓਅੰਕਾਰੁ",
+    "source": "manual",
+    "ang_start": 929,
+    "ang_end": 938,
+    "start_shabad_id": 3406,
+    "shabad_id_end": 3406,
+    "start_verse_id": 39593
+  },
+  {
+    "id": "sidh_gosht_ramkali_m1",
+    "title_ru": "Сидх Гости (Рамкали, М1)",
+    "title_gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੧ ਸਿਧ ਗੋਸਟਿ",
+    "source": "manual",
+    "ang_start": 938,
+    "ang_end": 938,
+    "start_shabad_id": 3407,
+    "shabad_id_end": 3407,
+    "start_verse_id": 39992
+  },
+  {
+    "id": "barah_maha_tukhari_m1",
+    "title_ru": "Барах Маха (Тукхари, М1)",
+    "title_gurmukhi": "ਤੁਖਾਰੀ ਛੰਤ ਮਹਲਾ ੧ ਬਾਰਹ ਮਾਹਾ",
+    "source": "manual",
+    "ang_start": 1107,
+    "ang_end": 1107,
+    "start_shabad_id": 3975,
+    "shabad_id_end": 3975,
+    "start_verse_id": 47329
+  }
+]

@@ -1,0 +1,813 @@
+{
+  "ang": 579,
+  "shabads": [
+    {
+      "shabad_id": 2194,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 25309,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾਨੀ ਘਤਿ ਚਲਾਇਆ ਲਿਖਿਆ ਆਇਆ ਰੁੰਨੇ ਵੀਰ ਸਬਾਏ ॥",
+          "roman": "jānī ghaṭ chalāiā likhiā āiā runne vīr sabāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਮਰ ਦਾ ਸਮਾ ਮੁੱਕਣ ਤੇ) ਜਦੋਂ ਪਰਮਾਤਮਾ ਦਾ ਲਿਖਿਆ (ਹੁਕਮ) ਅਉਂਦਾ ਹੈ ਤਾਂ ਸਾਰੇ ਸੱਜਣ ਸੰਬੰਧੀ ਰੋਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда приходит предначертанное, все близкие начинают плакать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25310,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਂਇਆ ਹੰਸ ਥੀਆ ਵੇਛੋੜਾ ਜਾਂ ਦਿਨ ਪੁੰਨੇ ਮੇਰੀ ਮਾਏ ॥",
+          "roman": "kāiā hans thīā vechhoṛā jā din punne merī māe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਮਾਂ! ਜਦੋਂ ਉਮਰ ਦੇ ਦਿਨ ਪੂਰੇ ਹੋ ਜਾਂਦੇ ਹਨ, ਤਾਂ ਸਰੀਰ ਤੇ ਜੀਵਾਤਮਾ ਦਾ (ਸਦਾ ਲਈ) ਵਿਛੋੜਾ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О мать! Когда дни жизни завершаются, тело и душа расстаются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25311,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇਹਾ ਲਿਖਿਆ ਤੇਹਾ ਪਾਇਆ ਜੇਹਾ ਪੁਰਬਿ ਕਮਾਇਆ ॥",
+          "roman": "jehā likhiā tehā pāiā jehā purab kamāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਸ ਅੰਤ ਸਮੇ ਤੋਂ) ਪਹਿਲਾਂ ਪਹਿਲਾਂ ਜੋ ਜੋ ਕਰਮ ਜੀਵ ਨੇ ਕਮਾਇਆ ਹੁੰਦਾ ਹੈ (ਉਸ ਉਸ ਦੇ ਅਨੁਸਾਰ) ਜਿਹੋ ਜਿਹਾ ਸੰਸਕਾਰਾਂ ਦਾ ਲੇਖ (ਉਸ ਦੇ ਮੱਥੇ ਤੇ) ਲਿਖਿਆ ਜਾਂਦਾ ਹੈ ਉਹੋ ਜਿਹਾ ਫਲ ਜੀਵ ਪਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Каковы были поступки, таков и плод, согласно записанному."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25312,
+          "is_rahao": false,
+          "gurmukhi": "ਧੰਨੁ ਸਿਰੰਦਾ ਸਚਾ ਪਾਤਿਸਾਹੁ ਜਿਨਿ ਜਗੁ ਧੰਧੈ ਲਾਇਆ ॥੧॥",
+          "roman": "dhan sirandā sachā pātisāh jin jag dhanḍhē lāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਸਿਰਜਣਹਾਰ ਪਾਤਿਸ਼ਾਹ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਜਿਸ ਨੇ ਜਗਤ ਨੂੰ ਮਾਇਆ ਦੇ ਆਹਰ ਵਿਚ ਲਾ ਰੱਖਿਆ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Благословен истинный Творец, который вовлёк мир в дела майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25313,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਹਿਬੁ ਸਿਮਰਹੁ ਮੇਰੇ ਭਾਈਹੋ ਸਭਨਾ ਏਹੁ ਪਇਆਣਾ ॥",
+          "roman": "sāhib simrah mere bhāīho sabhnā eh paiāṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਭਰਾਵੋ! (ਸਦਾ-ਥਿਰ) ਮਾਲਕ-ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰੋ। (ਦੁਨੀਆ ਤੋਂ) ਇਹ ਕੂਚ ਸਭਨਾਂ ਨੇ ਹੀ ਕਰਨਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О братья! Помните Господа — всем предстоит уйти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25314,
+          "is_rahao": false,
+          "gurmukhi": "ਏਥੈ ਧੰਧਾ ਕੂੜਾ ਚਾਰਿ ਦਿਹਾ ਆਗੈ ਸਰਪਰ ਜਾਣਾ ॥",
+          "roman": "ethē dhanḍhā kūṛā chār dihā āgē sarpar jāṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਦੁਨੀਆ ਵਿਚ ਮਾਇਆ ਦਾ ਝੂਠਾ ਆਹਰ ਚਾਰ ਦਿਨਾਂ ਲਈ ਹੀ ਹੈ, (ਹਰੇਕ ਨੇ ਹੀ) ਇਥੋਂ ਅਗਾਂਹ (ਪਰਲੋਕ ਵਿਚ) ਜ਼ਰੂਰ ਚਲੇ ਜਾਣਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Здесь ложные дела лишь на короткое время, дальше нужно уйти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25315,
+          "is_rahao": false,
+          "gurmukhi": "ਆਗੈ ਸਰਪਰ ਜਾਣਾ ਜਿਉ ਮਿਹਮਾਣਾ ਕਾਹੇ ਗਾਰਬੁ ਕੀਜੈ ॥",
+          "roman": "āgē sarpar jāṇā jiu mihmāṇā kāhe gārab kījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਥੋਂ ਅਗਾਂਹ ਜ਼ਰੂਰ (ਹਰੇਕ ਨੇ) ਚਲੇ ਜਾਣਾ ਹੈ, (ਇਥੇ ਜਗਤ ਵਿਚ) ਅਸੀਂ ਪਰਾਹੁਣਿਆਂ ਵਾਂਗ ਹੀ ਹਾਂ, (ਕਿਸੇ ਵੀ ਧਨ ਪਦਾਰਥ ਆਦਿਕ ਦਾ) ਮਾਣ ਕਰਨਾ ਵਿਅਰਥ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Все уйдут, как гости — зачем гордиться?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25316,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਤੁ ਸੇਵਿਐ ਦਰਗਹ ਸੁਖੁ ਪਾਈਐ ਨਾਮੁ ਤਿਸੈ ਕਾ ਲੀਜੈ ॥",
+          "roman": "jit seviē dargeh sukh pāīē nām tisē kā lījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਨਾਮ ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ ਜਿਸ ਦੇ ਸਿਮਰਨ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਆਤਮਕ ਆਨੰਦ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Следует помнить Имя того, служа Которому, обретается блаженство."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25317,
+          "is_rahao": false,
+          "gurmukhi": "ਆਗੈ ਹੁਕਮੁ ਨ ਚਲੈ ਮੂਲੇ ਸਿਰਿ ਸਿਰਿ ਕਿਆ ਵਿਹਾਣਾ ॥",
+          "roman": "āgē hukam na chalē mūle sir sir kiā vihāṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਲੋਕ ਵਿਚ ਕਿਸੇ ਦਾ ਭੀ ਹੁਕਮ ਨਹੀਂ ਚੱਲ ਸਕਦਾ, ਉਥੇ ਤਾਂ ਹਰੇਕ ਦੇ ਸਿਰ ਉਤੇ (ਆਪੋ ਆਪਣੇ) ਕੀਤੇ ਅਨੁਸਾਰ ਬੀਤਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "В будущем мире ничья воля не действует — каждый отвечает за свои дела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25318,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਹਿਬੁ ਸਿਮਰਿਹੁ ਮੇਰੇ ਭਾਈਹੋ ਸਭਨਾ ਏਹੁ ਪਇਆਣਾ ॥੨॥",
+          "roman": "sāhib simrihu mere bhāīho sabhnā eh paiāṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਭਰਾਵੋ! (ਸਦਾ-ਥਿਰ) ਮਾਲਕ-ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰੋ। (ਦੁਨੀਆ ਤੋਂ) ਇਹ ਕੂਚ ਸਭ ਨੇ ਹੀ ਕਰ ਜਾਣਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О братья! Помните Господа — всем предстоит уйти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25319,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੰਮ੍ਰਥ ਸੋ ਥੀਐ ਹੀਲੜਾ ਏਹੁ ਸੰਸਾਰੋ ॥",
+          "roman": "jo tis bhāvē samrath so thīē hīlṛā eh sansāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਗਤ ਦੇ ਜੀਵਾਂ ਦਾ ਉੱਦਮ ਤਾਂ ਇਕ ਬਹਾਨਾ ਹੀ ਹੈ, ਹੁੰਦਾ ਉਹੀ ਕੁਝ ਹੈ ਜੋ ਉਸ ਸਰਬ-ਸ਼ਕਤੀਮਾਨ ਪ੍ਰਭੂ ਨੂੰ ਭਾਉਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Происходит только то, что угодно всемогущему Богу, а усилия мира — лишь повод."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25320,
+          "is_rahao": false,
+          "gurmukhi": "ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਰਵਿ ਰਹਿਆ ਸਾਚੜਾ ਸਿਰਜਣਹਾਰੋ ॥",
+          "roman": "jal thal mahīal rav rahiā sāchṛā sirjaṇhāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਸਿਰਜਣਹਾਰ ਪਾਣੀ ਵਿਚ ਧਰਤੀ ਵਿਚ ਆਕਾਸ਼ ਵਿਚ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Истинный Творец присутствует в воде, земле и небе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25321,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਚਾ ਸਿਰਜਣਹਾਰੋ ਅਲਖ ਅਪਾਰੋ ਤਾ ਕਾ ਅੰਤੁ ਨ ਪਾਇਆ ॥",
+          "roman": "sāchā sirjaṇhāro alakh apāro tā kā ant na pāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਪ੍ਰਭੂ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਹੈ ਸਭ ਦਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈ, ਅਦ੍ਰਿਸ਼ਟ ਹੈ, ਬੇਅੰਤ ਹੈ, ਕੋਈ ਭੀ ਜੀਵ ਉਸ ਦੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਲੱਭ ਸਕਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Он истинный, непостижимый, бесконечный, и никто не достигает Его предела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25322,
+          "is_rahao": false,
+          "gurmukhi": "ਆਇਆ ਤਿਨ ਕਾ ਸਫਲੁ ਭਇਆ ਹੈ ਇਕ ਮਨਿ ਜਿਨੀ ਧਿਆਇਆ ॥",
+          "roman": "āiā tin kā safal bhēā hē ik man jinī dhyāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਗਤ ਵਿਚ ਜੰਮਣਾ ਉਹਨਾਂ ਦਾ ਹੀ ਸਫਲ ਕਿਹਾ ਜਾਂਦਾ ਹੈ ਜਿਨ੍ਹਾਂ ਨੇ ਉਸ ਬੇਅੰਤ ਪ੍ਰਭੂ ਨੂੰ ਸੁਰਤ ਜੋੜ ਕੇ ਸਿਮਰਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Жизнь тех становится успешной, кто сосредоточенно помнил Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25323,
+          "is_rahao": false,
+          "gurmukhi": "ਢਾਹੇ ਢਾਹਿ ਉਸਾਰੇ ਆਪੇ ਹੁਕਮਿ ਸਵਾਰਣਹਾਰੋ ॥",
+          "roman": "ḍhāhe ḍhāh usāre āpe hukam savāraṇhāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਜਗਤ-ਰਚਨਾ ਨੂੰ ਢਾਹ ਦੇਂਦਾ ਹੈ, ਢਾਹ ਕੇ ਆਪ ਹੀ ਫਿਰ ਬਣਾ ਲੈਂਦਾ ਹੈ, ਉਹ ਆਪਣੇ ਹੁਕਮ ਵਿਚ ਜੀਵਾਂ ਨੂੰ ਚੰਗੇ ਜੀਵਨ ਵਾਲੇ ਬਣਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Он разрушает и создаёт снова, и по Своей воле направляет жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25324,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੰਮ੍ਰਥ ਸੋ ਥੀਐ ਹੀਲੜਾ ਏਹੁ ਸੰਸਾਰੋ ॥੩॥",
+          "roman": "jo tis bhāvē samrath so thīē hīlṛā eh sansāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਗਤ ਦੇ ਜੀਵਾਂ ਦਾ ਉੱਦਮ ਤਾਂ ਇਕ ਬਹਾਨਾ ਹੀ ਹੈ, ਹੁੰਦਾ ਉਹੀ ਕੁਝ ਹੈ ਜੋ ਉਸ ਸਰਬ-ਸ਼ਕਤੀਮਾਨ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Происходит только то, что угодно всемогущему Богу, а усилия мира — лишь повод."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25325,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਰੁੰਨਾ ਬਾਬਾ ਜਾਣੀਐ ਜੇ ਰੋਵੈ ਲਾਇ ਪਿਆਰੋ ॥",
+          "roman": "nānak runnā bābā jāṇīē je rovē lāi piāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਉਸੇ ਨੂੰ ਸਹੀ ਵੈਰਾਗ ਵਿਚ ਆਇਆ ਜਾਣੋ, ਜੋ ਪਿਆਰ ਨਾਲ (ਪਰਮਾਤਮਾ ਦੇ ਮਿਲਾਪ ਦੀ ਖ਼ਾਤਰ) ਵੈਰਾਗ ਵਿਚ ਆਉਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Истинным отрешением является плач из любви к Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25326,
+          "is_rahao": false,
+          "gurmukhi": "ਵਾਲੇਵੇ ਕਾਰਣਿ ਬਾਬਾ ਰੋਈਐ ਰੋਵਣੁ ਸਗਲ ਬਿਕਾਰੋ ॥",
+          "roman": "vāleve kāraṇ bābā roīai rovaṇ sagal bikāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਦੁਨੀਆ ਦੇ ਧਨ ਪਦਾਰਥ ਦੀ ਖ਼ਾਤਰ ਜੋ ਰੋਵੀਦਾ ਹੈ ਉਹ ਰੋਣਾ ਸਾਰਾ ਹੀ ਵਿਅਰਥ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Плач из-за мирских вещей бесполезен."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25327,
+          "is_rahao": false,
+          "gurmukhi": "ਰੋਵਣੁ ਸਗਲ ਬਿਕਾਰੋ ਗਾਫਲੁ ਸੰਸਾਰੋ ਮਾਇਆ ਕਾਰਣਿ ਰੋਵੈ ॥",
+          "roman": "rovaṇ sagal bikāro gāfal sansāro māiā kāraṇ rovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਵਲੋਂ ਭੁੱਲਾ ਹੋਇਆ ਜਗਤ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਰੋਂਦਾ ਹੈ ਇਹ ਸਾਰਾ ਹੀ ਰੁਦਨ ਵਿਅਰਥ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Мир плачет из-за майи, и этот плач напрасен."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25328,
+          "is_rahao": false,
+          "gurmukhi": "ਚੰਗਾ ਮੰਦਾ ਕਿਛੁ ਸੂਝੈ ਨਾਹੀ ਇਹੁ ਤਨੁ ਏਵੈ ਖੋਵੈ ॥",
+          "roman": "changā mandā kichh sūjhē nāhī ih tan evē khovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਨੁੱਖ ਨੂੰ ਚੰਗੇ ਮੰਦੇ ਕੰਮ ਦੀ ਪਛਾਣ ਨਹੀਂ ਆਉਂਦੀ, (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਰੋ ਰੋ ਕੇ) ਇਸ ਸਰੀਰ ਨੂੰ ਵਿਅਰਥ ਹੀ ਨਾਸ ਕਰ ਲੈਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Человек не различает добро и зло и напрасно губит тело."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25329,
+          "is_rahao": false,
+          "gurmukhi": "ਐਥੈ ਆਇਆ ਸਭੁ ਕੋ ਜਾਸੀ ਕੂੜਿ ਕਰਹੁ ਅਹੰਕਾਰੋ ॥",
+          "roman": "ēthē āiā sabh ko jāsī kūṛ karah ahaṅkāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਜਗਤ ਵਿਚ (ਜਨਮ ਲੈ ਕੇ) ਆਇਆ ਹੈ (ਆਪਣਾ ਸਮਾ ਮੁਕਾ ਕੇ) ਚਲਾ ਜਾਇਗਾ, ਨਾਸਵੰਤ ਜਗਤ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ (ਵਿਅਰਥ) ਮਾਣ ਕਰਦੇ ਹੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Все приходят и уходят, а гордость в этом мире — пустая."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25330,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਰੁੰਨਾ ਬਾਬਾ ਜਾਣੀਐ ਜੇ ਰੋਵੈ ਲਾਇ ਪਿਆਰੋ ॥੪॥੧॥",
+          "roman": "nānak runnā bābā jāṇīē je rovē lāi piāro",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਉਸੇ ਨੂੰ ਸਹੀ ਵੈਰਾਗ ਵਿਚ ਆਇਆ ਜਾਣੋ, ਜੋ ਪਿਆਰ ਨਾਲ (ਪਰਮਾਤਮਾ ਦੇ ਮਿਲਾਪ ਦੀ ਖ਼ਾਤਰ) ਵੈਰਾਗ ਵਿਚ ਆਉਂਦਾ ਹੈ ॥੪॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Истинным считается тот плач, который происходит из любви к Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2195,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 25331,
+          "is_rahao": false,
+          "gurmukhi": "ਵਡਹੰਸੁ ਮਹਲਾ ੧ ॥",
+          "roman": "vadahans mehlā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25332,
+          "is_rahao": false,
+          "gurmukhi": "ਆਵਹੁ ਮਿਲਹੁ ਸਹੇਲੀਹੋ ਸਚੜਾ ਨਾਮੁ ਲਏਹਾਂ ॥",
+          "roman": "āvah milah sahelīho sachṛā nām laehāṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸਹੇਲੀਹੋ! (ਹੇ ਸਤਸੰਗੀ ਸੱਜਣੋ!) ਆਓ, ਰਲ ਕੇ ਬੈਠੀਏ ਤੇ ਪਰਮਾਤਮਾ ਦਾ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਾਮ ਸਿਮਰੀਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О подруги! Придите, соберёмся вместе и будем вспоминать вечно пребывающее Имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25333,
+          "is_rahao": false,
+          "gurmukhi": "ਰੋਵਹ ਬਿਰਹਾ ਤਨ ਕਾ ਆਪਣਾ ਸਾਹਿਬੁ ਸੰਮੑਾਲੇਹਾਂ ॥",
+          "roman": "rovah birhā tan kā āpṇā sāhib sammālehāṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਓ, ਪ੍ਰਭੂ ਤੋਂ ਆਪਣੇ ਵਿਛੋੜੇ ਦਾ ਮੁੜ ਮੁੜ ਅਫ਼ਸੋਸ ਨਾਲ ਚੇਤਾ ਕਰੀਏ, (ਉਹ ਵਿਛੋੜਾ ਦੂਰ ਕਰਨ ਲਈ) ਮਾਲਕ-ਪ੍ਰਭੂ ਨੂੰ ਯਾਦ ਕਰੀਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Давайте с сожалением вновь и вновь вспоминать разлуку с Господом и помнить Владыку, чтобы устранить эту разлуку."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25334,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਹਿਬੁ ਸਮੑਾਲਿਹ ਪੰਥੁ ਨਿਹਾਲਿਹ ਅਸਾ ਭਿ ਓਥੈ ਜਾਣਾ ॥",
+          "roman": "sāhib sammāleh panth nihāleh asā bh othē jāṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਓ, ਅਸੀਂ ਮਾਲਕ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈਏ, ਤੇ ਉਸ ਰਸਤੇ ਨੂੰ ਤੱਕੀਏ (ਜਿਸ ਰਸਤੇ ਸਭ ਜਾ ਰਹੇ ਹਨ)। ਅਸਾਂ ਭੀ (ਆਖ਼ਿਰ) ਉਸ ਪਰਲੋਕ ਵਿਚ ਜਾਣਾ ਹੈ (ਜਿਥੇ ਅਨੇਕਾਂ ਜਾ ਚੁਕੇ ਹਨ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Будем хранить Господа в сердце и смотреть на тот путь, по которому идут все; нам тоже предстоит идти туда."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25335,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸ ਕਾ ਕੀਆ ਤਿਨ ਹੀ ਲੀਆ ਹੋਆ ਤਿਸੈ ਕਾ ਭਾਣਾ ॥",
+          "roman": "jis kā kīā tin hī līā hoā tisē kā bhāṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿਸੇ ਦੇ ਮਰਨ ਤੇ ਰੋਣਾ ਵਿਅਰਥ ਹੈ) ਜਿਸ ਪ੍ਰਭੂ ਦਾ ਇਹ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਸੀ, ਉਸੇ ਨੇ ਜਿੰਦ ਵਾਪਸ ਲੈ ਲਈ ਹੈ, ਉਸੇ ਦੀ ਰਜ਼ਾ ਹੋਈ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто сотворил, тот же и забрал жизнь; всё происходит по Его воле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25336,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤਿਨਿ ਕਰਿ ਪਾਇਆ ਸੁ ਆਗੈ ਆਇਆ ਅਸੀ ਕਿ ਹੁਕਮੁ ਕਰੇਹਾ ॥",
+          "roman": "jo tin kar pāiā so āgē āiā asī k hukam karehā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਥੇ ਜਗਤ ਵਿਚ ਜੀਵ ਨੇ ਜੋ ਕੁਝ ਕੀਤਾ, (ਮਰਨ ਤੇ) ਉਸ ਦੇ ਅੱਗੇ ਆ ਜਾਂਦਾ ਹੈ। (ਇਸ ਰੱਬੀ ਨਿਯਮ ਅੱਗੇ) ਸਾਡਾ ਕੋਈ ਜ਼ੋਰ ਨਹੀਂ ਚੜ੍ਹ ਸਕਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Что человек совершил в этом мире, то предстает перед ним после смерти; перед этим божественным законом у нас нет силы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25337,
+          "is_rahao": false,
+          "gurmukhi": "ਆਵਹੁ ਮਿਲਹੁ ਸਹੇਲੀਹੋ ਸਚੜਾ ਨਾਮੁ ਲਏਹਾ ॥੧॥",
+          "roman": "āvah milah sahelīho sachṛā nām laehā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸਹੇਲੀਹੋ! (ਹੇ ਸਤਸੰਗੀ ਸੱਜਣੋ!) ਆਓ, ਰਲ ਕੇ ਬੈਠੀਏ ਤੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰੀਏ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О подруги! Придите, соберёмся вместе и будем вспоминать вечно пребывающее Имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25338,
+          "is_rahao": false,
+          "gurmukhi": "ਮਰਣੁ ਨ ਮੰਦਾ ਲੋਕਾ ਆਖੀਐ ਜੇ ਮਰਿ ਜਾਣੈ ਐਸਾ ਕੋਇ ॥",
+          "roman": "maraṇ na mandā lokā ākhīē je mar jāṇē ēsā koi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਲੋਕੋ! ਮੌਤ ਨੂੰ ਮਾੜਾ ਨਾਹ ਆਖੋ (ਮੌਤ ਚੰਗੀ ਹੈ, ਪਰ ਤਦੋਂ ਹੀ) ਜੇ ਕੋਈ ਮਨੁੱਖ ਉਸ ਤਰੀਕੇ ਨਾਲ (ਜਿਊ ਕੇ) ਮਰਨਾ ਜਾਣਦਾ ਹੋਵੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О люди! Не называйте смерть плохой; она хороша, если человек умеет так жить и умирать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25339,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇਵਿਹੁ ਸਾਹਿਬੁ ਸੰਮ੍ਰਥੁ ਆਪਣਾ ਪੰਥੁ ਸੁਹੇਲਾ ਆਗੈ ਹੋਇ ॥",
+          "roman": "sevih sāhib samrath āpṇā panth suhelā āgē hoi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਹ ਤਰੀਕਾ ਇਹ ਹੈ ਕਿ) ਆਪਣੇ ਸਰਬ-ਸ਼ਕਤੀਵਾਨ ਮਾਲਕ ਨੂੰ ਸਿਮਰੋ, (ਤਾਂ ਕਿ ਜੀਵਨ ਦੇ ਸਫ਼ਰ ਵਿਚ) ਰਸਤਾ ਸੌਖਾ ਹੋ ਜਾਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Помните своего всемогущего Господа, чтобы путь жизни стал лёгким."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25340,
+          "is_rahao": false,
+          "gurmukhi": "ਪੰਥਿ ਸੁਹੇਲੈ ਜਾਵਹੁ ਤਾਂ ਫਲੁ ਪਾਵਹੁ ਆਗੈ ਮਿਲੈ ਵਡਾਈ ॥",
+          "roman": "panth suhelē jāvah tāṅ phal pāvah āgē milē vadāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਸੌਖੇ ਜੀਵਨ-ਰਸਤੇ ਤੁਰੋਗੇ ਤਾਂ ਇਸ ਦਾ ਫਲ ਭੀ ਮਿਲੇਗਾ ਤੇ ਪ੍ਰਭੂ ਹੀ ਹਜ਼ੂਰੀ ਵਿਚ ਇੱਜ਼ਤ ਮਿਲੇਗੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Если пойдёте лёгким путём жизни, получите плод и обретёте честь в присутствии Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25341,
+          "is_rahao": false,
+          "gurmukhi": "ਭੇਟੈ ਸਿਉ ਜਾਵਹੁ ਸਚਿ ਸਮਾਵਹੁ ਤਾਂ ਪਤਿ ਲੇਖੈ ਪਾਈ ॥",
+          "roman": "bheṭē siu jāvah sach samāvah tāṅ pat lekhē pāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਭੇਟਾ ਲੈ ਕੇ ਜਾਵੋਗੇ ਤਾਂ ਉਸ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਇਕ-ਰੂਪ ਹੋ ਜਾਵੋਗੇ, ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਹਿਸਾਬ ਹੋਣ ਵੇਲੇ ਇੱਜ਼ਤ ਮਿਲੇਗੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Если отправитесь с подношением Имени, сольётесь с Истиной и получите честь при подведении итогов дел."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25342,
+          "is_rahao": false,
+          "gurmukhi": "ਮਹਲੀ ਜਾਇ ਪਾਵਹੁ ਖਸਮੈ ਭਾਵਹੁ ਰੰਗ ਸਿਉ ਰਲੀਆ ਮਾਣੈ ॥",
+          "roman": "mahlī jāi pāvah khasmē bhāvah raṅg siu raliā māṇē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਥਾਂ ਪ੍ਰਾਪਤ ਕਰੋਗੇ, ਤੇ ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਚੰਗੇ ਲੱਗੋਗੇ ਤੇ ਇੰਜ ਪ੍ਰਭੂ-ਪ੍ਰੇਮ ਨਾਲ ਆਤਮਕ ਆਨੰਦ ਮਾਣੋਗੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Вы обретёте место в присутствии Господа, станете угодны Ему и испытаете духовную радость в любви к Нему."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25343,
+          "is_rahao": false,
+          "gurmukhi": "ਮਰਣੁ ਨ ਮੰਦਾ ਲੋਕਾ ਆਖੀਐ ਜੇ ਕੋਈ ਮਰਿ ਜਾਣੈ ॥੨॥",
+          "roman": "maraṇ na mandā lokā ākhīē je koi mar jāṇē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਲੋਕੋ! ਮੌਤ ਨੂੰ ਮਾੜਾ ਨਾਹ ਆਖੋ (ਪਰ ਇਸ ਗੱਲ ਨੂੰ ਉਹੀ ਸਮਝਦਾ ਹੈ) ਜੇਹੜਾ ਇਸ ਤਰ੍ਹਾਂ ਮਰਨਾ ਜਾਣਦਾ ਹੋਵੇ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О люди! Не называйте смерть плохой; это понимает лишь тот, кто умеет так умирать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 25344,
+          "is_rahao": false,
+          "gurmukhi": "ਮਰਣੁ ਮੁਣਸਾ ਸੂਰਿਆ ਹਕੁ ਹੈ ਜੋ ਹੋਇ ਮਰਨਿ ਪਰਵਾਣੋ ॥",
+          "roman": "maraṇ muṇsā sūriyā hak hē jo hoi maran parvāṇo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਮਨੁੱਖ (ਜੀਊਂਦਿਆਂ ਹੀ ਪ੍ਰਭੂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿਚ) ਕਬੂਲ ਹੋ ਕੇ ਮਰਦੇ ਹਨ ਉਹ ਸੂਰਮੇ ਹਨ ਉਹਨਾਂ ਦਾ ਮਰਨਾ ਭੀ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਸਲਾਹਿਆ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Те люди, которые умирают, будучи приняты Богом, — герои; их смерть прославляется."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

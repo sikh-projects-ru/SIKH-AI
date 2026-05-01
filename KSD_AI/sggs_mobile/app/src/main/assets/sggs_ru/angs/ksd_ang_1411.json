@@ -1,0 +1,981 @@
+{
+  "ang": 1411,
+  "shabads": [
+    {
+      "shabad_id": 5475,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59645,
+          "is_rahao": false,
+          "gurmukhi": "ਕੀਚੜਿ ਹਾਥੁ ਨ ਬੂਡਈ ਏਕਾ ਨਦਰਿ ਨਿਹਾਲਿ ॥",
+          "roman": "kīchaṛ hāth na būḍaī ēkā nadar nihāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Если приходит единый благой взгляд Милости, рука не тонет в грязи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59646,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਉਬਰੇ ਗੁਰੁ ਸਰਵਰੁ ਸਚੀ ਪਾਲਿ ॥੮॥",
+          "roman": "nānak gurmukh ubrē gur sarvar sachī pāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, гурмукхи спасаются: Гуру — это священный водоём и истинная защитная насыпь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59647,
+          "is_rahao": false,
+          "gurmukhi": "ਅਗਨਿ ਮਰੈ ਜਲੁ ਲੋੜਿ ਲਹੁ ਵਿਣੁ ਗੁਰ ਨਿਧਿ ਜਲੁ ਨਾਹਿ ॥",
+          "roman": "agan marē jal loṛ lah viṇ gur nidh jal nāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, найди воду Имени: с её благословением огонь жажды угасает; но без прибежища Гуру вода этого водоёма Имени не обретается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59648,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਮਿ ਮਰੈ ਭਰਮਾਈਐ ਜੇ ਲਖ ਕਰਮ ਕਮਾਹਿ ॥",
+          "roman": "janam marē bharamāīē jē lakh karam kamāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Без этой воды человек остаётся в круговороте рождения и смерти и блуждает по множеству рождений, даже если совершает сотни тысяч дел."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59649,
+          "is_rahao": false,
+          "gurmukhi": "ਜਮੁ ਜਾਗਾਤਿ ਨ ਲਗਈ ਜੇ ਚਲੈ ਸਤਿਗੁਰ ਭਾਇ ॥",
+          "roman": "jam jāgāt na lagaī jē chalē satgur bhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Если человек идёт в воле Сатгуру, Джамрадж, сборщик пошлины, не может взять над ним свою власть."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59650,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਨਿਰਮਲੁ ਅਮਰ ਪਦੁ ਗੁਰੁ ਹਰਿ ਮੇਲੈ ਮੇਲਾਇ ॥੯॥",
+          "roman": "nānak nirmal amar pad gur har mēlē mēlāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, Гуру дарует человеку чистое высокое духовное состояние и соединяет его с Параматмой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59651,
+          "is_rahao": false,
+          "gurmukhi": "ਕਲਰ ਕੇਰੀ ਛਪੜੀ ਕਊਆ ਮਲਿ ਮਲਿ ਨਾਇ ॥",
+          "roman": "kalar kērī chhapaṛī kaūā mal mal nāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, человек с почерневшим от пороков умом с большим усердием купается в солончаковой луже пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59652,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਤਨੁ ਮੈਲਾ ਅਵਗੁਣੀ ਚਿੰਜੁ ਭਰੀ ਗੰਧੀ ਆਇ ॥",
+          "roman": "man tan mēlā avguṇī chin̄j bharī gandhī āe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Из-за этого его ум и тело остаются загрязнёнными грязью пороков, а рот, словно клюв вороны, наполнен зловонием клеветы и нечистых речей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59653,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਵਰੁ ਹੰਸਿ ਨ ਜਾਣਿਆ ਕਾਗ ਕੁਪੰਖੀ ਸੰਗਿ ॥",
+          "roman": "sarvar hans na jāṇiā kāg kupankhī sang",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, в обществе дурных птиц-ворон, то есть порочных людей, лебедь-душа не понял ценности водоёма Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59654,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਕਤ ਸਿਉ ਐਸੀ ਪ੍ਰੀਤਿ ਹੈ ਬੂਝਹੁ ਗਿਆਨੀ ਰੰਗਿ ॥",
+          "roman": "sākat siu ēsī prīt hē būjha giānī rang",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Такова любовь, связанная с теми, кто оторван от Параматмы; о ищущий духовного понимания, пойми путь жизни, пребывая в любви к Господу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59655,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਤ ਸਭਾ ਜੈਕਾਰੁ ਕਰਿ ਗੁਰਮੁਖਿ ਕਰਮ ਕਮਾਉ ॥",
+          "roman": "sant sabhā jēkār kar gurmukh karam kamāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пребывай в Садх Сангат, совершай восхваление Параматмы и делай дела, которые обращают тебя лицом к Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59656,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲੁ ਨੑਾਵਣੁ ਨਾਨਕਾ ਗੁਰੁ ਤੀਰਥੁ ਦਰੀਆਉ ॥੧੦॥",
+          "roman": "nirmal nāvaṇ nānakā gur tīrath darīāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, именно это — чистое омовение: Гуру сам является тиртхой, Гуру сам является рекой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59657,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਮੇ ਕਾ ਫਲੁ ਕਿਆ ਗਣੀ ਜਾਂ ਹਰਿ ਭਗਤਿ ਨ ਭਾਉ ॥",
+          "roman": "janmē kā phal kiā gaṇī jāṅ har bhagat na bhāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, пока в сердце человека нет преданности Параматме и любви к Нему, какую пользу можно счесть от полученного человеческого рождения?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59658,
+          "is_rahao": false,
+          "gurmukhi": "ਪੈਧਾ ਖਾਧਾ ਬਾਦਿ ਹੈ ਜਾਂ ਮਨਿ ਦੂਜਾ ਭਾਉ ॥",
+          "roman": "pēdhā khādhā bād hē jāṅ man dūjā bhāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пока в уме живёт любовь к чему-то иному, кроме Параматмы, его дорогая одежда и дорогая пища уходят впустую."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59659,
+          "is_rahao": false,
+          "gurmukhi": "ਵੇਖਣੁ ਸੁਨਣਾ ਝੂਠੁ ਹੈ ਮੁਖਿ ਝੂਠਾ ਆਲਾਉ ॥",
+          "roman": "vēkhaṇ suṇaṇā jhūṭh hē mukh jhūṭhā ālāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он смотрит лишь на преходящий мир, держит в ушах лишь преходящий мир и устами говорит только о преходящем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59660,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਨਾਮੁ ਸਲਾਹਿ ਤੂ ਹੋਰੁ ਹਉਮੈ ਆਵਉ ਜਾਉ ॥੧੧॥",
+          "roman": "nānak nām salāh tū hōr haumē āvau jāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, продолжай восхвалять Имя; всё прочее, если забыта слава Параматмы, из-за Хоумэ поддерживает круг рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59661,
+          "is_rahao": false,
+          "gurmukhi": "ਹੈਨਿ ਵਿਰਲੇ ਨਾਹੀ ਘਣੇ ਫੈਲ ਫਕੜੁ ਸੰਸਾਰੁ ॥੧੨॥",
+          "roman": "hēn virlē nāhī ghaṇē phēl phakaṛ sansār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, людей, восхваляющих Параматму, очень мало, их не много; обычно мир занят делами показухи и произносит речи, низводящие духовную жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59662,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਲਗੀ ਤੁਰਿ ਮਰੈ ਜੀਵਣ ਨਾਹੀ ਤਾਣੁ ॥",
+          "roman": "nānak lagī tur marē jīvaṇ nāhī tāṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, когда в сердце человека попадает удар любви, он сразу умирает для самости, и сила эгоистической жизни в нём не остаётся."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59663,
+          "is_rahao": false,
+          "gurmukhi": "ਚੋਟੈ ਸੇਤੀ ਜੋ ਮਰੈ ਲਗੀ ਸਾ ਪਰਵਾਣੁ ॥",
+          "roman": "choṭē sētī jo marē lagī sā parvāṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, тот, кто от удара любви к стопам Господа умирает для самости, становится принятым у Двора Господа; такой удар любви принят."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59664,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸ ਨੋ ਲਾਏ ਤਿਸੁ ਲਗੈ ਲਗੀ ਤਾ ਪਰਵਾਣੁ ॥",
+          "roman": "jis nō lāē tis lagē lagī tā parvāṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Этот удар любви попадает лишь в того, в кого Сам Параматма его направляет; когда он исходит от Параматмы, тогда он принимается и становится плодотворным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59665,
+          "is_rahao": false,
+          "gurmukhi": "ਪਿਰਮ ਪੈਕਾਮੁ ਨ ਨਿਕਲੈ ਲਾਇਆ ਤਿਨਿ ਸੁਜਾਣਿ ॥੧੩॥",
+          "roman": "piram pēkām na niklē lāiā tin sujāṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, когда мудрый Параматма пронзает сердце человека стрелой любви, эта стрела любви уже не выходит из него."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59666,
+          "is_rahao": false,
+          "gurmukhi": "ਭਾਂਡਾ ਧੋਵੈ ਕਉਣੁ ਜਿ ਕਚਾ ਸਾਜਿਆ ॥",
+          "roman": "bhāṇḍā dhōvē kauṇ je kachā sājiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, никто не может очистить сосуд тела одними омовениями, потому что он создан как сырой сосуд, к которому постоянно пристаёт грязь пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59667,
+          "is_rahao": false,
+          "gurmukhi": "ਧਾਤੂ ਪੰਜਿ ਰਲਾਇ ਕੂੜਾ ਪਾਜਿਆ ॥",
+          "roman": "dhātū pañj ralāe kūṛā pājiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Соединив пять элементов — воздух, воду, землю, огонь и пространство — это тело-сосуд создано как преходящая игрушка."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59668,
+          "is_rahao": false,
+          "gurmukhi": "ਭਾਂਡਾ ਆਣਗੁ ਰਾਸਿ ਜਾਂ ਤਿਸੁ ਭਾਵਸੀ ॥",
+          "roman": "bhāṇḍā āṇag rās jāṅ tis bhāvsī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но, о брат, когда тому Параматме бывает угодно, человек встречает Гуру, и Гуру делает сосуд его тела чистым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59669,
+          "is_rahao": false,
+          "gurmukhi": "ਪਰਮ ਜੋਤਿ ਜਾਗਾਇ ਵਾਜਾ ਵਾਵਸੀ ॥੧੪॥",
+          "roman": "param jot jāgāe vājā vāvsī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру пробуждает в человеке высшую Божественную Светоносность и заставляет звучать инструмент этой Божественной Светоносности."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59670,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਹੁ ਜਿ ਅੰਧੇ ਘੂਪ ਕਹਿਆ ਬਿਰਦੁ ਨ ਜਾਣਨੀ ॥",
+          "roman": "manh je andhē ghūp kahiā birad na jāṇnī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, те люди, которые в уме совершенно слепы и крайне невежественны, даже после объяснения не понимают человеческого долга."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59671,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਿ ਅੰਧੈ ਊਂਧੈ ਕਵਲ ਦਿਸਨਿ ਖਰੇ ਕਰੂਪ ॥",
+          "roman": "man andhē ūndhē kaval disan kharē karūp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Из-за слепого ума и перевёрнутого от духовности сердечного лотоса такие люди выглядят очень безобразными в своём образе жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59672,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕਿ ਕਹਿ ਜਾਣਨਿ ਕਹਿਆ ਬੁਝਨਿ ਤੇ ਨਰ ਸੁਘੜ ਸਰੂਪ ॥",
+          "roman": "ik kah jāṇan kahiā bujhan tē nar sughaṛ sarūp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Некоторые люди умеют сами говорить и понимают сказанное другими; такие люди кажутся умелыми, благообразными и прекрасными."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59673,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕਨਾ ਨਾਦੁ ਨ ਬੇਦੁ ਨ ਗੀਅ ਰਸੁ ਰਸੁ ਕਸੁ ਨ ਜਾਣੰਤਿ ॥",
+          "roman": "iknā nād na bēd na gīa ras ras kas na jāṇant",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Некоторые люди не имеют вкуса ни к звуку йогов, ни к Ведам, ни к музыке; у них нет тяги ни к какому тонкому искусству и вкусу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59674,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕਨਾ ਸਿਧਿ ਨ ਬੁਧਿ ਨ ਅਕਲਿ ਸਰ ਅਖਰ ਕਾ ਭੇਉ ਨ ਲਹੰਤਿ ॥",
+          "roman": "iknā sidh na budh na akal sar akhar kā bhēu na lahant",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "У некоторых нет ни успешности в размышлении, ни хорошего разума, ни понимания сути, и они не знают даже способа прочесть одну букву."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59675,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਤੇ ਨਰ ਅਸਲਿ ਖਰ ਜਿ ਬਿਨੁ ਗੁਣ ਗਰਬੁ ਕਰੰਤ ॥੧੫॥",
+          "roman": "nānak tē nar asal khar je bin guṇ garab karant",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, те люди, в которых нет никаких достоинств, но которые продолжают гордиться, — настоящие ослы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59676,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਬ੍ਰਹਮਣੁ ਜੋ ਬਿੰਦੈ ਬ੍ਰਹਮੁ ॥",
+          "roman": "so brahmaṇ jo bindē brahm",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, в наших глазах истинный брахман тот, кто познаёт Параматму и поддерживает с Ним глубокую связь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59677,
+          "is_rahao": false,
+          "gurmukhi": "ਜਪੁ ਤਪੁ ਸੰਜਮੁ ਕਮਾਵੈ ਕਰਮੁ ॥",
+          "roman": "jap tap sanjam kamāvē karam",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он совершает именно это действие Джапа, именно это действие тапаса и именно это действие сдержанности, считая преданность Параматме истинными Джапом, тапасом и самоконтролем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59678,
+          "is_rahao": false,
+          "gurmukhi": "ਸੀਲ ਸੰਤੋਖ ਕਾ ਰਖੈ ਧਰਮੁ ॥",
+          "roman": "sīl santokh kā rakhē dharam",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он исполняет долг мягкого доброго нрава и удовлетворённости, свободной от жажды Майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59679,
+          "is_rahao": false,
+          "gurmukhi": "ਬੰਧਨ ਤੋੜੈ ਹੋਵੈ ਮੁਕਤੁ ॥",
+          "roman": "bandhan toṛē hōvē mukt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он разрывает путы привязанности к Майе и становится свободным от её моха."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59680,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋਈ ਬ੍ਰਹਮਣੁ ਪੂਜਣ ਜੁਗਤੁ ॥੧੬॥",
+          "roman": "soī brahmaṇ pūjaṇ jugat",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, только такой брахман достоин почитания и уважения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59681,
+          "is_rahao": false,
+          "gurmukhi": "ਖਤ੍ਰੀ ਸੋ ਜੁ ਕਰਮਾ ਕਾ ਸੂਰੁ ॥",
+          "roman": "khatrī so jo karmā kā sūr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, в наших глазах кхатри тот, кто становится героем добрых дел, чтобы победить сильных врагов вроде похоти и гнева."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59682,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁੰਨ ਦਾਨ ਕਾ ਕਰੈ ਸਰੀਰੁ ॥",
+          "roman": "punn dān kā karē sarīr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он делает своё тело, то есть свою жизнь, средством раздачи благих дел другим."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59683,
+          "is_rahao": false,
+          "gurmukhi": "ਖੇਤੁ ਪਛਾਣੈ ਬੀਜੈ ਦਾਨੁ ॥",
+          "roman": "khēt pachhāṇē bījē dān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он понимает своё тело как поле и сеет в этом поле дар Имени, семя Нам."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59684,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਖਤ੍ਰੀ ਦਰਗਹ ਪਰਵਾਣੁ ॥",
+          "roman": "so khatrī dargah parvāṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, такой кхатри становится принятым в присутствии Параматмы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59685,
+          "is_rahao": false,
+          "gurmukhi": "ਲਬੁ ਲੋਭੁ ਜੇ ਕੂੜੁ ਕਮਾਵੈ ॥",
+          "roman": "lab lōbh je kūṛ kamāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но если человек продолжает совершать жадность, алчность, ложь и обман, то, даже родившись кхатри, он не является истинным героем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59686,
+          "is_rahao": false,
+          "gurmukhi": "ਅਪਣਾ ਕੀਤਾ ਆਪੇ ਪਾਵੈ ॥੧੭॥",
+          "roman": "apṇā kītā āpē pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Такой человек сам пожинает плод своих поступков и остаётся добычей пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59687,
+          "is_rahao": false,
+          "gurmukhi": "ਤਨੁ ਨ ਤਪਾਇ ਤਨੂਰ ਜਿਉ ਬਾਲਣੁ ਹਡ ਨ ਬਾਲਿ ॥",
+          "roman": "tan na tapāe tanūr jiu bālaṇ haḍ na bāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, не сжигай своё тело, словно печь, кострами аскезы, и не жги свои кости так, будто они топливо."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59688,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਰਿ ਪੈਰੀ ਕਿਆ ਫੇੜਿਆ ਅੰਦਰਿ ਪਿਰੀ ਸਮੑਾਲਿ ॥੧੮॥",
+          "roman": "sir pērī kiā phēṛiā andar pirī samhāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Твоя голова и твои ноги ничего тебе не испортили; не мучай их, а храни память о возлюбленном Параматме в своём сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

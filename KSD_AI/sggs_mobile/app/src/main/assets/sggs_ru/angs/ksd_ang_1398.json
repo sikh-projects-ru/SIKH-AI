@@ -1,0 +1,743 @@
+{
+  "ang": 1398,
+  "shabads": [
+    {
+      "shabad_id": 5403,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59242,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇਜ ਸਧਾ ਸਹਜੁ ਛਾਵਾਣੁ ਸੰਤੋਖੁ ਸਰਾਇਚਉ ਸਦਾ ਸੀਲ ਸੰਨਾਹੁ ਸੋਹੈ ॥",
+          "roman": "sēj sadhā sahaj chhāvāṇ santokh sarāichau sadā sīl sannāh sohē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру Рамдас сделал веру ложем для Бога; устойчивость его сердца — шатром, довольство — завесой, а постоянный мягкий нрав — прекрасными доспехами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59243,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਸਬਦਿ ਸਮਾਚਰਿਓ ਨਾਮੁ ਟੇਕ ਸੰਗਾਦਿ ਬੋਹੈ ॥",
+          "roman": "gur sabad samāchariō nām ṭēk saṅgād bohē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По благодати слова Гуру Амардаса он обрел Имя; опора Гуру благоуханием наполняет его спутников и близких."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59244,
+          "is_rahao": false,
+          "gurmukhi": "ਅਜੋਨੀਉ ਭਲੵੁ ਅਮਲੁ ਸਤਿਗੁਰ ਸੰਗਿ ਨਿਵਾਸੁ ॥",
+          "roman": "ajōnīō bhaly amal satigur saṅg nivās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру Рамдас свободен от рождения и смерти, благой и чистый душой; его пребывание — в союзе с Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59245,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਰਾਮਦਾਸ ਕਲੵੁਚਰੈ ਤੁਅ ਸਹਜ ਸਰੋਵਰਿ ਬਾਸੁ ॥੧੦॥",
+          "roman": "gur rāmdās kalyucharē tuā sahaj sarōvar bās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кави Кальсахар говорит: о Гуру Рамдас, твоя обитель — в озере духовной невозмутимости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5404,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59246,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰੁ ਜਿਨੑ ਕਉ ਸੁਪ੍ਰਸੰਨੁ ਨਾਮੁ ਹਰਿ ਰਿਦੈ ਨਿਵਾਸੈ ॥",
+          "roman": "gur jin kau suprasann nām har ridē nivāsē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тем людям, к которым Сатгуру бывает милостив, он вселяет в сердце Имя Акал Пуракха."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59247,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨੑ ਕਉ ਗੁਰੁ ਸੁਪ੍ਰਸੰਨੁ ਦੁਰਤੁ ਦੂਰੰਤਰਿ ਨਾਸੈ ॥",
+          "roman": "jin kau gur suprasann durat dūranatar nāsē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "От тех, к кому Гуру благосклонен, грех убегает уже издалека."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59248,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰੁ ਜਿਨੑ ਕਉ ਸੁਪ੍ਰਸੰਨੁ ਮਾਨੁ ਅਭਿਮਾਨੁ ਨਿਵਾਰੈ ॥",
+          "roman": "gur jin kau suprasann mān abhimān nivārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "У тех, к кому Сатгуру благосклонен, он устраняет гордость и самомнение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59249,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨੑ ਕਉ ਗੁਰੁ ਸੁਪ੍ਰਸੰਨੁ ਸਬਦਿ ਲਗਿ ਭਵਜਲੁ ਤਾਰੈ ॥",
+          "roman": "jin kau gur suprasann sabad lag bhavjal tārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тех, к кому Гуру проявляет милость, он соединяет со Словом и переправляет через океан мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59250,
+          "is_rahao": false,
+          "gurmukhi": "ਪਰਚਉ ਪ੍ਰਮਾਣੁ ਗੁਰ ਪਾਇਅਉ ਤਿਨ ਸਕਯਥਉ ਜਨਮੁ ਜਗਿ ॥",
+          "roman": "parchau pramāṇ gur pāiāu tin sakyathau janam jag",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто получил признанное истинным наставление Сатгуру, сделали свое рождение в мире плодотворным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59251,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰੀ ਗੁਰੂ ਸਰਣਿ ਭਜੁ ਕਲੵ ਕਬਿ ਭੁਗਤਿ ਮੁਕਤਿ ਸਭ ਗੁਰੂ ਲਗਿ ॥੧੧॥",
+          "roman": "srī gurū saraṇ bhaj kaly kab bhugat mukat sabh gurū lag",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О поэт Кальсахар, войди в прибежище Сатгуру: только через прибежище Гуру обретаются и блага, и освобождение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5405,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59252,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰਿ ਖੇਮਾ ਤਾਣਿਆ ਜੁਗ ਜੂਥ ਸਮਾਣੇ ॥",
+          "roman": "satigur khēmā tāṇiā jug jūth samāṇē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сатгуру Рамдас раскинул шатер хвалы Акал Пуракху; все эпохи, то есть существа всех эпох, собрались под ним."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59253,
+          "is_rahao": false,
+          "gurmukhi": "ਅਨਭਉ ਨੇਜਾ ਨਾਮੁ ਟੇਕ ਜਿਤੁ ਭਗਤ ਅਘਾਣੇ ॥",
+          "roman": "anbhau nējā nām ṭēk jit bhagat aghāṇē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Знание — словно копье в его руке, Имя Акал Пуракха — его опора; благодаря этой опоре все преданные насыщаются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59254,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰੁ ਨਾਨਕੁ ਅੰਗਦੁ ਅਮਰੁ ਭਗਤ ਹਰਿ ਸੰਗਿ ਸਮਾਣੇ ॥",
+          "roman": "gur nānak aṅgad amar bhagat har saṅg samāṇē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благодаря опоре Имени Гуру Нанак, Гуру Ангад, Гуру Амардас и другие преданные слились с Акал Пуракхом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59255,
+          "is_rahao": false,
+          "gurmukhi": "ਇਹੁ ਰਾਜ ਜੋਗ ਗੁਰ ਰਾਮਦਾਸ ਤੁਮੑ ਹੂ ਰਸੁ ਜਾਣੇ ॥੧੨॥",
+          "roman": "ih rāj jōg gur rāmdās tumh hū ras jāṇē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Гуру Рамдас, ты тоже познал вкус этого царственного йога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5406,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59256,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਕੁ ਸੋਇ ਜਿਨਿ ਜਾਣਿਆ ਉਨਮਨਿ ਰਥੁ ਧਰਿਆ ॥",
+          "roman": "janak sōe jin jāṇiā unman rath dhariā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Джанак — это тот, кто познал Акал Пуракха и удержал течение своего ума в полном духовном расцвете."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59257,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤੁ ਸੰਤੋਖੁ ਸਮਾਚਰੇ ਅਭਰਾ ਸਰੁ ਭਰਿਆ ॥",
+          "roman": "sat santokh samācharē abhrā sar bhariā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он собрал в себе истину и довольство и насытил этот ненасытный ум, словно наполнил неполнимый водоем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59258,
+          "is_rahao": false,
+          "gurmukhi": "ਅਕਥ ਕਥਾ ਅਮਰਾ ਪੁਰੀ ਜਿਸੁ ਦੇਇ ਸੁ ਪਾਵੈ ॥",
+          "roman": "akath kathā amrā purī jis dēe so pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эту сокровенную тайну устойчивого духовного состояния получает только тот, кому Акал Пуракх ее дарует."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59259,
+          "is_rahao": false,
+          "gurmukhi": "ਇਹੁ ਜਨਕ ਰਾਜੁ ਗੁਰ ਰਾਮਦਾਸ ਤੁਝ ਹੀ ਬਣਿ ਆਵੈ ॥੧੩॥",
+          "roman": "ih janak rāj gur rāmdās tujh hī baṇ āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Гуру Рамдас, это царство Джанака подобает только тебе: ты достоин этой духовной невозмутимости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5407,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59260,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਨਾਮੁ ਏਕ ਲਿਵ ਮਨਿ ਜਪੈ ਦ੍ਰਿੜੑੁ ਤਿਨੑ ਜਨ ਦੁਖ ਪਾਪੁ ਕਹੁ ਕਤ ਹੋਵੈ ਜੀਉ ॥",
+          "roman": "satigur nām ēk liv man japē driṛh tin jan dukh pāp kah kat hovē jīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто с сосредоточенной любовью и твердой верой повторяют в уме имя Сатгуру, скажите, когда могут быть затронуты страданием и грехом?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59261,
+          "is_rahao": false,
+          "gurmukhi": "ਤਾਰਣ ਤਰਣ ਖਿਨ ਮਾਤ੍ਰ ਜਾ ਕਉ ਦ੍ਰਿਸ੍ਟਿ ਧਾਰੈ ਸਬਦੁ ਰਿਦ ਬੀਚਾਰੈ ਕਾਮੁ ਕ੍ਰੋਧੁ ਖੋਵੈ ਜੀਉ ॥",
+          "roman": "tāraṇ taraṇ khin mātr jā kau drisṭ dhārē sabad rid bīchārē kām krōdh khovē jīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сатгуру — словно корабль для переправы мира: на кого он хотя бы на миг бросает милостивый взгляд, тот размышляет над Словом в сердце и уничтожает в себе вожделение и гнев."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59262,
+          "is_rahao": false,
+          "gurmukhi": "ਜੀਅਨ ਸਭਨ ਦਾਤਾ ਅਗਮ ਗੵਾਨ ਬਿਖੵਾਤਾ ਅਹਿਨਿਸਿ ਧੵਾਨ ਧਾਵੈ ਪਲਕ ਨ ਸੋਵੈ ਜੀਉ ॥",
+          "roman": "jīan sabhan dātā agam gyān bikhyātā ahinis dhyān dhāvē palak na sovē jīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сатгуру Рамдас — даритель для всех существ, раскрывающий знание недостижимого Хари; днем и ночью он держит внимание на Хари и ни на миг не впадает в беспечность."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59263,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾ ਕਉ ਦੇਖਤ ਦਰਿਦ੍ਰੁ ਜਾਵੈ ਨਾਮੁ ਸੋ ਨਿਧਾਨੁ ਪਾਵੈ ਗੁਰਮੁਖਿ ਗੵਾਨਿ ਦੁਰਮਤਿ ਮੈਲੁ ਧੋਵੈ ਜੀਉ ॥",
+          "roman": "jā kau dēkhat daridr jāvē nām so nidhān pāvē gurmukh gyān durmat mēl dhovē jīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гурмукх, который посредством знания, данного Гуру Рамдасом, смывает грязь дурного разума, обретает сокровище Имени; его нищета исчезает при виде Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59264,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਨਾਮੁ ਏਕ ਲਿਵ ਮਨਿ ਜਪੈ ਦ੍ਰਿੜੁ ਤਿਨ ਜਨ ਦੁਖ ਪਾਪ ਕਹੁ ਕਤ ਹੋਵੈ ਜੀਉ ॥੧॥",
+          "roman": "satigur nām ēk liv man japē driṛh tin jan dukh pāp kah kat hovē jīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кто с сосредоточенной любовью и твердой верой повторяет в уме имя Сатгуру Рамдаса, скажите, когда могут коснуться его грех и страдание?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5408,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59265,
+          "is_rahao": false,
+          "gurmukhi": "ਧਰਮ ਕਰਮ ਪੂਰੈ ਸਤਿਗੁਰੁ ਪਾਈ ਹੈ ॥",
+          "roman": "dharam karam pūrē satigur pāī hē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "При встрече с совершенным Сатгуру Рамдасом обретаются все дхармические дела и заслуги."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59266,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾ ਕੀ ਸੇਵਾ ਸਿਧ ਸਾਧ ਮੁਨਿ ਜਨ ਸੁਰਿ ਨਰ ਜਾਚਹਿ ਸਬਦ ਸਾਰੁ ਏਕ ਲਿਵ ਲਾਈ ਹੈ ॥",
+          "roman": "jā kī sēvā sidh sādh mun jan sur nar jāchah sabad sār ēk liv lāī hē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сиддхи, садху, мудрецы, божественные существа и люди просят служения этому Гуру Рамдасу; его Слово превосходно, и он сосредоточил свою любовь на едином Акал Пуракхе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59267,
+          "is_rahao": false,
+          "gurmukhi": "ਫੁਨਿ ਜਾਨੈ ਕੋ ਤੇਰਾ ਅਪਾਰੁ ਨਿਰਭਉ ਨਿਰੰਕਾਰੁ ਅਕਥ ਕਥਨਹਾਰੁ ਤੁਝਹਿ ਬੁਝਾਈ ਹੈ ॥",
+          "roman": "phun jānē ko tērā apār nirbhau niraṅkār akath kathanahār tujhe bujhāī hē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Гуру Рамдас, кто может постичь твой предел? Ты — образ бесконечного, бесстрашного, бесформенного; знание несказанного Хари, достойного воспевания, дано только тебе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59268,
+          "is_rahao": false,
+          "gurmukhi": "ਭਰਮ ਭੂਲੇ ਸੰਸਾਰ ਛੁਟਹੁ ਜੂਨੀ ਸੰਘਾਰ ਜਮ ਕੋ ਨ ਡੰਡ ਕਾਲ ਗੁਰਮਤਿ ਧੵਾਈ ਹੈ ॥",
+          "roman": "bharam bhūlē sansār chhuṭah jūnī saṅghār jam ko na ḍanḍ kāl gurmat dhyāī hē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мирские существа, заблудившиеся в сомнениях, примите наставление Гуру Рамдаса и вспоминайте Имя Господа: вы спасетесь от рождения и смерти, и наказания Джама не будет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59269,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਪ੍ਰਾਣੀ ਮੁਗਧ ਬੀਚਾਰੁ ਅਹਿਨਿਸਿ ਜਪੁ ਧਰਮ ਕਰਮ ਪੂਰੈ ਸਤਿਗੁਰੁ ਪਾਈ ਹੈ ॥੨॥",
+          "roman": "man prāṇī mugadh bīchār ahinis jap dharam karam pūrē satigur pāī hē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О глупый ум, о глупое живое существо, подумай и день и ночь вспоминай Имя; при встрече с совершенным Сатгуру Рамдасом обретаются все дхармические дела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5409,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59270,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਬਲਿ ਬਲਿ ਜਾਉ ਸਤਿਗੁਰ ਸਾਚੇ ਨਾਮ ਪਰ ॥",
+          "roman": "hau bal bal jāu satigur sāchē nām par",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я вновь и вновь приношу себя в жертву имени истинного Сатгуру Рамдаса."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59271,
+          "is_rahao": false,
+          "gurmukhi": "ਕਵਨ ਉਪਮਾ ਦੇਉ ਕਵਨ ਸੇਵਾ ਸਰੇਉ ਏਕ ਮੁਖ ਰਸਨਾ ਰਸਹੁ ਜੁਗ ਜੋਰਿ ਕਰ ॥",
+          "roman": "kavan upmā dēu kavan sēvā sarēu ēk mukh rasnā rasah jug jor kar",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Какое сравнение я дам ему и какое служение совершу? О мой ум, сложи обе руки, обратись к нему лицом и языком воспевай его: это и есть хвала и служение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59272,
+          "is_rahao": false,
+          "gurmukhi": "ਫੁਨਿ ਮਨ ਬਚ ਕ੍ਰਮ ਜਾਨੁ ਅਨਤ ਦੂਜਾ ਨ ਮਾਨੁ ਨਾਮੁ ਸੋ ਅਪਾਰੁ ਸਾਰੁ ਦੀਨੋ ਗੁਰਿ ਰਿਦ ਧਰ ॥",
+          "roman": "phun man bach kram jān anat dūjā na mān nām so apār sār dīno gur rid dhar",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Затем умом, словом и делом познай: нет иного, кроме Бесконечного; Гуру дал сущность этого безмерного Имени и поместил ее в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

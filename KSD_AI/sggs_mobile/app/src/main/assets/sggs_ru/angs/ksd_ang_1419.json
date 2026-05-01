@@ -1,0 +1,783 @@
+{
+  "ang": 1419,
+  "shabads": [
+    {
+      "shabad_id": 5478,
+      "rahao_verse_id": 59961,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59950,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਇਆ ਮੋਹੁ ਨ ਚੁਕਈ ਮਰਿ ਜੰਮਹਿ ਵਾਰੋ ਵਾਰ ॥",
+          "roman": "māiā moh na chukaī mar jammeh vāro vār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Привязанность к майе не прекращается; они снова и снова умирают и рождаются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59951,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰੁ ਸੇਵਿ ਸੁਖੁ ਪਾਇਆ ਅਤਿ ਤਿਸਨਾ ਤਜਿ ਵਿਕਾਰ ॥",
+          "roman": "satgur sēv sukh pāiā at tisnā taj vikār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Прибегнув к Сатгуру, они обрели духовную радость, оставив сильную жажду и пороки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59952,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਮ ਮਰਨ ਕਾ ਦੁਖੁ ਗਇਆ ਜਨ ਨਾਨਕ ਸਬਦੁ ਬੀਚਾਰਿ ॥੪੯॥",
+          "roman": "janam maran kā dukh gaiā jan nānak sabad bīchār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак, через Шабад, поселяемый в уме, ушло страдание круговорота рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59953,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਇ ਮਨ ਹਰਿ ਦਰਗਹ ਪਾਵਹਿ ਮਾਨੁ ॥",
+          "roman": "har har nām dhiāe man har dargah pāveh mān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой ум, созерцай Имя Хари; благодаря этому ты обретёшь почёт в присутствии Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59954,
+          "is_rahao": false,
+          "gurmukhi": "ਕਿਲਵਿਖ ਪਾਪ ਸਭਿ ਕਟੀਅਹਿ ਹਉਮੈ ਚੁਕੈ ਗੁਮਾਨੁ ॥",
+          "roman": "kilvikh pāp sabh kaṭīah haumē chukē gumān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Все грехи и изъяны срезаются; Хоумэ и гордость исчезают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59955,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਮੁਖਿ ਕਮਲੁ ਵਿਗਸਿਆ ਸਭੁ ਆਤਮ ਬ੍ਰਹਮੁ ਪਛਾਨੁ ॥",
+          "roman": "gurmukh kamal vigasiā sabh ātam brahm pachhān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Через обращённость к Гуру лотос сердца расцветает, и всюду познаётся всепроникающий Господь как близкий спутник."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59956,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਕਿਰਪਾ ਧਾਰਿ ਪ੍ਰਭ ਜਨ ਨਾਨਕ ਜਪਿ ਹਰਿ ਨਾਮੁ ॥੫੦॥",
+          "roman": "har har kirpā dhār prabh jan nānak jap har nām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Хари, о Господь, яви милость: слуга Нанак да будет всегда повторять Имя Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59957,
+          "is_rahao": true,
+          "gurmukhi": "ਧਨਾਸਰੀ ਧਨਵੰਤੀ ਜਾਣੀਐ ਭਾਈ ਜਾਂ ਸਤਿਗੁਰ ਕੀ ਕਾਰ ਕਮਾਇ ॥",
+          "roman": "dhanāsrī dhanvantī jāṇīē bhāī jāṅ satgur kī kār kamāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, та душа-женщина должна считаться богатой именем и счастливой, когда начинает исполнять дело, указанное Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59958,
+          "is_rahao": true,
+          "gurmukhi": "ਤਨੁ ਮਨੁ ਸਉਪੇ ਜੀਅ ਸਉ ਭਾਈ ਲਏ ਹੁਕਮਿ ਫਿਰਾਉ ॥",
+          "roman": "tan man saupē jīa sau bhāī laē hukam phirāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, когда она отдаёт своё тело, ум и саму жизнь Гуру, она начинает идти своим жизненным путём в его хукам."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59959,
+          "is_rahao": true,
+          "gurmukhi": "ਜਹ ਬੈਸਾਵਹਿ ਬੈਸਹ ਭਾਈ ਜਹ ਭੇਜਹਿ ਤਹ ਜਾਉ ॥",
+          "roman": "jah bēsāveh bēsah bhāī jah bhējeh tah jāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, где Господь нас усаживает, там мы и сидим; куда Он меня посылает, туда я и иду."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59960,
+          "is_rahao": true,
+          "gurmukhi": "ਏਵਡੁ ਧਨੁ ਹੋਰੁ ਕੋ ਨਹੀ ਭਾਈ ਜੇਵਡੁ ਸਚਾ ਨਾਉ ॥",
+          "roman": "ēvaḍ dhan hor ko nahī bhāī jēvaḍ sachā nāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, нет другого богатства столь драгоценного, как вечное богатство Имени Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59961,
+          "is_rahao": true,
+          "gurmukhi": "ਸਦਾ ਸਚੇ ਕੇ ਗੁਣ ਗਾਵਾਂ ਭਾਈ ਸਦਾ ਸਚੇ ਕੈ ਸੰਗਿ ਰਹਾਉ ॥",
+          "roman": "sadā sachē kē guṇ gāvāṅ bhāī sadā sachē kē sang rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, я всегда пою достоинства Вечного Господа и всегда остаюсь у стоп Вечного."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59962,
+          "is_rahao": false,
+          "gurmukhi": "ਪੈਨਣੁ ਗੁਣ ਚੰਗਿਆਈਆ ਭਾਈ ਆਪਣੀ ਪਤਿ ਕੇ ਸਾਦ ਆਪੇ ਖਾਇ ॥",
+          "roman": "pēnaṇ guṇ changiāīā bhāī āpaṇī pat kē sād āpē khāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, когда в сердце человека поселяются божественные качества и добродетели, он получает почёт; радость этого почёта он вкушает сам."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59963,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸ ਕਾ ਕਿਆ ਸਾਲਾਹੀਐ ਭਾਈ ਦਰਸਨ ਕਉ ਬਲਿ ਜਾਇ ॥",
+          "roman": "tis kā kiā sālāhīē bhāī darsan kau bal jāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, как можно полностью восхвалить такого человека? Он всегда приносит себя в жертву ради видения Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59964,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਵਿਚਿ ਵਡੀਆ ਵਡਿਆਈਆ ਭਾਈ ਕਰਮਿ ਮਿਲੈ ਤਾਂ ਪਾਇ ॥",
+          "roman": "satgur vich vaḍīā vaḍiāīā bhāī karam milē tāṅ pāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, в Сатгуру великие достоинства; когда по милости Господа человек встречает Гуру, тогда он обретает эти достоинства."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59965,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕਿ ਹੁਕਮੁ ਮੰਨਿ ਨ ਜਾਣਨੀ ਭਾਈ ਦੂਜੈ ਭਾਇ ਫਿਰਾਇ ॥",
+          "roman": "ik hukam mann na jāṇnī bhāī dūjē bhāe phirāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, некоторые, блуждая в любви к майе, не умеют принимать хукам Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59966,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਗਤਿ ਢੋਈ ਨਾ ਮਿਲੈ ਭਾਈ ਬੈਸਣਿ ਮਿਲੈ ਨ ਥਾਉ ॥",
+          "roman": "sangat ḍhoī nā milē bhāī bēsaṇ milē na thāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, таким людям не находится опоры в святом собрании, не находится места, чтобы сидеть в Сангате."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59967,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਹੁਕਮੁ ਤਿਨਾ ਮਨਾਇਸੀ ਭਾਈ ਜਿਨਾ ਧੁਰੇ ਕਮਾਇਆ ਨਾਉ ॥",
+          "roman": "nānak hukam tinā manāisī bhāī jinā dhurē kamāiā nāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, Господь делает Свою волю сладко принятой тем, кто по изначальной записи начал совершать практику памятования Имени."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59968,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਨੑ ਵਿਟਹੁ ਹਉ ਵਾਰਿਆ ਭਾਈ ਤਿਨ ਕਉ ਸਦ ਬਲਿਹਾਰੈ ਜਾਉ ॥੫੧॥",
+          "roman": "tin vitahu hau vāriā bhāī tin kau sad balihārē jāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, я жертвую собой ради таких людей; я всегда приношу себя им в жертву."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59969,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇ ਦਾੜੀਆਂ ਸਚੀਆ ਜਿ ਗੁਰ ਚਰਨੀ ਲਗੰਨਿੑ ॥",
+          "roman": "sē dāṛīā sachīā j gur charnī lagann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, истинно достойны уважения те бороды тех людей, которые пребывают у стоп Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59970,
+          "is_rahao": false,
+          "gurmukhi": "ਅਨਦਿਨੁ ਸੇਵਨਿ ਗੁਰੁ ਆਪਣਾ ਅਨਦਿਨੁ ਅਨਦਿ ਰਹੰਨਿੑ ॥",
+          "roman": "an-din sēvan gur āpaṇā an-din anad rahann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Они всё время остаются в прибежище своего Гуру и всё время пребывают в духовной радости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59971,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਸੇ ਮੁਹ ਸੋਹਣੇ ਸਚੈ ਦਰਿ ਦਿਸੰਨਿੑ ॥੫੨॥",
+          "roman": "nānak sē muh sohṇē sachē dar disann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, их лица выглядят прекрасными у дверей Вечного Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59972,
+          "is_rahao": false,
+          "gurmukhi": "ਮੁਖ ਸਚੇ ਸਚੁ ਦਾੜੀਆ ਸਚੁ ਬੋਲਹਿ ਸਚੁ ਕਮਾਹਿ ॥",
+          "roman": "mukh sachē sach dāṛīā sach boleh sach kamāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, те, кто помнит вечное Имя Хари, говорит Истину и совершает практику вечного Имени, имеют лица и бороды, поистине достойные почёта."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59973,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚਾ ਸਬਦੁ ਮਨਿ ਵਸਿਆ ਸਤਿਗੁਰ ਮਾਂਹਿ ਸਮਾਂਹਿ ॥",
+          "roman": "sachā sabad man vasiā satgur māṅh samāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В их уме постоянно пребывает Шабад хвалы Вечного Господа, и они всё время остаются погружёнными в Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59974,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚੀ ਰਾਸੀ ਸਚੁ ਧਨੁ ਉਤਮ ਪਦਵੀ ਪਾਂਹਿ ॥",
+          "roman": "sachī rāsī sach dhan utam padvī pāṅh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "У таких людей собирается капитал и богатство вечного Имени Хари; они получают высокий духовный ранг."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59975,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚੁ ਸੁਣਹਿ ਸਚੁ ਮੰਨਿ ਲੈਨਿ ਸਚੀ ਕਾਰ ਕਮਾਹਿ ॥",
+          "roman": "sach suṇeh sach mann lēn sachī kār kamāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, те, кто слушает вечное Имя Хари, с верой принимает его в себя и совершает дело памятования вечного Имени, живут истинной практикой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59976,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚੀ ਦਰਗਹ ਬੈਸਣਾ ਸਚੇ ਮਾਹਿ ਸਮਾਹਿ ॥",
+          "roman": "sachī dargah bēsṇā sachē māṅh samāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Они получают место почёта в присутствии Вечного Господа и всё время остаются погружёнными в память о Вечном."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59977,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਵਿਣੁ ਸਤਿਗੁਰ ਸਚੁ ਨ ਪਾਈਐ ਮਨਮੁਖ ਭੂਲੇ ਜਾਂਹਿ ॥੫੩॥",
+          "roman": "nānak viṇ satgur sach na pāīai manmukh bhūlē jāṅh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но, о Нанак, без прибежища Сатгуру вечное Имя Хари не обретается; манмукхи остаются на ложном пути."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59978,
+          "is_rahao": false,
+          "gurmukhi": "ਬਾਬੀਹਾ ਪ੍ਰਿਉ ਪ੍ਰਿਉ ਕਰੇ ਜਲਨਿਧਿ ਪ੍ਰੇਮ ਪਿਆਰਿ ॥",
+          "roman": "bābīhā priu priu karē jalnidh prēm piār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, как птица папиха из любви к облаку зовёт «приу, приу», так обращённый к Гуру человек в любви к Господу произносит Его Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59979,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਮਿਲੇ ਸੀਤਲ ਜਲੁ ਪਾਇਆ ਸਭਿ ਦੂਖ ਨਿਵਾਰਣਹਾਰੁ ॥",
+          "roman": "gur milē sītal jal pāiā sabh dūkh nivāraṇhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Встретив Гуру, он получает охлаждающую духовную воду Имени, способную удалить все страдания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59980,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸ ਚੁਕੈ ਸਹਜੁ ਊਪਜੈ ਚੁਕੈ ਕੂਕ ਪੁਕਾਰ ॥",
+          "roman": "tis chukē sahaj ūpjē chukē kūk pukār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благодаря этому вода жажды прекращается, внутри возникает духовная устойчивость, и тревожная суета ради майи исчезает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59981,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਸਾਂਤਿ ਹੋਇ ਨਾਮੁ ਰਖਹੁ ਉਰਿ ਧਾਰਿ ॥੫੪॥",
+          "roman": "nānak gurmukh sāṅt hoe nām rakhah ur dhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, через прибежище Гуру приходит духовная прохлада; поэтому, о брат, держите Имя Господа в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59982,
+          "is_rahao": false,
+          "gurmukhi": "ਬਾਬੀਹਾ ਤੂੰ ਸਚੁ ਚਉ ਸਚੇ ਸਉ ਲਿਵ ਲਾਇ ॥",
+          "roman": "bābīhā tūṅ sach chau sachē sau liv lāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О папиха, о любящий каплю Имени, произноси вечное Имя Господа и держи сознание соединённым с Вечным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59983,
+          "is_rahao": false,
+          "gurmukhi": "ਬੋਲਿਆ ਤੇਰਾ ਥਾਇ ਪਵੈ ਗੁਰਮੁਖਿ ਹੋਇ ਅਲਾਇ ॥",
+          "roman": "boliā tērā thāe pavē gurmukh hoe alāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Произноси Имя, став обращённым к Гуру; тогда твоё усилие в памятовании будет принято в присутствии Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59984,
+          "is_rahao": false,
+          "gurmukhi": "ਸਬਦੁ ਚੀਨਿ ਤਿਖ ਉਤਰੈ ਮੰਨਿ ਲੈ ਰਜਾਇ ॥",
+          "roman": "sabad chīn tikh utrē mann lē rajāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Познав Шабад Гуру и принимая волю Господа как благую, человек освобождается от жажды майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "ang": 418,
+  "shabads": [
+    {
+      "shabad_id": 1610,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 19137,
+          "is_rahao": false,
+          "gurmukhi": "ਥਾਨ ਮੁਕਾਮ ਜਲੇ ਬਿਜ ਮੰਦਰ ਮੁਛਿ ਮੁਛਿ ਕੁਇਰ ਰੁਲਾਇਆ ॥",
+          "roman": "thān mukām jale bij mandar much much kuir rulāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ ਉਹਨਾਂ ਦੀਆਂ ਤਸਬੀਆਂ ਫਿਰਨ ਤੇ ਭੀ) ਪੱਕੇ ਥਾਂ ਮੁਕਾਮ ਪੱਕੇ ਮਹਲ (ਮੁਗ਼ਲਾਂ ਦੀ ਲਾਈ ਅੱਗ ਨਾਲ) ਸੜ (ਕੇ ਸੁਆਹ ਹੋ) ਗਏ ਤੇ ਉਹਨਾਂ ਨੇ ਪਠਾਣ ਸ਼ਾਹਜ਼ਾਦਿਆਂ ਨੂੰ ਟੋਟੇ ਕਰ ਕਰ ਕੇ (ਮਿੱਟੀ ਵਿਚ) ਰੋਲ ਦਿੱਤਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Но их места и дворцы сгорели, а князья были уничтожены."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19138,
+          "is_rahao": false,
+          "gurmukhi": "ਕੋਈ ਮੁਗਲੁ ਨ ਹੋਆ ਅੰਧਾ ਕਿਨੈ ਨ ਪਰਚਾ ਲਾਇਆ ॥੪॥",
+          "roman": "koī mugal na hoā andhā kinē na parchā lāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪੀਰਾਂ ਦੀਆਂ ਤਸਬੀਆਂ ਨਾਲ) ਕੋਈ ਇੱਕ ਭੀ ਮੁਗ਼ਲ ਅੰਨ੍ਹਾ ਨਾ ਹੋਇਆ, ਕਿਸੇ ਭੀ ਪੀਰ ਨੇ ਕੋਈ ਕਰਾਮਾਤ ਕਰ ਨਾ ਵਿਖਾਈ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Ни один могол не ослеп, ни один пир не проявил чудо."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19139,
+          "is_rahao": false,
+          "gurmukhi": "ਮੁਗਲ ਪਠਾਣਾ ਭਈ ਲੜਾਈ ਰਣ ਮਹਿ ਤੇਗ ਵਗਾਈ ॥",
+          "roman": "mugal paṭhāṇā bhaī laṛāī raṇ meh teg vagāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਮੁਗ਼ਲਾਂ ਤੇ ਪਠਾਣਾਂ ਦੀ ਲੜਾਈ ਹੋਈ, ਲੜਾਈ ਦੇ ਮੈਦਾਨ ਵਿਚ (ਦੋਹਾਂ ਧਿਰਾਂ ਨੇ) ਤਲਵਾਰ ਚਲਾਈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда началась битва между моголами и патханами, в поле сверкали мечи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19140,
+          "is_rahao": false,
+          "gurmukhi": "ਓਨੑੀ ਤੁਪਕ ਤਾਣਿ ਚਲਾਈ ਓਨੑੀ ਹਸਤਿ ਚਿੜਾਈ ॥",
+          "roman": "onhī tupak tāṇ chalāī onhī hast chiṛāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹਨਾਂ ਮੁਗ਼ਲਾਂ ਨੇ ਬੰਦੂਕਾਂ ਦੇ ਨਿਸ਼ਾਨੇ ਬੰਨ੍ਹ ਬੰਨ੍ਹ ਕੇ ਗੋਲੀਆਂ ਚਲਾਈਆਂ, ਪਰ ਪਠਾਣਾਂ ਦੇ ਹੱਥ ਵਿਚ ਹੀ ਚਿੜ ਚਿੜ ਕਰ ਗਈਆਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Моголы стреляли из ружей, но патханы были разбиты."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19141,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨੑ ਕੀ ਚੀਰੀ ਦਰਗਹ ਪਾਟੀ ਤਿਨੑਾ ਮਰਣਾ ਭਾਈ ॥੫॥",
+          "roman": "jinh kī chīrī dargah pāṭī tinhā marṇā bhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਹੇ ਭਾਈ! ਧੁਰੋ ਹੀ ਜਿਨ੍ਹਾਂ ਦੀ ਉਮਰ ਦੀ ਚਿੱਠੀ ਪਾਟ ਜਾਂਦੀ ਹੈ, ਉਹਨਾਂ ਮਰਨਾ ਹੀ ਹੁੰਦਾ ਹੈ ॥੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, те, кому предначертано умереть, непременно умирают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19142,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕ ਹਿੰਦਵਾਣੀ ਅਵਰ ਤੁਰਕਾਣੀ ਭਟਿਆਣੀ ਠਕੁਰਾਣੀ ॥",
+          "roman": "ik hindvāṇī avar turkāṇī bhaṭiāṇī ṭhakurāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕੀਹ ਹਿੰਦੂ-ਇਸਤ੍ਰੀਆਂ, ਕੀਹ ਮੁਸਲਮਾਨ ਔਰਤਾਂ ਤੇ ਕੀਹ ਭੱਟਾਂ ਤੇ ਠਾਕੁਰਾਂ ਦੀਆਂ ਜ਼ਨਾਨੀਆਂ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Будь то индуистки, мусульманки, жёны бхаттов или тхакуров,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19143,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕਨੑਾ ਪੇਰਣ ਸਿਰ ਖੁਰ ਪਾਟੇ ਇਕਨੑਾ ਵਾਸੁ ਮਸਾਣੀ ॥",
+          "roman": "iknā peraṇ sir khur pāṭe iknā vās masāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਈਆਂ ਦੇ ਬੁਰਕੇ ਸਿਰ ਤੋਂ ਲੈ ਕੇ ਪੈਰਾਂ ਤਕ ਲੀਰ ਲੀਰ ਹੋ ਗਏ, ਤੇ ਕਈਆਂ ਦਾ (ਮਰ ਕੇ) ਮਸਾਣਾਂ ਵਿਚ ਜਾ ਵਾਸਾ ਹੋਇਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "У одних одежда разорвана, другие нашли приют на кладбище."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19144,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨੑ ਕੇ ਬੰਕੇ ਘਰੀ ਨ ਆਇਆ ਤਿਨੑ ਕਿਉ ਰੈਣਿ ਵਿਹਾਣੀ ॥੬॥",
+          "roman": "jinh ke banke gharī na āiā tinh kiu rēn vihāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜੇਹੜੀਆਂ ਬਚ ਰਹੀਆਂ, ਉਹ ਭੀ ਵਿਚਾਰੀਆਂ ਕੀਹ ਬਚੀਆਂ?) ਜਿਨ੍ਹਾਂ ਦੇ ਸੋਹਣੇ ਖਸਮ ਘਰਾਂ ਵਿਚ ਨਾਹ ਆਏ, ਉਹਨਾਂ (ਉਹ ਬਿਪਤਾ ਦੀ) ਰਾਤ ਕਿਵੇਂ ਕੱਟੀ ਹੋਵੇਗੀ? ॥੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, чьи мужья не вернулись домой, как провели ту ночь?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19145,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪੇ ਕਰੇ ਕਰਾਏ ਕਰਤਾ ਕਿਸ ਨੋ ਆਖਿ ਸੁਣਾਈਐ ॥",
+          "roman": "āpe kare karāe kartā kis no ākh suṇāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਇਹ ਦਰਦ-ਭਰੀ ਕਹਾਣੀ ਕਿਸ ਨੂੰ ਆਖ ਕੇ ਸੁਣਾਈ ਜਾਏ? ਕਰਤਾਰ ਆਪ ਹੀ ਸਭ ਕੁਝ ਕਰਦਾ ਹੈ ਤੇ ਜੀਵਾਂ ਤੋਂ ਕਰਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Творец Сам всё делает и заставляет делать — кому рассказать эту боль?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19146,
+          "is_rahao": false,
+          "gurmukhi": "ਦੁਖੁ ਸੁਖੁ ਤੇਰੈ ਭਾਣੈ ਹੋਵੈ ਕਿਸ ਥੈ ਜਾਇ ਰੂਆਈਐ ॥",
+          "roman": "dukh sukh terē bhāṇē hovē kis thē jāi rūāīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਕਰਤਾਰ! ਦੁਖ ਹੋਵੇ ਚਾਹੇ ਸੁਖ ਹੋਵੇ ਤੇਰੀ ਰਜ਼ਾ ਵਿਚ ਹੀ ਵਾਪਰਦਾ ਹੈ। ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸ ਪਾਸ ਜਾ ਕੇ ਦੁੱਖ ਫਰੋਲੀਏ?"
+            },
+            "sahib_singh_ru": {
+              "main": "О Творец, и радость, и страдание происходят по Твоей воле — к кому идти жаловаться?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19147,
+          "is_rahao": false,
+          "gurmukhi": "ਹੁਕਮੀ ਹੁਕਮਿ ਚਲਾਏ ਵਿਗਸੈ ਨਾਨਕ ਲਿਖਿਆ ਪਾਈਐ ॥੭॥੧੨॥",
+          "roman": "hukmī hukam chalāe vigsē nānak likhiā pāīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਰਜ਼ਾ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ ਹੀ ਜਗਤ ਦੀ ਕਾਰ ਚਲਾ ਰਿਹਾ ਹੈ ਤੇ (ਵੇਖ ਵੇਖ ਕੇ) ਸੰਤੁਸ਼ਟ ਹੋ ਰਿਹਾ ਹੈ। (ਆਪੋ ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ) ਲਿਖਿਆ ਲੇਖ ਭੋਗੀਦਾ ਹੈ ॥੭॥੧੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, Владыка ведёт всё по Своей воле и радуется; каждый получает по написанному."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1611,
+      "rahao_verse_id": 19152,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 19148,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik ōaṅkār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акаал Пуракх один, и достигается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19149,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ਕਾਫੀ ਮਹਲਾ ੧ ਘਰੁ ੮ ਅਸਟਪਦੀਆ ॥",
+          "roman": "āsā kāfī mehlā 1 ghar 8 asṭpadīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਆਸਾ-ਕਾਫੀ, ਘਰ ੮ ਵਿੱਚ ਗੁਰੂ ਨਾਨਕਦੇਵ ਜੀ ਦੀ ਅੱਠ-ਬੰਦਾਂ ਵਾਲੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Рааг Аса-Кафи, дом 8, бани Гуру Нанак Дев Джи из восьми строф."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19150,
+          "is_rahao": false,
+          "gurmukhi": "ਜੈਸੇ ਗੋਇਲਿ ਗੋਇਲੀ ਤੈਸੇ ਸੰਸਾਰਾ ॥",
+          "roman": "jēse goil goilī tēse sansārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਵੇਂ ਕੋਈ ਗਵਾਲਾ ਪਰਾਏ ਚਰਾਂਦ ਵਿਚ (ਆਪਣਾ ਮਾਲ-ਡੰਗਰ ਚਾਰਨ ਲਈ ਲੈ ਜਾਂਦਾ ਹੈ) ਤਿਵੇਂ ਇਹ ਜਗਤ ਦੀ ਕਾਰ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Как пастух ведёт скот на чужие пастбища, так устроен этот мир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19151,
+          "is_rahao": false,
+          "gurmukhi": "ਕੂੜੁ ਕਮਾਵਹਿ ਆਦਮੀ ਬਾਂਧਹਿ ਘਰ ਬਾਰਾ ॥੧॥",
+          "roman": "kūṛ kamāvah ādmī bāndhah ghar bārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਆਦਮੀ (ਮੌਤ ਨੂੰ ਭੁਲਾ ਕੇ) ਪੱਕੇ ਘਰ ਮਕਾਨ ਬਣਾਂਦੇ ਹਨ, ਉਹ ਵਿਅਰਥ ਉੱਦਮ ਕਰਦੇ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Люди, забыв о смерти, строят прочные дома и совершают напрасные усилия."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19152,
+          "is_rahao": true,
+          "gurmukhi": "ਜਾਗਹੁ ਜਾਗਹੁ ਸੂਤਿਹੋ ਚਲਿਆ ਵਣਜਾਰਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jāgah jāgah sūtihō chaliā vaṇjārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਨੀਂਦ ਵਿਚ) ਸੁੱਤੇ ਹੋਏ ਜੀਵੋ! ਹੋਸ਼ ਕਰੋ, ਹੋਸ਼ ਕਰੋ। (ਤੁਹਾਡੇ ਸਾਹਮਣੇ ਤੁਹਾਡਾ ਸਾਥੀ) ਜੀਵ-ਵਣਜਾਰਾ (ਦੁਨੀਆ ਤੋਂ ਸਦਾ ਲਈ) ਜਾ ਰਿਹਾ ਹੈ (ਇਸੇ ਤਰ੍ਹਾਂ) ਤੁਹਾਡੀ ਵਾਰੀ ਆਵੇਗੀ। ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ (ਰੱਖੋ) ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О спящие в иллюзии! Пробудитесь, ваш спутник-торговец уходит навсегда, так же придёт и ваш черёд. Помните Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19153,
+          "is_rahao": false,
+          "gurmukhi": "ਨੀਤ ਨੀਤ ਘਰ ਬਾਂਧੀਅਹਿ ਜੇ ਰਹਣਾ ਹੋਈ ॥",
+          "roman": "nīt nīt ghar bāndhīah je rahṇā hoī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲੇ ਘਰ ਤਦੋਂ ਹੀ ਬਣਾਏ ਜਾਂਦੇ ਹਨ ਜੇ ਇਥੇ ਸਦਾ ਟਿਕੇ ਰਹਿਣਾ ਹੋਵੇ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Вечные дома строят только если здесь предстоит жить вечно,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19154,
+          "is_rahao": false,
+          "gurmukhi": "ਪਿੰਡੁ ਪਵੈ ਜੀਉ ਚਲਸੀ ਜੇ ਜਾਣੈ ਕੋਈ ॥੨॥",
+          "roman": "piṇḍ pavē jīu chalsī je jāṇē koī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਜੇ ਕੋਈ ਮਨੁੱਖ ਵਿਚਾਰ ਕਰੇ (ਤਾਂ ਅਸਲੀਅਤ ਇਹ ਹੈ ਕਿ) ਜਦੋਂ ਜਿੰਦ ਇਥੋਂ ਤੁਰ ਪੈਂਦੀ ਹੈ ਤਾਂ ਸਰੀਰ ਭੀ ਢਹਿ ਪੈਂਦਾ ਹੈ (ਨਾਹ ਸਰੀਰ ਰਹਿੰਦਾ ਹੈ ਤੇ ਨਾਹ ਜਿੰਦ) ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но если задуматься: когда душа уходит, тело рушится, ничто не остаётся."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19155,
+          "is_rahao": false,
+          "gurmukhi": "ਓਹੀ ਓਹੀ ਕਿਆ ਕਰਹੁ ਹੈ ਹੋਸੀ ਸੋਈ ॥",
+          "roman": "ohī ohī kiā karah hē hosī soī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿਸੇ ਸੰਬੰਧੀ ਦੇ ਮਰਨ ਤੇ) ਕਿਉਂ ਵਿਅਰਥ 'ਹਾਇ! ਹਾਇ'! ਕਰਦੇ ਹੋ। ਸਦਾ-ਥਿਰ ਤਾਂ ਪਰਮਾਤਮਾ ਹੀ ਹੈ ਜੋ ਹੁਣ ਭੀ ਮੌਜੂਦ ਹੈ ਤੇ ਸਦਾ ਮੌਜੂਦ ਰਹੇਗਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Зачем бесполезно причитать? Вечен лишь Бог, который есть и будет всегда."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19156,
+          "is_rahao": false,
+          "gurmukhi": "ਤੁਮ ਰੋਵਹੁਗੇ ਓਸ ਨੋ ਤੁਮੑ ਕਉ ਕਉਣੁ ਰੋਈ ॥੩॥",
+          "roman": "tum rovahugē os no tumh kau kauṇ roī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇ ਤੁਸੀ (ਆਪਣੇ) ਉਸ ਮਰਨ ਵਾਲੇ ਦੇ ਮਰਨ ਤੇ ਰੋਂਦੇ ਹੋ ਤਾਂ (ਮਰਨਾ ਤਾਂ ਤੁਸਾਂ ਭੀ ਹੈ) ਤੁਹਾਨੂੰ ਭੀ ਕੋਈ ਰੋਵੇਗਾ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Если вы плачете по умершему, то и по вам тоже кто-то будет плакать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19157,
+          "is_rahao": false,
+          "gurmukhi": "ਧੰਧਾ ਪਿਟਿਹੁ ਭਾਈਹੋ ਤੁਮੑ ਕੂੜੁ ਕਮਾਵਹੁ ॥",
+          "roman": "dhandhā piṭih bhāīhō tumh kūṛ kamāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੁਸੀ (ਕਿਸੇ ਦੇ ਮਰਨ ਤੇ ਰੋਣ ਦਾ) ਵਿਅਰਥ ਪਿੱਟਣਾ ਪਿੱਟਦੇ ਹੋ, ਵਿਅਰਥ ਕੰਮ ਕਰਦੇ ਹੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Вы напрасно оплакиваете и совершаете пустые действия."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19158,
+          "is_rahao": false,
+          "gurmukhi": "ਓਹੁ ਨ ਸੁਣਈ ਕਤ ਹੀ ਤੁਮੑ ਲੋਕ ਸੁਣਾਵਹੁ ॥੪॥",
+          "roman": "ohu na suṇai kat hī tumh lōk suṇāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜਾ ਮਰ ਗਿਆ ਹੈ, ਉਹ ਤਾਂ ਤੁਹਾਡਾ ਰੋਣਾ ਬਿਲਕੁਲ ਨਹੀਂ ਸੁਣਦਾ। ਤੁਸੀਂ (ਲੋਕਾਚਾਰੀ) ਸਿਰਫ਼ ਲੋਕਾਂ ਨੂੰ ਸੁਣਾ ਰਹੇ ਹੋ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Умерший не слышит вас, вы лишь показываете это людям."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19159,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸ ਤੇ ਸੁਤਾ ਨਾਨਕਾ ਜਾਗਾਏ ਸੋਈ ॥",
+          "roman": "jis te sutā nānakā jāgāe soī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜੀਵ ਦੇ ਕੀਹ ਵੱਸ?) ਹੇ ਨਾਨਕ! ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਹੁਕਮ ਨਾਲ ਜੀਵ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ) ਸੁੱਤਾ ਹੋਇਆ ਹੈ, ਉਹੀ ਇਸ ਨੂੰ ਜਗਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Тот, по чьей воле человек спит в иллюзии, тот же его и пробуждает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19160,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇ ਘਰੁ ਬੂਝੈ ਆਪਣਾ ਤਾਂ ਨੀਦ ਨ ਹੋਈ ॥੫॥",
+          "roman": "je ghar būjhē āpṇā tā nīd na hoī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪ੍ਰਭੂ ਦੀ ਮੇਹਰ ਨਾਲ) ਜੇ ਜੀਵ ਇਹ ਸਮਝ ਲਏ ਕਿ ਮੇਰਾ ਅਸਲ ਘਰ ਕਿਹੜਾ ਹੈ ਤਾਂ ਉਸ ਨੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਨੀਂਦ ਨਹੀਂ ਵਿਆਪਦੀ ॥੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Если человек поймёт свой истинный дом, он не погрузится в сон иллюзии."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19161,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇ ਚਲਦਾ ਲੈ ਚਲਿਆ ਕਿਛੁ ਸੰਪੈ ਨਾਲੇ ॥",
+          "roman": "je chaldā lē chaliā kichh sampē nālē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇ ਕੋਈ ਮਰਨ ਵਾਲਾ ਮਨੁੱਖ ਮਰਨ ਵੇਲੇ ਆਪਣੇ ਨਾਲ ਕੁਝ ਧਨ ਲੈ ਜਾਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Если бы умирающий мог взять с собой богатство,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19162,
+          "is_rahao": false,
+          "gurmukhi": "ਤਾ ਧਨੁ ਸੰਚਹੁ ਦੇਖਿ ਕੈ ਬੂਝਹੁ ਬੀਚਾਰੇ ॥੬॥",
+          "roman": "tā dhan sanchahu dekh kē būjhau bīchāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤਾਂ ਤੁਸੀ ਭੀ ਧਨ ਬੇਸ਼ੱਕ ਜੋੜੀ ਚੱਲੋ। ਵੇਖ ਵਿਚਾਰ ਕੇ ਸਮਝੋ! ॥੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "тогда и вы собирали бы его. Подумайте и поймите."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19163,
+          "is_rahao": false,
+          "gurmukhi": "ਵਣਜੁ ਕਰਹੁ ਮਖਸੂਦੁ ਲੈਹੁ ਮਤ ਪਛੋਤਾਵਹੁ ॥",
+          "roman": "vaṇaj karah makhsūd lēh mat pachhotāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਨਾਮ-ਸਿਮਰਨ ਦਾ ਅਜੇਹਾ) ਵਣਜ-ਵਪਾਰ ਕਰੋ, ਜਿਸ ਤੋਂ ਜੀਵਨ ਮਨੋਰਥ ਦਾ ਲਾਭ ਖੱਟ ਸਕੋ, ਨਹੀਂ ਤਾਂ ਪਛਤਾਣਾ ਪਵੇਗਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Ведите такую торговлю, чтобы получить истинную цель жизни, иначе придётся сожалеть."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19164,
+          "is_rahao": false,
+          "gurmukhi": "ਅਉਗਣ ਛੋਡਹੁ ਗੁਣ ਕਰਹੁ ਐਸੇ ਤਤੁ ਪਰਾਵਹੁ ॥੭॥",
+          "roman": "augan chhoḍah guṇ karah aise tat parāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਾੜੇ ਕੰਮ ਛੱਡੋ, ਗੁਣ ਗ੍ਰਹਣ ਕਰੋ, ਇਸ ਤਰ੍ਹਾਂ ਅਸਲ (ਖੱਟੀ) ਖੱਟੋ! ॥੭॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Оставьте пороки, приобретайте добродетели — так обретёте истинный доход."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19165,
+          "is_rahao": false,
+          "gurmukhi": "ਧਰਮੁ ਭੂਮਿ ਸਤੁ ਬੀਜੁ ਕਰਿ ਐਸੀ ਕਿਰਸ ਕਮਾਵਹੁ ॥",
+          "roman": "dharam bhūm sat bīj kar aisi kirs kamāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਧਰਮ ਨੂੰ ਧਰਤੀ ਬਣਾਵੋ, ਉਸ ਵਿਚ ਸੁੱਚਾ ਆਚਰਨ ਬੀ ਬੀਜੋ। ਬੱਸ! ਇਹੋ ਜਿਹੀ (ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਪ੍ਰਫੁਲਤ ਕਰਨ ਵਾਲੀ) ਖੇਤੀ-ਵਾਹੀ ਕਰੋ!"
+            },
+            "sahib_singh_ru": {
+              "main": "Сделайте праведность своей землёй и сейте в ней истину — ведите такую духовную жатву."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19166,
+          "is_rahao": false,
+          "gurmukhi": "ਤਾਂ ਵਾਪਾਰੀ ਜਾਣੀਅਹੁ ਲਾਹਾ ਲੈ ਜਾਵਹੁ ॥੮॥",
+          "roman": "tā vāpaṛī jāṇīah lāhā lē jāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇ ਤੁਸੀ (ਇਥੋਂ ਉੱਚੇ ਆਤਮਕ ਜੀਵਨ ਦਾ) ਲਾਭ ਖੱਟ ਕੇ ਲੈ ਜਾਵੋਗੇ ਤਾਂ (ਸਿਆਣੇ) ਵਪਾਰੀ ਸਮਝੇ ਜਾਉਗੇ! ॥੮॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Тогда вас назовут мудрым торговцем, уносящим прибыль."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19167,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਮੁ ਹੋਵੈ ਸਤਿਗੁਰੁ ਮਿਲੈ ਬੂਝੈ ਬੀਚਾਰਾ ॥",
+          "roman": "karam hovē satgur milē būjhē bīchārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਪਰਮਾਤਮਾ ਦੀ) ਬਖ਼ਸ਼ਸ਼ ਹੋਵੇ ਉਸ ਨੂੰ ਗੁਰੂ ਮਿਲਦਾ ਹੈ ਤੇ ਉਹ ਇਸ ਵਿਚਾਰ ਨੂੰ ਸਮਝਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Кому дарована милость, тот встречает Гуру и понимает эту истину."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19168,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਮੁ ਵਖਾਣੈ ਸੁਣੇ ਨਾਮੁ ਨਾਮੇ ਬਿਉਹਾਰਾ ॥੯॥",
+          "roman": "nām vakhāṇē suṇe nām nāme biuhārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਉਚਾਰਦਾ ਹੈ, ਨਾਮ ਸੁਣਦਾ ਹੈ, ਤੇ ਨਾਮ ਵਿਚ ਹੀ ਵਿਹਾਰ ਕਰਦਾ ਹੈ ॥੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Он произносит Имя, слушает Имя и живёт в Имени."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19169,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਉ ਲਾਹਾ ਤੋਟਾ ਤਿਵੈ ਵਾਟ ਚਲਦੀ ਆਈ ॥",
+          "roman": "jiu lāhā toṭā tivē vāṭ chaldī āī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸੰਸਾਰ ਦੀ ਇਹ ਕਾਰ (ਸਦਾ ਤੋਂ) ਤੁਰੀ ਆਈ ਹੈ, ਕੋਈ (ਨਾਮ ਵਿਚ ਜੁੜ ਕੇ ਆਤਮਕ) ਲਾਭ ਖੱਟਦਾ ਹੈ, (ਕੋਈ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਆਤਮਕ ਜੀਵਨ ਵਿਚ) ਘਾਟਾ ਖਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Так устроен мир: одни получают духовную прибыль, другие терпят убыток."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19170,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਨਾਨਕਾ ਸਾਈ ਵਡਿਆਈ ॥੧੦॥੧੩॥",
+          "roman": "jo tis bhāvē nānakā sāī vaḍiāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਨੂੰ ਜੋ ਚੰਗਾ ਲੱਗਦਾ ਹੈ (ਉਹੀ ਹੁੰਦਾ ਹੈ), ਇਹੀ ਉਸ ਦੀ ਬਜ਼ੁਰਗੀ ਹੈ! ॥੧੦॥੧੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Что угодно Богу, то и происходит — в этом Его величие."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1612,
+      "rahao_verse_id": 19175,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 19171,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ਮਹਲਾ ੧ ॥",
+          "roman": "āsā mehlā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19172,
+          "is_rahao": false,
+          "gurmukhi": "ਚਾਰੇ ਕੁੰਡਾ ਢੂਢੀਆ ਕੋ ਨੀਮੑੀ ਮੈਡਾ ॥",
+          "roman": "chāre kuṇḍā ḍhūḍīā ko nīmhhī mēḍā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਭਾਲ ਵੇਖੀ ਹੈ, ਮੈਨੂੰ ਕੋਈ ਭੀ ਆਪਣਾ (ਸੱਚਾ ਦਰਦੀ) ਨਹੀਂ ਲੱਭਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я обыскал весь мир и не нашёл никого по-настоящему близкого."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19173,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇ ਤੁਧੁ ਭਾਵੈ ਸਾਹਿਬਾ ਤੂ ਮੈ ਹਉ ਤੈਡਾ ॥੧॥",
+          "roman": "je tudh bhāvē sāhibā tū mē hau tēḍā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਸਾਹਿਬ! ਜੇ ਤੈਨੂੰ (ਮੇਰੀ ਬੇਨਤੀ) ਪਸੰਦ ਆਵੇ (ਤਾਂ ਮੇਹਰ ਕਰ) ਤੂੰ ਮੇਰਾ (ਰਾਖਾ ਬਣ), ਮੈਂ ਤੇਰਾ (ਸੇਵਕ) ਬਣਿਆ ਰਹਾਂ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, если Тебе угодно, будь моим, а я останусь Твоим."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19174,
+          "is_rahao": true,
+          "gurmukhi": "ਦਰੁ ਬੀਭਾ ਮੈ ਨੀਮਿੑ ਕੋ ਕੈ ਕਰੀ ਸਲਾਮੁ ॥",
+          "roman": "dar bībhā mē nīmhh ko kē karī salām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਨੂੰ (ਤੇਰੇ ਦਰ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ ਦਰ ਨਹੀਂ ਲੱਭਦਾ, ਹੋਰ ਕਿਸ ਦੇ ਅੱਗੇ ਮੈਂ ਸਲਾਮ ਕਰਾਂ?"
+            },
+            "sahib_singh_ru": {
+              "main": "Кроме Твоего двора я не нахожу другого — кому же поклоняться?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19175,
+          "is_rahao": true,
+          "gurmukhi": "ਹਿਕੋ ਮੈਡਾ ਤੂ ਧਣੀ ਸਾਚਾ ਮੁਖਿ ਨਾਮੁ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "hiko mēḍā tū dhaṇī sāchā mukh nām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਿਰਫ਼ ਇਕ ਤੂੰ ਹੀ ਮੇਰਾ ਮਾਲਕ ਹੈਂ (ਮੈਂ ਤੈਥੋਂ ਹੀ ਇਹ ਦਾਨ ਮੰਗਦਾ ਹਾਂ ਕਿ) ਤੇਰਾ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਾਮ ਮੇਰੇ ਮੂੰਹ ਵਿਚ (ਟਿਕਿਆ ਰਹੇ) ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Ты один мой владыка, пусть Твоё вечное Имя пребывает на моих устах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19176,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਧਾ ਸੇਵਨਿ ਸਿਧ ਪੀਰ ਮਾਗਹਿ ਰਿਧਿ ਸਿਧਿ ॥",
+          "roman": "sidhā sevan sidh pīr māghah ridh sidh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਲੋਕ) ਸਿੱਧ ਤੇ ਪੀਰ (ਬਣਨ ਲਈ) ਪੁੱਗੇ ਹੋਏ ਜੋਗੀਆਂ ਦੀ ਸੇਵਾ ਕਰਦੇ ਹਨ, ਤੇ ਉਹਨਾਂ ਪਾਸੋਂ ਰਿੱਧੀਆਂ ਸਿੱਧੀਆਂ (ਦੀ ਤਾਕਤ) ਮੰਗਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Люди служат йогам и пирам, прося у них чудесные силы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 19177,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਇਕੁ ਨਾਮੁ ਨ ਵੀਸਰੈ ਸਾਚੇ ਗੁਰ ਬੁਧਿ ॥੨॥",
+          "roman": "mē ik nām na vīsrē sāche gur budh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਮੇਰੀ ਇਕ ਤੇਰੇ ਅੱਗੇ ਹੀ ਇਹ ਅਰਦਾਸਿ ਹੈ ਕਿ) ਅਭੁੱਲ ਗੁਰੂ ਦੀ ਬਖ਼ਸ਼ੀ ਬੁੱਧੀ ਅਨੁਸਾਰ ਮੈਨੂੰ ਤੇਰਾ ਨਾਮ ਕਦੇ ਨਾਹ ਭੁੱਲੇ! ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Моя просьба одна: пусть по мудрости Гуру я никогда не забываю Твоё Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

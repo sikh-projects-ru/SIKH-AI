@@ -1,0 +1,865 @@
+{
+  "ang": 945,
+  "shabads": [
+    {
+      "shabad_id": 3437,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 40321,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਸਬਦੈ ਰਸੁ ਨ ਆਵੈ ਅਉਧੂ ਹਉਮੈ ਪਿਆਸ ਨ ਜਾਈ ॥",
+          "roman": "bin sabdē ras na āvē audhū haumē piyās na jāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Без Шабда, о авадху, вкус не приходит, и жажда Хоумэ не уходит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40322,
+          "is_rahao": false,
+          "gurmukhi": "ਸਬਦਿ ਰਤੇ ਅੰਮ੍ਰਿਤ ਰਸੁ ਪਾਇਆ ਸਾਚੇ ਰਹੇ ਅਘਾਈ ॥",
+          "roman": "sabad rate amrit ras pāiā sāche rahe aghāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто окрашены Шабдом, обрели амритный вкус и остаются насыщенными в Истинном."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40323,
+          "is_rahao": false,
+          "gurmukhi": "ਕਵਨ ਬੁਧਿ ਜਿਤੁ ਅਸਥਿਰੁ ਰਹੀਐ ਕਿਤੁ ਭੋਜਨਿ ਤ੍ਰਿਪਤਾਸੈ ॥",
+          "roman": "kavan budh jit asthir rahīē kit bhojan triptāsē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Каким пониманием можно пребывать устойчиво, и какой пищей можно насытиться?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40324,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਦੁਖੁ ਸੁਖੁ ਸਮ ਕਰਿ ਜਾਪੈ ਸਤਿਗੁਰ ਤੇ ਕਾਲੁ ਨ ਗ੍ਰਾਸੈ ॥੬੧॥",
+          "roman": "nānak dukh sukh sam kar jāpē satgur te kāl na grāsē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак: когда человек воспринимает боль и радость одинаково, через Сатгуру смерть не поглощает его."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40325,
+          "is_rahao": false,
+          "gurmukhi": "ਰੰਗਿ ਨ ਰਾਤਾ ਰਸਿ ਨਹੀ ਮਾਤਾ ॥",
+          "roman": "rang na rātā ras nahī mātā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Без практики Шабда Сатгуру ум не окрашивается любовью к Богу и не опьяняется Его блаженством."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40326,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਗੁਰ ਸਬਦੈ ਜਲਿ ਬਲਿ ਤਾਤਾ ॥",
+          "roman": "bin gur sabdē jal bal tātā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Без Шабда Гуру человек горит в мирских делах и остаётся раздражённым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40327,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿੰਦੁ ਨ ਰਾਖਿਆ ਸਬਦੁ ਨ ਭਾਖਿਆ ॥",
+          "roman": "bind na rākhiā sabad na bhākhiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто не произносит Гур-Шабд, ничего не получает даже от внешнего воздержания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40328,
+          "is_rahao": false,
+          "gurmukhi": "ਪਵਨੁ ਨ ਸਾਧਿਆ ਸਚੁ ਨ ਅਰਾਧਿਆ ॥",
+          "roman": "pavan na sādhiā sach na arādhiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто не вспоминает Истинного Господа, ничего не получает от управления дыханием."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40329,
+          "is_rahao": false,
+          "gurmukhi": "ਅਕਥ ਕਥਾ ਲੇ ਸਮ ਕਰਿ ਰਹੈ ॥",
+          "roman": "akath kathā le sam kar rahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Если человек поёт качества Неописуемого Господа и проживает жизнь, считая боль и радость равными,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40330,
+          "is_rahao": false,
+          "gurmukhi": "ਤਉ ਨਾਨਕ ਆਤਮ ਰਾਮ ਕਉ ਲਹੈ ॥੬੨॥",
+          "roman": "tau nānak ātam rām kau lahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "тогда, о Нанак, он обретает Господа, душу всего мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3438,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 40331,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਪਰਸਾਦੀ ਰੰਗੇ ਰਾਤਾ ॥",
+          "roman": "gur parsādī range rātā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Милостью Сатгуру человек окрашивается любовью к Господу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40332,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਮ੍ਰਿਤੁ ਪੀਆ ਸਾਚੇ ਮਾਤਾ ॥",
+          "roman": "amrit pīā sāche mātā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он пьёт амрит Имени и остаётся опьянённым Истинным Господом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40333,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਵੀਚਾਰੀ ਅਗਨਿ ਨਿਵਾਰੀ ॥",
+          "roman": "gur vīchārī agan nivārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Став размышляющим через Гур-Шабд, он гасит огонь жажды."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40334,
+          "is_rahao": false,
+          "gurmukhi": "ਅਪਿਉ ਪੀਓ ਆਤਮ ਸੁਖੁ ਧਾਰੀ ॥",
+          "roman": "apiu pīo ātam sukh dhārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он пьёт амрит Имени и обретает внутренний духовный покой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40335,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚੁ ਅਰਾਧਿਆ ਗੁਰਮੁਖਿ ਤਰੁ ਤਾਰੀ ॥",
+          "roman": "sach arādhiā gurmukh tar tārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Идя путём Гуру и вспоминая Истинного Господа, переправься через труднопроходимый океан."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40336,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਬੂਝੈ ਕੋ ਵੀਚਾਰੀ ॥੬੩॥",
+          "roman": "nānak būjhē ko vīchārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но, о Нанак, лишь редкий размышляющий человек понимает это."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40337,
+          "is_rahao": false,
+          "gurmukhi": "ਇਹੁ ਮਨੁ ਮੈਗਲੁ ਕਹਾ ਬਸੀਅਲੇ ਕਹਾ ਬਸੈ ਇਹੁ ਪਵਨਾ ॥",
+          "roman": "ih man mēgal kahā basīale kahā basē ih pavnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Вопрос: где пребывает этот ум, подобный опьянённому слону? Где пребывают эти дыхания?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40338,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਾ ਬਸੈ ਸੁ ਸਬਦੁ ਅਉਧੂ ਤਾ ਕਉ ਚੂਕੈ ਮਨ ਕਾ ਭਵਨਾ ॥",
+          "roman": "kahā basē so sabad audhū tā kau chūkē man kā bhavnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О авадху, где пребывает тот Шабд, благодаря которому прекращается блуждание ума?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40339,
+          "is_rahao": false,
+          "gurmukhi": "ਨਦਰਿ ਕਰੇ ਤਾ ਸਤਿਗੁਰੁ ਮੇਲੇ ਤਾ ਨਿਜ ਘਰਿ ਵਾਸਾ ਇਹੁ ਮਨੁ ਪਾਏ ॥",
+          "roman": "nadar kare tā satgur mele tā nij ghar vāsā ih man pāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ответ: если Господь проявит милостивый взгляд, Он соединяет с Сатгуру, и тогда ум обретает пребывание в собственном доме."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40340,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪੈ ਆਪੁ ਖਾਇ ਤਾ ਨਿਰਮਲੁ ਹੋਵੈ ਧਾਵਤੁ ਵਰਜਿ ਰਹਾਏ ॥",
+          "roman": "āpē āp khāe tā nirmal hovē dhāvat varaj rahāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда ум пожирает сам себя, то есть прекращает свои колебания, он становится чистым и удерживается от бега к майе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40341,
+          "is_rahao": false,
+          "gurmukhi": "ਕਿਉ ਮੂਲੁ ਪਛਾਣੈ ਆਤਮੁ ਜਾਣੈ ਕਿਉ ਸਸਿ ਘਰਿ ਸੂਰੁ ਸਮਾਵੈ ॥",
+          "roman": "kiu mūl pachhāṇē ātam jāṇē kiu sas ghar sūr samāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Вопрос: как человек распознаёт Первоначало и понимает свою душу? Как солнце может войти в дом луны?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40342,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਮੁਖਿ ਹਉਮੈ ਵਿਚਹੁ ਖੋਵੈ ਤਉ ਨਾਨਕ ਸਹਜਿ ਸਮਾਵੈ ॥੬੪॥",
+          "roman": "gurmukh haumē vichah khovē tau nānak sahaj samāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ответ: Гурмукх устраняет Хоумэ изнутри; тогда, о Нанак, он погружается в состояние сахадж."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3439,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 40343,
+          "is_rahao": false,
+          "gurmukhi": "ਇਹੁ ਮਨੁ ਨਿਹਚਲੁ ਹਿਰਦੈ ਵਸੀਅਲੇ ਗੁਰਮੁਖਿ ਮੂਲੁ ਪਛਾਣਿ ਰਹੈ ॥",
+          "roman": "ih man nihchal hirdē vasīale gurmukh mūl pachhāṇ rahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда человек, следуя Гуру, распознаёт Первоначало-Господа, этот ум становится неподвижным и пребывает в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40344,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਭਿ ਪਵਨੁ ਘਰਿ ਆਸਣਿ ਬੈਸੈ ਗੁਰਮੁਖਿ ਖੋਜਤ ਤਤੁ ਲਹੈ ॥",
+          "roman": "nābh pavan ghar āsaṇ bēsē gurmukh khojat tat lahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Дыхание сидит на своём сиденье в доме пупка; исследуя через Гуру, человек находит суть."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40345,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁ ਸਬਦੁ ਨਿਰੰਤਰਿ ਨਿਜ ਘਰਿ ਆਛੈ ਤ੍ਰਿਭਵਣ ਜੋਤਿ ਸੁ ਸਬਦਿ ਲਹੈ ॥",
+          "roman": "su sabad nirantar nij ghar āchhē tribhavaṇ jot su sabad lahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Этот Шабд непрерывно пребывает в своём истинном доме; через Шабд человек находит свет Господа, пронизывающий три мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40346,
+          "is_rahao": false,
+          "gurmukhi": "ਖਾਵੈ ਦੂਖ ਭੂਖ ਸਾਚੇ ਕੀ ਸਾਚੇ ਹੀ ਤ੍ਰਿਪਤਾਸਿ ਰਹੈ ॥",
+          "roman": "khāvē dūkh bhūkh sāche kī sāche hī triptās rahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По мере того как растёт жажда встречи с Истинным Господом, человек уничтожает страдания и остаётся насыщенным только в Истинном."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40347,
+          "is_rahao": false,
+          "gurmukhi": "ਅਨਹਦ ਬਾਣੀ ਗੁਰਮੁਖਿ ਜਾਣੀ ਬਿਰਲੋ ਕੋ ਅਰਥਾਵੈ ॥",
+          "roman": "anhad bāṇī gurmukh jāṇī birlo ko arthāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Лишь редкий Гурмукх познал непрерывный божественный поток жизни; лишь редкий понимает этот смысл."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40348,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕੁ ਆਖੈ ਸਚੁ ਸੁਭਾਖੈ ਸਚਿ ਰਪੈ ਰੰਗੁ ਕਬਹੂ ਨ ਜਾਵੈ ॥੬੫॥",
+          "roman": "nānak ākhē sach subhākhē sach rapē rang kabhū na jāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак говорит: тот, кто понимает это, вспоминает Истинного, окрашивается Истинным, и этот цвет никогда не сходит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40349,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾ ਇਹੁ ਹਿਰਦਾ ਦੇਹ ਨ ਹੋਤੀ ਤਉ ਮਨੁ ਕੈਠੈ ਰਹਤਾ ॥",
+          "roman": "jā ih hirdā deh na hotī tau man kēṭhē rahatā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Вопрос: когда не было ни этого сердца, ни этого тела, где пребывал ум, сознательная сущность?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40350,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਭਿ ਕਮਲ ਅਸਥੰਭੁ ਨ ਹੋਤੋ ਤਾ ਪਵਨੁ ਕਵਨ ਘਰਿ ਸਹਤਾ ॥",
+          "roman": "nābh kamal asthambh na hoto tā pavan kavan ghar sehatā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было опоры лотоса пупка, в каком доме дыхание находило опору?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40351,
+          "is_rahao": false,
+          "gurmukhi": "ਰੂਪੁ ਨ ਹੋਤੋ ਰੇਖ ਨ ਕਾਈ ਤਾ ਸਬਦਿ ਕਹਾ ਲਿਵ ਲਾਈ ॥",
+          "roman": "rūp na hoto rekh na kāī tā sabad kahā liv lāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было ни формы, ни очертаний, где Шабд был соединён любовным вниманием?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40352,
+          "is_rahao": false,
+          "gurmukhi": "ਰਕਤੁ ਬਿੰਦੁ ਕੀ ਮੜੀ ਨ ਹੋਤੀ ਮਿਤਿ ਕੀਮਤਿ ਨਹੀ ਪਾਈ ॥",
+          "roman": "rakat bind kī maṛī na hotī mit kīmat nahī pāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было тела, созданного из крови матери и семени отца, как ум соединялся с Тем, чью меру и цену невозможно определить?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40353,
+          "is_rahao": false,
+          "gurmukhi": "ਵਰਨੁ ਭੇਖੁ ਅਸਰੂਪੁ ਨ ਜਾਪੀ ਕਿਉ ਕਰਿ ਜਾਪਸਿ ਸਾਚਾ ॥",
+          "roman": "varan bhekh asrūp na jāpī kiu kar jāpas sāchā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Как познаётся Вечный Господь, чей цвет, облик и форма не видимы?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40354,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਨਾਮਿ ਰਤੇ ਬੈਰਾਗੀ ਇਬ ਤਬ ਸਾਚੋ ਸਾਚਾ ॥੬੬॥",
+          "roman": "nānak nām rate bērāgī ib tab sācho sāchā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ответ: о Нанак, отрешённому, окрашенному Именем Господа, всегда — и теперь, и тогда — явлен только Истинный Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40355,
+          "is_rahao": false,
+          "gurmukhi": "ਹਿਰਦਾ ਦੇਹ ਨ ਹੋਤੀ ਅਉਧੂ ਤਉ ਮਨੁ ਸੁੰਨਿ ਰਹੈ ਬੈਰਾਗੀ ॥",
+          "roman": "hirdā deh na hotī audhū tau man sunn rahē bērāgī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ответ: о авадху, когда не было ни сердца, ни тела, тогда отрешённый ум пребывал в Ниргун Господе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40356,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਭਿ ਕਮਲੁ ਅਸਥੰਭੁ ਨ ਹੋਤੋ ਤਾ ਨਿਜ ਘਰਿ ਬਸਤਉ ਪਵਨੁ ਅਨਰਾਗੀ ॥",
+          "roman": "nābh kamal asthambh na hoto tā nij ghar bastau pavan anrāgī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было опоры лотоса пупка, тогда дыхание, будучи влюблённым, пребывало в своём истинном доме — в Господе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40357,
+          "is_rahao": false,
+          "gurmukhi": "ਰੂਪੁ ਨ ਰੇਖਿਆ ਜਾਤਿ ਨ ਹੋਤੀ ਤਉ ਅਕੁਲੀਣਿ ਰਹਤਉ ਸਬਦੁ ਸੁ ਸਾਰੁ ॥",
+          "roman": "rūp na rekhiā jāt na hotī tau akulīṇ rahtau sabad su sār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было ни формы, ни очертаний, ни существования мира, тогда этот превосходный Шабд пребывал в Господе, свободном от рода."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 40358,
+          "is_rahao": false,
+          "gurmukhi": "ਗਉਨੁ ਗਗਨੁ ਜਬ ਤਬਹਿ ਨ ਹੋਤਉ ਤ੍ਰਿਭਵਣ ਜੋਤਿ ਆਪੇ ਨਿਰੰਕਾਰੁ ॥",
+          "roman": "gaun gagan jab tabah na hotau tribhavaṇ jot āpe nirankār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда не было ни движения мира, ни неба, тогда бесформенный Сам был светом трёх миров."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

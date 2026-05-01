@@ -1,0 +1,879 @@
+[
+  {
+    "id": "jap",
+    "order": 1,
+    "name_en": "Jap",
+    "name_gu": "ਜਪੁ",
+    "name_ru": "Джап",
+    "type": "preamble",
+    "ang_start": 1,
+    "ang_end": 8,
+    "verse_count": 385,
+    "shabad_count": 39,
+    "authors": [
+      "m1"
+    ]
+  },
+  {
+    "id": "so_dar",
+    "order": 2,
+    "name_en": "So Dar",
+    "name_gu": "ਸੋ ਦਰੁ",
+    "name_ru": "Со Дар",
+    "type": "preamble",
+    "ang_start": 8,
+    "ang_end": 10,
+    "verse_count": 84,
+    "shabad_count": 5,
+    "authors": [
+      "m1",
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "so_purakh",
+    "order": 3,
+    "name_en": "So Purakh",
+    "name_gu": "ਸੋ ਪੁਰਖੁ",
+    "name_ru": "Со Пуркх",
+    "type": "preamble",
+    "ang_start": 10,
+    "ang_end": 12,
+    "verse_count": 64,
+    "shabad_count": 4,
+    "authors": [
+      "m4",
+      "m1",
+      "m5"
+    ]
+  },
+  {
+    "id": "sohila",
+    "order": 4,
+    "name_en": "Sohila",
+    "name_gu": "ਸੋਹਿਲਾ",
+    "name_ru": "Сохила",
+    "type": "preamble",
+    "ang_start": 12,
+    "ang_end": 13,
+    "verse_count": 54,
+    "shabad_count": 5,
+    "authors": [
+      "m1",
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "siree_raag",
+    "order": 5,
+    "name_en": "Siree Raag",
+    "name_gu": "ਸਿਰੀ ਰਾਗੁ",
+    "name_ru": "Сири Раг",
+    "type": "section",
+    "ang_start": 14,
+    "ang_end": 93,
+    "verse_count": 3152,
+    "shabad_count": 216,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m2",
+      "kabir",
+      "trilochan",
+      "beni",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_maajh",
+    "order": 6,
+    "name_en": "Raag Maajh",
+    "name_gu": "ਰਾਗੁ ਮਾਝ",
+    "name_ru": "Раг Маджх",
+    "type": "raag",
+    "ang_start": 94,
+    "ang_end": 150,
+    "verse_count": 2492,
+    "shabad_count": 180,
+    "authors": [
+      "m4",
+      "m5",
+      "m1",
+      "m3",
+      "m2"
+    ]
+  },
+  {
+    "id": "raag_gauree",
+    "order": 7,
+    "name_en": "Raag Gauree",
+    "name_gu": "ਰਾਗੁ ਗਉੜੀ",
+    "name_ru": "Раг Гауре",
+    "type": "raag",
+    "ang_start": 151,
+    "ang_end": 346,
+    "verse_count": 9552,
+    "shabad_count": 918,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m9",
+      "kabir",
+      "namdev",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_aasaa",
+    "order": 8,
+    "name_en": "Raag Aasaa",
+    "name_gu": "ਰਾਗੁ ਆਸਾ",
+    "name_ru": "Раг Аса",
+    "type": "raag",
+    "ang_start": 347,
+    "ang_end": 488,
+    "verse_count": 6180,
+    "shabad_count": 451,
+    "authors": [
+      "m1",
+      "m4",
+      "m3",
+      "m5",
+      "m9",
+      "m2",
+      "kabir",
+      "namdev",
+      "ravidas",
+      "dhanna",
+      "farid"
+    ]
+  },
+  {
+    "id": "raag_gujri",
+    "order": 9,
+    "name_en": "Raag Gujri",
+    "name_gu": "ਰਾਗੁ ਗੂਜਰੀ",
+    "name_ru": "Раг Гуджри",
+    "type": "raag",
+    "ang_start": 489,
+    "ang_end": 526,
+    "verse_count": 1466,
+    "shabad_count": 194,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "kabir",
+      "namdev",
+      "ravidas",
+      "trilochan",
+      "jaidev"
+    ]
+  },
+  {
+    "id": "raag_dayv_gandhaaree",
+    "order": 10,
+    "name_en": "Raag Dayv Gandhaaree",
+    "name_gu": "ਰਾਗੁ ਦੇਵਗੰਧਾਰੀ",
+    "name_ru": "Раг Дев Гандхари",
+    "type": "raag",
+    "ang_start": 527,
+    "ang_end": 536,
+    "verse_count": 345,
+    "shabad_count": 49,
+    "authors": [
+      "m4",
+      "m5",
+      "m9"
+    ]
+  },
+  {
+    "id": "raag_bihaagraa",
+    "order": 11,
+    "name_en": "Raag Bihaagraa",
+    "name_gu": "ਰਾਗੁ ਬਿਹਾਗੜਾ",
+    "name_ru": "Раг Бихагра",
+    "type": "raag",
+    "ang_start": 537,
+    "ang_end": 556,
+    "verse_count": 709,
+    "shabad_count": 81,
+    "authors": [
+      "m5",
+      "m9",
+      "m4",
+      "m3",
+      "mardana",
+      "kabir",
+      "m1"
+    ]
+  },
+  {
+    "id": "raag_vadhans",
+    "order": 12,
+    "name_en": "Raag Vadhans",
+    "name_gu": "ਰਾਗੁ ਵਡਹੰਸੁ",
+    "name_ru": "Раг Вадханс",
+    "type": "raag",
+    "ang_start": 557,
+    "ang_end": 594,
+    "verse_count": 1423,
+    "shabad_count": 123,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "raag_sorath",
+    "order": 13,
+    "name_en": "Raag Sorath",
+    "name_gu": "ਰਾਗੁ ਸੋਰਠਿ",
+    "name_ru": "Раг Сорат",
+    "type": "raag",
+    "ang_start": 595,
+    "ang_end": 659,
+    "verse_count": 2635,
+    "shabad_count": 258,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m9",
+      "m2",
+      "kabir",
+      "namdev",
+      "ravidas",
+      "bhikhan"
+    ]
+  },
+  {
+    "id": "raag_dhanaasree",
+    "order": 14,
+    "name_en": "Raag Dhanaasree",
+    "name_gu": "ਰਾਗੁ ਧਨਾਸਰੀ",
+    "name_ru": "Раг Дханасри",
+    "type": "raag",
+    "ang_start": 660,
+    "ang_end": 695,
+    "verse_count": 1405,
+    "shabad_count": 118,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m9",
+      "kabir",
+      "namdev",
+      "ravidas",
+      "trilochan",
+      "sain",
+      "pipa",
+      "dhanna"
+    ]
+  },
+  {
+    "id": "raag_jaithsree",
+    "order": 15,
+    "name_en": "Raag Jaithsree",
+    "name_gu": "ਰਾਗੁ ਜੈਤਸਰੀ",
+    "name_ru": "Раг Джайтсри",
+    "type": "raag",
+    "ang_start": 696,
+    "ang_end": 710,
+    "verse_count": 588,
+    "shabad_count": 79,
+    "authors": [
+      "m4",
+      "m5",
+      "m9",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_todee",
+    "order": 16,
+    "name_en": "Raag Todee",
+    "name_gu": "ਰਾਗੁ ਟੋਡੀ",
+    "name_ru": "Раг Тоди",
+    "type": "raag",
+    "ang_start": 711,
+    "ang_end": 718,
+    "verse_count": 280,
+    "shabad_count": 34,
+    "authors": [
+      "m4",
+      "m5",
+      "m9",
+      "namdev"
+    ]
+  },
+  {
+    "id": "raag_baihaaree",
+    "order": 17,
+    "name_en": "Raag Baihaaree",
+    "name_gu": "ਰਾਗੁ ਬੈਹਾਗੜਾ",
+    "name_ru": "Раг Байхари",
+    "type": "raag",
+    "ang_start": 719,
+    "ang_end": 720,
+    "verse_count": 51,
+    "shabad_count": 7,
+    "authors": [
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "raag_tilang",
+    "order": 18,
+    "name_en": "Raag Tilang",
+    "name_gu": "ਰਾਗੁ ਤਿਲੰਗ",
+    "name_ru": "Раг Тиланг",
+    "type": "raag",
+    "ang_start": 721,
+    "ang_end": 727,
+    "verse_count": 272,
+    "shabad_count": 20,
+    "authors": [
+      "m1",
+      "m4",
+      "m5",
+      "m9",
+      "kabir",
+      "namdev"
+    ]
+  },
+  {
+    "id": "raag_soohee",
+    "order": 19,
+    "name_en": "Raag Soohee",
+    "name_gu": "ਰਾਗੁ ਸੂਹੀ",
+    "name_ru": "Раг Сухи",
+    "type": "raag",
+    "ang_start": 728,
+    "ang_end": 794,
+    "verse_count": 2646,
+    "shabad_count": 207,
+    "authors": [
+      "m1",
+      "m4",
+      "m5",
+      "m3",
+      "m2",
+      "kabir",
+      "ravidas",
+      "farid"
+    ]
+  },
+  {
+    "id": "raag_bilaaval",
+    "order": 20,
+    "name_en": "Raag Bilaaval",
+    "name_gu": "ਰਾਗੁ ਬਿਲਾਵਲੁ",
+    "name_ru": "Раг Билавал",
+    "type": "raag",
+    "ang_start": 795,
+    "ang_end": 858,
+    "verse_count": 2603,
+    "shabad_count": 230,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m9",
+      "kabir",
+      "namdev",
+      "ravidas",
+      "sadhna"
+    ]
+  },
+  {
+    "id": "raag_gond",
+    "order": 21,
+    "name_en": "Raag Gond",
+    "name_gu": "ਰਾਗੁ ਗੋਂਡ",
+    "name_ru": "Раг Гонд",
+    "type": "raag",
+    "ang_start": 859,
+    "ang_end": 875,
+    "verse_count": 829,
+    "shabad_count": 51,
+    "authors": [
+      "m4",
+      "m5",
+      "kabir",
+      "namdev",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_raamkalee",
+    "order": 22,
+    "name_en": "Raag Raamkalee",
+    "name_gu": "ਰਾਗੁ ਰਾਮਕਲੀ",
+    "name_ru": "Раг Рамкали",
+    "type": "raag",
+    "ang_start": 876,
+    "ang_end": 974,
+    "verse_count": 4455,
+    "shabad_count": 341,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m9",
+      "sundar",
+      "kabir",
+      "m2",
+      "satta_balvand",
+      "namdev",
+      "ravidas",
+      "beni"
+    ]
+  },
+  {
+    "id": "raag_nat_naaraayan",
+    "order": 23,
+    "name_en": "Raag Nat Naaraayan",
+    "name_gu": "ਰਾਗੁ ਨਟ ਨਾਰਾਇਨ",
+    "name_ru": "Раг Нат Нараян",
+    "type": "raag",
+    "ang_start": 975,
+    "ang_end": 983,
+    "verse_count": 290,
+    "shabad_count": 26,
+    "authors": [
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "raag_maalee_gauraa",
+    "order": 24,
+    "name_en": "Raag Maalee Gauraa",
+    "name_gu": "ਰਾਗੁ ਮਾਲੀ ਗਉੜਾ",
+    "name_ru": "Раг Мали Гаура",
+    "type": "raag",
+    "ang_start": 984,
+    "ang_end": 988,
+    "verse_count": 201,
+    "shabad_count": 17,
+    "authors": [
+      "m4",
+      "m5",
+      "namdev"
+    ]
+  },
+  {
+    "id": "raag_maaroo",
+    "order": 25,
+    "name_en": "Raag Maaroo",
+    "name_gu": "ਰਾਗੁ ਮਾਰੂ",
+    "name_ru": "Раг Мару",
+    "type": "raag",
+    "ang_start": 989,
+    "ang_end": 1106,
+    "verse_count": 5167,
+    "shabad_count": 322,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m9",
+      "m2",
+      "kabir",
+      "namdev",
+      "jaidev",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_tukhaari",
+    "order": 26,
+    "name_en": "Raag Tukhaari",
+    "name_gu": "ਰਾਗੁ ਤੁਖਾਰੀ",
+    "name_ru": "Раг Тукхари",
+    "type": "raag",
+    "ang_start": 1107,
+    "ang_end": 1117,
+    "verse_count": 377,
+    "shabad_count": 27,
+    "authors": [
+      "m1",
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "raag_kaydaaraa",
+    "order": 27,
+    "name_en": "Raag Kaydaaraa",
+    "name_gu": "ਰਾਗੁ ਕੇਦਾਰਾ",
+    "name_ru": "Раг Кедара",
+    "type": "raag",
+    "ang_start": 1118,
+    "ang_end": 1124,
+    "verse_count": 227,
+    "shabad_count": 25,
+    "authors": [
+      "m4",
+      "m5",
+      "kabir",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_bhairao",
+    "order": 28,
+    "name_en": "Raag Bhairao",
+    "name_gu": "ਰਾਗੁ ਭੈਰਉ",
+    "name_ru": "Раг Бхайро",
+    "type": "raag",
+    "ang_start": 1125,
+    "ang_end": 1167,
+    "verse_count": 2124,
+    "shabad_count": 132,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "kabir",
+      "namdev",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_basant",
+    "order": 29,
+    "name_en": "Raag Basant",
+    "name_gu": "ਰਾਗੁ ਬਸੰਤੁ",
+    "name_ru": "Раг Басант",
+    "type": "raag",
+    "ang_start": 1168,
+    "ang_end": 1196,
+    "verse_count": 1447,
+    "shabad_count": 89,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m9",
+      "kabir",
+      "ramanand",
+      "namdev",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_saarang",
+    "order": 30,
+    "name_en": "Raag Saarang",
+    "name_gu": "ਰਾਗੁ ਸਾਰੰਗ",
+    "name_ru": "Раг Саранг",
+    "type": "raag",
+    "ang_start": 1197,
+    "ang_end": 1253,
+    "verse_count": 2205,
+    "shabad_count": 285,
+    "authors": [
+      "m1",
+      "m4",
+      "m5",
+      "m9",
+      "m3",
+      "m2",
+      "kabir",
+      "namdev",
+      "parmanand",
+      "surdas"
+    ]
+  },
+  {
+    "id": "raag_malaar",
+    "order": 31,
+    "name_en": "Raag Malaar",
+    "name_gu": "ਰਾਗੁ ਮਲਾਰ",
+    "name_ru": "Раг Малар",
+    "type": "raag",
+    "ang_start": 1254,
+    "ang_end": 1293,
+    "verse_count": 1629,
+    "shabad_count": 160,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "m2",
+      "namdev",
+      "ravidas"
+    ]
+  },
+  {
+    "id": "raag_kaanraa",
+    "order": 32,
+    "name_en": "Raag Kaanraa",
+    "name_gu": "ਰਾਗੁ ਕਾਨੜਾ",
+    "name_ru": "Раг Канра",
+    "type": "raag",
+    "ang_start": 1294,
+    "ang_end": 1318,
+    "verse_count": 904,
+    "shabad_count": 115,
+    "authors": [
+      "m4",
+      "m5",
+      "namdev"
+    ]
+  },
+  {
+    "id": "raag_kalyaan",
+    "order": 33,
+    "name_en": "Raag Kalyaan",
+    "name_gu": "ਰਾਗੁ ਕਲਿਆਨ",
+    "name_ru": "Раг Калян",
+    "type": "raag",
+    "ang_start": 1319,
+    "ang_end": 1326,
+    "verse_count": 260,
+    "shabad_count": 23,
+    "authors": [
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "raag_prabhaatee",
+    "order": 34,
+    "name_en": "Raag Prabhaatee",
+    "name_gu": "ਰਾਗੁ ਪ੍ਰਭਾਤੀ",
+    "name_ru": "Раг Прабхати",
+    "type": "raag",
+    "ang_start": 1327,
+    "ang_end": 1351,
+    "verse_count": 1072,
+    "shabad_count": 68,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5",
+      "kabir",
+      "namdev",
+      "beni"
+    ]
+  },
+  {
+    "id": "raag_jaijaavantee",
+    "order": 35,
+    "name_en": "Raag Jaijaavantee",
+    "name_gu": "ਰਾਗੁ ਜੈਜਾਵੰਤੀ",
+    "name_ru": "Раг Джайджавантэ",
+    "type": "raag",
+    "ang_start": 1352,
+    "ang_end": 1353,
+    "verse_count": 33,
+    "shabad_count": 4,
+    "authors": [
+      "m9"
+    ]
+  },
+  {
+    "id": "salok_sehskritee",
+    "order": 36,
+    "name_en": "Salok Sehskritee",
+    "name_gu": "ਸਲੋਕ ਸਹਸਕ੍ਰਿਤੀ",
+    "name_ru": "Шлок Санскрит",
+    "type": "appendix",
+    "ang_start": 1353,
+    "ang_end": 1360,
+    "verse_count": 260,
+    "shabad_count": 63,
+    "authors": [
+      "m1",
+      "m5"
+    ]
+  },
+  {
+    "id": "fifth_mehl_gaathaa",
+    "order": 37,
+    "name_en": "Fifth Mehl, Gaathaa",
+    "name_gu": "ਗਾਥਾ ਮਹਲਾ ੫",
+    "name_ru": "Гатха, Махла 5",
+    "type": "appendix",
+    "ang_start": 1360,
+    "ang_end": 1361,
+    "verse_count": 59,
+    "shabad_count": 1,
+    "authors": [
+      "m5"
+    ]
+  },
+  {
+    "id": "phunhay_fifth_mehl",
+    "order": 38,
+    "name_en": "Phunhay Fifth Mehl",
+    "name_gu": "ਫੁਨਹੇ ਮਹਲਾ ੫",
+    "name_ru": "Пхунхэ, Махла 5",
+    "type": "appendix",
+    "ang_start": 1361,
+    "ang_end": 1363,
+    "verse_count": 94,
+    "shabad_count": 1,
+    "authors": [
+      "m5"
+    ]
+  },
+  {
+    "id": "chaubolas_fifth_mehl",
+    "order": 39,
+    "name_en": "Chaubolas Fifth Mehl",
+    "name_gu": "ਚਉਬੋਲੇ ਮਹਲਾ ੫",
+    "name_ru": "Чаубола, Махла 5",
+    "type": "appendix",
+    "ang_start": 1363,
+    "ang_end": 1364,
+    "verse_count": 23,
+    "shabad_count": 1,
+    "authors": [
+      "m5"
+    ]
+  },
+  {
+    "id": "salok_kabeer_jee",
+    "order": 40,
+    "name_en": "Salok Kabeer Jee",
+    "name_gu": "ਸਲੋਕ ਕਬੀਰ ਜੀਉ",
+    "name_ru": "Шлок Кабира",
+    "type": "appendix",
+    "ang_start": 1364,
+    "ang_end": 1377,
+    "verse_count": 493,
+    "shabad_count": 242,
+    "authors": [
+      "kabir",
+      "m3"
+    ]
+  },
+  {
+    "id": "salok_fareed_jee",
+    "order": 41,
+    "name_en": "Salok Fareed Jee",
+    "name_gu": "ਸਲੋਕ ਫਰੀਦ ਜੀਉ",
+    "name_ru": "Шлок Фарида",
+    "type": "appendix",
+    "ang_start": 1377,
+    "ang_end": 1384,
+    "verse_count": 297,
+    "shabad_count": 125,
+    "authors": [
+      "farid",
+      "m3"
+    ]
+  },
+  {
+    "id": "svaiyay_mehl_5",
+    "order": 42,
+    "name_en": "Svaiyay Mehl 5",
+    "name_gu": "ਸਵਈਏ ਮਹਲੇ ਪੰਜਵੇ ਕੇ",
+    "name_ru": "Свайе, Махла 5",
+    "type": "appendix",
+    "ang_start": 1385,
+    "ang_end": 1410,
+    "verse_count": 781,
+    "shabad_count": 142,
+    "authors": [
+      "m5",
+      "bhatt_kal",
+      "bhatt_kalsahar",
+      "bhatt_tal",
+      "bhatt_jal",
+      "bhatt_kirat",
+      "bhatt_bhikha",
+      "bhatt_sal",
+      "bhatt_bal",
+      "bhatt_nal",
+      "bhatt_gyand",
+      "bhatt_mathura",
+      "bhatt_harbans"
+    ]
+  },
+  {
+    "id": "salok_vaaraan_thay_vadheek",
+    "order": 43,
+    "name_en": "Salok Vaaraan Thay Vadheek",
+    "name_gu": "ਸਲੋਕ ਵਾਰਾਂ ਤੇ ਵਧੀਕ",
+    "name_ru": "Шлок, Вааран тхэ вадхик",
+    "type": "appendix",
+    "ang_start": 1410,
+    "ang_end": 1426,
+    "verse_count": 600,
+    "shabad_count": 6,
+    "authors": [
+      "m1",
+      "m3",
+      "m4",
+      "m5"
+    ]
+  },
+  {
+    "id": "salok_mehl_9",
+    "order": 44,
+    "name_en": "Salok Mehl 9",
+    "name_gu": "ਸਲੋਕੁ ਮਹਲਾ ੯",
+    "name_ru": "Шлок, Махла 9",
+    "type": "appendix",
+    "ang_start": 1426,
+    "ang_end": 1429,
+    "verse_count": 117,
+    "shabad_count": 57,
+    "authors": [
+      "m9"
+    ]
+  },
+  {
+    "id": "mundhaavanee_fifth_mehl",
+    "order": 45,
+    "name_en": "Mundhaavanee Fifth Mehl",
+    "name_gu": "ਮੁੰਦਾਵਣੀ ਮਹਲਾ ੫",
+    "name_ru": "Мундхавани, Махла 5",
+    "type": "appendix",
+    "ang_start": 1429,
+    "ang_end": 1429,
+    "verse_count": 12,
+    "shabad_count": 3,
+    "authors": [
+      "m5"
+    ]
+  },
+  {
+    "id": "raag_maalaa",
+    "order": 46,
+    "name_en": "Raag Maalaa",
+    "name_gu": "ਰਾਗਮਾਲਾ",
+    "name_ru": "Раг Мала",
+    "type": "appendix",
+    "ang_start": 1429,
+    "ang_end": 1430,
+    "verse_count": 61,
+    "shabad_count": 1,
+    "authors": []
+  }
+]

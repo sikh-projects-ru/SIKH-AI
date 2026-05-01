@@ -1,0 +1,785 @@
+{
+  "ang": 985,
+  "shabads": [
+    {
+      "shabad_id": 3638,
+      "rahao_verse_id": 41986,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41984,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਲੀ ਗਉੜਾ ਮਹਲਾ ੪ ॥",
+          "roman": "Mālī Gauṛā mahalā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мали Гаура, Махала 4."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41985,
+          "is_rahao": true,
+          "gurmukhi": "ਸਭਿ ਸਿਧ ਸਾਧਿਕ ਮੁਨਿ ਜਨਾ ਮਨਿ ਭਾਵਨੀ ਹਰਿ ਧਿਆਇਓ ॥",
+          "roman": "sabh sidh sādhik mun janā man bhāvnī har dhiāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Все сиддхи, садхики и муни, утвердив в своём уме веру и любовь к стопам Гуру, медитировали на Всевышнего."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41986,
+          "is_rahao": true,
+          "gurmukhi": "ਅਪਰੰਪਰੋ ਪਾਰਬ੍ਰਹਮੁ ਸੁਆਮੀ ਹਰਿ ਅਲਖੁ ਗੁਰੂ ਲਖਾਇਓ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "aparamparo pārbraham suāmī har alakh gurū lakhāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру показал им того невидимого Хари, бесконечного, верховного Брахма, Владыку, пребывающего внутри."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41987,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਨੀਚ ਮਧਿਮ ਕਰਮ ਕੀਏ ਨਹੀ ਚੇਤਿਓ ਹਰਿ ਰਾਇਓ ॥",
+          "roman": "ham nīch madhim karam kīē nahī chetio har rāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мы, живые существа, совершаем низкие и слабые дела и не помним Господа-Царя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41988,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਆਨਿ ਮੇਲਿਓ ਸਤਿਗੁਰੂ ਖਿਨੁ ਬੰਧ ਮੁਕਤਿ ਕਰਾਇਓ ॥੧॥",
+          "roman": "har ān melio satgurū khin bandh mukat karāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но того, кого Бог привёл к Сатгуру, Гуру в одно мгновение освободил от уз майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41989,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਭਿ ਮਸਤਕੇ ਧੁਰਿ ਲੀਖਿਆ ਗੁਰਮਤੀ ਹਰਿ ਲਿਵ ਲਾਇਓ ॥",
+          "roman": "prabh mastake dhur līkhia gurmatī har liv lāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот человек, на чьём челе Господь от изначальной Даргах записал судьбу встречи с Гуру, приняв наставление Гуру, соединил своё сознание с Богом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41990,
+          "is_rahao": false,
+          "gurmukhi": "ਪੰਚ ਸਬਦ ਦਰਗਹ ਬਾਜਿਆ ਹਰਿ ਮਿਲਿਓ ਮੰਗਲੁ ਗਾਇਓ ॥੨॥",
+          "roman": "panch sabad dargah bājia har milio mangal gāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В присутствии того Бога словно постоянно звучит музыка пяти видов инструментов; по милости Гуру этот человек встретил Бога и всегда поёт песнь хвалы и радости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41991,
+          "is_rahao": false,
+          "gurmukhi": "ਪਤਿਤ ਪਾਵਨੁ ਨਾਮੁ ਨਰਹਰਿ ਮੰਦਭਾਗੀਆਂ ਨਹੀ ਭਾਇਓ ॥",
+          "roman": "patit pāvan nām narhar mandbhāgīā̃ nahī bhāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Имя Бога очищает даже падших, но несчастливым людям Имя Хари не нравится."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41992,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇ ਗਰਭ ਜੋਨੀ ਗਾਲੀਅਹਿ ਜਿਉ ਲੋਨੁ ਜਲਹਿ ਗਲਾਇਓ ॥੩॥",
+          "roman": "te garabh jonī gālīah jiu lon jalah galāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Как соль растворяется в воде, так эти несчастливые люди, оставаясь без Имени, истощаются в бесчисленных утробах и рождениях."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41993,
+          "is_rahao": false,
+          "gurmukhi": "ਮਤਿ ਦੇਹਿ ਹਰਿ ਪ੍ਰਭ ਅਗਮ ਠਾਕੁਰ ਗੁਰ ਚਰਨ ਮਨੁ ਮੈ ਲਾਇਓ ॥",
+          "roman": "mat deh har prabh agam ṭhākur gur charan man mē lāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Хари, о недостижимый Господь, о Владыка, дай мне такой разум, чтобы я держал свой ум соединённым со стопами Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41994,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਰਾਮ ਨਾਮੈ ਰਹਉ ਲਾਗੋ ਜਨ ਨਾਨਕ ਨਾਮਿ ਸਮਾਇਓ ॥੪॥੩॥",
+          "roman": "har rām nāmē rahau lāgo jan Nānak nām samāio",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О раб Нанак, по милости Гуру пусть я остаюсь соединённым с Именем Хари-Рама и пребываю погружённым в Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3639,
+      "rahao_verse_id": 41997,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41995,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਲੀ ਗਉੜਾ ਮਹਲਾ ੪ ॥",
+          "roman": "Mālī Gauṛā mahalā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мали Гаура, Махала 4."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41996,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰਾ ਮਨੁ ਰਾਮ ਨਾਮਿ ਰਸਿ ਲਾਗਾ ॥",
+          "roman": "merā man rām nām ras lāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мой ум соединён с Именем Рама и погружён во вкус Имени Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41997,
+          "is_rahao": true,
+          "gurmukhi": "ਕਮਲ ਪ੍ਰਗਾਸੁ ਭਇਆ ਗੁਰੁ ਪਾਇਆ ਹਰਿ ਜਪਿਓ ਭ੍ਰਮੁ ਭਉ ਭਾਗਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "kamal pragās bhaiā gur pāiā har japio bhram bhau bhāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда я обрёл Гуру, лотос моего сердца расцвёл; я повторяю Имя Бога, и всякое блуждание и всякий страх ушли изнутри."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41998,
+          "is_rahao": false,
+          "gurmukhi": "ਭੈ ਭਾਇ ਭਗਤਿ ਲਾਗੋ ਮੇਰਾ ਹੀਅਰਾ ਮਨੁ ਸੋਇਓ ਗੁਰਮਤਿ ਜਾਗਾ ॥",
+          "roman": "bhē bhāi bhagat lāgo merā hīarā man soio gurmat jāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По благословению наставления Гуру мой спящий ум пробудился; моё сердце пребывает в почтении и любви, занятое преданным служением Господу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41999,
+          "is_rahao": false,
+          "gurmukhi": "ਕਿਲਬਿਖ ਖੀਨ ਭਏ ਸਾਂਤਿ ਆਈ ਹਰਿ ਉਰ ਧਾਰਿਓ ਵਡਭਾਗਾ ॥੧॥",
+          "roman": "kilbikh khīn bhae sānt āī har ur dhārio vaḍbhāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По великой удаче я поселил Бога в сердце; все мои грехи уничтожены, и внутри меня воцарилась прохлада покоя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42000,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਮੁਖੁ ਰੰਗੁ ਕਸੁੰਭੁ ਹੈ ਕਚੂਆ ਜਿਉ ਕੁਸਮ ਚਾਰਿ ਦਿਨ ਚਾਗਾ ॥",
+          "roman": "manmukh rang kasumbh hē kachūā jiu kusam chār din chāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Человек, следующий за своим умом, подобен сафлору с непрочным цветом: цветок сафлора красив лишь несколько дней."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42001,
+          "is_rahao": false,
+          "gurmukhi": "ਖਿਨ ਮਹਿ ਬਿਨਸਿ ਜਾਇ ਪਰਤਾਪੈ ਡੰਡੁ ਧਰਮ ਰਾਇ ਕਾ ਲਾਗਾ ॥੨॥",
+          "roman": "khin meh binas jāe partāpē ḍanḍ dharam rāi kā lāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Его внутренний покой исчезает в одно мгновение, он страдает, и над ним постоянно остаётся кара Дхарам Рая."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42002,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਸੰਗਤਿ ਪ੍ਰੀਤਿ ਸਾਧ ਅਤਿ ਗੂੜੀ ਜਿਉ ਰੰਗੁ ਮਜੀਠ ਬਹੁ ਲਾਗਾ ॥",
+          "roman": "satsangat prīt sādh at gūṛī jiu rang majīṭh bah lāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В Садх Сангат возникает очень глубокая любовь к стопам Гуру; эта любовь становится прочной, как стойкий цвет марены."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42003,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਇਆ ਕਾਪਰੁ ਚੀਰ ਬਹੁ ਫਾਰੇ ਹਰਿ ਰੰਗੁ ਨ ਲਹੈ ਸਭਾਗਾ ॥੩॥",
+          "roman": "kāiā kāpar chīr bah phāre har rang na lahē sabhāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Даже если тело-ткань разрушится и одежды порвутся, благословенный цвет Имени Хари с него не сходит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42004,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਚਾਰ੍ਹਿਓ ਰੰਗੁ ਮਿਲੈ ਗੁਰੁ ਸੋਭਾ ਹਰਿ ਰੰਗਿ ਚਲੂਲੈ ਰਾਂਗਾ ॥",
+          "roman": "har chāṛhio rang milē gur sobhā har rang chalūlē rāṅgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кому встречается Гуру, получает от Гуру цвет Имени Бога; он остаётся окрашенным в глубокий цвет Хари и обретает славу в этом и ином мире."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42005,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕੁ ਤਿਨ ਕੇ ਚਰਨ ਪਖਾਰੈ ਜੋ ਹਰਿ ਚਰਨੀ ਜਨੁ ਲਾਗਾ ॥੪॥੪॥",
+          "roman": "jan Nānak tin ke charan pakhārē jo har charnī jan lāgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Раб Нанак омывает стопы тех слуг-преданных, которые остаются соединёнными со стопами Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3640,
+      "rahao_verse_id": 42008,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42006,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਲੀ ਗਉੜਾ ਮਹਲਾ ੪ ॥",
+          "roman": "Mālī Gauṛā mahalā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мали Гаура, Махала 4."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42007,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰੇ ਮਨ ਭਜੁ ਹਰਿ ਹਰਿ ਨਾਮੁ ਗੁਪਾਲਾ ॥",
+          "roman": "mere man bhaj har har nām gupālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой ум, всегда повторяй Имя Хари, Господа, питающего мир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42008,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰਾ ਮਨੁ ਤਨੁ ਲੀਨੁ ਭਇਆ ਰਾਮ ਨਾਮੈ ਮਤਿ ਗੁਰਮਤਿ ਰਾਮ ਰਸਾਲਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "merā man tan līn bhēā rām nāmē mat gurmat rām rasālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благодаря повторению Имени мой ум и тело, то есть все органы познания, остаются погружёнными в Имя Бога; мой разум слился с наставлением Гуру, и Бог видится мне сокровищницей всех вкусов."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42009,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਮਤਿ ਨਾਮੁ ਧਿਆਈਐ ਹਰਿ ਹਰਿ ਮਨਿ ਜਪੀਐ ਹਰਿ ਜਪਮਾਲਾ ॥",
+          "roman": "gurmat nām dhiāīai har har man japīai har japmālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Приняв наставление Гуру, следует всегда вспоминать Имя Бога; в уме следует совершать джап Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42010,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨੑ ਕੈ ਮਸਤਕਿ ਲੀਖਿਆ ਹਰਿ ਮਿਲਿਆ ਹਰਿ ਬਨਮਾਲਾ ॥੧॥",
+          "roman": "jinh kē mastak līkhia har miliā har banmālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Владыка мира, Бог, встречается только тем людям, на чьём челе записана такая судьба."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42011,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨੑ ਹਰਿ ਨਾਮੁ ਧਿਆਇਆ ਤਿਨੑ ਚੂਕੇ ਸਰਬ ਜੰਜਾਲਾ ॥",
+          "roman": "jinh har nām dhiāiā tinh chūke sarab janjālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "У тех людей, которые повторяли Имя Бога, все мирские путы были устранены."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42012,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਨੑ ਜਮੁ ਨੇੜਿ ਨ ਆਵਈ ਗੁਰਿ ਰਾਖੇ ਹਰਿ ਰਖਵਾਲਾ ॥੨॥",
+          "roman": "tinh jam neṛ na āvaī gur rākhe har rakhvālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Духовная смерть не приближается к ним; Гуру спас их, и Сам Бог стал их защитником."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42013,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਬਾਰਿਕ ਕਿਛੂ ਨ ਜਾਣਹੂ ਹਰਿ ਮਾਤ ਪਿਤਾ ਪ੍ਰਤਿਪਾਲਾ ॥",
+          "roman": "ham bārik kichhū na jāṇhū har māt pitā pratipālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мы, живые существа, дети и ничего не понимаем о своей пользе и вреде; но Бог, как мать и отец, заботится о нас."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42014,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰੁ ਮਾਇਆ ਅਗਨਿ ਨਿਤ ਮੇਲਤੇ ਗੁਰਿ ਰਾਖੇ ਦੀਨ ਦਇਆਲਾ ॥੩॥",
+          "roman": "kar māiā agan nit melte gur rākhe dīn daiālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мы постоянно протягиваем руку в огонь майи, то есть вовлекаем ум в неё, но милостивый к бедным Гуру всегда защищает нас."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42015,
+          "is_rahao": false,
+          "gurmukhi": "ਬਹੁ ਮੈਲੇ ਨਿਰਮਲ ਹੋਇਆ ਸਭ ਕਿਲਬਿਖ ਹਰਿ ਜਸਿ ਜਾਲਾ ॥",
+          "roman": "bah mēle nirmal hoiā sabh kilbikh har jas jālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "С Именем Бога многие великие грешники стали чистыми; слава Хари сожгла все их грехи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42016,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਿ ਅਨਦੁ ਭਇਆ ਗੁਰੁ ਪਾਇਆ ਜਨ ਨਾਨਕ ਸਬਦਿ ਨਿਹਾਲਾ ॥੪॥੫॥",
+          "roman": "man anad bhaiā gur pāiā jan Nānak sabad nihālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О раб Нанак, у человека, который обрёл Гуру, в уме возникла радость; благословением Слова Гуру он стал блаженным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3641,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42017,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਲੀ ਗਉੜਾ ਮਹਲਾ ੪ ॥",
+          "roman": "Mālī Gauṛā mahalā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мали Гаура, Махала 4."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

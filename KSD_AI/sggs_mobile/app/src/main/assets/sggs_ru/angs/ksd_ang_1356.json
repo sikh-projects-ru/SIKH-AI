@@ -1,0 +1,863 @@
+{
+  "ang": 1356,
+  "shabads": [
+    {
+      "shabad_id": 4923,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57716,
+          "is_rahao": false,
+          "gurmukhi": "ਘਟਿ ਘਟਿ ਬਸੰਤ ਬਾਸੁਦੇਵਹ ਪਾਰਬ੍ਰਹਮ ਪਰਮੇਸੁਰਹ ॥",
+          "roman": "ghaṭ ghaṭ basant bāsudevah pārbraham parmesurah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В каждом сердце пребывает Васудев, Парабрахм, Верховный Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57717,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾਚੰਤਿ ਨਾਨਕ ਕ੍ਰਿਪਾਲ ਪ੍ਰਸਾਦੰ ਨਹ ਬਿਸਰੰਤਿ ਨਹ ਬਿਸਰੰਤਿ ਨਾਰਾਇਣਹ ॥੨੧॥",
+          "roman": "jāchant Nānak kripāl prasādaṅ nah bisarant nah bisarant nārāiṇah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак просит милости Милостивого: пусть Нараян никогда не забывается, никогда не забывается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4924,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57718,
+          "is_rahao": false,
+          "gurmukhi": "ਨਹ ਸਮਰਥੰ ਨਹ ਸੇਵਕੰ ਨਹ ਪ੍ਰੀਤਿ ਪਰਮ ਪੁਰਖੋਤਮੰ ॥",
+          "roman": "nah samarathaṅ nah sevakaṅ nah prīt param purakhotamaṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О высший Акал Пуракх, во мне нет ни силы для симрана, ни подлинного служения, ни любви к Твоим стопам."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57719,
+          "is_rahao": false,
+          "gurmukhi": "ਤਵ ਪ੍ਰਸਾਦਿ ਸਿਮਰਤੇ ਨਾਮੰ ਨਾਨਕ ਕ੍ਰਿਪਾਲ ਹਰਿ ਹਰਿ ਗੁਰੰ ॥੨੨॥",
+          "roman": "tav prasād simrate nāmaṅ Nānak kripāl har har guraṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О милостивый Хари, о великий Хари-Гуру, Нанак вспоминает Твоё Имя только по Твоей милости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4925,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57720,
+          "is_rahao": false,
+          "gurmukhi": "ਭਰਣ ਪੋਖਣ ਕਰੰਤ ਜੀਆ ਬਿਸ੍ਰਾਮ ਛਾਦਨ ਦੇਵੰਤ ਦਾਨੰ ॥",
+          "roman": "bharaṇ pokhaṇ karant jīā bisrām chhādan devant dānaṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он питает и поддерживает всех живых существ, даёт им пристанище, одежду и другие дары."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57721,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰਿਜੰਤ ਰਤਨ ਜਨਮ ਚਤੁਰ ਚੇਤਨਹ ॥",
+          "roman": "srijant ratan janam chatur chetanah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он дарует драгоценное человеческое рождение и является всемогущим, сознательным Господом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57722,
+          "is_rahao": false,
+          "gurmukhi": "ਵਰਤੰਤਿ ਸੁਖ ਆਨੰਦ ਪ੍ਰਸਾਦਹ ॥",
+          "roman": "vartant sukh ānand prasādah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По милости этого блаженного Господа живые существа пребывают в покое и радости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57723,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਮਰੰਤ ਨਾਨਕ ਹਰਿ ਹਰਿ ਹਰੇ ॥",
+          "roman": "simarant Nānak har har hare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, те, кто вспоминают Хари, Хари, Хари,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57724,
+          "is_rahao": false,
+          "gurmukhi": "ਅਨਿਤੵ ਰਚਨਾ ਨਿਰਮੋਹ ਤੇ ॥੨੩॥",
+          "roman": "anity rachanā nirmoh te",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "остаются свободными от привязанности к этой преходящей сотворённой игре."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4926,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57725,
+          "is_rahao": false,
+          "gurmukhi": "ਦਾਨੰ ਪਰਾ ਪੂਰਬੇਣ ਭੁੰਚੰਤੇ ਮਹੀਪਤੇ ॥",
+          "roman": "dānaṅ parā pūrabeṇ bhuñchante mahīpate",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Цари владеют царствами и имуществом благодаря заслугам, совершённым в прежних рождениях."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57726,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਪਰੀਤ ਬੁਧੵੰ ਮਾਰਤ ਲੋਕਹ ਨਾਨਕ ਚਿਰੰਕਾਲ ਦੁਖ ਭੋਗਤੇ ॥੨੪॥",
+          "roman": "biprīt budhyaṅ mārat lokah Nānak chiraṅkāl dukh bhogate",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но, о Нанак, в этом смертном мире те, чья мысль из-за этих удовольствий становится извращённой, долго терпят страдания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57727,
+          "is_rahao": false,
+          "gurmukhi": "ਬ੍ਰਿਥਾ ਅਨੁਗ੍ਰਹੰ ਗੋਬਿੰਦਹ ਜਸੵ ਸਿਮਰਣ ਰਿਦੰਤਰਹ ॥",
+          "roman": "brithā anugrahaṅ gobindah jasya simaraṇ ridaṅtarah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Те люди лишены милости Гобинда, чьи сердца пусты от Его памятования."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57728,
+          "is_rahao": false,
+          "gurmukhi": "ਆਰੋਗੵੰ ਮਹਾ ਰੋਗੵੰ ਬਿਸਿਮ੍ਰਿਤੇ ਕਰੁਣਾ ਮਯਹ ॥੨੫॥",
+          "roman": "ārogyaṅ mahā rogyaṅ bisimrite karuṇā mayah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Даже здоровые телом, они тяжко больны, потому что забывают милосердного Гобинда."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4927,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57729,
+          "is_rahao": false,
+          "gurmukhi": "ਰਮਣੰ ਕੇਵਲੰ ਕੀਰਤਨੰ ਸੁਧਰਮੰ ਦੇਹ ਧਾਰਣਹ ॥",
+          "roman": "ramaṇaṅ kevalaṅ kīrtanaṅ sudharamaṅ deh dhāraṇah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Для воплощённых людей высшая дхарма — только воспевать хвалу Господу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57730,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਨਾਰਾਇਣ ਨਾਨਕ ਪੀਵਤੰ ਸੰਤ ਨ ਤ੍ਰਿਪੵਤੇ ॥੨੬॥",
+          "roman": "amrit nām nārāiṇ Nānak pīvataṅ sant na tripyate",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, святые, пьющие нектарное Имя Нараяна, никогда не насыщаются им."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57731,
+          "is_rahao": false,
+          "gurmukhi": "ਸਹਣ ਸੀਲ ਸੰਤੰ ਸਮ ਮਿਤ੍ਰਸੵ ਦੁਰਜਨਹ ॥",
+          "roman": "sahaṇ sīl santaṅ sam mitrasya durjanah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Для святых друг и дурной человек одинаковы; терпение к чужой грубости становится их природой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57732,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਭੋਜਨ ਅਨਿਕ ਪ੍ਰਕਾਰੇਣ ਨਿੰਦਕ ਆਵਧ ਹੋਇ ਉਪਤਿਸਟਤੇ ॥੨੭॥",
+          "roman": "Nānak bhojan anik prakāreṇ nindak āvadh hoi upatisṭate",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, друг приходит к ним с разными яствами, а клеветник — с оружием, но они смотрят на обоих с любовью."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4928,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57733,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਰਸਕਾਰ ਨਹ ਭਵੰਤਿ ਨਹ ਭਵੰਤਿ ਮਾਨ ਭੰਗਨਹ ॥",
+          "roman": "tiraskār nah bhavant nah bhavant mān bhaṅganah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "У тех, кто соединяется с Садх Сангат и повторяет Имя Гобинда, не бывает настоящего бесчестья и унижения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57734,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋਭਾ ਹੀਨ ਨਹ ਭਵੰਤਿ ਨਹ ਪੋਹੰਤਿ ਸੰਸਾਰ ਦੁਖਨਹ ॥",
+          "roman": "sobhā hīn nah bhavant nah pohant sansār dukhanah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Их слава никогда не исчезает, и страдания мира не могут коснуться их."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57735,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਬਿੰਦ ਨਾਮ ਜਪੰਤਿ ਮਿਲਿ ਸਾਧ ਸੰਗਹ ਨਾਨਕ ਸੇ ਪ੍ਰਾਣੀ ਸੁਖ ਬਾਸਨਹ ॥੨੮॥",
+          "roman": "gobind nām japant mil sādh saṅgah Nānak se prāṇī sukh bāsanah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, те люди, кто вместе с Садх Сангат повторяют Имя Гобинда, живут в покое."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4929,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57736,
+          "is_rahao": false,
+          "gurmukhi": "ਸੈਨਾ ਸਾਧ ਸਮੂਹ ਸੂਰ ਅਜਿਤੰ ਸੰਨਾਹੰ ਤਨਿ ਨਿੰਮ੍ਰਤਾਹ ॥",
+          "roman": "sēnā sādh samūh sūr ajitaṅ sannāhaṅ tan nimratāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Святые — это войско непобедимых героев; смиренная природа — их броня на теле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57737,
+          "is_rahao": false,
+          "gurmukhi": "ਆਵਧਹ ਗੁਣ ਗੋਬਿੰਦ ਰਮਣੰ ਓਟ ਗੁਰ ਸਬਦ ਕਰ ਚਰਮਣਹ ॥",
+          "roman": "āvdhah guṇ gobind ramaṇaṅ oṭ gur sabad kar charmaṇah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Воспевание качеств Гобинда — их оружие, а опора на Гур-Шабад — щит в их руке."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57738,
+          "is_rahao": false,
+          "gurmukhi": "ਆਰੂੜਤੇ ਅਸ੍ਵ ਰਥ ਨਾਗਹ ਬੁਝੰਤੇ ਪ੍ਰਭ ਮਾਰਗਹ ॥",
+          "roman": "ārūṛate asva rath nāgah bujhante prabh māragah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Они ищут путь к соединению с Господом; это словно их езда на конях, колесницах и слонах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57739,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਚਰਤੇ ਨਿਰਭਯੰ ਸਤ੍ਰੁ ਸੈਨਾ ਧਾਯੰਤੇ ਗੋੁਪਾਲ ਕੀਰਤਨਹ ॥",
+          "roman": "bicharte nirbhayaṅ satr sēnā dhāyaṅte gupāl kīrtanah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "С помощью хвалы Гупала они нападают на войско врагов — страстей — и бесстрашно ходят среди них."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57740,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਤਤੇ ਬਿਸ੍ਵ ਸੰਸਾਰਹ ਨਾਨਕ ਵਸੵੰ ਕਰੋਤਿ ਪੰਚ ਤਸਕਰਹ ॥੨੯॥",
+          "roman": "jitate bisva sansārah Nānak vasyaṅ karot pañch taskarah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, святые подчиняют себе пять воров, которые побеждают весь мир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4930,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57741,
+          "is_rahao": false,
+          "gurmukhi": "ਮ੍ਰਿਗ ਤ੍ਰਿਸਨਾ ਗੰਧਰਬ ਨਗਰੰ ਦ੍ਰੁਮ ਛਾਯਾ ਰਚਿ ਦੁਰਮਤਿਹ ॥",
+          "roman": "mrig trisnā gandharab nagaraṅ drum chhāyā rach durmatih",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Человек дурного разума принимает за истину мираж, воздушный город и тень дерева."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57742,
+          "is_rahao": false,
+          "gurmukhi": "ਤਤਹ ਕੁਟੰਬ ਮੋਹ ਮਿਥੵਾ ਸਿਮਰੰਤਿ ਨਾਨਕ ਰਾਮ ਰਾਮ ਨਾਮਹ ॥੩੦॥",
+          "roman": "tatah kuṭamb moh mithyā simarant Nānak rām rām nāmah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Такова же ложная привязанность к семье; о Нанак, оставив её, святые вспоминают Имя Рам, Рам."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57743,
+          "is_rahao": false,
+          "gurmukhi": "ਨਚ ਬਿਦਿਆ ਨਿਧਾਨ ਨਿਗਮੰ ਨਚ ਗੁਣਗੵ ਨਾਮ ਕੀਰਤਨਹ ॥",
+          "roman": "nach bidiā nidhān nigamaṅ nach guṇagya nām kīrtanah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я не сокровищница ведического знания, не знаток достоинств, и у меня нет силы воспевать Имя Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57744,
+          "is_rahao": false,
+          "gurmukhi": "ਨਚ ਰਾਗ ਰਤਨ ਕੰਠੰ ਨਹ ਚੰਚਲ ਚਤੁਰ ਚਾਤੁਰਹ ॥",
+          "roman": "nach rāg ratan kaṇṭhaṅ nah chañchal chatur chāturah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В моём горле нет драгоценных раг, и я не ловок, не искусен и не мудр среди мудрых."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57745,
+          "is_rahao": false,
+          "gurmukhi": "ਭਾਗ ਉਦਿਮ ਲਬਧੵੰ ਮਾਇਆ ਨਾਨਕ ਸਾਧਸੰਗਿ ਖਲ ਪੰਡਿਤਹ ॥੩੧॥",
+          "roman": "bhāg udim labdhyaṅ māiā Nānak sādh saṅg khal paṇḍitah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Майя обретается усилием согласно прежней судьбе; но, о Нанак, в Садх Сангат даже глупец становится мудрым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4931,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57746,
+          "is_rahao": false,
+          "gurmukhi": "ਕੰਠ ਰਮਣੀਯ ਰਾਮ ਰਾਮ ਮਾਲਾ ਹਸਤ ਊਚ ਪ੍ਰੇਮ ਧਾਰਣੀ ॥",
+          "roman": "kaṇṭh ramaṇīya rām rām mālā hast ūch prem dhāraṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто делает повторение Рам, Рам прекрасной гирляндой на своём горле, а пребывание любви в сердце — мешочком для чёток,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57747,
+          "is_rahao": false,
+          "gurmukhi": "ਜੀਹ ਭਣਿ ਜੋ ਉਤਮ ਸਲੋਕ ਉਧਰਣੰ ਨੈਨ ਨੰਦਨੀ ॥੩੨॥",
+          "roman": "jīh bhaṇ jo utam salok udharaṇaṅ nēn nandanī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "кто языком произносит возвышенную речь хвалы, тот спасается от влияния радующей глаза майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4932,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57748,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਮੰਤ੍ਰ ਹੀਣਸੵ ਜੋ ਪ੍ਰਾਣੀ ਧ੍ਰਿਗੰਤ ਜਨਮ ਭ੍ਰਸਟਣਹ ॥",
+          "roman": "gur mantra hīṇasya jo prāṇī dhrigant janam bhraśṭaṇah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Человек, лишённый наставления Сатгуру, с испорченным разумом, имеет достойную порицания жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 57749,
+          "is_rahao": false,
+          "gurmukhi": "ਕੂਕਰਹ ਸੂਕਰਹ ਗਰਧਭਹ ਕਾਕਹ ਸਰਪਨਹ ਤੁਲਿ ਖਲਹ ॥੩੩॥",
+          "roman": "kūkarah sūkarah gardhabhah kākah sarpanah tul khalah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Такого глупца считай равным собаке, свинье, ослу, вороне и змее."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4933,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 57750,
+          "is_rahao": false,
+          "gurmukhi": "ਚਰਣਾਰਬਿੰਦ ਭਜਨੰ ਰਿਦਯੰ ਨਾਮ ਧਾਰਣਹ ॥",
+          "roman": "charaṇārabind bhajanaṅ ridayaṅ nām dhāraṇah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто утверждает в сердце Имя Господа и вспоминает Его лотосные стопы, не подпускает к себе пороки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

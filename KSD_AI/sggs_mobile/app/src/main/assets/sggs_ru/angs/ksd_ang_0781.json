@@ -1,0 +1,791 @@
+{
+  "ang": 781,
+  "shabads": [
+    {
+      "shabad_id": 2907,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 33180,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕਉ ਪ੍ਰਭ ਕਿਰਪਾ ਕੀਜੈ ਨੇਤ੍ਰ ਦੇਖਹਿ ਦਰਸੁ ਤੇਰਾ ॥੧॥",
+          "roman": "Nānak kau prabh kirpā kījē netra dekheh daras terā. ||1||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Господи, яви милость Нанаку, чтобы его глаза видели твой даршан."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33181,
+          "is_rahao": false,
+          "gurmukhi": "ਕੋਟਿ ਕਰਨ ਦੀਜਹਿ ਪ੍ਰਭ ਪ੍ਰੀਤਮ ਹਰਿ ਗੁਣ ਸੁਣੀਅਹਿ ਅਬਿਨਾਸੀ ਰਾਮ ॥",
+          "roman": "Koṭ karan dījeh prabh prītam har guṇ suṇīeh abināsī rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О возлюбленный Господь, о бессмертный Хари, если мне будут даны миллионы ушей, ими можно будет слушать твои достоинства."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33182,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਣਿ ਸੁਣਿ ਇਹੁ ਮਨੁ ਨਿਰਮਲੁ ਹੋਵੈ ਕਟੀਐ ਕਾਲ ਕੀ ਫਾਸੀ ਰਾਮ ॥",
+          "roman": "Suṇ suṇ ih man nirmal hovē kaṭīē kāl kī phāsī rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Слушая вновь и вновь хвалу Господу, этот ум становится чистым, и петля духовной смерти разрывается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33183,
+          "is_rahao": false,
+          "gurmukhi": "ਕਟੀਐ ਜਮ ਫਾਸੀ ਸਿਮਰਿ ਅਬਿਨਾਸੀ ਸਗਲ ਮੰਗਲ ਸੁਗਿਆਨਾ ॥",
+          "roman": "Kaṭīē jam phāsī simar abināsī sagal maṅgal sugiānā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Памятованием бессмертного Господа разрывается петля Джама; внутри рождаются радость и добрая духовная мудрость."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33184,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਜਪੁ ਜਪੀਐ ਦਿਨੁ ਰਾਤੀ ਲਾਗੈ ਸਹਜਿ ਧਿਆਨਾ ॥",
+          "roman": "Har har jap japīē din rātī lāgē sahaj dhiānā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Днём и ночью следует повторять имя Хари; благодаря имени внимание пребывает в естественной духовной устойчивости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33185,
+          "is_rahao": false,
+          "gurmukhi": "ਕਲਮਲ ਦੁਖ ਜਾਰੇ ਪ੍ਰਭੂ ਚਿਤਾਰੇ ਮਨ ਕੀ ਦੁਰਮਤਿ ਨਾਸੀ ॥",
+          "roman": "Kalmal dukh jāre prabhū chitāre man kī durmat nāsī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда имя Господа поселено в сердце, сгорают все грехи и страдания, и дурное мышление ума исчезает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33186,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਭ ਕਿਰਪਾ ਕੀਜੈ ਹਰਿ ਗੁਣ ਸੁਣੀਅਹਿ ਅਵਿਨਾਸੀ ॥੨॥",
+          "roman": "Kaho Nānak prabh kirpā kījē har guṇ suṇīeh avināsī. ||2||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Скажи, Нанак: о Господь, яви милость, чтобы этими ушами можно было слушать достоинства бессмертного Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33187,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰੋੜਿ ਹਸਤ ਤੇਰੀ ਟਹਲ ਕਮਾਵਹਿ ਚਰਣ ਚਲਹਿ ਪ੍ਰਭ ਮਾਰਗਿ ਰਾਮ ॥",
+          "roman": "Karoṛ hast terī ṭahal kamāveh charaṇ chaleh prabh mārag rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, у тех, на кого есть твоя милость, миллионы рук служат тебе, и миллионы ног идут по твоему пути."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33188,
+          "is_rahao": false,
+          "gurmukhi": "ਭਵ ਸਾਗਰ ਨਾਵ ਹਰਿ ਸੇਵਾ ਜੋ ਚੜੈ ਤਿਸੁ ਤਾਰਗਿ ਰਾਮ ॥",
+          "roman": "Bhav sāgar nāv har sevā jo chaṛē tis tārag rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Служение Хари — лодка для переправы через океан мира; кто входит в неё, того Господь переправляет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33189,
+          "is_rahao": false,
+          "gurmukhi": "ਭਵਜਲੁ ਤਰਿਆ ਹਰਿ ਹਰਿ ਸਿਮਰਿਆ ਸਗਲ ਮਨੋਰਥ ਪੂਰੇ ॥",
+          "roman": "Bhavjal tariā har har simariā sagal manorath pūre.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кто помнил Хари, тот переправился через океан мира; все его желания Господь исполнил."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33190,
+          "is_rahao": false,
+          "gurmukhi": "ਮਹਾ ਬਿਕਾਰ ਗਏ ਸੁਖ ਉਪਜੇ ਬਾਜੇ ਅਨਹਦ ਤੂਰੇ ॥",
+          "roman": "Mahā bikār gae sukh upje bāje anhad tūre.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Великие пороки уходят, внутри рождается покой, словно начинают звучать непрерывные небесные трубы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33191,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਬਾਂਛਤ ਫਲ ਪਾਏ ਸਗਲੇ ਕੁਦਰਤਿ ਕੀਮ ਅਪਾਰਗਿ ॥",
+          "roman": "Man bāṅchhat phal pāe sagle kudrat kīm apārag.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Такой человек получает все плоды, желанные его умом; твоей безмерной силе невозможно назначить цену."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33192,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਭ ਕਿਰਪਾ ਕੀਜੈ ਮਨੁ ਸਦਾ ਚਲੈ ਤੇਰੈ ਮਾਰਗਿ ॥੩॥",
+          "roman": "Kaho Nānak prabh kirpā kījē man sadā chalē terē mārag. ||3||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Скажи, Нанак: о Господь, яви милость, чтобы мой ум всегда шёл по твоему пути."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33193,
+          "is_rahao": false,
+          "gurmukhi": "ਏਹੋ ਵਰੁ ਏਹਾ ਵਡਿਆਈ ਇਹੁ ਧਨੁ ਹੋਇ ਵਡਭਾਗਾ ਰਾਮ ॥",
+          "roman": "Eho var ehā vaḍiāī ih dhan hoe vaḍbhāgā rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Для человека, чей ум соединён с Господом, пребывание в имени — это благословение, это величие, это богатство и великая удача."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33194,
+          "is_rahao": false,
+          "gurmukhi": "ਏਹੋ ਰੰਗੁ ਏਹੋ ਰਸ ਭੋਗਾ ਹਰਿ ਚਰਣੀ ਮਨੁ ਲਾਗਾ ਰਾਮ ॥",
+          "roman": "Eho raṅg eho ras bhogā har charṇī man lāgā rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда ум прилепился к стопам Хари, это и есть для него все краски мира и вкушение всех наслаждений."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33195,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਲਾਗਾ ਚਰਣੇ ਪ੍ਰਭ ਕੀ ਸਰਣੇ ਕਰਣ ਕਾਰਣ ਗੋਪਾਲਾ ॥",
+          "roman": "Man lāgā charṇe prabh kī sarṇe karaṇ kāraṇ gopālā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Его ум привязан к стопам Господа; он пребывает в прибежище Гопала, первоосновы всего мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33196,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭੁ ਕਿਛੁ ਤੇਰਾ ਤੂ ਪ੍ਰਭੁ ਮੇਰਾ ਮੇਰੇ ਠਾਕੁਰ ਦੀਨ ਦਇਆਲਾ ॥",
+          "roman": "Sabh kichh terā tū prabh merā mere ṭhākur dīn daiālā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Господь, о мой Тхакур, милостивый к смиренным, всё принадлежит тебе, и ты — мой Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33197,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਿ ਨਿਰਗੁਣ ਪ੍ਰੀਤਮ ਸੁਖ ਸਾਗਰ ਸੰਤਸੰਗਿ ਮਨੁ ਜਾਗਾ ॥",
+          "roman": "Moh nirguṇ prītam sukh sāgar satsang man jāgā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О возлюбленный, океан покоя, по твоей милости мой лишённый достоинств ум пробудился в обществе святых."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33198,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਭਿ ਕਿਰਪਾ ਕੀਨੑੀ ਚਰਣ ਕਮਲ ਮਨੁ ਲਾਗਾ ॥੪॥੩॥੬॥",
+          "roman": "Kaho Nānak prabh kīnhī charaṇ kamal man lāgā. ||4||3||6||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Скажи, Нанак: когда Господь явил милость, мой ум слился с его прекрасными лотосными стопами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2908,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 33199,
+          "is_rahao": false,
+          "gurmukhi": "ਸੂਹੀ ਮਹਲਾ ੫ ॥",
+          "roman": "Sūhī mahallā 5.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Сухи, Пятый Махала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33200,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜਪੇ ਹਰਿ ਮੰਦਰੁ ਸਾਜਿਆ ਸੰਤ ਭਗਤ ਗੁਣ ਗਾਵਹਿ ਰਾਮ ॥",
+          "roman": "Har jape har mandar sājiā sant bhagat guṇ gāveh rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Господь создал этот дом-тело для повторения имени Хари; в нём святые и преданные поют достоинства Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33201,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਮਰਿ ਸਿਮਰਿ ਸੁਆਮੀ ਪ੍ਰਭੁ ਅਪਨਾ ਸਗਲੇ ਪਾਪ ਤਜਾਵਹਿ ਰਾਮ ॥",
+          "roman": "Simar simar suāmī prabh apnā sagle pāp tajāveh rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Снова и снова вспоминая своего Владыку-Господа, святые удаляют изнутри все грехи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33202,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਗੁਣ ਗਾਇ ਪਰਮ ਪਦੁ ਪਾਇਆ ਪ੍ਰਭ ਕੀ ਊਤਮ ਬਾਣੀ ॥",
+          "roman": "Har guṇ gāe param pad pāiā prabh kī ūttam bāṇī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В этом теле-доме святые, воспевая высшую бани Господа и его достоинства, достигли высшего духовного состояния."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33203,
+          "is_rahao": false,
+          "gurmukhi": "ਸਹਜ ਕਥਾ ਪ੍ਰਭ ਕੀ ਅਤਿ ਮੀਠੀ ਕਥੀ ਅਕਥ ਕਹਾਣੀ ॥",
+          "roman": "Sahaj kathā prabh kī at mīṭhī kathī akath kahāṇī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Они произнесли чрезвычайно сладкую хвалу Господу, рождающую духовную устойчивость, — повествование о том, кого невозможно полностью описать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33204,
+          "is_rahao": false,
+          "gurmukhi": "ਭਲਾ ਸੰਜੋਗੁ ਮੂਰਤੁ ਪਲੁ ਸਾਚਾ ਅਬਿਚਲ ਨੀਵ ਰਖਾਈ ॥",
+          "roman": "Bhalā sañjog mūrat pal sāchā abichal nīv rakhāī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда Господь милостив, наступает благой союз, истинный миг, в который закладывается неподвижная основа хвалы Господу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33205,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਪ੍ਰਭ ਭਏ ਦਇਆਲਾ ਸਰਬ ਕਲਾ ਬਣਿ ਆਈ ॥੧॥",
+          "roman": "Jan Nānak prabh bhae daiālā sarab kalā baṇ āī. ||1||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О раб Нанак, когда Господь становится милостивым, внутри рождается полная духовная сила."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33206,
+          "is_rahao": false,
+          "gurmukhi": "ਆਨੰਦਾ ਵਜਹਿ ਨਿਤ ਵਾਜੇ ਪਾਰਬ੍ਰਹਮੁ ਮਨਿ ਵੂਠਾ ਰਾਮ ॥",
+          "roman": "Ānandā vajeh nit vāje pārbrahm man vūṭhā rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда Парабрахм поселяется в уме человека, в его храме-теле постоянно звучат словно инструменты духовной радости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33207,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਮੁਖੇ ਸਚੁ ਕਰਣੀ ਸਾਰੀ ਬਿਨਸੇ ਭ੍ਰਮ ਭੈ ਝੂਠਾ ਰਾਮ ॥",
+          "roman": "Gurmukhe sach karṇī sārī binse bhram bhē jhūṭhā rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Следуя лицом к Гуру, памятование вечного имени Хари становится его высшим делом, а все заблуждения, страхи и ложь исчезают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33208,
+          "is_rahao": false,
+          "gurmukhi": "ਅਨਹਦ ਬਾਣੀ ਗੁਰਮੁਖਿ ਵਖਾਣੀ ਜਸੁ ਸੁਣਿ ਸੁਣਿ ਮਨੁ ਤਨੁ ਹਰਿਆ ॥",
+          "roman": "Anhad bāṇī gurmukh vakhāṇī jas suṇ suṇ man tan hariā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гурмукх непрестанно произносит бани хвалы; слушая славу Господа снова и снова, его ум и тело оживают духовно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33209,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਬ ਸੁਖਾ ਤਿਸ ਹੀ ਬਣਿ ਆਏ ਜੋ ਪ੍ਰਭਿ ਅਪਨਾ ਕਰਿਆ ॥",
+          "roman": "Sarab sukhā tis hī baṇ āe jo prabh apnā kariā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Все виды покоя собираются внутри того, кого Господь сделал своим."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33210,
+          "is_rahao": false,
+          "gurmukhi": "ਘਰ ਮਹਿ ਨਵ ਨਿਧਿ ਭਰੇ ਭੰਡਾਰਾ ਰਾਮ ਨਾਮਿ ਰੰਗੁ ਲਾਗਾ ॥",
+          "roman": "Ghar mah nav nidh bhare bhaṇḍārā rām nām raṅg lāgā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "У того, кто полюбил имя Рам, в доме сердца словно наполняются хранилища девяти сокровищ."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33211,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਜਨ ਪ੍ਰਭੁ ਕਦੇ ਨ ਵਿਸਰੈ ਪੂਰਨ ਜਾ ਕੇ ਭਾਗਾ ॥੨॥",
+          "roman": "Nānak jan prabh kade na visrē pūran jā ke bhāgā. ||2||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак: тот раб, чья судьба полностью пробудилась, никогда не забывает Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33212,
+          "is_rahao": false,
+          "gurmukhi": "ਛਾਇਆ ਪ੍ਰਭਿ ਛਤ੍ਰਪਤਿ ਕੀਨੑੀ ਸਗਲੀ ਤਪਤਿ ਬਿਨਾਸੀ ਰਾਮ ॥",
+          "roman": "Chhāiā prabh chhatrapat kīnhī saglī tapat bināsī rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда Господь-Царь положил на человека свою защитную тень, вся внутренняя жгучесть пороков исчезла."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33213,
+          "is_rahao": false,
+          "gurmukhi": "ਦੂਖ ਪਾਪ ਕਾ ਡੇਰਾ ਢਾਠਾ ਕਾਰਜੁ ਆਇਆ ਰਾਸੀ ਰਾਮ ॥",
+          "roman": "Dūkh pāp kā ḍerā ḍhāṭhā kāraj āiā rāsī rām.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Обитель страданий и грехов рухнула, и жизненная цель этого человека была успешно исполнена."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 33214,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਪ੍ਰਭਿ ਫੁਰਮਾਇਆ ਮਿਟੀ ਬਲਾਇਆ ਸਾਚੁ ਧਰਮੁ ਪੁੰਨੁ ਫਲਿਆ ॥",
+          "roman": "Har prabh phurmāiā miṭī balāiā sāch dharam punn phaliā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Хари-Господь издал повеление, беда исчезла, и внутри начали возрастать вечное памятование имени, истинная праведность и благой плод."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "ang": 1210,
+  "shabads": [
+    {
+      "shabad_id": 4292,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 51931,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਣ ਨਿਧਾਨ ਮਨਮੋਹਨ ਲਾਲਨ ਸੁਖਦਾਈ ਸਰਬਾਂਗੈ ॥",
+          "roman": "guṇ nidhān manmōhan lālan sukhdāī sarbāṅgē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ! ਹੇ ਮਨ ਨੂੰ ਮੋਹਣ ਵਾਲੇ! ਹੇ ਸੋਹਣੇ ਲਾਲ! ਹੇ ਸਾਰੇ ਸੁਖ ਦੇਣ ਵਾਲੇ! ਹੇ ਸਭ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ!"
+            },
+            "sahib_singh_ru": {
+              "main": "О сокровищница достоинств! О пленяющий ум! О прекрасный Лал! О дарующий все счастья! О пронизывающий всех существ!"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51932,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਿ ਨਾਨਕ ਪ੍ਰਭ ਪਾਹਿ ਪਠਾਇਓ ਮਿਲਹੁ ਸਖਾ ਗਲਿ ਲਾਗੈ ॥੨॥੫॥੨੮॥",
+          "roman": "gur nānak prabh pāhi paṭhāiō milhu sakhā gal lāgē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ! ਹੇ ਮਿੱਤਰ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਨਾਨਕ (ਨੂੰ) ਗੁਰੂ ਨੇ (ਤੇਰੇ) ਪਾਸ ਭੇਜਿਆ ਹੈ, ਮੈਨੂੰ ਗਲ ਲੱਗ ਕੇ ਮਿਲ ॥੨॥੫॥੨੮॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Прабху! О друг-Прабху! Меня, Нанака, Гуру послал к Тебе; встреть меня, обняв за шею. ॥2॥5॥28॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4293,
+      "rahao_verse_id": 51935,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 51933,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਰਗ ਮਹਲਾ ੫ ॥",
+          "roman": "sārag mahalā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51934,
+          "is_rahao": true,
+          "gurmukhi": "ਅਬ ਮੋਰੋ ਠਾਕੁਰ ਸਿਉ ਮਨੁ ਮਾਨਾਂ ॥",
+          "roman": "ab moro ṭhākur siu man mānāṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੁਣ ਮੇਰਾ ਮਨ ਮਾਲਕ-ਪ੍ਰਭੂ ਨਾਲ (ਸਦਾ) ਗਿੱਝਿਆ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь мой ум всегда привык оставаться с Владыкой-Прабху."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51935,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਧ ਕ੍ਰਿਪਾਲ ਦਇਆਲ ਭਏ ਹੈ ਇਹੁ ਛੇਦਿਓ ਦੁਸਟੁ ਬਿਗਾਨਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "sādh kripāl dēāl bhaē hē ih chhedio dusṭ bigānā. 1. rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਸੰਤ ਜਨ ਮੇਰੇ ਉੱਤੇ ਤ੍ਰੁੱਠ ਪਏ ਦਇਆਵਾਨ ਹੋਏ, (ਤਾਂ ਮੈਂ ਆਪਣੇ ਅੰਦਰੋਂ ਪਰਮਾਤਮਾ ਨਾਲੋਂ) ਇਹ ਭੈੜਾ ਓਪਰਾ-ਪਨ ਕੱਟ ਦਿੱਤਾ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда святые люди смилостивились надо мной и стали милосердными, тогда я отсёк внутри себя эту дурную чуждость по отношению к Всевышнему. 1. Рахау."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51936,
+          "is_rahao": false,
+          "gurmukhi": "ਤੁਮ ਹੀ ਸੁੰਦਰ ਤੁਮਹਿ ਸਿਆਨੇ ਤੁਮ ਹੀ ਸੁਘਰ ਸੁਜਾਨਾ ॥",
+          "roman": "tum hī sundar tumah siāne tum hī sughar sujānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੁਣ, ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਹੀ ਮੈਨੂੰ ਸੋਹਣਾ ਲੱਗਦਾ ਹੈਂ, ਤੂੰ ਹੀ ਸਿਆਣਾ ਜਾਪਦਾ ਹੈਂ, ਤੂੰ ਹੀ ਸੋਹਣੀ ਆਤਮਕ ਘਾੜਤ ਵਾਲਾ ਤੇ ਸੁਜਾਨ ਦਿੱਸਦਾ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь, о Прабху, только Ты кажешься мне прекрасным, только Ты кажешься мудрым, только Ты видишься обладающим прекрасной духовной сформированностью и проницательностью."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51937,
+          "is_rahao": false,
+          "gurmukhi": "ਸਗਲ ਜੋਗ ਅਰੁ ਗਿਆਨ ਧਿਆਨ ਇਕ ਨਿਮਖ ਨ ਕੀਮਤਿ ਜਾਨਾਂ ॥੧॥",
+          "roman": "sagal jog ar giān dhiān ik nimakh na kīmat jānāṅ. 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋਗ-ਸਾਧਨ, ਗਿਆਨ-ਚਰਚਾ ਕਰਨ ਵਾਲੇ ਅਤੇ ਸਮਾਧੀਆਂ ਲਾਣ ਵਾਲੇ-ਇਹਨਾਂ ਸਭਨਾਂ ਨੇ, ਹੇ ਪ੍ਰਭੂ! ਅੱਖ ਝਮਕਣ ਜਿਤਨੇ ਸਮੇ ਲਈ ਭੀ ਤੇਰੀ ਕਦਰ ਨਹੀਂ ਸਮਝੀ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Практики йоги, обсуждающие знание и погружающиеся в самадхи — все они, о Прабху, даже на мгновение ока не поняли Твоей ценности. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51938,
+          "is_rahao": false,
+          "gurmukhi": "ਤੁਮ ਹੀ ਨਾਇਕ ਤੁਮੑਹਿ ਛਤ੍ਰਪਤਿ ਤੁਮ ਪੂਰਿ ਰਹੇ ਭਗਵਾਨਾ ॥",
+          "roman": "tum hī nāik tumhah chhatrapat tum pūr rahe bhagvānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਗਵਾਨ! ਤੂੰ ਹੀ (ਸਭ ਜੀਵਾਂ ਦਾ) ਮਾਲਕ ਹੈਂ, ਤੂੰ ਹੀ (ਸਭ ਰਾਜਿਆਂ ਦਾ) ਰਾਜਾ ਹੈਂ, ਤੂੰ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਵਿਆਪਕ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Бхагаван, Ты один — Владыка всех существ, Ты один — Царь всех царей, Ты пронизываешь всё творение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51939,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਵਉ ਦਾਨੁ ਸੰਤ ਸੇਵਾ ਹਰਿ ਨਾਨਕ ਸਦ ਕੁਰਬਾਨਾਂ ॥੨॥੬॥੨੯॥",
+          "roman": "pāvau dān sant sevā har nānak sad kurbānāṅ. 2. 6. 29",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਹਰੀ! (ਮਿਹਰ ਕਰ, ਤੇਰੇ ਦਰ ਤੋਂ) ਮੈਂ ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਦਾ ਖੈਰ ਹਾਸਲ ਕਰਾਂ, ਮੈਂ ਨਾਨਕ ਸੰਤ ਜਨਾਂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਜਾਵਾਂ ॥੨॥੬॥੨੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Хари, прояви милость, чтобы я получил у Твоих дверей дар служения святым людям; я, Нанак, всегда жертвую собой ради святых людей. 2. 6. 29."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4294,
+      "rahao_verse_id": 51942,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 51940,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਰਗ ਮਹਲਾ ੫ ॥",
+          "roman": "sārag mahalā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51941,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰੈ ਮਨਿ ਚੀਤਿ ਆਏ ਪ੍ਰਿਅ ਰੰਗਾ ॥",
+          "roman": "merē man chīt āē pria raṅgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਦੋਂ ਤੋਂ ਸਾਧ ਸੰਗਤ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਪਿਆਰੇ ਪ੍ਰਭੂ ਦੇ ਕੌਤਕ ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਚਿੱਤ ਵਿਚ ਆ ਵੱਸੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "С тех пор как, благодаря садх сангат, чудесные проявления любимого Прабху поселились в моём уме и в моём сознании,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51942,
+          "is_rahao": true,
+          "gurmukhi": "ਬਿਸਰਿਓ ਧੰਧੁ ਬੰਧੁ ਮਾਇਆ ਕੋ ਰਜਨਿ ਸਬਾਈ ਜੰਗਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "bisrio dhaṅdh bandh māiā ko rajan sabāī jaṅgā. 1. rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਨੂੰ ਮਾਇਆ ਵਾਲੀ ਭਟਕਣ ਭੁੱਲ ਗਈ ਹੈ, ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਫਾਹੀ ਮੁੱਕ ਗਈ ਹੈ, ਮੇਰੀ ਸਾਰੀ ਉਮਰ-ਰਾਤ (ਵਿਕਾਰਾਂ ਨਾਲ) ਜੰਗ ਕਰਦਿਆਂ ਬੀਤ ਰਹੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "я забыл блуждание, связанное с майей; петля привязанности к майе исчезла; вся ночь моей жизни проходит в борьбе с пороками. 1. Рахау."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51943,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਸੇਵਉ ਹਰਿ ਰਿਦੈ ਬਸਾਵਉ ਹਰਿ ਪਾਇਆ ਸਤਸੰਗਾ ॥",
+          "roman": "har sevau har ridē basāvau har pāiā satsaṅgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਤੋਂ ਮੈਂ ਪ੍ਰਭੂ ਦੀ ਸਾਧ ਸੰਗਤ ਪ੍ਰਾਪਤ ਕੀਤੀ ਹੈ, ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਮੈਂ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖਦਾ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "С тех пор как я обрёл садх сангат Прабху, я продолжаю вспоминать Всевышнего и держу Всевышнего поселённым в своём сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51944,
+          "is_rahao": false,
+          "gurmukhi": "ਐਸੋ ਮਿਲਿਓ ਮਨੋਹਰੁ ਪ੍ਰੀਤਮੁ ਸੁਖ ਪਾਏ ਮੁਖ ਮੰਗਾ ॥੧॥",
+          "roman": "aiso milio manohar prītam sukh pāē mukh maṅgā. 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਨ ਨੂੰ ਮੋਹਣ ਵਾਲਾ ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ ਇਸ ਤਰ੍ਹਾਂ ਮੈਨੂੰ ਮਿਲ ਗਿਆ ਹੈ ਕਿ ਮੈਂ ਮੂੰਹ-ਮੰਗੇ ਸੁਖ ਹਾਸਲ ਕਰ ਲਏ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Возлюбленный Прабху, пленяющий ум, встретился мне так, что я получил желанные радости. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51945,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਿਉ ਅਪਨਾ ਗੁਰਿ ਬਸਿ ਕਰਿ ਦੀਨਾ ਭੋਗਉ ਭੋਗ ਨਿਸੰਗਾ ॥",
+          "roman": "priau apnā gur bas kar dīnā bhogau bhog nisaṅgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਨੇ ਪਿਆਰਾ ਪ੍ਰਭੂ ਮੇਰੇ (ਪਿਆਰ ਦੇ) ਵੱਸ ਵਿਚ ਕਰ ਦਿੱਤਾ ਹੈ, ਹੁਣ (ਕਾਮਾਦਿਕਾਂ ਦੀ) ਰੁਕਾਵਟ ਤੋਂ ਬਿਨਾ ਮੈਂ ਉਸ ਦੇ ਮਿਲਾਪ ਦਾ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру подчинил любимого Прабху моей любви; теперь без препятствий со стороны похоти и прочего я продолжаю наслаждаться духовной радостью Его союза."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51946,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਭਉ ਭਏ ਨਾਨਕ ਭਉ ਮਿਟਿਆ ਹਰਿ ਪਾਇਓ ਪਾਠੰਗਾ ॥੨॥੭॥੩੦॥",
+          "roman": "nirbhau bhaē nānak bhau miṭiā har pāio pāṭhaṅgā. 2. 7. 30",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਮੈਂ (ਜੀਵਨ ਦਾ) ਆਸਰਾ ਪ੍ਰਭੂ ਲੱਭ ਲਿਆ ਹੈ, ਮੇਰਾ ਹਰੇਕ ਡਰ ਮਿਟ ਗਿਆ ਹੈ, ਮੈਂ (ਕਾਮਾਦਿਕਾਂ ਦੇ ਹੱਲਿਆਂ ਦੇ ਖ਼ਤਰੇ ਤੋਂ) ਨਿਡਰ ਹੋ ਗਿਆ ਹਾਂ ॥੨॥੭॥੩੦॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, я нашёл опору жизни — Прабху; всякий мой страх исчез, и я стал бесстрашным перед опасностью нападений похоти и прочего. 2. 7. 30."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4295,
+      "rahao_verse_id": 51949,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 51947,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਰਗ ਮਹਲਾ ੫ ॥",
+          "roman": "sārag mahalā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51948,
+          "is_rahao": true,
+          "gurmukhi": "ਹਰਿ ਜੀਉ ਕੇ ਦਰਸਨ ਕਉ ਕੁਰਬਾਨੀ ॥",
+          "roman": "har jīu ke darsan kau kurbānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਪ੍ਰਭੂ ਜੀ ਦੇ ਦਰਸਨ ਤੋਂ ਸਦਕੇ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я жертвую собой ради даршана почитаемого Прабху."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51949,
+          "is_rahao": true,
+          "gurmukhi": "ਬਚਨ ਨਾਦ ਮੇਰੇ ਸ੍ਰਵਨਹੁ ਪੂਰੇ ਦੇਹਾ ਪ੍ਰਿਅ ਅੰਕਿ ਸਮਾਨੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "bachan nād mere sravanah pūre dehā pria aṅk samānī. 1. rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਮੇਰੇ ਕੰਨਾਂ ਵਿਚ ਭਰੇ ਰਹਿੰਦੇ ਹਨ, ਮੇਰਾ ਸਰੀਰ ਉਸ ਦੀ ਗੋਦ ਵਿਚ ਲੀਨ ਰਹਿੰਦਾ ਹੈ (ਇਹ ਸਾਰੀ ਗੁਰੂ ਦੀ ਹੀ ਕਿਰਪਾ ਹੈ) ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Песни Его восхваления наполняют мои уши, моё тело остаётся погружённым в Его объятия; всё это — лишь милость Гуру. 1. Рахау."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51950,
+          "is_rahao": false,
+          "gurmukhi": "ਛੂਟਰਿ ਤੇ ਗੁਰਿ ਕੀਈ ਸੋੁਹਾਗਨਿ ਹਰਿ ਪਾਇਓ ਸੁਘੜ ਸੁਜਾਨੀ ॥",
+          "roman": "chhūṭar te gur kīī sohāgan har pāio sughaṛ sujānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਛੁੱਟੜ ਤੋਂ ਸੁਹਾਗਣ ਬਣਾ ਦਿੱਤਾ ਹੈ, ਮੈਂ ਸੋਹਣੀ ਆਤਮਕ ਘਾੜਤ ਵਾਲੇ ਸੁਜਾਨ ਪ੍ਰਭੂ ਦਾ ਮਿਲਾਪ ਹਾਸਲ ਕਰ ਲਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру сделал меня из оставленной счастливой супругой; я обрёл союз с мудрым Прабху, обладающим прекрасной духовной сформированностью."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51951,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਹ ਘਰ ਮਹਿ ਬੈਸਨੁ ਨਹੀ ਪਾਵਤ ਸੋ ਥਾਨੁ ਮਿਲਿਓ ਬਾਸਾਨੀ ॥੧॥",
+          "roman": "jih ghar mah bēsan nahī pāvat so thān milio bāsānī. 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਮੇਰੇ ਮਨ ਨੂੰ) ਉਹ (ਹਰਿ-ਚਰਨ-) ਥਾਂ ਵੱਸਣ ਲਈ ਮਿਲ ਗਿਆ ਹੈ, ਜਿਸ ਥਾਂ ਤੇ (ਅੱਗੇ ਇਹ ਕਦੇ) ਟਿਕਦਾ ਹੀ ਨਹੀਂ ਸੀ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Моему уму досталось для обитания то место у стоп Хари, где раньше он никогда не мог удержаться. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51952,
+          "is_rahao": false,
+          "gurmukhi": "ਉਨੑ ਕੈ ਬਸਿ ਆਇਓ ਭਗਤਿ ਬਛਲੁ ਜਿਨਿ ਰਾਖੀ ਆਨ ਸੰਤਾਨੀ ॥",
+          "roman": "unh kē bas āio bhagat bachhal jin rākhī ān santānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲਾ ਪਰਮਾਤਮਾ ਜਿਸ ਨੇ (ਸਦਾ ਆਪਣੇ) ਸੰਤਾਂ ਦੀ ਲਾਜ ਰੱਖੀ ਹੈ ਉਹਨਾਂ ਸੰਤ ਜਨਾਂ ਦੇ ਪਿਆਰ ਦੇ ਵੱਸ ਵਿਚ ਆਇਆ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Всевышний, любящий преданность, который всегда сохранял честь Своих святых, остаётся подвластным любви этих святых людей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51953,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਹਰਿ ਸੰਗਿ ਮਨੁ ਮਾਨਿਆ ਸਭ ਚੂਕੀ ਕਾਣਿ ਲੋੁਕਾਨੀ ॥੨॥੮॥੩੧॥",
+          "roman": "kah nānak har saṅg man māniā sabh chūkī kāṇ lokānī. 2. 8. 31",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਸੰਤ ਜਨਾਂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਮੇਰਾ ਮਨ ਪਰਮਾਤਮਾ ਨਾਲ ਗਿੱਝ ਗਿਆ ਹੈ, (ਮੇਰੇ ਅੰਦਰੋਂ) ਲੋਕਾਂ ਦੀ ਮੁਥਾਜੀ ਮੁੱਕ ਗਈ ਹੈ ॥੨॥੮॥੩੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Скажи, Нанак: по милости святых людей мой ум привык к Всевышнему, и зависимость от людей исчезла изнутри меня. 2. 8. 31."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4296,
+      "rahao_verse_id": 51956,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 51954,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਰਗ ਮਹਲਾ ੫ ॥",
+          "roman": "sārag mahalā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51955,
+          "is_rahao": true,
+          "gurmukhi": "ਅਬ ਮੇਰੋ ਪੰਚਾ ਤੇ ਸੰਗੁ ਤੂਟਾ ॥",
+          "roman": "ab mero pañchā te saṅg ṭūṭā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੁਣ (ਕਾਮਾਦਿਕ) ਪੰਜਾਂ ਨਾਲੋਂ ਮੇਰਾ ਸਾਥ ਮੁੱਕ ਗਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь моя связь с пятью — похотью и прочими — закончилась."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51956,
+          "is_rahao": true,
+          "gurmukhi": "ਦਰਸਨੁ ਦੇਖਿ ਭਏ ਮਨਿ ਆਨਦ ਗੁਰ ਕਿਰਪਾ ਤੇ ਛੂਟਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "darsan dekh bhaē man ānad gur kirpā te chhūṭā. 1. rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਮੇਰੇ ਅੰਦਰ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਲੁਕਿਆ ਪਿਆ ਸੀ, ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਉਸ ਦਾ) ਦਰਸਨ ਕਰ ਕੇ ਮੇਰੇ ਮਨ ਵਿਚ ਖ਼ੁਸ਼ੀਆਂ ਹੀ ਖ਼ੁਸ਼ੀਆਂ ਬਣ ਗਈਆਂ ਹਨ। ਗੁਰੂ ਦੀ ਮਿਹਰ ਨਾਲ ਮੈਂ (ਕਾਮਾਦਿਕ ਦੀ ਮਾਰ ਤੋਂ) ਬਚ ਗਿਆ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Увидев даршан того сокровища Наам, скрытого внутри меня и открытого через Гуру, в моём уме возникла сплошная радость. По милости Гуру я спасся от ударов похоти и прочего. 1. Рахау."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51957,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਖਮ ਥਾਨ ਬਹੁਤ ਬਹੁ ਧਰੀਆ ਅਨਿਕ ਰਾਖ ਸੂਰੂਟਾ ॥",
+          "roman": "bikham thān bahut bah dharīā anik rākh sūrūṭā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਥਾਂ ਨਾਮ-ਖ਼ਜ਼ਾਨੇ ਧਰੇ ਪਏ ਸਨ, ਉਥੇ ਅੱਪੜਨਾ ਬਹੁਤ ਹੀ ਔਖਾ ਸੀ (ਕਿਉਂਕਿ ਕਾਮਾਦਿਕ) ਅਨੇਕਾਂ ਸੂਰਮੇ (ਰਾਹ ਵਿਚ) ਰਾਖੇ ਬਣੇ ਪਏ ਸਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Место, где были положены сокровища Наам, было очень труднодостижимым, потому что многочисленные воины — похоть и прочие — стояли на пути стражами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51958,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਖਮ ਗਾਰ੍ਹ ਕਰੁ ਪਹੁਚੈ ਨਾਹੀ ਸੰਤ ਸਾਨਥ ਭਏ ਲੂਟਾ ॥੧॥",
+          "roman": "bikham gāṛh kar pahuchē nāhī sant sānath bhaē lūṭā. 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਸ ਦੇ ਦੁਆਲੇ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ) ਬੜੀ ਔਖੀ ਖਾਈ ਬਣੀ ਹੋਈ ਸੀ, (ਉਸ ਖ਼ਜ਼ਾਨੇ ਤਕ) ਹੱਥ ਨਹੀਂ ਸੀ ਪਹੁੰਚਦਾ। ਜਦੋਂ ਸੰਤ ਜਨ ਮੇਰੇ ਸਾਥੀ ਬਣ ਗਏ, (ਉਹ ਟਿਕਾਣਾ) ਲੁੱਟ ਲਿਆ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Вокруг него была очень трудная канава привязанности к майе, и рука не могла дотянуться до этого сокровища. Когда святые люди стали моими спутниками, это место было разграблено. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51959,
+          "is_rahao": false,
+          "gurmukhi": "ਬਹੁਤੁ ਖਜਾਨੇ ਮੇਰੈ ਪਾਲੈ ਪਰਿਆ ਅਮੋਲ ਲਾਲ ਆਖੂਟਾ ॥",
+          "roman": "bahut khajāne merē pālē pariā amol lāl ākhūṭā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਸੰਤ ਜਨਾਂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਹਰਿ-ਨਾਮ ਦੇ ਅਮੋਲਕ ਤੇ ਅਮੁੱਕ ਲਾਲਾਂ ਦੇ ਬਹੁਤ ਖ਼ਜ਼ਾਨੇ ਮੈਨੂੰ ਮਿਲ ਗਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "По милости святых людей мне достались многие сокровища бесценных и неиссякаемых драгоценных камней Хар-Наам."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51960,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਪ੍ਰਭਿ ਕਿਰਪਾ ਧਾਰੀ ਤਉ ਮਨ ਮਹਿ ਹਰਿ ਰਸੁ ਘੂਟਾ ॥੨॥੯॥੩੨॥",
+          "roman": "jan nānak prabh kirpā dhārī tau man mah har ras ghūṭā. 2. 9. 32",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! ਜਦੋਂ ਪ੍ਰਭੂ ਨੇ ਮੇਰੇ ਉਤੇ ਮਿਹਰ ਕੀਤੀ, ਤਦੋਂ ਮੈਂ ਆਪਣੇ ਮਨ ਵਿਚ ਹਰਿ-ਨਾਮ ਦਾ ਰਸ ਪੀਣ ਲੱਗ ਪਿਆ ॥੨॥੯॥੩੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак, когда Прабху проявил ко мне милость, тогда я начал пить в своём уме вкус Хар-Наам. 2. 9. 32."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 4297,
+      "rahao_verse_id": 51963,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 51961,
+          "is_rahao": true,
+          "gurmukhi": "ਸਾਰਗ ਮਹਲਾ ੫ ॥",
+          "roman": "sārag mahalā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51962,
+          "is_rahao": true,
+          "gurmukhi": "ਅਬ ਮੇਰੋ ਠਾਕੁਰ ਸਿਉ ਮਨੁ ਲੀਨਾ ॥",
+          "roman": "ab mero ṭhākur siu man līnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੁਣ ਮੇਰਾ ਮਨ ਠਾਕੁਰ-ਪ੍ਰਭੂ ਨਾਲ ਇਕ-ਮਿਕ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь мой ум остаётся единым с Тхакуром-Прабху."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51963,
+          "is_rahao": true,
+          "gurmukhi": "ਪ੍ਰਾਨ ਦਾਨੁ ਗੁਰਿ ਪੂਰੈ ਦੀਆ ਉਰਝਾਇਓ ਜਿਉ ਜਲ ਮੀਨਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "prān dān gur pūrē dīā urjhāio jiu jal mīnā. 1. rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪੂਰੇ ਗੁਰੂ ਨੇ ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦੀ ਦਾਤ ਬਖ਼ਸ਼ੀ ਹੈ, ਮੈਨੂੰ ਠਾਕੁਰ ਪ੍ਰਭੂ ਨਾਲ ਇਉਂ ਜੋੜ ਦਿੱਤਾ ਹੈ ਜਿਵੇਂ ਮੱਛੀ ਪਾਣੀ ਨਾਲ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Совершенный Гуру даровал мне дар духовной жизни и соединил меня с Тхакуром-Прабху так, как рыба соединена с водой. 1. Рахау."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51964,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਮਦ ਮਤਸਰ ਇਹ ਅਰਪਿ ਸਗਲ ਦਾਨੁ ਕੀਨਾ ॥",
+          "roman": "kām krodh lobh mad matsar ih arap sagal dān kīnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ (ਆਪਣੇ ਅੰਦਰੋਂ) ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਹਉਮੈ ਈਰਖਾ (ਆਦਿਕ ਸਾਰੇ ਵਿਕਾਰ) ਸਦਾ ਲਈ ਕੱਢ ਦਿੱਤੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я навсегда удалил изнутри себя похоть, гнев, алчность, Хоумэ, зависть и все подобные пороки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51965,
+          "is_rahao": false,
+          "gurmukhi": "ਮੰਤ੍ਰ ਦ੍ਰਿੜਾਇ ਹਰਿ ਅਉਖਧੁ ਗੁਰਿ ਦੀਓ ਤਉ ਮਿਲਿਓ ਸਗਲ ਪ੍ਰਬੀਨਾ ॥੧॥",
+          "roman": "mantr driṛāi har aukhad gur dīo tau milio sagal prabīnā. 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਤੋਂ ਗੁਰੂ ਨੇ (ਆਪਣਾ) ਉਪਦੇਸ਼ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਪੱਕਾ ਕਰ ਕੇ ਮੈਨੂੰ ਹਰਿ-ਨਾਮ ਦੀ ਦਵਾਈ ਦਿੱਤੀ ਹੈ, ਤਦੋਂ ਤੋਂ ਮੈਨੂੰ ਸਾਰੇ ਗੁਣਾਂ ਵਿਚ ਸਿਆਣਾ ਪ੍ਰਭੂ ਮਿਲ ਪਿਆ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "С тех пор как Гуру, утвердив своё наставление в моём сердце, дал мне лекарство Хар-Наам, с тех пор мне встретился Прабху, мудрый во всех достоинствах. 1."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 51966,
+          "is_rahao": false,
+          "gurmukhi": "ਗ੍ਰਿਹੁ ਤੇਰਾ ਤੂ ਠਾਕੁਰੁ ਮੇਰਾ ਗੁਰਿ ਹਉ ਖੋਈ ਪ੍ਰਭੁ ਦੀਨਾ ॥",
+          "roman": "grih terā tū ṭhākur merā gur hau khoī prabh dīnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ! (ਹੁਣ ਮੇਰਾ ਹਿਰਦਾ) ਤੇਰਾ ਘਰ ਬਣ ਗਿਆ ਹੈ, ਤੂੰ (ਸਚ-ਮੁਚ) ਮੇਰੇ (ਇਸ ਘਰ ਦਾ) ਮਾਲਕ ਬਣ ਗਿਆ ਹੈਂ। ਗੁਰੂ ਨੇ ਮੇਰੀ ਹਉਮੈ ਦੂਰ ਕਰ ਦਿੱਤੀ ਹੈ, ਮੈਨੂੰ ਪ੍ਰਭੂ ਮਿਲਾ ਦਿੱਤਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Прабху, теперь моё сердце стало Твоим домом, и Ты поистине стал Владыкой этого моего дома. Гуру устранил мою Хоумэ и соединил меня с Прабху."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

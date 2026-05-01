@@ -1,0 +1,615 @@
+{
+  "ang": 462,
+  "shabads": [
+    {
+      "shabad_id": 1684,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 20735,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਮ ਮਰਣ ਅਨੇਕ ਬੀਤੇ ਪ੍ਰਿਅ ਸੰਗ ਬਿਨੁ ਕਛੁ ਨਹ ਗਤੇ ॥",
+          "roman": "janam maran anek bīte priya sang bin kachh nah gate",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਨਮ ਮਰਨ ਦੇ ਅਨੇਕਾਂ ਗੇੜ ਲੰਘ ਗਏ ਹਨ, ਪਰ ਪਿਆਰੇ ਪ੍ਰਭੂ ਦੀ ਸੰਗਤਿ ਤੋਂ ਬਿਨਾ ਮੇਰਾ ਕੋਈ ਚੰਗਾ ਹਾਲ ਨਹੀਂ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Многие циклы рождения и смерти прошли, но без союза с возлюбленным Богом нет спасения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20736,
+          "is_rahao": false,
+          "gurmukhi": "ਕੁਲ ਰੂਪ ਧੂਪ ਗਿਆਨਹੀਨੀ ਤੁਝ ਬਿਨਾ ਮੋਹਿ ਕਵਨ ਮਾਤ ॥",
+          "roman": "kul rūp dhūp giānhīnī tujh binā moh kavan māt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ!) ਮੇਰੀ ਕੋਈ ਚੰਗੀ ਕੁਲ ਨਹੀਂ, ਮੇਰਾ ਸੁੰਦਰ ਰੂਪ ਨਹੀਂ, ਅੰਦਰ (ਗੁਣਾਂ ਦੀ) ਸੁਗੰਧੀ ਨਹੀਂ, ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦੀ ਕੋਈ ਸੂਝ-ਬੂਝ ਨਹੀਂ (ਹੇ ਪਿਆਰੇ!) ਤੈਥੋਂ ਬਿਨਾ ਮੇਰਾ ਹੋਰ ਕੋਈ ਰਾਖਾ ਨਹੀਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "У меня нет ни рода, ни красоты, ни добродетелей, ни знания; без тебя у меня нет защитника."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20737,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰ ਜੋੜਿ ਨਾਨਕੁ ਸਰਣਿ ਆਇਓ ਪ੍ਰਿਅ ਨਾਥ ਨਰਹਰ ਕਰਹੁ ਗਾਤ ॥੧॥",
+          "roman": "kar joṛ nānak saraṇ āio priya nāth narhar karah gāt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਤੇਰਾ ਸੇਵਕ) ਨਾਨਕ (ਦੋਵੇਂ) ਹੱਥ ਜੋੜ ਕੇ ਤੇਰੀ ਸਰਨ ਪਿਆ ਹੈ, ਹੇ ਪਿਆਰੇ! ਹੇ ਨਾਥ! ਹੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਆਤਮਕ ਅਵਸਥਾ ਉੱਚੀ ਬਣਾ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак с сложенными руками приходит в твоё прибежище — о Господь, возвышай моё духовное состояние."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20738,
+          "is_rahao": false,
+          "gurmukhi": "ਮੀਨਾ ਜਲਹੀਨ ਮੀਨਾ ਜਲਹੀਨ ਹੇ ਓਹੁ ਬਿਛੁਰਤ ਮਨ ਤਨ ਖੀਨ ਹੇ ਕਤ ਜੀਵਨੁ ਪ੍ਰਿਅ ਬਿਨੁ ਹੋਤ ॥",
+          "roman": "mīnā jalhīn mīnā jalhīn he oh bichhurat man tan khīn he kat jīvan priya bin hot",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਮੱਛੀ ਪਾਣੀ ਤੋਂ ਵਿਛੁੜ ਜਾਂਦੀ ਹੈ, ਜਦੋਂ ਮੱਛੀ ਪਾਣੀ ਤੋਂ ਵਿਛੁੜ ਜਾਂਦੀ ਹੈ, ਪਾਣੀ ਤੋਂ ਵਿਛੁੜਿਆਂ ਉਸ ਦਾ ਮਨ ਉਸ ਦਾ ਸਰੀਰ ਲਿੱਸਾ ਹੋ ਜਾਂਦਾ ਹੈ। ਪਿਆਰੇ (ਪਾਣੀ) ਤੋਂ ਬਿਨਾ ਉਹ ਕਿਵੇਂ ਜੀਊ ਸਕਦੀ ਹੈ?"
+            },
+            "sahib_singh_ru": {
+              "main": "Как рыба без воды теряет силы, так и без возлюбленного она не может жить."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20739,
+          "is_rahao": false,
+          "gurmukhi": "ਸਨਮੁਖ ਸਹਿ ਬਾਨ ਸਨਮੁਖ ਸਹਿ ਬਾਨ ਹੇ ਮ੍ਰਿਗ ਅਰਪੇ ਮਨ ਤਨ ਪ੍ਰਾਨ ਹੇ ਓਹੁ ਬੇਧਿਓ ਸਹਜ ਸਰੋਤ ॥",
+          "roman": "sanmukh sah bān sanmukh sah bān he mrig arpe man tan prān he oh bedhio sahaj sarot",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹਰਨ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ (ਘੰਡੇ ਹੇੜੇ ਦੀ ਆਵਾਜ਼) ਸੁਣ ਕੇ ਆਪਣਾ ਮਨ ਆਪਣਾ ਸਰੀਰ ਆਪਣੀ ਜਿੰਦ (ਸਭ ਕੁਝ ਉਸ ਮਿੱਠੀ ਸੁਰ ਤੋਂ) ਸਦਕੇ ਕਰ ਦੇਂਦਾ ਹੈ, ਸਿੱਧਾ ਮੂੰਹ ਉਤੇ ਉਹ (ਸ਼ਿਕਾਰੀ ਦਾ) ਤੀਰ ਸਹਾਰਦਾ ਹੈ, ਸਾਹਮਣੇ ਮੂੰਹ ਰੱਖ ਕੇ ਤੀਰ ਸਹਾਰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Олень, услышав звук, отдаёт ум, тело и жизнь и принимает стрелу прямо."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20740,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਿਅ ਪ੍ਰੀਤਿ ਲਾਗੀ ਮਿਲੁ ਬੈਰਾਗੀ ਖਿਨੁ ਰਹਨੁ ਧ੍ਰਿਗੁ ਤਨੁ ਤਿਸੁ ਬਿਨਾ ॥",
+          "roman": "priya prīt lāgī mil bērāgī khin rahan dhrig tan tis binā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪਿਆਰੇ! ਮੇਰੀ ਪ੍ਰੀਤਿ (ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ) ਲੱਗ ਗਈ ਹੈ। (ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ) ਮਿਲ, ਮੇਰਾ ਚਿੱਤ (ਦੁਨੀਆ ਵਲੋਂ) ਉਦਾਸ ਹੈ। ਉਸ ਪਿਆਰੇ ਦੇ ਮਿਲਾਪ ਤੋਂ ਬਿਨਾ ਜੇ ਇਹ ਸਰੀਰ ਇਕ ਖਿਨ ਭੀ ਟਿਕਿਆ ਰਹਿ ਸਕੇ ਤਾਂ ਇਹ ਸਰੀਰ ਫਿਟਕਾਰ-ਜੋਗ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Моя любовь направлена к тебе; без тебя даже мгновение жизни достойно порицания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20741,
+          "is_rahao": false,
+          "gurmukhi": "ਪਲਕਾ ਨ ਲਾਗੈ ਪ੍ਰਿਅ ਪ੍ਰੇਮ ਪਾਗੈ ਚਿਤਵੰਤਿ ਅਨਦਿਨੁ ਪ੍ਰਭ ਮਨਾ ॥",
+          "roman": "palkā na lāgē priya prem pāgē chitvant andin prabh manā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਨੀਂਦ ਨਹੀਂ ਪੈਂਦੀ, ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ ਮੇਰੀ ਪ੍ਰੀਤ ਲੱਗੀ ਹੋਈ ਹੈ, ਮੇਰਾ ਮਨ ਹਰ ਵੇਲੇ ਤੈਨੂੰ ਹੀ ਚਿਤਾਰ ਰਿਹਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Мне не спится — мой ум постоянно помнит тебя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20742,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰੀਰੰਗ ਰਾਤੇ ਨਾਮ ਮਾਤੇ ਭੈ ਭਰਮ ਦੁਤੀਆ ਸਗਲ ਖੋਤ ॥",
+          "roman": "srīrang rāte nām māte bhē bhram dutīā sagal khot",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਵਡ-ਭਾਗੀ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗੇ ਜਾਂਦੇ ਹਨ ਜੇਹੜੇ ਉਸ ਦੇ ਨਾਮ ਵਿਚ ਮਸਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹ ਦੁਨੀਆ ਦੇ ਸਾਰੇ ਡਰ ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਇਹ ਸਭ ਕੁਝ ਦੂਰ ਕਰ ਲੈਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто окрашены любовью Бога и погружены в Имя, устраняют страх и заблуждение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20743,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਮਇਆ ਦਇਆ ਦਇਆਲ ਪੂਰਨ ਹਰਿ ਪ੍ਰੇਮ ਨਾਨਕ ਮਗਨ ਹੋਤ ॥੨॥",
+          "roman": "kar maiā dayā dayāl pūran har prem nānak magan hot",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਸਰਬ-ਵਿਆਪਕ ਦਇਆਲ ਹਰੀ! ਮੇਰੇ ਉਤੇ ਮੇਹਰ ਕਰ, ਤਰਸ ਕਰ, ਮੈਂ ਸਦਾ ਤੇਰੇ ਪਿਆਰ ਵਿਚ ਮਸਤ ਰਹਾਂ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О милостивый Господь, даруй милость — Нанак хочет быть погружён в твою любовь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20744,
+          "is_rahao": false,
+          "gurmukhi": "ਅਲੀਅਲ ਗੁੰਜਾਤ ਅਲੀਅਲ ਗੁੰਜਾਤ ਹੇ ਮਕਰੰਦ ਰਸ ਬਾਸਨ ਮਾਤ ਹੇ ਪ੍ਰੀਤਿ ਕਮਲ ਬੰਧਾਵਤ ਆਪ ॥",
+          "roman": "alīal gunjāt alīal gunjāt he makarand ras bāsan māt he prīt kamal bandhāvat āp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕੌਲ-ਫੁੱਲਾਂ ਦੇ ਦੁਆਲੇ) ਭੌਰੇ ਗੁੰਜਾਰ ਪਾਂਦੇ ਹਨ, ਭੌਰੇ ਨਿੱਤ ਗੁੰਜਾਰ ਪਾਂਦੇ ਹਨ, ਕੌਲ-ਫੁੱਲਾਂ ਦੀ ਧੂੜੀ ਦੇ ਰਸ ਦੀ ਸੁਗੰਧੀ ਵਿਚ ਮਸਤ ਹੁੰਦੇ ਹਨ, ਪ੍ਰੀਤੀ ਦੇ ਖਿੱਚੇ ਹੋਏ ਉਹ ਆਪਣੇ ਆਪ ਨੂੰ ਕੌਲ-ਫੁੱਲਾਂ ਵਿਚ ਬੰਨ੍ਹਾ ਲੈਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Пчёлы гудят вокруг лотосов, опьянённые ароматом и любовью, они привязываются к ним."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20745,
+          "is_rahao": false,
+          "gurmukhi": "ਚਾਤ੍ਰਿਕ ਚਿਤ ਪਿਆਸ ਚਾਤ੍ਰਿਕ ਚਿਤ ਪਿਆਸ ਹੇ ਘਨ ਬੂੰਦ ਬਚਿਤ੍ਰਿ ਮਨਿ ਆਸ ਹੇ ਅਲ ਪੀਵਤ ਬਿਨਸਤ ਤਾਪ ॥",
+          "roman": "chātrik chit piās chātrik chit piās he ghan būnd bachitr man ās he al pīvat binast tāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਭਾਵੇਂ ਸਰ ਤੇ ਟੋਭੇ ਪਾਣੀ ਨਾਲ ਭਰੇ ਪਏ ਹਨ, ਪਰ) ਪਪੀਹੇ ਦੇ ਚਿੱਤ ਨੂੰ (ਬੱਦਲਾਂ ਦੀ ਬੂੰਦ ਦੀ) ਪਿਆਸ ਹੈ, ਪਪੀਹੇ ਦੇ ਚਿੱਤ ਨੂੰ (ਸਿਰਫ਼ ਬੱਦਲਾਂ ਦੀ ਬੂੰਦ ਦੀ) ਤ੍ਰੇਹ ਹੈ, ਉਸ ਦੇ ਮਨ ਵਿਚ ਬੱਦਲਾਂ ਦੀ ਬੂੰਦ ਦੀ ਹੀ ਤਾਂਘ ਹੈ। ਜਦੋਂ ਪਪੀਹਾ ਉਸ ਮਸਤ ਕਰਾ ਦੇਣ ਵਾਲੀ ਬੂੰਦ ਨੂੰ ਪੀਂਦਾ ਹੈ, ਤਾਂ ਉਸ ਦੀ ਤਪਸ਼ ਮਿਟਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Птица жаждет только капли дождя, и когда пьёт её, её страдание исчезает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20746,
+          "is_rahao": false,
+          "gurmukhi": "ਤਾਪਾ ਬਿਨਾਸਨ ਦੂਖ ਨਾਸਨ ਮਿਲੁ ਪ੍ਰੇਮੁ ਮਨਿ ਤਨਿ ਅਤਿ ਘਨਾ ॥",
+          "roman": "tāpā bināsan dūkh nāsan mil prem man tan at ghnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਜੀਵਾਂ ਦੇ ਦੁੱਖ-ਕਲੇਸ਼ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਤਾਪ ਨਾਸ ਕਰਨ ਵਾਲੇ! (ਮੇਰੀ ਤੇਰੇ ਦਰ ਤੇ ਬੇਨਤੀ ਹੈ, ਮੈਨੂੰ) ਮਿਲ, ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ (ਤੇਰੇ ਚਰਨਾਂ ਦਾ) ਬਹੁਤ ਡੂੰਘਾ ਪ੍ਰੇਮ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О разрушитель страданий, даруй встречу — в моём сердце глубокая любовь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20747,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁੰਦਰੁ ਚਤੁਰੁ ਸੁਜਾਨ ਸੁਆਮੀ ਕਵਨ ਰਸਨਾ ਗੁਣ ਭਨਾ ॥",
+          "roman": "sundar chatur sujān suāmī kavan rasnā guṇ bhanā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੂੰ ਮੇਰਾ ਸੋਹਣਾ ਚਤੁਰ ਸਿਆਣਾ ਮਾਲਕ ਹੈਂ। ਮੈਂ (ਆਪਣੀ) ਜੀਭ ਨਾਲ ਤੇਰੇ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਬਿਆਨ ਕਰਾਂ?"
+            },
+            "sahib_singh_ru": {
+              "main": "О прекрасный и мудрый Господь, как мне описать твои качества?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20748,
+          "is_rahao": false,
+          "gurmukhi": "ਗਹਿ ਭੁਜਾ ਲੇਵਹੁ ਨਾਮੁ ਦੇਵਹੁ ਦ੍ਰਿਸਟਿ ਧਾਰਤ ਮਿਟਤ ਪਾਪ ॥",
+          "roman": "gah bhujā levah nām devah drisṭ dhārat miṭat pāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਹੋਇਆਂ ਨੂੰ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲੇ ਹਰੀ! ਮੈਨੂੰ ਬਾਹੋਂ ਫੜ ਕੇ ਆਪਣੀ ਚਰਨੀਂ ਲਾ ਲਵੋ, ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼ੋ, ਤੇਰੀ ਨਿਗਾਹ ਮੇਰੇ ਉਤੇ ਪੈਂਦਿਆਂ ਹੀ ਮੇਰੇ ਸਾਰੇ ਪਾਪ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Возьми меня за руку, даруй Имя — одним твоим взглядом грехи исчезают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20749,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕੁ ਜੰਪੈ ਪਤਿਤ ਪਾਵਨ ਹਰਿ ਦਰਸੁ ਪੇਖਤ ਨਹ ਸੰਤਾਪ ॥੩॥",
+          "roman": "nānak jampē patit pāvan har dars pekhat nah santāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-ਹੇ ਹਰੀ! ਤੇਰਾ ਦਰਸਨ ਕੀਤਿਆਂ ਕੋਈ ਦੁੱਖ-ਕਲੇਸ਼ ਪੋਹ ਨਹੀਂ ਸਕਦਾ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак молится: увидев тебя, исчезают все страдания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20750,
+          "is_rahao": false,
+          "gurmukhi": "ਚਿਤਵਉ ਚਿਤ ਨਾਥ ਚਿਤਵਉ ਚਿਤ ਨਾਥ ਹੇ ਰਖਿ ਲੇਵਹੁ ਸਰਣਿ ਅਨਾਥ ਹੇ ਮਿਲੁ ਚਾਉ ਚਾਈਲੇ ਪ੍ਰਾਨ ॥",
+          "roman": "chitvao chit nāth chitvao chit nāth he rakh levah saraṇ anāth he mil chāu chāīle prān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਖਸਮ-ਪ੍ਰਭੂ! ਮੈਂ ਚਿੱਤ (ਵਿਚ ਤੈਨੂੰ ਹੀ) ਚਿਤਾਰਦਾ ਹਾਂ, ਹੇ ਨਾਥ! ਮੈਂ ਚਿੱਤ ਵਿਚ ਤੈਨੂੰ ਹੀ ਯਾਦ ਕਰਦਾ ਹਾਂ। ਮੈਨੂੰ ਅਨਾਥ ਨੂੰ ਆਪਣੀ ਸਰਨ ਵਿਚ ਰੱਖ ਲੈ। (ਹੇ ਨਾਥ! ਮੈਨੂੰ) ਮਿਲ (ਤੈਨੂੰ ਮਿਲਣ ਲਈ ਮੇਰੇ ਅੰਦਰ) ਚਾਉ ਹੈ, ਮੇਰੀ ਜਿੰਦ ਤੇਰੇ ਦਰਸਨ ਲਈ ਉਤਸ਼ਾਹ ਵਿਚ ਆਈ ਹੋਈ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я думаю только о тебе — защити меня, беззащитного, дай встретиться с тобой, моя душа жаждет этого."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20751,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁੰਦਰ ਤਨ ਧਿਆਨ ਸੁੰਦਰ ਤਨ ਧਿਆਨ ਹੇ ਮਨੁ ਲੁਬਧ ਗੋਪਾਲ ਗਿਆਨ ਹੇ ਜਾਚਿਕ ਜਨ ਰਾਖਤ ਮਾਨ ॥",
+          "roman": "sundar tan dhiān sundar tan dhiān he man lubdh gopāl giān he jāchik jan rākhat mān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਸੋਹਣੇ ਸਰੂਪ ਵਿਚ ਮੇਰੀ ਸੁਰਤਿ ਜੁੜੀ ਹੋਈ ਹੈ, ਤੇਰੇ ਸੋਹਣੇ ਸਰੀਰ ਵਲ ਮੇਰਾ ਧਿਆਨ ਲੱਗਾ ਹੋਇਆ ਹੈ। ਹੇ ਗੋਪਾਲ! ਮੇਰਾ ਮਨ ਤੇਰੇ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਣ ਵਾਸਤੇ ਲਲਚਾ ਰਿਹਾ ਹੈ। ਤੂੰ ਉਹਨਾਂ (ਵਡ-ਭਾਗੀਆਂ) ਦਾ ਮਾਣ ਰੱਖਦਾ ਹੈਂ ਜੇਹੜੇ ਤੇਰੇ ਦਰ ਦੇ ਮੰਗਤੇ ਬਣਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Мой ум сосредоточен на твоём прекрасном образе; ты поддерживаешь честь своих преданных."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20752,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਭ ਮਾਨ ਪੂਰਨ ਦੁਖ ਬਿਦੀਰਨ ਸਗਲ ਇਛ ਪੁਜੰਤੀਆ ॥",
+          "roman": "prabh mān pūran dukh bidīran sagal ichh pujantiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ! ਆਪਣੇ ਦਰ ਦੇ ਮੰਗਤਿਆਂ ਦਾ ਆਦਰ-ਮਾਣ ਕਰਦਾ ਹੈਂ, ਤੂੰ ਉਹਨਾਂ ਦੇ ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਕਰਦਾ ਹੈਂ, (ਤੇਰੀ ਮੇਹਰ ਨਾਲ ਉਹਨਾਂ ਦੀਆਂ) ਸਾਰੀਆਂ ਮਨੋਕਾਮਨਾ ਪੂਰੀਆਂ ਹੋ ਜਾਂਦੀਆਂ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бог уважает своих слуг, уничтожает их страдания и исполняет желания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20753,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕੰਠਿ ਲਾਗੇ ਦਿਨ ਸਭਾਗੇ ਮਿਲਿ ਨਾਹ ਸੇਜ ਸੋਹੰਤੀਆ ॥",
+          "roman": "har kanṭh lāge din sabhāge mil nāh sej sohantiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ (ਵਡ-ਭਾਗੀ ਮਨੁੱਖ) ਪ੍ਰਭੂ-ਪਤੀ ਦੇ ਗਲ ਨਾਲ ਲੱਗਦੇ ਹਨ, ਉਹਨਾਂ (ਦੀ ਜ਼ਿੰਦਗੀ) ਦੇ ਦਿਨ ਭਾਗਾਂ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ, ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਕੇ ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਦੀ ਸੇਜ ਸੋਹਣੀ ਬਣ ਜਾਂਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто соединяются с Богом, становятся благословенными, их сердца сияют."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20754,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਭ ਦ੍ਰਿਸਟਿ ਧਾਰੀ ਮਿਲੇ ਮੁਰਾਰੀ ਸਗਲ ਕਲਮਲ ਭਏ ਹਾਨ ॥",
+          "roman": "prabh drisṭ dhārī mile murārī sagal kalmal bhae hān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਨ੍ਹਾਂ ਉਤੇ ਪ੍ਰਭੂ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਕਰਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਪਰਮਾਤਮਾ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਉਹਨਾਂ ਦੇ (ਪਿਛਲੇ ਕੀਤੇ) ਸਾਰੇ ਪਾਪ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "На кого падает милостивый взгляд Бога, их грехи уничтожаются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20755,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਮੇਰੀ ਆਸ ਪੂਰਨ ਮਿਲੇ ਸ੍ਰੀਧਰ ਗੁਣ ਨਿਧਾਨ ॥੪॥੧॥੧੪॥",
+          "roman": "binvant nānak merī ās pūran mile srīdhar guṇ nidhān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ (-ਹੇ ਭਾਈ!) ਲੱਛਮੀ-ਪਤੀ ਪ੍ਰਭੂ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ-ਪ੍ਰਭੂ ਮੈਨੂੰ ਮਿਲ ਪਿਆ ਹੈ, ਮੇਰੀ ਮਨ ਦੀ ਮੁਰਾਦ ਪੂਰੀ ਹੋ ਗਈ ਹੈ ॥੪॥੧॥੧੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак говорит: моя надежда исполнилась — я встретил Господа, сокровищницу добродетелей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1685,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 20756,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oṅkār sat nām kartā purakh nirbhau nirvēr akāl mūrat ajūnī sēbhaṅ gur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ; ਜਿਸ ਦਾ ਨਾਮ 'ਹੋਂਦ ਵਾਲਾ' ਹੈ, ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਨਹਾਰ ਹੈ, ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਭੈ ਤੋਂ ਰਹਿਤ ਹੈ, ਵੈਰ-ਰਹਿਤ ਹੈ, ਜਿਸ ਦਾ ਸਰੂਪ ਕਾਲ ਤੋਂ ਪਰੇ ਹੈ, (ਭਾਵ, ਜਿਸ ਦਾ ਸਰੀਰ ਨਾਸ-ਰਹਿਤ ਹੈ) ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਜਿਸ ਦਾ ਪ੍ਰਕਾਸ਼ ਆਪਣੇ ਆਪ ਤੋਂ ਹੋਇਆ ਹੈ ਅਤੇ ਜੋ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акал Пуракх один есть; чьё имя «существующий», который является творцом мира, который пребывает во всём, лишён страха, лишён вражды, чья сущность вне времени, который не подвержен разрушению, который не рождается в формах, чьё сияние возникло само из себя и который достигается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20757,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ਮਹਲਾ ੧ ॥",
+          "roman": "āsā mehlā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਆਸਾ ਵਿੱਚ ਗੁਰੂ ਨਾਨਕ ਜੀ ਦੀ ਬਾਣੀ। 'ਵਾਰ' ਸਲੋਕਾਂ ਸਮੇਤ, ਵਾਰ ਤੇ ਸਲੋਕ ਵੀ ਗੁਰੂ ਨਾਨਕ ਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бани Гуру Нанака в раге Аса. Вар со шлоками, и вар, и шлоки также принадлежат Гуру Нанаку."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20758,
+          "is_rahao": false,
+          "gurmukhi": "ਵਾਰ ਸਲੋਕਾ ਨਾਲਿ ਸਲੋਕ ਭੀ ਮਹਲੇ ਪਹਿਲੇ ਕੇ ਲਿਖੇ ਟੁੰਡੇ ਅਸ ਰਾਜੈ ਕੀ ਧੁਨੀ ॥",
+          "roman": "vār salokā nāl salok bhī mehle pehle ke likhe ṭuṇḍe as rājē kī dhunī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਹ ਵਾਰ) ਟੁੰਡੇ (ਰਾਜਾ) ਅਸਰਾਜ ਦੀ (ਵਾਰ ਦੀ) ਸੁਰ ਉਤੇ (ਗਾਉਣੀ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Этот вар следует петь на мелодию вара Тунде Асраджа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20759,
+          "is_rahao": false,
+          "gurmukhi": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+          "roman": "salok mehlā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20760,
+          "is_rahao": false,
+          "gurmukhi": "ਬਲਿਹਾਰੀ ਗੁਰ ਆਪਣੇ ਦਿਉਹਾੜੀ ਸਦ ਵਾਰ ॥",
+          "roman": "balihārī gur āpṇe diuhāṛī sad vār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਤੋਂ (ਇਕ) ਦਿਨ ਵਿਚ ਸੌ ਵਾਰੀ ਸਦਕੇ ਹੁੰਦਾ ਹਾਂ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Я приношу себя в жертву своему Гуру сто раз в день,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 20761,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਿ ਮਾਣਸ ਤੇ ਦੇਵਤੇ ਕੀਏ ਕਰਤ ਨ ਲਾਗੀ ਵਾਰ ॥੧॥",
+          "roman": "jin māṇas te devte kīe karat na lāgī vār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ (ਗੁਰੂ) ਨੇ ਮਨੁੱਖਾਂ ਤੋਂ ਦੇਵਤੇ ਬਣਾ ਦਿੱਤੇ ਤੇ ਬਣਾਉਂਦਿਆਂ (ਰਤਾ) ਚਿਰ ਨਾਹ ਲੱਗਾ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "который из людей сделал божеств и сделал это без малейшего промедления."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

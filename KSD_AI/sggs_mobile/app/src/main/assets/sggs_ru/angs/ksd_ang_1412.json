@@ -1,0 +1,953 @@
+{
+  "ang": 1412,
+  "shabads": [
+    {
+      "shabad_id": 5475,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59689,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭਨੀ ਘਟੀ ਸਹੁ ਵਸੈ ਸਹ ਬਿਨੁ ਘਟੁ ਨ ਕੋਇ ॥",
+          "roman": "sabhnī ghaṭī sah vasē sah bin ghaṭ na kōē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, Господь-Супруг пребывает во всех телах; нет ни одного тела без Господа-Супруга."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59690,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਤੇ ਸੋਹਾਗਣੀ ਜਿਨੑਾ ਗੁਰਮੁਖਿ ਪਰਗਟੁ ਹੋਇ ॥੧੯॥",
+          "roman": "nānak tē suhāgaṇī jinā̃ gurmukh pargaṭ hōē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, счастливы те души-жёны, внутри которых Он раскрывается через Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59691,
+          "is_rahao": false,
+          "gurmukhi": "ਜਉ ਤਉ ਪ੍ਰੇਮ ਖੇਲਣ ਕਾ ਚਾਉ ॥",
+          "roman": "jau tau prēm khēlaṇ kā chāo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, если у тебя есть желание играть в игру любви к Господу,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59692,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਰੁ ਧਰਿ ਤਲੀ ਗਲੀ ਮੇਰੀ ਆਉ ॥",
+          "roman": "sir dhar talī galī mērī āo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "то положи свою голову на ладонь и войди в мою улицу, то есть оставь мирской стыд и устрани Хоумэ."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59693,
+          "is_rahao": false,
+          "gurmukhi": "ਇਤੁ ਮਾਰਗਿ ਪੈਰੁ ਧਰੀਜੈ ॥",
+          "roman": "it mārag pēr dharījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "На этот путь любви к Господу можно поставить ногу только тогда,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59694,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਰੁ ਦੀਜੈ ਕਾਣਿ ਨ ਕੀਜੈ ॥੨੦॥",
+          "roman": "sir dījē kāṇ na kījē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "когда отдаётся голова и не остаётся никакой робости, то есть без колебаний оставляются мирской стыд и Хоумэ."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59695,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਲਿ ਕਿਰਾੜਾ ਦੋਸਤੀ ਕੂੜੈ ਕੂੜੀ ਪਾਇ ॥",
+          "roman": "nāl kirāṛā dōsatī kūṛē kūṛī pāē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, если завести дружбу с человеком, постоянно занятым расчётами Майи, то из-за его привязанности к Майе даже основание этой дружбы ненадёжно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59696,
+          "is_rahao": false,
+          "gurmukhi": "ਮਰਣੁ ਨ ਜਾਪੈ ਮੂਲਿਆ ਆਵੈ ਕਿਤੈ ਥਾਇ ॥੨੧॥",
+          "roman": "maraṇ na jāpē mūliā āvē kitē thāē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Мулия, человек, запутавшийся в привязанности к Майе, не понимает, что смерть может прийти в любом месте и в любой час."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59697,
+          "is_rahao": false,
+          "gurmukhi": "ਗਿਆਨ ਹੀਣੰ ਅਗਿਆਨ ਪੂਜਾ ॥",
+          "roman": "giān hīṇaṅ agiān pūjā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, люди, лишённые понимания духовной жизни, всегда предпочитают неведение в духовной жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59698,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਧ ਵਰਤਾਵਾ ਭਾਉ ਦੂਜਾ ॥੨੨॥",
+          "roman": "andh vartāvā bhāo dūjā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, у тех, внутри кого пребывает привязанность к Майе, поведение остаётся ослепляющим по отношению к духовной жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59699,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਬਿਨੁ ਗਿਆਨੁ ਧਰਮ ਬਿਨੁ ਧਿਆਨੁ ॥",
+          "roman": "gur bin giān dharam bin dhiān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, без прибежища у Гуру не рождается глубокая связь с Господом; без того, чтобы сделать это своим долгом, не возникает сосредоточенность на воспоминании Имени."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59700,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚ ਬਿਨੁ ਸਾਖੀ ਮੂਲੋ ਨ ਬਾਕੀ ॥੨੩॥",
+          "roman": "sach bin sākhī mūlō na bākī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Без воспоминания вечного Хар-Нам опора мирских дел не сохраняет даже тот духовный капитал, ради которого было получено человеческое рождение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59701,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਣੂ ਘਲੈ ਉਠੀ ਚਲੈ ॥",
+          "roman": "māṇū ghalē uṭhī chalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, Господь посылает человека в мир, чтобы он получил духовную пользу, но человек встаёт и уходит из мира, не заработав духовной жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59702,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਦੁ ਨਾਹੀ ਇਵੇਹੀ ਗਲੈ ॥੨੪॥",
+          "roman": "sād nāhī ivēhī galē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В таком проживании жизни человек не получает никакого духовного блаженства."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59703,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮੁ ਝੁਰੈ ਦਲ ਮੇਲਵੈ ਅੰਤਰਿ ਬਲੁ ਅਧਿਕਾਰ ॥",
+          "roman": "rām jhurē dal mēlvē antar bal adhikār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Шри Рамчандра собирает войска; внутри него есть сила власти для собирания войск, но всё же он испытывает скорбь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59704,
+          "is_rahao": false,
+          "gurmukhi": "ਬੰਤਰ ਕੀ ਸੈਨਾ ਸੇਵੀਐ ਮਨਿ ਤਨਿ ਜੁਝੁ ਅਪਾਰੁ ॥",
+          "roman": "bantar kī sēnā sēvīē man tan jujh apār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Через войско обезьян ему совершается служение; в уме и теле этого войска есть безмерное желание сражаться."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59705,
+          "is_rahao": false,
+          "gurmukhi": "ਸੀਤਾ ਲੈ ਗਇਆ ਦਹਸਿਰੋ ਲਛਮਣੁ ਮੂਓ ਸਰਾਪਿ ॥",
+          "roman": "sītā lē gēā dahasirō lachhmaṇ mūō sarāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "И всё же Рамчандра скорбит, когда десятиглавый Раван уносит Ситу и когда Лакшман умирает от проклятия."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59706,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕਰਤਾ ਕਰਣਹਾਰੁ ਕਰਿ ਵੇਖੈ ਥਾਪਿ ਉਥਾਪਿ ॥੨੫॥",
+          "roman": "nānak kartā karaṇhār kar vēkhē thāp uthāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, Творец способен совершить всё; Он создаёт, разрушает и Сам всё это видит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59707,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਮਹਿ ਝੂਰੈ ਰਾਮਚੰਦੁ ਸੀਤਾ ਲਛਮਣ ਜੋਗੁ ॥",
+          "roman": "man mah jhūrē rāmchand sītā lachhmaṇ jōg",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, Шри Рамчандра в своём уме скорбел ради Ситы, когда Раван похитил её, и ради Лакшмана, когда тот был поражён на поле боя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59708,
+          "is_rahao": false,
+          "gurmukhi": "ਹਣਵੰਤਰੁ ਆਰਾਧਿਆ ਆਇਆ ਕਰਿ ਸੰਜੋਗੁ ॥",
+          "roman": "haṇvantar ārādhiā āiā kar sanjōg",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тогда он вспомнил Ханумана, который пришёл к нему по соединению, устроенному Господом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59709,
+          "is_rahao": false,
+          "gurmukhi": "ਭੂਲਾ ਦੈਤੁ ਨ ਸਮਝਈ ਤਿਨਿ ਪ੍ਰਭ ਕੀਏ ਕਾਮ ॥",
+          "roman": "bhūlā dēt na samjhaī tin prabh kīē kām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Заблудший демон Раван не понял, что все эти дела совершил Сам Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59710,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਵੇਪਰਵਾਹੁ ਸੋ ਕਿਰਤੁ ਨ ਮਿਟਈ ਰਾਮ ॥੨੬॥",
+          "roman": "nānak vēparvāh sō kirat na miṭaī rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, тот Господь ни от кого не зависит; даже Шри Рамчандра не смог стереть итог прежних дел."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59711,
+          "is_rahao": false,
+          "gurmukhi": "ਲਾਹੌਰ ਸਹਰੁ ਜਹਰੁ ਕਹਰੁ ਸਵਾ ਪਹਰੁ ॥੨੭॥",
+          "roman": "lāhaur sahar jahar kahar savā pahar",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, город Лахор стал ядом для своих жителей: вместо утренней хвалы Господу здесь до четверти дня совершается жестокость над животными ради мяса."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5476,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59712,
+          "is_rahao": false,
+          "gurmukhi": "ਮਹਲਾ ੩ ॥",
+          "roman": "mahalā tījā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Третья Махала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59713,
+          "is_rahao": false,
+          "gurmukhi": "ਲਾਹੌਰ ਸਹਰੁ ਅੰਮ੍ਰਿਤ ਸਰੁ ਸਿਫਤੀ ਦਾ ਘਰੁ ॥੨੮॥",
+          "roman": "lāhaur sahar amrit sar siftī dā ghar",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, теперь город Лахор стал источником амрита, домом хвалы Господу, потому что там родился Гуру Рамдас."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 5477,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59714,
+          "is_rahao": false,
+          "gurmukhi": "ਮਹਲਾ ੧ ॥",
+          "roman": "mahalā pehlā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Первая Махала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59715,
+          "is_rahao": false,
+          "gurmukhi": "ਉਦੋਸਾਹੈ ਕਿਆ ਨੀਸਾਨੀ ਤੋਟਿ ਨ ਆਵੈ ਅੰਨੀ ॥",
+          "roman": "udōsāhē kiā nīsānī tōṭ na āvē annī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, каков признак суеты, совершаемой только ради Майи? У такого человека нет недостатка в зерне и богатстве."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59716,
+          "is_rahao": false,
+          "gurmukhi": "ਉਦੋਸੀਅ ਘਰੇ ਹੀ ਵੁਠੀ ਕੁੜਿੲਂੀ ਰੰਨੀ ਧੰਮੀ ॥",
+          "roman": "udōsīa gharē hī vuṭhī kuṛīṅ rannī dhammī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но из-за этой суеты в доме сердца пребывает безразличие к Хар-Нам, и внутри шумят чувства, запутавшиеся в привязанности к Майе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59717,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤੀ ਰੰਨੀ ਘਰੇ ਸਿਆਪਾ ਰੋਵਨਿ ਕੂੜੀ ਕੰਮੀ ॥",
+          "roman": "satī rannī gharē siāpā rōvan kūṛī kammī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В доме тела продолжается ссора всех семи чувств; они всё время поднимают шум ради ложных, порочных дел."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59718,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਲੇਵੈ ਸੋ ਦੇਵੈ ਨਾਹੀ ਖਟੇ ਦੰਮ ਸਹੰਮੀ ॥੨੯॥",
+          "roman": "jō lēvē sō dēvē nāhī khaṭē damm sahammī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Такой человек зарабатывает деньги, но пребывает в страхе; что зарабатывает, того другим из рук не даёт."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59719,
+          "is_rahao": false,
+          "gurmukhi": "ਪਬਰ ਤੂੰ ਹਰੀਆਵਲਾ ਕਵਲਾ ਕੰਚਨ ਵੰਨਿ ॥",
+          "roman": "pabar tū̃ harīāvalā kavlā kanchan vann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О озеро, когда-то ты было зелёным со всех сторон, и в тебе цвели сияющие лотосы золотого цвета."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59720,
+          "is_rahao": false,
+          "gurmukhi": "ਕੈ ਦੋਖੜੈ ਸੜਿਓਹਿ ਕਾਲੀ ਹੋਈਆ ਦੇਹੁਰੀ ਨਾਨਕ ਮੈ ਤਨਿ ਭੰਗੁ ॥",
+          "roman": "kē dōkhṛē saṛiōh kālī hōīā dēhurī nānak mē tan bhaṅg",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "От какого недостатка ты сгорело, почему твоё прекрасное тело стало чёрным? О Нанак, причина этой черноты в том, что в моём теле возникла нехватка воды."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59721,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾਣਾ ਪਾਣੀ ਨਾ ਲਹਾਂ ਜੈ ਸੇਤੀ ਮੇਰਾ ਸੰਗੁ ॥",
+          "roman": "jāṇā pāṇī nā lahā̃ jē sētī mērā sang",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я понимаю, что теперь не получаю той воды, с которой всегда был мой союз."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59722,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਤੁ ਡਿਠੈ ਤਨੁ ਪਰਫੁੜੈ ਚੜੈ ਚਵਗਣਿ ਵੰਨੁ ॥੩੦॥",
+          "roman": "jit ḍiṭhē tan parfuṛē chaṛē chavgaṇ vann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "От созерцания этой воды тело расцветает, и его цвет становится вчетверо ярче."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59723,
+          "is_rahao": false,
+          "gurmukhi": "ਰਜਿ ਨ ਕੋਈ ਜੀਵਿਆ ਪਹੁਚਿ ਨ ਚਲਿਆ ਕੋਇ ॥",
+          "roman": "raj na kōī jīviā pahuch na chaliā kōē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, даже прожив долгую жизнь в наслаждениях, никто не насытился; никто не уходит отсюда, завершив все мирские дела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59724,
+          "is_rahao": false,
+          "gurmukhi": "ਗਿਆਨੀ ਜੀਵੈ ਸਦਾ ਸਦਾ ਸੁਰਤੀ ਹੀ ਪਤਿ ਹੋਇ ॥",
+          "roman": "giānī jīvē sadā sadā suratī hī pat hōē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Человек с пониманием духовной жизни всегда живёт духовной жизнью; честь здесь и в ином мире получает лишь тот, кто держит сознание соединённым с Господом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59725,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਫੈ ਸਰਫੈ ਸਦਾ ਸਦਾ ਏਵੈ ਗਈ ਵਿਹਾਇ ॥",
+          "roman": "sarfē sarfē sadā sadā ēvē gaī vihāē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но жизнь человека, опутанного Майей, всё время проходит в скупости и расчётах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59726,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕਿਸ ਨੋ ਆਖੀਐ ਵਿਣੁ ਪੁਛਿਆ ਹੀ ਲੈ ਜਾਇ ॥੩੧॥",
+          "roman": "nānak kis nō ākhīē viṇ puchhiā hī lē jāē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, кому жаловаться? Смерть уводит его отсюда, не спросив его совета; ничья воля перед ней не проходит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59727,
+          "is_rahao": false,
+          "gurmukhi": "ਦੋਸੁ ਨ ਦੇਅਹੁ ਰਾਇ ਨੋ ਮਤਿ ਚਲੈ ਜਾਂ ਬੁਢਾ ਹੋਵੈ ॥",
+          "roman": "dōs na dēah rāē nō mat chalē jā̃ buḍhā hōvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, не возлагайте вину на богатого человека: привязанность к Майе постоянно держит его связанным, а когда он стареет, его разум уже совсем не действует в сторону высшего смысла."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59728,
+          "is_rahao": false,
+          "gurmukhi": "ਗਲਾਂ ਕਰੇ ਘਣੇਰੀਆ ਤਾਂ ਅੰਨੑੇ ਪਵਣਾ ਖਾਤੀ ਟੋਵੈ ॥੩੨॥",
+          "roman": "galā̃ karē ghaṇērīā tā̃ annhē pavaṇā khātī ṭōvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он всё время говорит лишь о Майе; о брат, слепой к духовной жизни человек падает только в ямы и канавы, то есть остаётся в страданиях из-за ударов привязанности."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59729,
+          "is_rahao": false,
+          "gurmukhi": "ਪੂਰੇ ਕਾ ਕੀਆ ਸਭ ਕਿਛੁ ਪੂਰਾ ਘਟਿ ਵਧਿ ਕਿਛੁ ਨਾਹੀ ॥",
+          "roman": "pūrē kā kīā sabh kichh pūrā ghaṭ vadh kichh nāhī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, человек, обращённый к Гуру, уверен, что порядок мира, созданный всесовершенным Господом, безошибочен, и в нём нет никакого недостатка."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59730,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਐਸਾ ਜਾਣੈ ਪੂਰੇ ਮਾਂਹਿ ਸਮਾਂਹੀ ॥੩੩॥",
+          "roman": "nānak gurmukh ēsā jāṇē pūrē mā̃hi samā̃hī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, благодаря такому убеждению люди, обращённые к Гуру, пребывают слитыми с памятью о всесовершенном Господе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "ang": 248,
+  "shabads": [
+    {
+      "shabad_id": 754,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 10749,
+          "is_rahao": false,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+          "roman": "gaurī mehlā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10750,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਤੇਰੇ ਊਚੇ ਮੰਦਰ ਮਹਲ ਅਪਾਰਾ ॥",
+          "roman": "mohan tere ūche mandar mahal apārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮਨ ਨੂੰ ਮੋਹ ਲੈਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਉੱਚੇ ਮੰਦਰ ਹਨ, ਤੇਰੇ ਮਹਲ ਐਸੈ ਹਨ ਕਿ ਉਹਨਾਂ ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਦਿੱਸਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Привлекающий ум Господь! Твои храмы высоки, Твои дворцы таковы, что их дальнего предела не видно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10751,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਤੇਰੇ ਸੋਹਨਿ ਦੁਆਰ ਜੀਉ ਸੰਤ ਧਰਮ ਸਾਲਾ ॥",
+          "roman": "mohan tere sohan duār jīu sant dharam sālā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ! ਤੇਰੇ ਦਰ ਤੇ ਤੇਰੇ ਧਰਮ-ਅਸਥਾਨਾਂ ਵਿਚ, ਤੇਰੇ ਸੰਤ ਜਨ (ਬੈਠੇ) ਸੋਹਣੇ ਲੱਗ ਰਹੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! У Твоих врат и в Твоих дхарам-астханах Твои святые выглядят прекрасными."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10752,
+          "is_rahao": false,
+          "gurmukhi": "ਧਰਮ ਸਾਲ ਅਪਾਰ ਦੈਆਰ ਠਾਕੁਰ ਸਦਾ ਕੀਰਤਨੁ ਗਾਵਹੇ ॥",
+          "roman": "dharam sāl apār dēār ṭhākur sadā kīrtan gāvahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਬੇਅੰਤ ਪ੍ਰਭੂ! ਹੇ ਦਇਆਲ ਪ੍ਰਭੂ! ਹੇ ਠਾਕੁਰ! ਤੇਰੇ ਧਰਮ-ਅਸਥਾਨਾਂ ਵਿਚ, ਤੇਰੇ ਸੰਤ ਜਨ ਸਦਾ ਤੇਰਾ ਕੀਰਤਨ ਗਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Беспредельный Господь! О Милосердный Господь! О Тхакур! В Твоих дхарам-астханах Твои святые всегда поют Твой киртан."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10753,
+          "is_rahao": false,
+          "gurmukhi": "ਜਹ ਸਾਧ ਸੰਤ ਇਕਤ੍ਰ ਹੋਵਹਿ ਤਹਾ ਤੁਝਹਿ ਧਿਆਵਹੇ ॥",
+          "roman": "jah sādh sant ikatra hovah tahā tujheh dhiāvahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮੋਹਨ!) ਜਿਥੇ ਭੀ ਸਾਧ ਸੰਤ ਇਕੱਠੇ ਹੁੰਦੇ ਹਨ ਉਥੇ ਤੈਨੂੰ ਹੀ ਧਿਆਉਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! Где бы ни собирались садху и санты, там они медитируют только на Тебя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10754,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਦਇਆ ਮਇਆ ਦਇਆਲ ਸੁਆਮੀ ਹੋਹੁ ਦੀਨ ਕ੍ਰਿਪਾਰਾ ॥",
+          "roman": "kar dayā maiyā daiāl suāmī hoh dīn kripārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਇਆ ਦੇ ਘਰ ਮੋਹਨ! ਹੇ ਸਭ ਦੇ ਮਾਲਕ ਮੋਹਨ! ਤੂੰ ਦਇਆ ਕਰ ਕੇ ਤਰਸ ਕਰ ਕੇ ਗਰੀਬਾਂ ਅਨਾਥਾਂ ਉਤੇ ਕਿਰਪਾਲ ਹੁੰਦਾ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан, обитель милости! О Мохан, Владыка всех! Проявляя милость и сострадание, Ты становишься милостивым к бедным и беззащитным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10755,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਦਰਸ ਪਿਆਸੇ ਮਿਲਿ ਦਰਸਨ ਸੁਖੁ ਸਾਰਾ ॥੧॥",
+          "roman": "binvanti Nānak daras piāse mil darasan sukh sārā ||1||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮੋਹਨ!) ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-ਤੇਰੇ ਦਰਸ਼ਨ ਦੇ ਪਿਆਸੇ (ਤੇਰੇ ਸੰਤ ਜਨ) ਤੈਨੂੰ ਮਿਲ ਕੇ ਤੇਰੇ ਦਰਸਨ ਦਾ ਸੁਖ ਮਾਣਦੇ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак молит: жаждущие Твоего даршана, встретив Тебя, наслаждаются блаженством Твоего даршана. ||1||"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10756,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਤੇਰੇ ਬਚਨ ਅਨੂਪ ਚਾਲ ਨਿਰਾਲੀ ॥",
+          "roman": "mohan tere bachan anūp chāl nirālī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ! ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਬਚਨ ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ, ਤੇਰੀ ਚਾਲ (ਜਗਤ ਦੇ ਜੀਵਾਂ ਦੀ ਚਾਲ ਨਾਲੋਂ) ਵੱਖਰੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! Слова хвалы Тебе прекрасны, и Твой путь отличен от пути существ мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10757,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਤੂੰ ਮਾਨਹਿ ਏਕੁ ਜੀ ਅਵਰ ਸਭ ਰਾਲੀ ॥",
+          "roman": "mohan tū mānah ek jī avar sabh rālī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ ਜੀ! (ਸਾਰੇ ਜੀਵ) ਸਿਰਫ਼ ਤੈਨੂੰ ਹੀ (ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ) ਮੰਨਦੇ ਹਨ, ਹੋਰ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਨਾਸ-ਵੰਤ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан Джи! Все существа признают вечным только Тебя одного, а всё остальное творение тленно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10758,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਨਹਿ ਤ ਏਕੁ ਅਲੇਖੁ ਠਾਕੁਰੁ ਜਿਨਹਿ ਸਭ ਕਲ ਧਾਰੀਆ ॥",
+          "roman": "mānah ta ek alekh ṭhākur jinah sabh kal dhārīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ! ਸਿਰਫ਼ ਤੈਨੂੰ ਇਕ ਨੂੰ (ਅਸਥਿਰ) ਮੰਨਦੇ ਹਨ-ਸਿਰਫ਼ ਤੈਨੂੰ-ਜਿਸ ਦਾ ਸਰੂਪ ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਜੋ ਤੂੰ ਸਭ ਦਾ ਪਾਲਣਹਾਰ ਹੈਂ, ਤੇ ਜਿਸ ਤੈਂ ਨੇ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਆਪਣੀ ਸੱਤਾ ਵਰਤਾਈ ਹੋਈ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! Истинно постоянным признают только Тебя одного — Тебя, Чей образ невозможно описать, Тебя, Который есть опора всех и распространил Свою силу по всему творению."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10759,
+          "is_rahao": false,
+          "gurmukhi": "ਤੁਧੁ ਬਚਨਿ ਗੁਰ ਕੈ ਵਸਿ ਕੀਆ ਆਦਿ ਪੁਰਖੁ ਬਨਵਾਰੀਆ ॥",
+          "roman": "tudh bachan gur kē vas kīā ād purakh banvārīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ! ਤੈਨੂੰ (ਤੇਰੇ ਭਗਤਾਂ ਨੇ) ਗੁਰੂ ਦੇ ਬਚਨ ਦੀ ਰਾਹੀਂ (ਪਿਆਰ-) ਵੱਸ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਤੂੰ ਸਭ ਦਾ ਮੁੱਢ ਹੈਂ, ਤੂੰ ਸਰਬ-ਵਿਆਪਕ ਹੈਂ, ਤੂੰ ਸਾਰੇ ਜਗਤ ਦਾ ਮਾਲਕ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! Тебя Твои преданные покорили любовью через слово Гуру. Ты — начало всего, Ты — всепроникающий, Ты — Владыка всего мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10760,
+          "is_rahao": false,
+          "gurmukhi": "ਤੂੰ ਆਪਿ ਚਲਿਆ ਆਪਿ ਰਹਿਆ ਆਪਿ ਸਭ ਕਲ ਧਾਰੀਆ ॥",
+          "roman": "tū āp chaliā āp rahiā āp sabh kal dhārīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ! (ਸਾਰੇ ਜੀਵਾਂ ਵਿਚ ਮੌਜੂਦ ਹੋਣ ਕਰਕੇ) ਤੂੰ ਆਪ ਹੀ (ਉਮਰ ਭੋਗ ਕੇ ਜਗਤ ਤੋਂ) ਚਲਾ ਜਾਂਦਾ ਹੈਂ, ਫਿਰ ਭੀ ਤੂੰ ਹੀ ਆਪ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਹੀ ਜਗਤ ਵਿਚ ਆਪਣੀ ਸੱਤਾ ਵਰਤਾਈ ਹੋਈ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! Поскольку Ты присутствуешь во всех существах, Ты Сам уходишь, прожив жизнь в мире; и всё же Ты Сам пребываешь вечно. Ты Сам распространил Свою силу в мире."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10761,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਪੈਜ ਰਾਖਹੁ ਸਭ ਸੇਵਕ ਸਰਨਿ ਤੁਮਾਰੀਆ ॥੨॥",
+          "roman": "binvanti Nānak pēj rākhah sabh sevak saran tumārīā ||2||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-(ਆਪਣੇ ਸੇਵਕਾਂ ਦੀ ਤੂੰ ਆਪ ਹੀ) ਲਾਜ ਰੱਖਦਾ ਹੈਂ, ਸਾਰੇ ਸੇਵਕ-ਭਗਤ ਤੇਰੀ ਸਰਨ ਪੈਂਦੇ ਹਨ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак молит: Ты Сам сохраняешь честь Своих слуг; все слуги-преданные приходят в Твоё прибежище. ||2||"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10762,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਤੁਧੁ ਸਤਸੰਗਤਿ ਧਿਆਵੈ ਦਰਸ ਧਿਆਨਾ ॥",
+          "roman": "mohan tudh satsangat dhiāvē daras dhiānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ! ਤੈਨੂੰ ਸਾਧ ਸੰਗਤਿ ਧਿਆਉਂਦੀ ਹੈ, ਤੇਰੇ ਦਰਸਨ ਦਾ ਧਿਆਨ ਧਰਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь Мохан! Садх сангат медитирует на Тебя и удерживает в сознании Твой даршан."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10763,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਜਮੁ ਨੇੜਿ ਨ ਆਵੈ ਤੁਧੁ ਜਪਹਿ ਨਿਦਾਨਾ ॥",
+          "roman": "mohan jam neṛ na āvē tudh japah nidānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਜੀਵ ਤੈਨੂੰ ਜਪਦੇ ਹਨ, ਅੰਤ ਵੇਲੇ ਮੌਤ ਦਾ ਸਹਮ ਉਹਨਾਂ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь Мохан! К тем существам, которые повторяют Тебя, в последний час не приближается страх смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10764,
+          "is_rahao": false,
+          "gurmukhi": "ਜਮਕਾਲੁ ਤਿਨ ਕਉ ਲਗੈ ਨਾਹੀ ਜੋ ਇਕ ਮਨਿ ਧਿਆਵਹੇ ॥",
+          "roman": "jamkāl tin kau lagē nāhī jo ik man dhiāvahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਤੈਨੂੰ ਇਕਾਗਰ ਮਨ ਨਾਲ ਧਿਆਉਂਦੇ ਹਨ, ਮੌਤ ਦਾ ਸਹਮ ਉਹਨਾਂ ਨੂੰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ (ਆਤਮਕ ਮੌਤ ਉਹਨਾਂ ਉਤੇ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੀ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тех, кто медитирует на Тебя сосредоточенным умом, страх смерти не может коснуться; духовная смерть не может на них воздействовать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10765,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਿ ਬਚਨਿ ਕਰਮਿ ਜਿ ਤੁਧੁ ਅਰਾਧਹਿ ਸੇ ਸਭੇ ਫਲ ਪਾਵਹੇ ॥",
+          "roman": "man bachan karam j tudh arādhah se sabhe phal pāvahē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਦੀ ਰਾਹੀਂ, ਉਹ ਆਪਣੇ ਬੋਲ ਦੀ ਰਾਹੀਂ, ਆਪਣੇ ਕਰਮ ਦੀ ਰਾਹੀਂ, ਤੈਨੂੰ ਯਾਦ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ, ਉਹ ਸਾਰੇ (ਮਨ-ਇੱਛਤ) ਫਲ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Те люди, которые помнят Тебя умом, речью и делом, получают все плоды, желанные сердцу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10766,
+          "is_rahao": false,
+          "gurmukhi": "ਮਲ ਮੂਤ ਮੂੜ ਜਿ ਮੁਗਧ ਹੋਤੇ ਸਿ ਦੇਖਿ ਦਰਸੁ ਸੁਗਿਆਨਾ ॥",
+          "roman": "mal mūt mūṛ j mugadh hote s dekh daras sugiānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਹੇ ਭਗਵਾਨ! ਉਹ ਮਨੁੱਖ ਭੀ ਤੇਰਾ ਦਰਸਨ ਕਰ ਕੇ ਉੱਚੀ ਸੂਝ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ ਜੋ (ਪਹਿਲਾਂ) ਗੰਦੇ-ਕੁਕਰਮੀ ਤੇ ਮਹਾ ਮੂਰਖ ਹੁੰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Всепроникающий! О Бхагван! Даже те люди, которые прежде были грязны, порочны и крайне глупы, увидев Твой даршан, становятся наделёнными высокой мудростью."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10767,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਰਾਜੁ ਨਿਹਚਲੁ ਪੂਰਨ ਪੁਰਖ ਭਗਵਾਨਾ ॥੩॥",
+          "roman": "binvanti Nānak rāj nihchal pūran purakh bhagvānā ||3||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-ਹੇ ਮੋਹਨ! ਤੇਰਾ ਰਾਜ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак молит: о Мохан! Твоё царство пребывает вечно. ||3||"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10768,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਤੂੰ ਸੁਫਲੁ ਫਲਿਆ ਸਣੁ ਪਰਵਾਰੇ ॥",
+          "roman": "mohan tū suphal phaliā saṇ parvāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ! ਤੂੰ ਬੜਾ ਸੋਹਣਾ ਫਲਿਆ ਹੋਇਆ ਹੈਂ, ਤੂੰ ਬੜੇ ਵੱਡੇ ਪਰਵਾਰ ਵਾਲਾ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь Мохан! Ты прекрасно расцвёл и обладаешь великим семейством."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10769,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਹਨ ਪੁਤ੍ਰ ਮੀਤ ਭਾਈ ਕੁਟੰਬ ਸਭਿ ਤਾਰੇ ॥",
+          "roman": "mohan putra mīt bhāī kuṭamb sabh tāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ ਪ੍ਰਭੂ! ਪੁੱਤਰਾਂ ਭਰਾਵਾਂ ਮਿੱਤਰਾਂ ਵਾਲੇ ਵੱਡੇ ਵੱਡੇ ਟੱਬਰ ਤੂੰ ਸਾਰੇ ਦੇ ਸਾਰੇ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘਾ ਦੇਂਦਾ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь Мохан! Большие семьи с сыновьями, братьями и друзьями — всех их Ты переправляешь через мирской океан."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10770,
+          "is_rahao": false,
+          "gurmukhi": "ਤਾਰਿਆ ਜਹਾਨੁ ਲਹਿਆ ਅਭਿਮਾਨੁ ਜਿਨੀ ਦਰਸਨੁ ਪਾਇਆ ॥",
+          "roman": "tāriā jahān lahiā abhimān jinī darasan pāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ! ਜਿਨ੍ਹਾਂ ਨੇ ਤੇਰਾ ਦਰਸਨ ਕੀਤਾ, ਉਹਨਾਂ ਦੇ ਅੰਦਰੋਂ ਤੂੰ ਅਹੰਕਾਰ ਦੂਰ ਕਰ ਦਿੱਤਾ। ਤੂੰ ਸਾਰੇ ਜਹਾਨ ਨੂੰ ਹੀ ਤਾਰਨ ਦੀ ਸਮਰੱਥਾ ਵਾਲਾ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! У тех, кто получил Твой даршан, Ты удалил изнутри гордыню. Ты обладаешь силой переправить весь мир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10771,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨੀ ਤੁਧਨੋ ਧੰਨੁ ਕਹਿਆ ਤਿਨ ਜਮੁ ਨੇੜਿ ਨ ਆਇਆ ॥",
+          "roman": "jinī tudhno dhann kahiā tin jam neṛ na āiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੋਹਨ! ਜਿਨ੍ਹਾਂ (ਵਡ-ਭਾਗੀਆਂ) ਨੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕੀਤੀ, ਆਤਮਕ ਮੌਤ ਉਹਨਾਂ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Мохан! К тем великосчастливым, кто воспевал Твою хвалу, духовная смерть не приближается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10772,
+          "is_rahao": false,
+          "gurmukhi": "ਬੇਅੰਤ ਗੁਣ ਤੇਰੇ ਕਥੇ ਨ ਜਾਹੀ ਸਤਿਗੁਰ ਪੁਰਖ ਮੁਰਾਰੇ ॥",
+          "roman": "beant guṇ tere kathe na jāhī satgur purakh murāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਸਭ ਤੋਂ ਵੱਡੇ! ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣ ਬੇਅੰਤ ਹਨ, ਬਿਆਨ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Величайший! О Всепроникающий Господь! Твои качества беспредельны и не могут быть полностью выражены."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10773,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਟੇਕ ਰਾਖੀ ਜਿਤੁ ਲਗਿ ਤਰਿਆ ਸੰਸਾਰੇ ॥੪॥੨॥",
+          "roman": "binvanti Nānak ṭek rākhī jit lag tariā sansāre ||4||2||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-ਮੈਂ ਤੇਰਾ ਹੀ ਆਸਰਾ ਲਿਆ ਹੈ, ਜਿਸ ਆਸਰੇ ਦੀ ਬਰਕਤਿ ਨਾਲ ਮੈਂ ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਰਿਹਾ ਹਾਂ ॥੪॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак молит: я принял прибежище только в Тебе, и силой этого прибежища я переправляюсь через океан мира. ||4||2||"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 755,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 10774,
+          "is_rahao": false,
+          "gurmukhi": "ਗਉੜੀ ਮਹਲਾ ੫ ॥",
+          "roman": "gaurī mehlā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 756,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 10775,
+          "is_rahao": false,
+          "gurmukhi": "ਸਲੋਕੁ ॥",
+          "roman": "salok",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਲੋਕ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Салок."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10776,
+          "is_rahao": false,
+          "gurmukhi": "ਪਤਿਤ ਅਸੰਖ ਪੁਨੀਤ ਕਰਿ ਪੁਨਹ ਪੁਨਹ ਬਲਿਹਾਰ ॥",
+          "roman": "patit asankh punīt kar puneh puneh balihār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ, (ਇਸ ਨਾਮ ਤੋਂ) ਮੁੜ ਮੁੜ ਕੁਰਬਾਨ ਹੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Повторяй Имя Всевышнего и снова и снова посвящай себя этому Имени."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10777,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਰਾਮ ਨਾਮੁ ਜਪਿ ਪਾਵਕੋ ਤਿਨ ਕਿਲਬਿਖ ਦਾਹਨਹਾਰ ॥੧॥",
+          "roman": "Nānak rām nām jap pāvako tin kilbikh dāhanhār ||1||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਨਾਮ ਅਣਗਿਣਤ ਵਿਕਾਰੀਆਂ ਨੂੰ ਪਵਿਤ੍ਰ ਕਰ ਦੇਂਦਾ ਹੈ। (ਜਿਵੇਂ) ਅੱਗ (ਘਾਹ ਦੇ) ਤੀਲਿਆਂ ਨੂੰ (ਤਿਵੇਂ ਇਹ ਹਰਿ ਨਾਮ) ਪਾਪਾਂ ਨੂੰ ਸਾੜਨ ਦੀ ਤਾਕਤ ਰੱਖਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Это Имя очищает бесчисленных порочных. Подобно тому как огонь сжигает соломинки травы, так и это Хари-Имя обладает силой сжигать грехи. ||1||"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 757,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 10778,
+          "is_rahao": false,
+          "gurmukhi": "ਛੰਤ ॥",
+          "roman": "chhant",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਛੰਤ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Чхант."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10779,
+          "is_rahao": false,
+          "gurmukhi": "ਜਪਿ ਮਨਾ ਤੂੰ ਰਾਮ ਨਰਾਇਣੁ ਗੋਵਿੰਦਾ ਹਰਿ ਮਾਧੋ ॥",
+          "roman": "jap manā tū rām narāiṇ govindā har mādhō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਰਾਮ ਨਾਰਾਇਣ ਗੋਬਿੰਦ ਹਰੀ ਮਾਧੋ (ਦੇ ਨਾਮ) ਨੂੰ ਜਪ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой ум! Повторяй Имя Рам Нараин Говинда Хари Мадхо."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10780,
+          "is_rahao": false,
+          "gurmukhi": "ਧਿਆਇ ਮਨਾ ਮੁਰਾਰਿ ਮੁਕੰਦੇ ਕਟੀਐ ਕਾਲ ਦੁਖ ਫਾਧੋ ॥",
+          "roman": "dhiāi manā murār mukande kaṭīai kāl dukh fādhō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਮੁਕੰਦ ਮੁਰਾਰੀ ਦਾ ਆਰਾਧਨ ਕਰ। (ਇਸ ਆਰਾਧਨ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮੌਤ ਤੇ ਦੁੱਖਾਂ ਦੀ ਫਾਹੀ ਕੱਟੀ ਜਾਂਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой ум! Поклоняйся Муканду Мурари. Благословением этого поклонения разрубается петля смерти и страданий."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10781,
+          "is_rahao": false,
+          "gurmukhi": "ਦੁਖਹਰਣ ਦੀਨ ਸਰਣ ਸ੍ਰੀਧਰ ਚਰਨ ਕਮਲ ਅਰਾਧੀਐ ॥",
+          "roman": "dukhharaṇ dīn saran srīdhar charan kamal arādhīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮਨ!) ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ ਦਾ ਆਰਾਧਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ, ਜੋ ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ, ਜੋ ਗ਼ਰੀਬਾਂ ਦਾ ਸਹਾਰਾ ਹੈ, ਜੋ ਲੱਖਮੀ ਦਾ ਆਸਰਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О ум! Следует поклоняться прекрасным стопам того Господа, Который уничтожает страдания, является опорой бедных и прибежищем Лакшми."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10782,
+          "is_rahao": false,
+          "gurmukhi": "ਜਮ ਪੰਥੁ ਬਿਖੜਾ ਅਗਨਿ ਸਾਗਰੁ ਨਿਮਖ ਸਿਮਰਤ ਸਾਧੀਐ ॥",
+          "roman": "jam panth bikhaṛā agan sāgar nimakh simrat sādhīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮਨ! ਜਮਾਂ ਦਾ ਔਖਾ ਰਸਤਾ, ਤੇ (ਵਿਕਾਰਾਂ ਦੀ) ਅੱਗ (ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਸੰਸਾਰ-) ਸਮੁੰਦਰ ਰਤਾ ਭਰ ਸਮੇ ਲਈ ਨਾਮ ਸਿਮਰਿਆਂ ਸੋਹਣਾ ਬਣਾ ਲਈਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О ум! Трудный путь ямов и океан мира, наполненный огнём пороков, даже кратким памятованием Имени становятся проходимыми и благими."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10783,
+          "is_rahao": false,
+          "gurmukhi": "ਕਲਿਮਲਹ ਦਹਤਾ ਸੁਧੁ ਕਰਤਾ ਦਿਨਸੁ ਰੈਣਿ ਅਰਾਧੋ ॥",
+          "roman": "kalimalah dahtā sudh kartā dinas rēṇ arādhō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮੇਰੇ ਮਨ!) ਦਿਨ ਰਾਤ ਉਸ ਹਰੀ-ਨਾਮ ਨੂੰ ਸਿਮਰਦਾ ਰਹੁ, ਜੋ ਪਾਪਾਂ ਦਾ ਸਾੜਨ ਵਾਲਾ ਹੈ ਤੇ ਜੋ ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой ум! День и ночь помни Хари-Имя, которое сжигает грехи и очищает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10784,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਕਰਹੁ ਕਿਰਪਾ ਗੋਪਾਲ ਗੋਬਿੰਦ ਮਾਧੋ ॥੧॥",
+          "roman": "binvanti Nānak karah kirpā gopāl gobind mādhō ||1||",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-ਹੇ ਗੋਪਾਲ! ਹੇ ਗੋਬਿੰਦ! ਹੇ ਮਾਧੋ! ਮਿਹਰ ਕਰ (ਕਿ ਮੈਂ ਤੇਰਾ ਨਾਮ ਸਦਾ ਸਿਮਰਦਾ ਰਹਾਂ) ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак молит: о Гопал! О Гобинд! О Мадхо! Яви милость, чтобы я всегда помнил Твоё Имя. ||1||"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10785,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਮਰਿ ਮਨਾ ਦਾਮੋਦਰੁ ਦੁਖਹਰੁ ਭੈ ਭੰਜਨੁ ਹਰਿ ਰਾਇਆ ॥",
+          "roman": "simar manā dāmodar dukhhar bhē bhanjan har rāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਮਨ! ਉਸ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਦਾਮੋਦਰ ਨੂੰ ਸਿਮਰ, ਜੋ ਦੁੱਖਾਂ ਦਾ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ, ਜੋ ਡਰਾਂ ਦਾ ਨਾਸ਼ ਕਰਨ ਵਾਲਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой ум! Помни Господа-Царя Дамодара, Который устраняет страдания и разрушает страхи,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 10786,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰੀਰੰਗੋ ਦਇਆਲ ਮਨੋਹਰੁ ਭਗਤਿ ਵਛਲੁ ਬਿਰਦਾਇਆ ॥",
+          "roman": "srīrango daiāl manohar bhagat vachhal birdāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਲੱਖਮੀ ਦਾ ਖਸਮ ਹੈ, ਜੋ ਦਇਆ ਦਾ ਸੋਮਾ ਹੈ, ਜੋ ਮਨ ਨੂੰ ਮੋਹ ਲੈਣ ਵਾਲਾ ਹੈ, ਤੇ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨਾ ਜਿਸ ਦਾ ਮੁੱਢ-ਕਦੀਮਾਂ ਦਾ ਸੁਭਾਉ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Который является супругом Лакшми, источником милости, пленяющим ум, и Чья изначальная природа — любить преданность."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+{
+  "ang": 721,
+  "shabads": [
+    {
+      "shabad_id": 2763,
+      "rahao_verse_id": 30871,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 30866,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਗੁ ਤਿਲੰਗ ਮਹਲਾ ੧ ਘਰੁ ੧",
+          "roman": "rāg tilang mehlā 1 ghar 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਤਿਲੰਗ, ਘਰ ੧ ਵਿੱਚ ਗੁਰੂ ਨਾਨਕਦੇਵ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Раг Тиланг, в доме 1 — бани Гуру Нанак Дев Джи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30867,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik ōankār sat nām kartā purakh nirbhau nirvēr akāl mūrat ajūnī sēbhaṅ gur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ, ਜਿਸ ਦਾ ਨਾਮ 'ਹੋਂਦ ਵਾਲਾ' ਹੈ ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਨਹਾਰ ਹੈ, ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਭੈ ਤੋਂ ਰਹਿਤ ਹੈ, ਵੈਰ-ਰਹਿਤ ਹੈ, ਜਿਸ ਦਾ ਸਰੂਪ ਕਾਲ ਤੋਂ ਪਰੇ ਹੈ, (ਭਾਵ, ਜਿਸ ਦਾ ਸਰੀਰ ਨਾਸ-ਰਹਿਤ ਹੈ), ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਜਿਸ ਦਾ ਪ੍ਰਕਾਸ਼ ਆਪਣੇ ਆਪ ਤੋਂ ਹੋਇਆ ਹੈ ਅਤੇ ਜੋ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акаал Пуракх один есть, имя Его — существующий, Он творец мира, везде присутствует, лишён страха, без вражды, Его сущность вне времени, Он не подвержен разрушению, не входит в рождения, проявился Сам из Себя и достигается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30868,
+          "is_rahao": false,
+          "gurmukhi": "ਯਕ ਅਰਜ ਗੁਫਤਮ ਪੇਸਿ ਤੋ ਦਰ ਗੋਸ ਕੁਨ ਕਰਤਾਰ ॥",
+          "roman": "yak arj guftam pēs to dar gōs kun kartār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਕਰਤਾਰ! ਮੈਂ ਤੇਰੇ ਅੱਗੇ ਇਕ ਬੇਨਤੀ ਕੀਤੀ ਹੈ, (ਮੇਰੀ ਬੇਨਤੀ) ਧਿਆਨ ਨਾਲ ਸੁਣ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Картар! Я обратился к Тебе с одной просьбой, выслушай её внимательно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30869,
+          "is_rahao": false,
+          "gurmukhi": "ਹਕਾ ਕਬੀਰ ਕਰੀਮ ਤੂ ਬੇਐਬ ਪਰਵਦਗਾਰ ॥੧॥",
+          "roman": "hakā kabīr karīm tū bēaib parvardgār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈਂ। ਤੂੰ (ਸਭ ਤੋਂ) ਵੱਡਾ ਹੈਂ, ਤੂੰ ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਪਵਿਤ੍ਰ ਹਸਤੀ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਸਭ ਦਾ ਪਾਲਣ ਵਾਲਾ ਹੈਂ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Ты вечен, Ты велик, Ты дарующий, Ты чистый, Ты кормилец всех."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30870,
+          "is_rahao": true,
+          "gurmukhi": "ਦੁਨੀਆ ਮੁਕਾਮੇ ਫਾਨੀ ਤਹਕੀਕ ਦਿਲ ਦਾਨੀ ॥",
+          "roman": "duniyā mukāmē fānī tahkīk dil dānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ (ਮੇਰੇ) ਦਿਲ! ਤੂੰ ਸੱਚ ਜਾਣ ਕਿ ਇਹ ਦੁਨੀਆ ਨਾਸਵੰਤ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О сердце! узнай истину — этот мир преходящ."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30871,
+          "is_rahao": true,
+          "gurmukhi": "ਮਮ ਸਰ ਮੂਇ ਅਜਰਾਈਲ ਗਿਰਫਤਹ ਦਿਲ ਹੇਚਿ ਨ ਦਾਨੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "mam sar mūe ajrāīl giriftah dil hēch na dānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਿਲ! ਤੂੰ ਕੁਝ ਭੀ ਨਹੀਂ ਸਮਝਦਾ ਕਿ (ਮੌਤ ਦੇ ਫ਼ਰਿਸ਼ਤੇ) ਅਜ਼ਰਾਈਲ ਨੇ ਮੇਰੇ ਸਿਰ ਦੇ ਵਾਲ ਫੜੇ ਹੋਏ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О сердце! ты ничего не понимаешь, ведь Азраил уже держит волосы на моей голове."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30872,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਪਿਸਰ ਪਦਰ ਬਿਰਾਦਰਾਂ ਕਸ ਨੇਸ ਦਸਤੰਗੀਰ ॥",
+          "roman": "jan pisar padar birādarāṅ kas nēs dastangīr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਸਤ੍ਰੀ, ਪੁੱਤਰ, ਪਿਉ, (ਸਾਰੇ) ਭਰਾ, (ਇਹਨਾਂ ਵਿਚੋਂ) ਕੋਈ ਭੀ ਮਦਦ ਕਰਨ ਵਾਲਾ ਨਹੀਂ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Жена, сын, отец, братья — никто из них не помощник,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30873,
+          "is_rahao": false,
+          "gurmukhi": "ਆਖਿਰ ਬਿਅਫਤਮ ਕਸ ਨ ਦਾਰਦ ਚੂੰ ਸਵਦ ਤਕਬੀਰ ॥੨॥",
+          "roman": "ākhir biafatam kas na dārad chūṅ savad takbīr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਦੋਂ) ਆਖ਼ਿਰ ਨੂੰ ਮੈਂ ਡਿੱਗਾ (ਭਾਵ, ਜਦੋਂ ਮੌਤ ਆ ਗਈ), ਜਦੋਂ ਮੁਰਦੇ ਨੂੰ ਦੱਬਣ ਵੇਲੇ ਦੀ ਨਮਾਜ਼ ਪੜ੍ਹੀਦੀ ਹੈ, ਕੋਈ ਭੀ (ਮੈਨੂੰ ਇਥੇ) ਰੱਖ ਨਹੀਂ ਸਕਦਾ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "в конце, когда я падаю, когда читают молитву перед погребением, никто не может меня здесь удержать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30874,
+          "is_rahao": false,
+          "gurmukhi": "ਸਬ ਰੋਜ ਗਸਤਮ ਦਰ ਹਵਾ ਕਰਦੇਮ ਬਦੀ ਖਿਆਲ ॥",
+          "roman": "sab roj gastam dar havā kardēm badī khiyāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਸਾਰੀ ਜ਼ਿੰਦਗੀ) ਮੈਂ ਰਾਤ ਦਿਨ ਲਾਲਚ ਵਿਚ ਹੀ ਫਿਰਦਾ ਰਿਹਾ, ਮੈਂ ਬਦੀ ਦੇ ਹੀ ਖ਼ਿਆਲ ਕਰਦਾ ਰਿਹਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Всю жизнь я скитался в жадности, думал лишь о зле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30875,
+          "is_rahao": false,
+          "gurmukhi": "ਗਾਹੇ ਨ ਨੇਕੀ ਕਾਰ ਕਰਦਮ ਮਮ ੲਂੀ ਚਿਨੀ ਅਹਵਾਲ ॥੩॥",
+          "roman": "gāhē na nēkī kār kardam mam īṅ chinī ahvāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਕਦੇ ਕੋਈ ਨੇਕੀ ਦਾ ਕੰਮ ਨਹੀਂ ਕੀਤਾ। (ਹੇ ਕਰਤਾਰ!) ਮੇਰਾ ਇਹੋ ਜਿਹਾ ਹਾਲ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Я никогда не совершал добрых дел. Таково моё состояние."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30876,
+          "is_rahao": false,
+          "gurmukhi": "ਬਦਬਖਤ ਹਮ ਚੁ ਬਖੀਲ ਗਾਫਿਲ ਬੇਨਜਰ ਬੇਬਾਕ ॥",
+          "roman": "badbakhat ham chu bakhīl ghāfil bēnajar bēbāk",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਕਰਤਾਰ!) ਮੇਰੇ ਵਰਗਾ (ਦੁਨੀਆ ਵਿਚ) ਕੋਈ ਨਿਭਾਗਾ, ਨਿੰਦਕ, ਲਾ-ਪਰਵਾਹ, ਢੀਠ ਤੇ ਨਿਡਰ ਨਹੀਂ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О Картар! Нет никого столь несчастного, завистливого, беспечного и дерзкого, как я."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30877,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਬੁਗੋਯਦ ਜਨੁ ਤੁਰਾ ਤੇਰੇ ਚਾਕਰਾਂ ਪਾ ਖਾਕ ॥੪॥੧॥",
+          "roman": "nānak bugōyad jan turā tērē chākarāṅ pā khāk",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ ਤੇਰਾ) ਦਾਸ ਨਾਨਕ ਤੈਨੂੰ ਆਖਦਾ ਹੈ ਕਿ (ਮੇਹਰ ਕਰ, ਮੈਨੂੰ) ਤੇਰੇ ਸੇਵਕਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਮਿਲੇ ॥੪॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но Твой слуга Нанак говорит Тебе: даруй мне пыль у стоп Твоих слуг."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2764,
+      "rahao_verse_id": 30885,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 30878,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਲੰਗ ਮਹਲਾ ੧ ਘਰੁ ੨",
+          "roman": "tilang mehlā 1 ghar 2",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਤਿਲੰਗ, ਘਰ ੨ ਵਿੱਚ ਗੁਰੂ ਨਾਨਕਦੇਵ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Раг Тиланг, дом 2 — бани Гуру Нанак Дев Джи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30879,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik ōankār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акаал Пуракх один и достигается милостью Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30880,
+          "is_rahao": false,
+          "gurmukhi": "ਭਉ ਤੇਰਾ ਭਾਂਗ ਖਲੜੀ ਮੇਰਾ ਚੀਤੁ ॥",
+          "roman": "bhau tērā bhāṅg khalṛī mērā chīt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇਰਾ ਡਰ ਅਦਬ ਮੇਰੇ ਵਾਸਤੇ ਭੰਗ ਹੈ, ਮੇਰਾ ਮਨ (ਇਸ ਭੰਗ ਨੂੰ ਸਾਂਭ ਕੇ ਰੱਖਣ ਲਈ) ਗੁੱਥੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Твой страх и почтение — для меня как бханг, а мой ум — сосуд для него."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30881,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਦੇਵਾਨਾ ਭਇਆ ਅਤੀਤੁ ॥",
+          "roman": "mē dēvānā bhaeā atīt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਤੇਰੇ ਡਰ-ਅਦਬ ਦੀ ਭੰਗ ਨਾਲ) ਮੈਂ ਨਸ਼ਈ ਤੇ ਵਿਰਕਤ ਹੋ ਗਿਆ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "От этого бханга я стал опьянённым и отрешённым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30882,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰ ਕਾਸਾ ਦਰਸਨ ਕੀ ਭੂਖ ॥",
+          "roman": "kar kāsā darsan kī bhūkh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੇਰੇ ਦੋਵੇਂ ਹੱਥ (ਤੇਰੇ ਦਰ ਤੋਂ ਖ਼ੈਰ ਲੈਣ ਵਾਸਤੇ) ਪਿਆਲਾ ਹਨ, (ਮੇਰੇ ਆਤਮਾ ਨੂੰ ਤੇਰੇ) ਦੀਦਾਰ ਦੀ ਭੁੱਖ (ਲੱਗੀ ਹੋਈ) ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Мои руки — чаша, душа жаждет Твоего видения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30883,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਦਰਿ ਮਾਗਉ ਨੀਤਾ ਨੀਤ ॥੧॥",
+          "roman": "mē dar māgau nītā nīt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਸ ਵਾਸਤੇ) ਮੈਂ (ਤੇਰੇ) ਦਰ ਤੇ ਸਦਾ (ਦੀਦਾਰ ਦੀ ਮੰਗ ਹੀ) ਮੰਗਦਾ ਹਾਂ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Я всегда прошу у Твоих дверей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30884,
+          "is_rahao": true,
+          "gurmukhi": "ਤਉ ਦਰਸਨ ਕੀ ਕਰਉ ਸਮਾਇ ॥",
+          "roman": "tau darsan kī karau samāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੇਰੇ ਦੀਦਾਰ ਦੀ ਸਦਾਅ ਕਰਦਾ ਹਾਂ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь! я призываю Твоё видение,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30885,
+          "is_rahao": true,
+          "gurmukhi": "ਮੈ ਦਰਿ ਮਾਗਤੁ ਭੀਖਿਆ ਪਾਇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "mē dar māgat bhīkhiā pāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਤੇਰੇ ਦਰ ਤੇ ਮੰਗਤਾ ਹਾਂ, ਮੈਨੂੰ (ਆਪਣੇ ਦੀਦਾਰ ਦਾ) ਖ਼ੈਰ ਪਾ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "я нищий у Твоих дверей — дай мне милостыню Твоего даршана."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30886,
+          "is_rahao": false,
+          "gurmukhi": "ਕੇਸਰਿ ਕੁਸਮ ਮਿਰਗਮੈ ਹਰਣਾ ਸਰਬ ਸਰੀਰੀ ਚੜੑਣਾ ॥",
+          "roman": "kēsar kusam mirgamē harnā sarab sarīrī chaṛhnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕੇਸਰ, ਫੁੱਲ, ਕਸਤੂਰੀ ਤੇ ਸੋਨਾ (ਇਹਨਾਂ ਦੀ ਭਿੱਟ ਕੋਈ ਨਹੀਂ ਮੰਨਦਾ, ਇਹ) ਸਭਨਾਂ ਦੇ ਸਰੀਰਾਂ ਤੇ ਵਰਤੇ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Шафран, цветы, мускус и золото используются на телах всех,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30887,
+          "is_rahao": false,
+          "gurmukhi": "ਚੰਦਨ ਭਗਤਾ ਜੋਤਿ ਇਨੇਹੀ ਸਰਬੇ ਪਰਮਲੁ ਕਰਣਾ ॥੨॥",
+          "roman": "chandan bhagtā jot inehī sarbē parmal karnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਚੰਦਨ ਸਭ ਨੂੰ ਸੁਗੰਧੀ ਦੇਂਦਾ ਹੈ, ਅਜੇਹਾ ਹੀ ਸੁਭਾਉ (ਤੇਰੇ) ਭਗਤਾਂ ਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "сандал дарит аромат всем — такова природа Твоих преданных."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30888,
+          "is_rahao": false,
+          "gurmukhi": "ਘਿਅ ਪਟ ਭਾਂਡਾ ਕਹੈ ਨ ਕੋਇ ॥",
+          "roman": "ghiā paṭ bhāṇḍā kahē na kōi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰੇਸ਼ਮ ਤੇ ਘਿਉ ਦੇ ਭਾਂਡੇ ਬਾਰੇ ਕਦੇ ਕੋਈ ਮਨੁੱਖ ਪੁੱਛ ਨਹੀਂ ਕਰਦਾ (ਕਿ ਇਹਨਾਂ ਨੂੰ ਕਿਸ ਕਿਸ ਦਾ ਹੱਥ ਲੱਗ ਚੁਕਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Никто не спрашивает о сосудах с гхи или шёлке, кто их касался."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30889,
+          "is_rahao": false,
+          "gurmukhi": "ਐਸਾ ਭਗਤੁ ਵਰਨ ਮਹਿ ਹੋਇ ॥",
+          "roman": "aisā bhagat varan meh hōi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਪ੍ਰਭੂ! ਤੇਰਾ) ਭਗਤ ਭੀ ਅਜੇਹਾ ਹੀ ਹੁੰਦਾ ਹੈ, ਭਾਵੇਂ ਉਹ ਕਿਸੇ ਹੀ ਜਾਤਿ ਵਿਚ (ਜੰਮਿਆ) ਹੋਵੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Таков и Твой преданный, независимо от его касты."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30890,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇਰੈ ਨਾਮਿ ਨਿਵੇ ਰਹੇ ਲਿਵ ਲਾਇ ॥",
+          "roman": "tērē nām nivē rahē liv lāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਬੰਦੇ ਤੇਰੇ ਨਾਮ ਵਿਚ ਲੀਨ ਰਹਿੰਦੇ ਹਨ ਲਿਵ ਲਾਈ ਰੱਖਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто пребывают в Твоём Имени и удерживают внимание,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30891,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਤਿਨ ਦਰਿ ਭੀਖਿਆ ਪਾਇ ॥੩॥੧॥੨॥",
+          "roman": "nānak tin dar bhīkhiā pāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ-ਦਰ ਤੇ ਅਰਦਾਸ ਕਰ ਤੇ ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਉਹਨਾਂ ਦੇ ਦਰ ਤੇ (ਰੱਖ ਕੇ ਮੈਨੂੰ ਆਪਣੇ ਦਰਸਨ ਦਾ) ਖ਼ੈਰ ਪਾ ॥੩॥੧॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак просит: даруй мне милостыню у их дверей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2765,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 30892,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਲੰਗ ਮਹਲਾ ੧ ਘਰੁ ੩",
+          "roman": "tilang mehlā 1 ghar 3",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਤਿਲੰਗ, ਘਰ ੩ ਵਿੱਚ ਗੁਰੂ ਨਾਨਕਦੇਵ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Раг Тиланг, дом 3 — бани Гуру Нанак Дев Джи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30893,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik ōankār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акаал Пуракх один и достигается милостью Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 30894,
+          "is_rahao": false,
+          "gurmukhi": "ਇਹੁ ਤਨੁ ਮਾਇਆ ਪਾਹਿਆ ਪਿਆਰੇ ਲੀਤੜਾ ਲਬਿ ਰੰਗਾਏ ॥",
+          "roman": "ihu tan māiā pāhiā piārē lītaṛā lab rangāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਇਸ ਸਰੀਰ ਨੂੰ ਮਾਇਆ (ਦੇ ਮੋਹ) ਦੀ ਪਾਹ ਲੱਗੀ ਹੋਵੇ, ਤੇ ਫਿਰ ਉਸ ਨੇ ਇਸ ਨੂੰ ਲੱਬ ਨਾਲ ਰੰਗਾ ਲਿਆ ਹੋਵੇ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Если тело окрашено привязанностью к майе и пропитано жадностью,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

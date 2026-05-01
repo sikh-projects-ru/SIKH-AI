@@ -1,0 +1,783 @@
+{
+  "ang": 1417,
+  "shabads": [
+    {
+      "shabad_id": 5478,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 59875,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਸਬਦਿ ਮਰੈ ਮਨੁ ਮਾਨੀਐ ਸਾਚੇ ਸਾਚੀ ਸੋਇ ॥੩੩॥",
+          "roman": "Nānak sabad marē man mānīē sāchē sāchī soi. 33.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Когда человек умирает для себя через Слово Гуру, его ум смиряется; в Истинном он обретает истинную славу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59876,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਇਆ ਮੋਹੁ ਦੁਖੁ ਸਾਗਰੁ ਹੈ ਬਿਖੁ ਦੁਤਰੁ ਤਰਿਆ ਨ ਜਾਇ ॥",
+          "roman": "Māiā moh dukh sāgar hē bikh dutar tariā na jāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Привязанность к майе для души человека является корнем страдания, словно океан страданий; это океан яда, несущего духовную смерть, и переправиться через него крайне трудно, невозможно перейти его своими силами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59877,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਰਾ ਮੇਰਾ ਕਰਦੇ ਪਚਿ ਮੁਏ ਹਉਮੈ ਕਰਤ ਵਿਹਾਇ ॥",
+          "roman": "Mērā mērā kardē pach muē haumē karat vihāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Говоря: «моё, моё», существа сгорают в огне жажды и снова и снова терпят духовную смерть; их жизнь проходит в постоянном «я, я»."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59878,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਮੁਖਾ ਉਰਵਾਰੁ ਨ ਪਾਰੁ ਹੈ ਅਧ ਵਿਚਿ ਰਹੇ ਲਪਟਾਇ ॥",
+          "roman": "Manmukhā urvār na pār hē adh vich rahē lapaṭāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Люди, идущие за своим умом, не находят ни ближнего берега, ни дальнего берега океана привязанности; посреди него они остаются прилипшими к моху."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59879,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਧੁਰਿ ਲਿਖਿਆ ਸੁ ਕਮਾਵਣਾ ਕਰਣਾ ਕਛੂ ਨ ਜਾਇ ॥",
+          "roman": "Jo dhur likhiā so kamāvaṇā karṇā kachhū na jāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Что по прежним отпечаткам поступков записано от Изначальной Даргахи на челе существа, то ему приходится проживать; опираясь лишь на собственный разум, ничего нельзя сделать, чтобы избежать этого письма."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59880,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਮਤੀ ਗਿਆਨੁ ਰਤਨੁ ਮਨਿ ਵਸੈ ਸਭੁ ਦੇਖਿਆ ਬ੍ਰਹਮੁ ਸੁਭਾਇ ॥",
+          "roman": "Gurmatī giān ratan man vasē sabh dēkhiā brahm subhāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Идя по наставлению Гуру, человек принимает в ум драгоценность духовного знания, глубокую связь с Богом; через любовь к Господу он видит Его во всей вселенной."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59881,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਸਤਿਗੁਰਿ ਬੋਹਿਥੈ ਵਡਭਾਗੀ ਚੜੈ ਤੇ ਭਉਜਲਿ ਪਾਰਿ ਲੰਘਾਇ ॥੩੪॥",
+          "roman": "Nānak satigur bohithē vaḍbhāgī chaṛē tē bhaujal pār langhāi. 34.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Только по великой удаче человек садится на корабль Сатгуру; тех, кто вступает на этот корабль и идёт путем Гуру, Гуру переправляет через океан мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59882,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਸਤਿਗੁਰ ਦਾਤਾ ਕੋ ਨਹੀ ਜੋ ਹਰਿ ਨਾਮੁ ਦੇਇ ਆਧਾਰੁ ॥",
+          "roman": "Bin satigur dātā ko nahī jo har nām dēi ādhār.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Кроме Гуру нет другого дарителя, который мог бы дать дар Имени Бога; именно Гуру даёт Имя Хари как опору для жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59883,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਕਿਰਪਾ ਤੇ ਨਾਉ ਮਨਿ ਵਸੈ ਸਦਾ ਰਹੈ ਉਰਿ ਧਾਰਿ ॥",
+          "roman": "Gur kirpā tē nāu man vasē sadā rahē ur dhār.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По милости Гуру Имя Бога поселяется в уме человека, и человек постоянно удерживает Хар-Нам в своём сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59884,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸਨਾ ਬੁਝੈ ਤਿਪਤਿ ਹੋਇ ਹਰਿ ਕੈ ਨਾਇ ਪਿਆਰਿ ॥",
+          "roman": "Tisnā bujhē tipat hoi har kē nāi piār.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Через Имя Хари, через любовь к Хари, огонь жажды внутри человека гаснет, и в нём наступает удовлетворение по отношению к майе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59885,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਪਾਈਐ ਹਰਿ ਅਪਨੀ ਕਿਰਪਾ ਧਾਰਿ ॥੩੫॥",
+          "roman": "Nānak gurmukh pāīai har apanī kirpā dhār. 35.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! В прибежище Гуру обретается Имя Бога; в прибежище Гуру Бог проливает на служителя Свою милость."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59886,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਸਬਦੈ ਜਗਤੁ ਬਰਲਿਆ ਕਹਣਾ ਕਛੂ ਨ ਜਾਇ ॥",
+          "roman": "Bin sabadē jagat barliā kahṇā kachhū na jāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Оставшись без Слова Гуру, мир обезумел, гоняясь за майей; тут ничья доводка не действует, ничего нельзя возразить."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59887,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਰਖੇ ਸੇ ਉਬਰੇ ਸਬਦਿ ਰਹੇ ਲਿਵ ਲਾਇ ॥",
+          "roman": "Har rakhē sē ubrē sabad rahē liv lāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кого Сам Бог защитил, спаслись от влияния майи; такие люди держат своё сознание соединённым со Словом Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59888,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕਰਤਾ ਸਭ ਕਿਛੁ ਜਾਣਦਾ ਜਿਨਿ ਰਖੀ ਬਣਤ ਬਣਾਇ ॥੩੬॥",
+          "roman": "Nānak kartā sabh kichh jāṇdā jin rakhī baṇat baṇāi. 36.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Тот Творец, Который установил весь этот порядок, знает всю его тайну."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59889,
+          "is_rahao": false,
+          "gurmukhi": "ਹੋਮ ਜਗ ਸਭਿ ਤੀਰਥਾ ਪੜਿੑ ਪੰਡਿਤ ਥਕੇ ਪੁਰਾਣ ॥",
+          "roman": "Hom jag sabh tīrathā paṛh paṇḍit thakē purāṇ.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Пандиты устают, совершая хаваны и жертвоприношения, посещая все тиртхи и читая Пураны и другие религиозные книги."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59890,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਖੁ ਮਾਇਆ ਮੋਹੁ ਨ ਮਿਟਈ ਵਿਚਿ ਹਉਮੈ ਆਵਣੁ ਜਾਣੁ ॥",
+          "roman": "Bikh māiā moh na miṭaī vich haumē āvaṇ jāṇ.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "И всё же изнутри не исчезает привязанность к ядовитой майе, несущей духовную смерть; оставаясь в Хоумэ, они продолжают круг рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59891,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਮਿਲਿਐ ਮਲੁ ਉਤਰੀ ਹਰਿ ਜਪਿਆ ਪੁਰਖੁ ਸੁਜਾਣੁ ॥",
+          "roman": "Satigur miliai mal utrī har japiā purakh sujāṇ.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но если встречается Гуру, то у того, кто, войдя в прибежище Гуру, повторяет Имя всеведущего Акал Пуракха, сходит грязь пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59892,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਾ ਹਰਿ ਹਰਿ ਪ੍ਰਭੁ ਸੇਵਿਆ ਜਨ ਨਾਨਕੁ ਸਦ ਕੁਰਬਾਣੁ ॥੩੭॥",
+          "roman": "Jinā har har prabh sēviā jan Nānak sad kurbāṇ. 37.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Слуга Нанак всегда приносит себя в жертву тем людям, которые служили и поклонялись Господу, Хари-Прабху."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59893,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਇਆ ਮੋਹੁ ਬਹੁ ਚਿਤਵਦੇ ਬਹੁ ਆਸਾ ਲੋਭੁ ਵਿਕਾਰ ॥",
+          "roman": "Māiā moh bah chitvadē bah āsā lobh vikār.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Люди, идущие за своим умом, постоянно помнят лишь привязанность к майе; они строят множество надежд, думают о жадности и о пороках."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59894,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਮੁਖਿ ਅਸਥਿਰੁ ਨਾ ਥੀਐ ਮਰਿ ਬਿਨਸਿ ਜਾਇ ਖਿਨ ਵਾਰ ॥",
+          "roman": "Manmukh asthir nā thīai mar binas jāi khin vār.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Поэтому человек, идущий за своим умом, никогда не становится устойчивым в сознании; он всё время снова и снова умирает духовной смертью."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59895,
+          "is_rahao": false,
+          "gurmukhi": "ਵਡ ਭਾਗੁ ਹੋਵੈ ਸਤਿਗੁਰੁ ਮਿਲੈ ਹਉਮੈ ਤਜੈ ਵਿਕਾਰ ॥",
+          "roman": "Vaḍ bhāg hovē satigur milē haumē tajē vikār.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда у человека пробуждается великая удача, он встречает Гуру; тогда он оставляет Хоумэ и отбрасывает пороки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59896,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਨਾਮਾ ਜਪਿ ਸੁਖੁ ਪਾਇਆ ਜਨ ਨਾਨਕ ਸਬਦੁ ਵੀਚਾਰ ॥੩੮॥",
+          "roman": "Har nāmā jap sukh pāiā jan Nānak sabad vīchār. 38.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Те люди, которые сделали Слово Гуру основой своей мысли, повторяя Имя Хари, начали вкушать духовный покой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59897,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਸਤਿਗੁਰ ਭਗਤਿ ਨ ਹੋਵਈ ਨਾਮਿ ਨ ਲਗੈ ਪਿਆਰੁ ॥",
+          "roman": "Bin satigur bhagat na hovaī nām na lagē piār.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Без прибежища Гуру не может быть преданности Богу, и любовь к Имени Бога не возникает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59898,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਨਾਮੁ ਅਰਾਧਿਆ ਗੁਰ ਕੈ ਹੇਤਿ ਪਿਆਰਿ ॥੩੯॥",
+          "roman": "Jan Nānak nām arādhiā gur kē hēt piār. 39.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак! Имя Бога можно поминать только пребывая в любви и привязанности к Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59899,
+          "is_rahao": false,
+          "gurmukhi": "ਲੋਭੀ ਕਾ ਵੇਸਾਹੁ ਨ ਕੀਜੈ ਜੇ ਕਾ ਪਾਰਿ ਵਸਾਇ ॥",
+          "roman": "Lobhī kā vēsāh na kījē jē kā pār vasāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Насколько возможно, не следует доверять жадному человеку."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59900,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਤਿ ਕਾਲਿ ਤਿਥੈ ਧੁਹੈ ਜਿਥੈ ਹਥੁ ਨ ਪਾਇ ॥",
+          "roman": "Ant kāl tithē dhuhē jithē hath na pāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В конце он обманывает именно там, где никто уже не может протянуть руку помощи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59901,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਮੁਖ ਸੇਤੀ ਸੰਗੁ ਕਰੇ ਮੁਹਿ ਕਾਲਖ ਦਾਗੁ ਲਗਾਇ ॥",
+          "roman": "Manmukh sētī sang karē muh kālakh dāg lagāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто поддерживает связь с человеком, идущим за своим умом, сам покрывает своё лицо чернотой позора и ставит на себя пятно бесчестья."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59902,
+          "is_rahao": false,
+          "gurmukhi": "ਮੁਹ ਕਾਲੇ ਤਿਨੑ ਲੋਭੀਆਂ ਜਾਸਨਿ ਜਨਮੁ ਗਵਾਇ ॥",
+          "roman": "Muh kālē tinh lobhīāṅ jāsan janam gavāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Лица этих жадных людей остаются почерневшими от позора; они уходят из мира, напрасно растратив человеческое рождение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59903,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਸੰਗਤਿ ਹਰਿ ਮੇਲਿ ਪ੍ਰਭ ਹਰਿ ਨਾਮੁ ਵਸੈ ਮਨਿ ਆਇ ॥",
+          "roman": "Satsangat har mēl prabh har nām vasē man āi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Прабху! Соедини меня со Своей святой Сангат; только пребывая в святой Сангат, Имя Хари может прийти и поселиться в уме."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59904,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਮ ਮਰਨ ਕੀ ਮਲੁ ਉਤਰੈ ਜਨ ਨਾਨਕ ਹਰਿ ਗੁਨ ਗਾਇ ॥੪੦॥",
+          "roman": "Janam maran kī mal utrē jan Nānak har gun gāi. 40.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Воспевая качества Хари, с ума сходит грязь пороков, связанная с рождением и смертью."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59905,
+          "is_rahao": false,
+          "gurmukhi": "ਧੁਰਿ ਹਰਿ ਪ੍ਰਭਿ ਕਰਤੈ ਲਿਖਿਆ ਸੁ ਮੇਟਣਾ ਨ ਜਾਇ ॥",
+          "roman": "Dhur har prabh kartē likhiā so mēṭaṇā na jāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! То письмо, которое Хари-Прабху, Творец, по прежним отпечаткам поступков записал от Изначальной Даргахи на челе существа, не может быть стёрто собственным усилием живого существа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59906,
+          "is_rahao": false,
+          "gurmukhi": "ਜੀਉ ਪਿੰਡੁ ਸਭੁ ਤਿਸ ਦਾ ਪ੍ਰਤਿਪਾਲਿ ਕਰੇ ਹਰਿ ਰਾਇ ॥",
+          "roman": "Jīu piṇḍ sabh tis dā pratipāl karē har rāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "И душа, и тело — всё дано Тем Параматмой; этот Господь-Царь также питает и поддерживает всех."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59907,
+          "is_rahao": false,
+          "gurmukhi": "ਚੁਗਲ ਨਿੰਦਕ ਭੁਖੇ ਰੁਲਿ ਮੁਏ ਏਨਾ ਹਥੁ ਨ ਕਿਥਾਊ ਪਾਇ ॥",
+          "roman": "Chugal nindak bhukhē rul muē ēnā hath na kithāū pāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Забыв этого Дарителя, клеветники и хулители, порабощённые жаждой майи, страдая и скитаясь, терпят духовную смерть; нигде они не могут найти опоры, чтобы выйти из этого дурного состояния."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59908,
+          "is_rahao": false,
+          "gurmukhi": "ਬਾਹਰਿ ਪਾਖੰਡ ਸਭ ਕਰਮ ਕਰਹਿ ਮਨਿ ਹਿਰਦੈ ਕਪਟੁ ਕਮਾਇ ॥",
+          "roman": "Bāhar pākhaṇḍ sabh karam karah man hirdē kapaṭ kamāi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Такие люди, взращивая в уме и сердце обман и внутреннюю фальшь, внешне продолжают совершать показные религиозные дела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 59909,
+          "is_rahao": false,
+          "gurmukhi": "ਖੇਤਿ ਸਰੀਰਿ ਜੋ ਬੀਜੀਐ ਸੋ ਅੰਤਿ ਖਲੋਆ ਆਇ ॥",
+          "roman": "Khēt sarīr jo bījīai so ant khaloā āi.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Таков естественный закон: какой бы добрый или дурной поступок ни был посеян в поле этого тела, в конце он непременно проявляется."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

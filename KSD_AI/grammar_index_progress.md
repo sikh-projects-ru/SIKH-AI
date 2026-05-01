@@ -5,6 +5,22 @@
 **База данных:** `ksd_knowledge.db`, таблица `grammar_rules`
 **Запущено:** 2026-04-22
 
+## Shackle SLS — Part II
+
+**Файл:** `shackle_sacred_language_sikhs.pdf` (C. Shackle, "An Introduction to the Sacred Language of the Sikhs")
+**База данных:** `ksd_knowledge.db`, таблица `grammar_rules`
+
+| Блок | Страницы | Статус | Разделы | Правил добавлено |
+|------|----------|--------|---------|-----------------|
+| L17 | 109–112 | ✅ DONE | §170–§174 Present passive; functions; absolutive compounds with [rahi]; initial [bhī]; repetition | 5 |
+| L18 | 115–119 | ✅ DONE | §180–§182 Absolutive, infinitive, gerundive; present tense; future tense and imperative | 6 |
+| L19 | 121–124 | ✅ DONE | §190–§193 Past participle; irregular past participles; intransitive past; adjectival/nominal pp. | 4 |
+| L20 | 126–130 | ✅ DONE | §200–§203 More irregular pp.; ergative past; transitive/intransitive verbs; verb "to be" | 5 |
+| L21 | 133–135 | ✅ DONE | §210–§214 Variant pp.; perfect with auxiliary; pp./infinitive with [jai]; [rahi]; pronominal suffixes | 5 |
+| L22 | 139–142 | ✅ DONE | §220–§223 Present participle T-forms and D-forms; present participle as present tense/adjective | 4 |
+| L23 | 145–147 | ✅ DONE | §230–§232 Present participle as adverb; fixed adverbial participles; adverbial past participle | 4 |
+| L24 | 152 | ✅ DONE | §240 Numerals and ordinals | 2 |
+
 ## Структура PDF (оглавление, стр. 2)
 
 - 1.0 Sri Guru Granth Sahib Ji's Gurbani (стр. 3)

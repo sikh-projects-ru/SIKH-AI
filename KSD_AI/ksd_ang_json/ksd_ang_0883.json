@@ -1,0 +1,785 @@
+{
+  "ang": 883,
+  "shabads": [
+    {
+      "shabad_id": 3289,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 37488,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਿ ਕੀਆ ਸੋਈ ਪ੍ਰਭੁ ਜਾਣੈ ਹਰਿ ਕਾ ਮਹਲੁ ਅਪਾਰਾ ॥",
+          "roman": "jin kīā soī prabh jāṇē har kā mahal apārā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тот Господь, который всё создал, сам знает это; обитель Хари безмерна."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37489,
+          "is_rahao": false,
+          "gurmukhi": "ਭਗਤਿ ਕਰੀ ਹਰਿ ਕੇ ਗੁਣ ਗਾਵਾ ਨਾਨਕ ਦਾਸੁ ਤੁਮਾਰਾ ॥੪॥੧॥",
+          "roman": "bhagat karī har kē guṇ gāvā Nānak dās tumārā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я совершаю преданность, пою достоинства Хари; Нанак — Твой слуга."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3290,
+      "rahao_verse_id": 37493,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 37490,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੫ ॥",
+          "roman": "Rāmkalī mahalā 5.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Рамкали, Пятая Махала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37491,
+          "is_rahao": false,
+          "gurmukhi": "ਪਵਹੁ ਚਰਣਾ ਤਲਿ ਊਪਰਿ ਆਵਹੁ ਐਸੀ ਸੇਵ ਕਮਾਵਹੁ ॥",
+          "roman": "pavah charṇā tal ūpar āvah aisī sēv kamāvah.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О святые, оставайтесь под стопами всех; если будете совершать такое служение, станете людьми высокого духовного состояния."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37492,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪਸ ਤੇ ਊਪਰਿ ਸਭ ਜਾਣਹੁ ਤਉ ਦਰਗਹ ਸੁਖੁ ਪਾਵਹੁ ॥੧॥",
+          "roman": "āpas tē ūpar sabh jāṇah tau dargah sukh pāvah.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда вы начнёте считать всех лучше себя, тогда в присутствии Бога будете наслаждаться покоем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37493,
+          "is_rahao": true,
+          "gurmukhi": "ਸੰਤਹੁ ਐਸੀ ਕਥਹੁ ਕਹਾਣੀ ॥ ਸੁਰ ਪਵਿਤ੍ਰ ਨਰ ਦੇਵ ਪਵਿਤ੍ਰਾ ਖਿਨੁ ਬੋਲਹੁ ਗੁਰਮੁਖਿ ਬਾਣੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "santahu aisī kathah kahāṇī. sur pavitr nar dēv pavitrā khin bolah gurmukh bāṇī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О святые, произносите такую хвалу Господа; приняв прибежище Гуру, всё время произносите Бани хвалы Всевышнего, благодаря которой и боги, и люди становятся чистыми в жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37494,
+          "is_rahao": false,
+          "gurmukhi": "ਪਰਪੰਚੁ ਛੋਡਿ ਸਹਜ ਘਰਿ ਬੈਸਹੁ ਝੂਠਾ ਕਹਹੁ ਨ ਕੋਈ ॥",
+          "roman": "parpanch chhoḍ sahaj ghar bēsah jhūṭhā kahah na kōī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О святые, оставив привязанность к майе, не называйте никого плохим; так пребывайте в доме духовной устойчивости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37495,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਮਿਲਹੁ ਨਵੈ ਨਿਧਿ ਪਾਵਹੁ ਇਨ ਬਿਧਿ ਤਤੁ ਬਿਲੋਈ ॥੨॥",
+          "roman": "satigur milah navē nidh pāvah in bidh tat biloī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Оставайтесь в прибежище Сатгуру; таким способом, найдя истинный путь жизни, обретёте все сокровища мира, то есть освободитесь от привязанности к майе и станете независимыми."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37496,
+          "is_rahao": false,
+          "gurmukhi": "ਭਰਮੁ ਚੁਕਾਵਹੁ ਗੁਰਮੁਖਿ ਲਿਵ ਲਾਵਹੁ ਆਤਮੁ ਚੀਨਹੁ ਭਾਈ ॥",
+          "roman": "bharam chukāvah gurmukh liv lāvah ātam chīnah bhāī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, приняв прибежище Гуру, соединяй любовь с лотосовыми стопами Господа, устраняй блуждание ума и узнавай самого себя, постоянно проверяя свою жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37497,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਕਟਿ ਕਰਿ ਜਾਣਹੁ ਸਦਾ ਪ੍ਰਭੁ ਹਾਜਰੁ ਕਿਸੁ ਸਿਉ ਕਰਹੁ ਬੁਰਾਈ ॥੩॥",
+          "roman": "nikaṭ kar jāṇah sadā prabh hājar kis sio karah burāī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Считай Бога всегда близким, явно пребывающим рядом; тогда ты не сможешь делать никому зла."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37498,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰਿ ਮਿਲਿਐ ਮਾਰਗੁ ਮੁਕਤਾ ਸਹਜੇ ਮਿਲੇ ਸੁਆਮੀ ॥",
+          "roman": "satigur miliai mārag muktā sahjē milē suāmī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Если встретится Гуру, путь жизни становится открытым, свободным от препятствий пороков; в духовной устойчивости встречается Владыка-Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37499,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨੁ ਧਨੁ ਸੇ ਜਨ ਜਿਨੀ ਕਲਿ ਮਹਿ ਹਰਿ ਪਾਇਆ ਜਨ ਨਾਨਕ ਸਦ ਕੁਰਬਾਨੀ ॥੪॥੨॥",
+          "roman": "dhan dhan sē jan jinī kal mah har pāiā jan Nānak sad kurbānī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Благословенны те люди, которые в этой жизни обрели соединение с Господом; слуга Нанак всегда приносит себя им в жертву."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3291,
+      "rahao_verse_id": 37504,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 37500,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੫ ॥",
+          "roman": "Rāmkalī mahalā 5.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Рамкали, Пятая Махала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37501,
+          "is_rahao": false,
+          "gurmukhi": "ਆਵਤ ਹਰਖ ਨ ਜਾਵਤ ਦੂਖਾ ਨਹ ਬਿਆਪੈ ਮਨ ਰੋਗਨੀ ॥",
+          "roman": "āvat harakh na jāvat dūkhā nah biāpē man rōgnī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь при мирской выгоде радость не овладевает мной, при утрате боль не поражает меня, и никакая тревога не может давить на ум."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37502,
+          "is_rahao": false,
+          "gurmukhi": "ਸਦਾ ਅਨੰਦੁ ਗੁਰੁ ਪੂਰਾ ਪਾਇਆ ਤਉ ਉਤਰੀ ਸਗਲ ਬਿਓਗਨੀ ॥੧॥",
+          "roman": "sadā anand gur pūrā pāiā tau utrī sagal biōgnī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "С тех пор как мне встретился совершенный Гуру, вся отделённость от Господа исчезла, и внутри всегда пребывает радость."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37503,
+          "is_rahao": true,
+          "gurmukhi": "ਇਹ ਬਿਧਿ ਹੈ ਮਨੁ ਜੋਗਨੀ ॥",
+          "roman": "ih bidh hē man jōgnī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Так мой ум соединён с лотосовыми стопами Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37504,
+          "is_rahao": true,
+          "gurmukhi": "ਮੋਹੁ ਸੋਗੁ ਰੋਗੁ ਲੋਗੁ ਨ ਬਿਆਪੈ ਤਹ ਹਰਿ ਹਰਿ ਹਰਿ ਰਸ ਭੋਗਨੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "moh sog rōg lōg na biāpē tah har har har ras bhōgnī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "На этом состоянии не могут сказаться ни привязанность, ни печаль, ни болезнь, ни людской стыд; в нём мой ум наслаждается радостью соединения с Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37505,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਰਗ ਪਵਿਤ੍ਰਾ ਮਿਰਤ ਪਵਿਤ੍ਰਾ ਪਇਆਲ ਪਵਿਤ੍ਰ ਅਲੋਗਨੀ ॥",
+          "roman": "surag pavitrā mirat pavitrā paiāl pavitr alōgnī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По милости Гуру моему уму небеса, мир смертных и подземные миры кажутся одинаково чистыми, и людской стыд его не касается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37506,
+          "is_rahao": false,
+          "gurmukhi": "ਆਗਿਆਕਾਰੀ ਸਦਾ ਸੁਖੁ ਭੁੰਚੈ ਜਤ ਕਤ ਪੇਖਉ ਹਰਿ ਗੁਨੀ ॥੨॥",
+          "roman": "āgiākārī sadā sukh bhunchē jat kat pēkhau har gunī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пребывая в повелении Гуру, мой ум всегда наслаждается покоем; куда бы я ни смотрел, везде вижу только Господа, Владыку всех достоинств."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37507,
+          "is_rahao": false,
+          "gurmukhi": "ਨਹ ਸਿਵ ਸਕਤੀ ਜਲੁ ਨਹੀ ਪਵਨਾ ਤਹ ਅਕਾਰੁ ਨਹੀ ਮੇਦਨੀ ॥",
+          "roman": "nah siv saktī jal nahī pavnā tah ākār nahī mēdnī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь в этом уме не могут удержаться ни риддхи-сиддхи, ни омовения в тиртхах, ни пранаяма, ни мирские формы, ни земные предметы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37508,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਜੋਗ ਕਾ ਤਹਾ ਨਿਵਾਸਾ ਜਹ ਅਵਿਗਤ ਨਾਥੁ ਅਗਮ ਧਨੀ ॥੩॥",
+          "roman": "satigur jōg kā tahā nivāsā jah avigat nāth agam dhanī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В моём уме навсегда поселилось соединение с Гуру, и там же открылось пребывание невидимого, недостижимого Владыки-Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37509,
+          "is_rahao": false,
+          "gurmukhi": "ਤਨੁ ਮਨੁ ਹਰਿ ਕਾ ਧਨੁ ਸਭੁ ਹਰਿ ਕਾ ਹਰਿ ਕੇ ਗੁਣ ਹਉ ਕਿਆ ਗਨੀ ॥",
+          "roman": "tan man har kā dhan sabh har kā har kē guṇ hau kiā ganī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Теперь я понял, что это тело, эта душа и всё богатство даны тем Господом; какие Его качества я могу сосчитать и описать?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37510,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਹਮ ਤੁਮ ਗੁਰਿ ਖੋਈ ਹੈ ਅੰਭੈ ਅੰਭੁ ਮਿਲੋਗਨੀ ॥੪॥੩॥",
+          "roman": "kah Nānak ham tum gur khoī hē ambhē amb milōgnī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, скажи: Гуру уничтожил во мне разделение на моё и твоё; я слился со стопами Господа, как вода сливается с водой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3292,
+      "rahao_verse_id": 37515,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 37511,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੫ ॥",
+          "roman": "Rāmkalī mahalā 5.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Рамкали, Пятая Махала."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37512,
+          "is_rahao": false,
+          "gurmukhi": "ਤ੍ਰੈ ਗੁਣ ਰਹਤ ਰਹੈ ਨਿਰਾਰੀ ਸਾਧਿਕ ਸਿਧ ਨ ਜਾਨੈ ॥",
+          "roman": "trē guṇ rahat rahē nirārī sādhik sidh na jānē.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, эта драгоценная вещь остаётся особой, вне влияния трёх качеств майи; она не вступает в связь ни с практикующими йогу, ни с йогами, достигшими совершенства."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37513,
+          "is_rahao": false,
+          "gurmukhi": "ਰਤਨ ਕੋਠੜੀ ਅੰਮ੍ਰਿਤ ਸੰਪੂਰਨ ਸਤਿਗੁਰ ਕੈ ਖਜਾਨੈ ॥੧॥",
+          "roman": "ratan kōṭhṛī amrit sampūran satigur kē khajānē.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эта драгоценная вещь находится в сокровищнице Сатгуру: это сердечная комната, до краёв наполненная драгоценностями достоинств Господа и дающим духовную жизнь Намом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37514,
+          "is_rahao": true,
+          "gurmukhi": "ਅਚਰਜੁ ਕਿਛੁ ਕਹਣੁ ਨ ਜਾਈ ॥",
+          "roman": "achraj kichh kahaṇ na jāī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, здесь явлено удивительное чудо, о котором невозможно что-либо сказать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37515,
+          "is_rahao": true,
+          "gurmukhi": "ਬਸਤੁ ਅਗੋਚਰ ਭਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "basat agōchar bhāī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эта драгоценная вещь, Нам Господа в сокровищнице Гуру, находится за пределами досягаемости органов знания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37516,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋਲੁ ਨਾਹੀ ਕਛੁ ਕਰਣੈ ਜੋਗਾ ਕਿਆ ਕੋ ਕਹੈ ਸੁਣਾਵੈ ॥",
+          "roman": "mōl nāhī kachh karṇē jōgā kiā kō kahē suṇāvē.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, ни одно живое существо не может определить цену этой вещи; никто не способен сказать или объяснить её цену."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37517,
+          "is_rahao": false,
+          "gurmukhi": "ਕਥਨ ਕਹਣ ਕਉ ਸੋਝੀ ਨਾਹੀ ਜੋ ਪੇਖੈ ਤਿਸੁ ਬਣਿ ਆਵੈ ॥੨॥",
+          "roman": "kathan kahaṇ kau sōjhī nāhī jo pēkhē tis baṇ āvē.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Ни у кого нет разума, способного описать её качества; но тот, кто видит эту вещь, начинает любить её."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37518,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋਈ ਜਾਣੈ ਕਰਣੈਹਾਰਾ ਕੀਤਾ ਕਿਆ ਬੇਚਾਰਾ ॥",
+          "roman": "soī jāṇē karṇēhārā kītā kiā bēchārā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, цену этой вещи знает только Творец, создавший её; сотворённое Им существо не имеет такой способности."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37519,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪਣੀ ਗਤਿ ਮਿਤਿ ਆਪੇ ਜਾਣੈ ਹਰਿ ਆਪੇ ਪੂਰ ਭੰਡਾਰਾ ॥੩॥",
+          "roman": "āpṇī gat mit āpē jāṇē har āpē pūr bhanḍārā.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Господь сам является Владыкой сокровищниц, полных этой драгоценной вещью; и только Он сам знает своё состояние и свою меру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37520,
+          "is_rahao": false,
+          "gurmukhi": "ਐਸਾ ਰਸੁ ਅੰਮ੍ਰਿਤੁ ਮਨਿ ਚਾਖਿਆ ਤ੍ਰਿਪਤਿ ਰਹੇ ਆਘਾਈ ॥",
+          "roman": "aisā ras amrit man chākhiā tripat rahē āghāī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "По милости Гуру я вкусил в своём уме этот удивительный нектарный рас, дающий духовную жизнь, и теперь полностью насытился, освободившись от жажды майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37521,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਮੇਰੀ ਆਸਾ ਪੂਰੀ ਸਤਿਗੁਰ ਕੀ ਸਰਣਾਈ ॥੪॥੪॥",
+          "roman": "kah Nānak mērī āsā pūrī satigur kī sarṇāī.",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, скажи: приняв прибежище Сатгуру, моя жажда исполнилась, и я обрёл эту драгоценную вещь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

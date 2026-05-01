@@ -1,0 +1,947 @@
+{
+  "ang": 972,
+  "shabads": [
+    {
+      "shabad_id": 3601,
+      "rahao_verse_id": 41554,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41551,
+          "is_rahao": false,
+          "gurmukhi": "ਜਬ ਨਖ ਸਿਖ ਇਹੁ ਮਨੁ ਚੀਨੑਾ ॥",
+          "roman": "jab nakh sikh ih man chīnhā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда это сознание познало себя от ногтей до макушки,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41552,
+          "is_rahao": false,
+          "gurmukhi": "ਤਬ ਅੰਤਰਿ ਮਜਨੁ ਕੀਨੑਾ ॥੧॥",
+          "roman": "tab antar majan kīnhā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "тогда оно совершило внутреннее омовение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41553,
+          "is_rahao": true,
+          "gurmukhi": "ਪਵਨਪਤਿ ਉਨਮਨਿ ਰਹਨੁ ਖਰਾ ॥",
+          "roman": "pavanpat unman rahan kharā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Истинное пребывание владеющего дыханием — в состоянии сверх-ума."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41554,
+          "is_rahao": true,
+          "gurmukhi": "ਨਹੀ ਮਿਰਤੁ ਨ ਜਨਮੁ ਜਰਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "nahī mirat na janam jarā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Там нет ни смерти, ни рождения, ни старости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41555,
+          "is_rahao": false,
+          "gurmukhi": "ਉਲਟੀ ਲੇ ਸਕਤਿ ਸਹਾਰੰ ॥",
+          "roman": "ulṭī lē sakat sahāraṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда сила, повернутая вспять, получает опору,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41556,
+          "is_rahao": false,
+          "gurmukhi": "ਪੈਸੀਲੇ ਗਗਨ ਮਝਾਰੰ ॥",
+          "roman": "pēsīlē gagan majhāraṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "она входит в середину небесного пространства."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41557,
+          "is_rahao": false,
+          "gurmukhi": "ਬੇਧੀਅਲੇ ਚਕ੍ਰ ਭੁਅੰਗਾ ॥",
+          "roman": "bēdhīalē chakr bhuaṅgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Змеевидная сила пронзает круги-чакры,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41558,
+          "is_rahao": false,
+          "gurmukhi": "ਭੇਟੀਅਲੇ ਰਾਇ ਨਿਸੰਗਾ ॥੨॥",
+          "roman": "bhēṭīalē rāe nisaṅgā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "и бесстрашно встречает Владыку."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41559,
+          "is_rahao": false,
+          "gurmukhi": "ਚੂਕੀਅਲੇ ਮੋਹ ਮਇਆਸਾ ॥",
+          "roman": "chūkīalē moh mayāsā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тогда прекращаются привязанность и надежда на майю,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41560,
+          "is_rahao": false,
+          "gurmukhi": "ਸਸਿ ਕੀਨੋ ਸੂਰ ਗਿਰਾਸਾ ॥",
+          "roman": "sas kīno sūr girāsā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "и луна поглощает солнце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41561,
+          "is_rahao": false,
+          "gurmukhi": "ਜਬ ਕੁੰਭਕੁ ਭਰਿਪੁਰਿ ਲੀਣਾ ॥",
+          "roman": "jab kumbhak bharipur līṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда задержка дыхания полностью растворяется в полноте,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41562,
+          "is_rahao": false,
+          "gurmukhi": "ਤਹ ਬਾਜੇ ਅਨਹਦ ਬੀਣਾ ॥੩॥",
+          "roman": "tah bājē anahad bīṇā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "там звучит безударная вина."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41563,
+          "is_rahao": false,
+          "gurmukhi": "ਬਕਤੈ ਬਕਿ ਸਬਦੁ ਸੁਨਾਇਆ ॥",
+          "roman": "baktē bak sabad sunāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Говорящий, произнеся, дал услышать Слово."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41564,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਨਤੈ ਸੁਨਿ ਮੰਨਿ ਬਸਾਇਆ ॥",
+          "roman": "sunatē sun mann basāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Слушающий, услышав, поселил его в уме."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41565,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਕਰਤਾ ਉਤਰਸਿ ਪਾਰੰ ॥",
+          "roman": "kar kartā utaras pāraṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Действуя так, человек переправится на другой берег."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41566,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੈ ਕਬੀਰਾ ਸਾਰੰ ॥੪॥੧॥੧੦॥",
+          "roman": "kahē Kabīrā sāraṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: в этом заключена суть."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3602,
+      "rahao_verse_id": 41570,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41567,
+          "is_rahao": false,
+          "gurmukhi": "ਚੰਦੁ ਸੂਰਜੁ ਦੁਇ ਜੋਤਿ ਸਰੂਪੁ ॥",
+          "roman": "chand sūraj due jot sarūp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти луна и солнце — оба видимые образы света того Параматмы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41568,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋਤੀ ਅੰਤਰਿ ਬ੍ਰਹਮੁ ਅਨੂਪੁ ॥੧॥",
+          "roman": "jotī antar brahm anūp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В каждом источнике света пребывает Сам прекрасный, несравненный Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41569,
+          "is_rahao": true,
+          "gurmukhi": "ਕਰੁ ਰੇ ਗਿਆਨੀ ਬ੍ਰਹਮ ਬੀਚਾਰੁ ॥",
+          "roman": "kar rē giānī brahm bīchār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мыслящий человек, размышляй о величии Параматмы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41570,
+          "is_rahao": true,
+          "gurmukhi": "ਜੋਤੀ ਅੰਤਰਿ ਧਰਿਆ ਪਸਾਰੁ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jotī antar dhariā pasār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он сотворил всю эту вселенную из Своего света."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41571,
+          "is_rahao": false,
+          "gurmukhi": "ਹੀਰਾ ਦੇਖਿ ਹੀਰੇ ਕਰਉ ਆਦੇਸੁ ॥",
+          "roman": "hīrā dēkh hīrē karau ādēs",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: видя алмаз и другие прекрасные сияющие драгоценности, я склоняюсь перед тем Алмазом, который даровал им эти качества."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41572,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੈ ਕਬੀਰੁ ਨਿਰੰਜਨ ਅਲੇਖੁ ॥੨॥੨॥੧੧॥",
+          "roman": "kahē Kabīr nirañjan alēkh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он свободен от влияния майи, пребывает и в них, и Его качества невозможно описать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3603,
+      "rahao_verse_id": 41574,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41573,
+          "is_rahao": true,
+          "gurmukhi": "ਦੁਨੀਆ ਹੁਸੀਆਰ ਬੇਦਾਰ ਜਾਗਤ ਮੁਸੀਅਤ ਹਉ ਰੇ ਭਾਈ ॥",
+          "roman": "dunīā husīār bēdār jāgat musīat hau rē bhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О брат, о люди мира, будьте внимательны, бодрствуйте: вы, считая себя бодрствующими, всё равно грабитесь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41574,
+          "is_rahao": true,
+          "gurmukhi": "ਨਿਗਮ ਹੁਸੀਆਰ ਪਹਰੂਆ ਦੇਖਤ ਜਮੁ ਲੇ ਜਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "nigam husīār pahrūā dēkhat jam lē jāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "На глазах у бдительных стражей — Вед и Шастр — Джам-радж уводит вас, то есть даже под охраной шастр вы делаете такие дела, из-за которых продолжается круг рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41575,
+          "is_rahao": false,
+          "gurmukhi": "ਨੰੀਬੁ ਭਇਓ ਆਂਬੁ ਆਂਬੁ ਭਇਓ ਨੰੀਬਾ ਕੇਲਾ ਪਾਕਾ ਝਾਰਿ ॥",
+          "roman": "nīmb bhaiō āmb āmb bhaiō nīmbā kēlā pākā jhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Глупым, лишенным разума невеждам, запутавшимся в обрядности шастр, ним кажется манго, а манго кажется нимом; спелый банан кажется им колючими кустами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41576,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਲੀਏਰ ਫਲੁ ਸੇਬਰਿ ਪਾਕਾ ਮੂਰਖ ਮੁਗਧ ਗਵਾਰ ॥੧॥",
+          "roman": "nālīēr phal sēbar pākā mūrakh mugadh gavār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "А симбал кажется им спелым плодом кокосовой пальмы; таковы эти глупые, одураченные невежды."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41577,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਭਇਓ ਖਾਂਡੁ ਰੇਤੁ ਮਹਿ ਬਿਖਰਿਓ ਹਸਤੰੀ ਚੁਨਿਓ ਨ ਜਾਈ ॥",
+          "roman": "har bhaiō khāṇḍ rēt mah bikhariō hastī chuniō na jāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: понимай Параматму как сахар, смешанный с песком; этот сахар нельзя выбрать при помощи слонов."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41578,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਿ ਕਮੀਰ ਕੁਲ ਜਾਤਿ ਪਾਂਤਿ ਤਜਿ ਚੀਟੀ ਹੋਇ ਚੁਨਿ ਖਾਈ ॥੨॥੩॥੧੨॥",
+          "roman": "kah Kamīr kul jāt pānt taj chīṭī hōe chun khāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но если стать муравьем, можно выбрать и съесть этот сахар; так и человек, оставив гордость родом, кастой и происхождением, может встретить Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3604,
+      "rahao_verse_id": 41584,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41579,
+          "is_rahao": false,
+          "gurmukhi": "ਬਾਣੀ ਨਾਮਦੇਉ ਜੀਉ ਕੀ ਰਾਮਕਲੀ ਘਰੁ ੧",
+          "roman": "bāṇī Nāmdēu jīu kī Rāmkalī ghar ēk",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Бани почтенного Намдева, Рамкали, первый дом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41580,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Единый Онкар, по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41581,
+          "is_rahao": false,
+          "gurmukhi": "ਆਨੀਲੇ ਕਾਗਦੁ ਕਾਟੀਲੇ ਗੂਡੀ ਆਕਾਸ ਮਧੇ ਭਰਮੀਅਲੇ ॥",
+          "roman": "ānīlē kāgad kāṭīlē gūḍī ākās madhē bharmīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Трилочан, смотри: мальчик приносит бумагу, вырезает из неё воздушного змея и запускает его в небо."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41582,
+          "is_rahao": false,
+          "gurmukhi": "ਪੰਚ ਜਨਾ ਸਿਉ ਬਾਤ ਬਤਊਆ ਚੀਤੁ ਸੁ ਡੋਰੀ ਰਾਖੀਅਲੇ ॥੧॥",
+          "roman": "pañch janā siu bāt batūā chīt so ḍorī rākhīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Он разговаривает и болтает с товарищами, но его ум остается сосредоточенным на нити змея."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41583,
+          "is_rahao": true,
+          "gurmukhi": "ਮਨੁ ਰਾਮ ਨਾਮਾ ਬੇਧੀਅਲੇ ॥",
+          "roman": "man Rām nāmā bēdhīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Так и мой ум пронзен Именем Параматмы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41584,
+          "is_rahao": true,
+          "gurmukhi": "ਜੈਸੇ ਕਨਿਕ ਕਲਾ ਚਿਤੁ ਮਾਂਡੀਅਲੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jēsē kanik kalā chit māṇḍīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Как ум золотых дел мастера, даже во время разговоров с другими, остается связанным с золотом, положенным в тигель."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41585,
+          "is_rahao": false,
+          "gurmukhi": "ਆਨੀਲੇ ਕੁੰਭੁ ਭਰਾਈਲੇ ਊਦਕ ਰਾਜ ਕੁਆਰਿ ਪੁਰੰਦਰੀਏ ॥",
+          "roman": "ānīlē kumbh bharāīlē ūdak rāj kuār purandarīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Трилочан, молодые девушки выходят из города, берут каждая свой кувшин и наполняют его водой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41586,
+          "is_rahao": false,
+          "gurmukhi": "ਹਸਤ ਬਿਨੋਦ ਬੀਚਾਰ ਕਰਤੀ ਹੈ ਚੀਤੁ ਸੁ ਗਾਗਰਿ ਰਾਖੀਅਲੇ ॥੨॥",
+          "roman": "hasat binod bīchār kartī hē chīt so gāgar rākhīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Они смеются, шутят и ведут разные разговоры, но свой ум держат на своих кувшинах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41587,
+          "is_rahao": false,
+          "gurmukhi": "ਮੰਦਰੁ ਏਕੁ ਦੁਆਰ ਦਸ ਜਾ ਕੇ ਗਊ ਚਰਾਵਨ ਛਾਡੀਅਲੇ ॥",
+          "roman": "mandar ēk duār das jā kē gaū charāvan chhāḍīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Трилочан, есть один дом с десятью дверями; из этого дома человек выпускает коров пастись."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41588,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਂਚ ਕੋਸ ਪਰ ਗਊ ਚਰਾਵਤ ਚੀਤੁ ਸੁ ਬਛਰਾ ਰਾਖੀਅਲੇ ॥੩॥",
+          "roman": "pāñch kos par gaū charāvat chīt so bachhrā rākhīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти коровы пасутся на расстоянии пяти косов, но свой ум держат на своем теленке; так и органы знания заняты делами поддержания тела, а моя сурт пребывает у стоп Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41589,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਤ ਨਾਮਦੇਉ ਸੁਨਹੁ ਤਿਲੋਚਨ ਬਾਲਕੁ ਪਾਲਨ ਪਉਢੀਅਲੇ ॥",
+          "roman": "kahat Nāmdēu sunah Tilochan bālak pālan pauḍhīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Намдев говорит: слушай, Трилочан, мать кладет своего ребенка в колыбель."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 41590,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਤਰਿ ਬਾਹਰਿ ਕਾਜ ਬਿਰੂਧੀ ਚੀਤੁ ਸੁ ਬਾਰਿਕ ਰਾਖੀਅਲੇ ॥੪॥੧॥",
+          "roman": "antar bāhar kāj birūdhī chīt so bārik rākhīalē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Она занята делами внутри и снаружи дома, но свою сурт держит на ребенке."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3605,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 41591,
+          "is_rahao": false,
+          "gurmukhi": "ਬੇਦ ਪੁਰਾਨ ਸਾਸਤ੍ਰ ਆਨੰਤਾ ਗੀਤ ਕਬਿਤ ਨ ਗਾਵਉਗੋ ॥",
+          "roman": "bēd purān sāsatr ānantā gīt kabit na gāvaugo",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мне нет нужды петь песни и стихи из бесчисленных Вед, Шастр и Пуран."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,777 @@
+{
+  "ang": 996,
+  "shabads": [
+    {
+      "shabad_id": 3675,
+      "rahao_verse_id": 42430,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42424,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਰੂ ਮਹਲਾ ੪ ਘਰੁ ੩",
+          "roman": "mārū mahlā 4 ghar 3",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мару, Махла 4, дом 3."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42425,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Единый Онкар, по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42426,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਧਾਨੁ ਲੈ ਗੁਰਮਤਿ ਹਰਿ ਪਤਿ ਪਾਇ ॥",
+          "roman": "har har nām nidhān lē gurmat har pat pāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Имя Господа — подлинное сокровище; следуя наставлению Гуру, обрети его, и тогда человек получает честь в присутствии Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42427,
+          "is_rahao": false,
+          "gurmukhi": "ਹਲਤਿ ਪਲਤਿ ਨਾਲਿ ਚਲਦਾ ਹਰਿ ਅੰਤੇ ਲਏ ਛਡਾਇ ॥",
+          "roman": "halat palat nāl chaldā har ante lae chhaḍāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Это сокровище сопровождает и в этом мире, и в мире ином, а в последний миг Господь тоже избавляет от страданий."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42428,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਥੈ ਅਵਘਟ ਗਲੀਆ ਭੀੜੀਆ ਤਿਥੈ ਹਰਿ ਹਰਿ ਮੁਕਤਿ ਕਰਾਇ ॥੧॥",
+          "roman": "jithē avghaṭ galīā bhīṛīā tithē har har mukat karāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "На том жизненном пути, где есть трудные обходные дороги и тесные переулки, в которых сжимается дыхание духовной жизни, только Господь дарует освобождение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42429,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰੇ ਸਤਿਗੁਰਾ ਮੈ ਹਰਿ ਹਰਿ ਨਾਮੁ ਦ੍ਰਿੜਾਇ ॥",
+          "roman": "mere satgurā mē har har nām driṛāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Сатгуру, прочно утверди в моем сердце Имя Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42430,
+          "is_rahao": true,
+          "gurmukhi": "ਮੇਰਾ ਮਾਤ ਪਿਤਾ ਸੁਤ ਬੰਧਪੋ ਮੈ ਹਰਿ ਬਿਨੁ ਅਵਰੁ ਨ ਮਾਇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "merā māt pitā sut bandhapo mē har bin avar na māe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мать, Господь — моя мать, мой отец, мои сыновья и мой родственник; кроме Господа, у меня нет никого по-настоящему своего."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42431,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਹਰਿ ਬਿਰਹੀ ਹਰਿ ਨਾਮੁ ਹੈ ਕੋਈ ਆਣਿ ਮਿਲਾਵੈ ਮਾਇ ॥",
+          "roman": "mē har birhī har nām hē koī āṇ milāvē māe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Имя Господа — мой подлинный любимый друг; о мать, если бы кто-нибудь привел его и соединил со мной."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42432,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸੁ ਆਗੈ ਮੈ ਜੋਦੜੀ ਮੇਰਾ ਪ੍ਰੀਤਮੁ ਦੇਇ ਮਿਲਾਇ ॥",
+          "roman": "tis āgē mē jodaṛī merā prītam dei milāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Перед таким человеком я стал бы постоянно просить: может быть, он соединит меня с моим Возлюбленным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42433,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰੁ ਪੁਰਖੁ ਦਇਆਲ ਪ੍ਰਭੁ ਹਰਿ ਮੇਲੇ ਢਿਲ ਨ ਪਾਇ ॥੨॥",
+          "roman": "satgur purakh dayāl prabh har mele ḍhil na pāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру — милосердная личность; он соединяет с Господом Богом, и в этом не бывает ни малейшей задержки."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42434,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ ਸੇ ਭਾਗਹੀਣ ਮਰਿ ਜਾਇ ॥",
+          "roman": "jin har har nām na chetio se bhāghīṇ mar jāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Те люди, которые никогда не вспоминали Имя Господа, несчастны; лишенный Имени человек пребывает в духовной смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42435,
+          "is_rahao": false,
+          "gurmukhi": "ਓਇ ਫਿਰਿ ਫਿਰਿ ਜੋਨਿ ਭਵਾਈਅਹਿ ਮਰਿ ਜੰਮਹਿ ਆਵੈ ਜਾਇ ॥",
+          "roman": "oi phir phir jon bhavāīah mar jammah āvē jāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти лишенные Имени люди снова и снова водятся по рождениям, оставаясь в круге рождения и смерти, приходя и уходя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42436,
+          "is_rahao": false,
+          "gurmukhi": "ਓਇ ਜਮ ਦਰਿ ਬਧੇ ਮਾਰੀਅਹਿ ਹਰਿ ਦਰਗਹ ਮਿਲੈ ਸਜਾਇ ॥੩॥",
+          "roman": "oi jam dar badhe mārīah har dargah milē sajāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Эти лишенные Имени люди связываются у двери Ямы и подвергаются наказанию; в Дворе Господа они получают такую кару."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42437,
+          "is_rahao": false,
+          "gurmukhi": "ਤੂ ਪ੍ਰਭੁ ਹਮ ਸਰਣਾਗਤੀ ਮੋ ਕਉ ਮੇਲਿ ਲੈਹੁ ਹਰਿ ਰਾਇ ॥",
+          "roman": "tū prabh ham saraṇāgatī mo kau mel lēh har rāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Царь-Господь, Ты наш Владыка, а мы, живые существа, пришли в Твое прибежище; держи меня соединенным с Твоими стопами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42438,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਧਾਰਿ ਕ੍ਰਿਪਾ ਜਗਜੀਵਨਾ ਗੁਰ ਸਤਿਗੁਰ ਕੀ ਸਰਣਾਇ ॥",
+          "roman": "har dhār kirpā jagjīvanā gur satgur kī saraṇāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, жизнь мира, окажи мне милость и всегда держи меня в прибежище Гуру, в прибежище Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42439,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜੀਉ ਆਪਿ ਦਇਆਲੁ ਹੋਇ ਜਨ ਨਾਨਕ ਹਰਿ ਮੇਲਾਇ ॥੪॥੧॥੩॥",
+          "roman": "har jīu āp dayāl hoe jan nānak har melāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Того человека, к кому Сам Господь становится милосердным, Он, держа его в прибежище Гуру, соединяет с Собой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3676,
+      "rahao_verse_id": 42445,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42440,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਰੂ ਮਹਲਾ ੪ ॥",
+          "roman": "mārū mahlā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мару, Махла 4."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42441,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਪੂੰਜੀ ਨਾਮੁ ਦਸਾਇਦਾ ਕੋ ਦਸੇ ਹਰਿ ਧਨੁ ਰਾਸਿ ॥",
+          "roman": "hau pūñjī nām dasāidā ko dase har dhan rās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Я ищу капитал Имени; если кто-нибудь укажет мне богатство Имени Господа, этот подлинный капитал."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42442,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਤਿਸੁ ਵਿਟਹੁ ਖਨ ਖੰਨੀਐ ਮੈ ਮੇਲੇ ਹਰਿ ਪ੍ਰਭ ਪਾਸਿ ॥",
+          "roman": "hau tis viṭah khan khannīē mē mele har prabh pās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Если кто-нибудь соединит меня с Господом Богом, я стану жертвой ему, отдамся ему целиком."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42443,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਅੰਤਰਿ ਪ੍ਰੇਮੁ ਪਿਰੰਮ ਕਾ ਕਿਉ ਸਜਣੁ ਮਿਲੈ ਮਿਲਾਸਿ ॥੧॥",
+          "roman": "mē antar prem piramm kā kiu sajaṇ milē milās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "В моем сердце пребывает любовь к возлюбленному Господу; как мне встретить этого Друга, как мне соединиться с Ним?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42444,
+          "is_rahao": true,
+          "gurmukhi": "ਮਨ ਪਿਆਰਿਆ ਮਿਤ੍ਰਾ ਮੈ ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਨੁ ਰਾਸਿ ॥",
+          "roman": "man piāriā mitrā mē har har nām dhan rās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О мой ум, о дорогой друг, Имя Господа кажется мне истинным богатством и подлинным капиталом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42445,
+          "is_rahao": true,
+          "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਨਾਮੁ ਦ੍ਰਿੜਾਇਆ ਹਰਿ ਧੀਰਕ ਹਰਿ ਸਾਬਾਸਿ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "gur pūrē nām driṛāiā har dhīrak har sābās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Тому человеку, в чьем сердце совершенный Гуру прочно утвердил Имя Господа, Господь дает терпение и одобрение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42446,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਆਪਿ ਮਿਲਾਇ ਗੁਰੁ ਮੈ ਦਸੇ ਹਰਿ ਧਨੁ ਰਾਸਿ ॥",
+          "roman": "har har āp milāe gur mē dase har dhan rās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, Сам соедини меня с Гуру, чтобы Гуру показал мне Твое богатство Имени, этот подлинный капитал."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42447,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਗੁਰ ਪ੍ਰੇਮੁ ਨ ਲਭਈ ਜਨ ਵੇਖਹੁ ਮਨਿ ਨਿਰਜਾਸਿ ॥",
+          "roman": "bin gur prem na labhaī jan vekhah man nirjās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О друзья, рассудите в своем уме и посмотрите: без Гуру любовь к Господу не обретается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42448,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਗੁਰ ਵਿਚਿ ਆਪੁ ਰਖਿਆ ਹਰਿ ਮੇਲੇ ਗੁਰ ਸਾਬਾਸਿ ॥੨॥",
+          "roman": "har gur vich āp rakhiā har mele gur sābās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Господь поместил Себя Самого в Гуру; именно Гуру соединяет с Ним, поэтому славьте Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42449,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਗਰ ਭਗਤਿ ਭੰਡਾਰ ਹਰਿ ਪੂਰੇ ਸਤਿਗੁਰ ਪਾਸਿ ॥",
+          "roman": "sāgar bhagat bhaṇḍār har pūre satgur pās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "У совершенного Сатгуру находятся океаны преданности Господу и сокровищницы преданности."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42450,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰੁ ਤੁਠਾ ਖੋਲਿ ਦੇਇ ਮੁਖਿ ਗੁਰਮੁਖਿ ਹਰਿ ਪਰਗਾਸਿ ॥",
+          "roman": "satgur tuṭhā khol dei mukh gurmukh har pargās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Когда Гуру милостив к гурмукху, он открывает эти сокровища и дает их ему, устами наставляет его, и потому внутри него проявляется божественный свет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42451,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਮੁਖਿ ਭਾਗ ਵਿਹੂਣਿਆ ਤਿਖ ਮੁਈਆ ਕੰਧੀ ਪਾਸਿ ॥੩॥",
+          "roman": "manmukh bhāg vihūṇiā tikh muīā kandhī pās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Но душа-невеста, идущая за своим умом, несчастна: даже рядом с Гуру она остается мертвой духовной смертью, как человек, который умирает от жажды у самого берега водоема."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42452,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰੁ ਦਾਤਾ ਦਾਤਾਰੁ ਹੈ ਹਉ ਮਾਗਉ ਦਾਨੁ ਗੁਰ ਪਾਸਿ ॥",
+          "roman": "gur dātā dātār hē hau māgau dān gur pās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру способен даровать все дары; я прошу у Гуру такую милость."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42453,
+          "is_rahao": false,
+          "gurmukhi": "ਚਿਰੀ ਵਿਛੁੰਨਾ ਮੇਲਿ ਪ੍ਰਭ ਮੈ ਮਨਿ ਤਨਿ ਵਡੜੀ ਆਸ ॥",
+          "roman": "chirī vichhunnā mel prabh mē man tan vaḍaṛī ās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Пусть он соединит меня, давно разлученного, с Господом; в моем уме и в моем теле живет великая надежда на это."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42454,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਭਾਵੈ ਸੁਣਿ ਬੇਨਤੀ ਜਨ ਨਾਨਕ ਕੀ ਅਰਦਾਸਿ ॥੪॥੨॥੪॥",
+          "roman": "gur bhāvē suṇ benatī jan nānak kī ardās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О Гуру, если Тебе угодно, услышь эту просьбу, услышь молитву слуги Нанака."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3677,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 42455,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਰੂ ਮਹਲਾ ੪ ॥",
+          "roman": "mārū mahlā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "Мару, Махла 4."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42456,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਹਰਿ ਕਥਾ ਸੁਣਾਇ ਪ੍ਰਭ ਗੁਰਮਤਿ ਹਰਿ ਰਿਦੈ ਸਮਾਣੀ ॥",
+          "roman": "har har kathā suṇāe prabh gurmat har ridē samāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О ум, всегда слушай хвалу Господа Бога; только следуя наставлению Гуру, эта речь о Господе может укорениться в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 42457,
+          "is_rahao": false,
+          "gurmukhi": "ਜਪਿ ਹਰਿ ਹਰਿ ਕਥਾ ਵਡਭਾਗੀਆ ਹਰਿ ਉਤਮ ਪਦੁ ਨਿਰਬਾਣੀ ॥",
+          "roman": "jap har har kathā vaḍbhāgīā har utam pad nirbāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": "О удачливый ум, пребывая в прибежище Гуру, помни хвалу Господа; так обретается высшее, свободное от желаний духовное состояние."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

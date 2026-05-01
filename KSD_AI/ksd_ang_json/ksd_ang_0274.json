@@ -1,0 +1,1389 @@
+{
+  "ang": 274,
+  "shabads": [
+    {
+      "shabad_id": 942,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12169,
+          "is_rahao": false,
+          "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਆਪਿ ਨਿਰੰਕਾਰੁ ॥",
+          "roman": "brahm giānī āp nirankār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ (ਤਾਂ ਪ੍ਰਤੱਖ) ਆਪ ਹੀ ਰੱਬ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "ведь он сам есть Сам Нираṅкар."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12170,
+          "is_rahao": false,
+          "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਸੋਭਾ ਬ੍ਰਹਮ ਗਿਆਨੀ ਬਨੀ ॥",
+          "roman": "brahm giānī kī sobhā brahm giānī banī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਮਹਿਮਾ (ਕੋਈ) ਬ੍ਰਹਮਗਿਆਨੀ ਹੀ ਕਰ ਸਕਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Славу брахмгьяни может по-настоящему выразить только брахмгьяни,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12171,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਰਬ ਕਾ ਧਨੀ ॥੮॥੮॥",
+          "roman": "Nānak brahm giānī sarab kā dhanī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਬ੍ਰਹਮਗਿਆਨੀ ਸਭ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਹੈ ॥੮॥੮॥"
+            },
+            "sahib_singh_ru": {
+              "main": "о Нанак, брахмгьяни — владыка всех существ ॥8॥8॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 943,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12172,
+          "is_rahao": false,
+          "gurmukhi": "ਸਲੋਕੁ ॥",
+          "roman": "salok",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12173,
+          "is_rahao": false,
+          "gurmukhi": "ਉਰਿ ਧਾਰੈ ਜੋ ਅੰਤਰਿ ਨਾਮੁ ॥",
+          "roman": "ur dhārē jo antar nām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਸਦਾ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਅਕਾਲ ਪੁਰਖ ਦਾ ਨਾਮ ਟਿਕਾ ਰੱਖਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто всегда хранит в своём сердце Имя Акаал Пуракха,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12174,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਬ ਮੈ ਪੇਖੈ ਭਗਵਾਨੁ ॥",
+          "roman": "sarab mē pekhē bhagvān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਭਗਵਾਨ ਨੂੰ ਸਭਨਾਂ ਵਿਚ ਵਿਆਪਕ ਵੇਖਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "и видит Бога присутствующим во всех,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12175,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਮਖ ਨਿਮਖ ਠਾਕੁਰ ਨਮਸਕਾਰੈ ॥",
+          "roman": "nimakh nimakh ṭhākur namaskārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਪਲ ਪਲ ਆਪਣੇ ਪ੍ਰਭੂ ਨੂੰ ਜੁਹਾਰਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "кто каждое мгновение склоняется перед своим Господом;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12176,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਓਹੁ ਅਪਰਸੁ ਸਗਲ ਨਿਸਤਾਰੈ ॥੧॥",
+          "roman": "Nānak oh aparas sagal nistārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਉਹ (ਅਸਲੀ) ਅਪਰਸ ਹੈ ਅਤੇ ਉਹ ਸਭ ਜੀਵਾਂ ਨੂੰ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਤਾਰ ਲੈਂਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Он и есть подлинный апарас, и он переправляет всех существ через мирской океан ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 944,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12177,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਟਪਦੀ ॥",
+          "roman": "asṭapadī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12178,
+          "is_rahao": false,
+          "gurmukhi": "ਮਿਥਿਆ ਨਾਹੀ ਰਸਨਾ ਪਰਸ ॥",
+          "roman": "mithiā nāhī rasnā paras",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਜੀਭ ਨਾਲ ਝੂਠ ਨੂੰ ਛੋਹਣ ਨਹੀਂ ਦੇਂਦਾ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто не позволяет языку касаться лжи,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12179,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਮਹਿ ਪ੍ਰੀਤਿ ਨਿਰੰਜਨ ਦਰਸ ॥",
+          "roman": "man mah prīt nirañjan daras",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਨ ਵਿਚ ਅਕਾਲ ਪੁਰਖ ਦੇ ਦੀਦਾਰ ਦੀ ਤਾਂਘ ਰੱਖਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "держит в уме жажду узреть Акаал Пуракха;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12180,
+          "is_rahao": false,
+          "gurmukhi": "ਪਰ ਤ੍ਰਿਅ ਰੂਪੁ ਨ ਪੇਖੈ ਨੇਤ੍ਰ ॥",
+          "roman": "par tri-a rūp na pekhē netr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਪਰਾਈ ਇਸਤ੍ਰੀ ਦੇ ਹੁਸਨ ਨੂੰ ਆਪਣੀਆਂ ਅੱਖਾਂ ਨਾਲ ਨਹੀਂ ਤੱਕਦਾ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто не смотрит своими глазами на красоту чужой женщины,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12181,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਧ ਕੀ ਟਹਲ ਸੰਤਸੰਗਿ ਹੇਤ ॥",
+          "roman": "sādh kī ṭahal satsang het",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਭਲੇ ਮਨੁੱਖਾਂ ਦੀ ਟਹਲ (ਕਰਦਾ ਹੈ) ਤੇ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਪ੍ਰੀਤ (ਰੱਖਦਾ ਹੈ);"
+            },
+            "sahib_singh_ru": {
+              "main": "служит добрым людям и любит общество святых;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12182,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਨ ਨ ਸੁਨੈ ਕਾਹੂ ਕੀ ਨਿੰਦਾ ॥",
+          "roman": "karan na sunē kāhū kī nindā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਕੰਨਾਂ ਨਾਲ ਕਿਸੇ ਦੀ ਭੀ ਨਿੰਦਿਆ ਨਹੀਂ ਸੁਣਦਾ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто не слушает ушами ничьей клеветы,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12183,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭ ਤੇ ਜਾਨੈ ਆਪਸ ਕਉ ਮੰਦਾ ॥",
+          "roman": "sabh te jānē āpas kau mandā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਸਗੋਂ) ਸਾਰਿਆਂ ਨਾਲੋਂ ਆਪਣੇ ਆਪ ਨੂੰ ਮਾੜਾ ਸਮਝਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "а считает себя хуже всех;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12184,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਬਿਖਿਆ ਪਰਹਰੈ ॥",
+          "roman": "gur prasād bikhiyā parharē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਗੁਰੂ ਦੀ ਮੇਹਰ ਦਾ ਸਦਕਾ ਮਾਇਆ (ਦਾ ਪ੍ਰਭਾਵ) ਪਰੇ ਹਟਾ ਦੇਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто по милости Гуру отстраняет от себя влияние майи,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12185,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਕੀ ਬਾਸਨਾ ਮਨ ਤੇ ਟਰੈ ॥",
+          "roman": "man kī bāsnā man te ṭarē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇ ਜਿਸ ਦੇ ਮਨ ਦੀ ਵਾਸਨਾ ਮਨ ਤੋਂ ਟਲ ਜਾਂਦੀ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и у кого вожделения ума уходят из ума;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12186,
+          "is_rahao": false,
+          "gurmukhi": "ਇੰਦ੍ਰੀ ਜਿਤ ਪੰਚ ਦੋਖ ਤੇ ਰਹਤ ॥",
+          "roman": "indrī jit pañch dokh te rahat",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਆਪਣੇ ਗਿਆਨ-ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਵੱਸ ਵਿਚ ਰੱਖ ਕੇ ਕਾਮਾਦਿਕ ਪੰਜੇ ਹੀ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто, подчинив свои чувства, остаётся защищённым от всех пяти пороков,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12187,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕੋਟਿ ਮਧੇ ਕੋ ਐਸਾ ਅਪਰਸ ॥੧॥",
+          "roman": "Nānak koṭ madhē ko aisā aparas",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਕਰੋੜਾਂ ਵਿਚੋਂ ਕੋਈ ਇਹੋ ਜਿਹਾ ਵਿਰਲਾ ਬੰਦਾ 'ਅਪਰਸ' (ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ) ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Среди миллионов лишь редкий человек может быть назван таким апарасом ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 945,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12188,
+          "is_rahao": false,
+          "gurmukhi": "ਬੈਸਨੋ ਸੋ ਜਿਸੁ ਊਪਰਿ ਸੁਪ੍ਰਸੰਨ ॥",
+          "roman": "bēsno so jis ūpar suprasann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਉਤੇ ਪ੍ਰਭੂ ਆਪ ਤ੍ਰੁਠਦਾ ਹੈ, ਉਹ ਹੈ ਅਸਲੀ ਵੈਸ਼ਨੋ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, на кого Сам Господь доволен, и есть подлинный вайшно,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12189,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਸਨ ਕੀ ਮਾਇਆ ਤੇ ਹੋਇ ਭਿੰਨ ॥",
+          "roman": "bisan kī māiā te hoi bhinn",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੀ ਮਾਇਆ ਦੇ ਅਸਰ ਤੋਂ ਬੇ-ਦਾਗ਼ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "тот человек не запятнан воздействием Божьей майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12190,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਮ ਕਰਤ ਹੋਵੈ ਨਿਹਕਰਮ ॥",
+          "roman": "karam karat hovē nihkaram",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ (ਧਰਮ ਦੇ) ਕੰਮ ਕਰਦਾ ਹੋਇਆ ਇਹਨਾਂ ਕੰਮਾਂ ਦੇ ਫਲ ਦੀ ਇੱਛਾ ਨਹੀਂ ਰੱਖਦਾ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Кто, совершая религиозные дела, не желает плодов этих дел,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12191,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸੁ ਬੈਸਨੋ ਕਾ ਨਿਰਮਲ ਧਰਮ ॥",
+          "roman": "tis bēsno kā nirmal dharam",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਵੈਸ਼ਨੋ ਦਾ ਧਰਮ (ਭੀ) ਪਵਿਤ੍ਰ ਹੈ ।"
+            },
+            "sahib_singh_ru": {
+              "main": "у того вайшно и вера чиста."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12192,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਹੂ ਫਲ ਕੀ ਇਛਾ ਨਹੀ ਬਾਛੈ ॥",
+          "roman": "kāhū phal kī ichhā nahī bāchhē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਕਿਸੇ ਭੀ ਫਲ ਦੀ ਖ਼ਾਹਸ਼ ਨਹੀਂ ਕਰਦਾ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Кто не желает никакого плода;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12193,
+          "is_rahao": false,
+          "gurmukhi": "ਕੇਵਲ ਭਗਤਿ ਕੀਰਤਨ ਸੰਗਿ ਰਾਚੈ ॥",
+          "roman": "kēval bhagat kīrtan sang rāchē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਿਰਾ ਭਗਤੀ ਤੇ ਕੀਰਤਨ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто погружён только в бхакти и киртан,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12194,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਤਨ ਅੰਤਰਿ ਸਿਮਰਨ ਗੋਪਾਲ ॥",
+          "roman": "man tan antar simran gopāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਦੇ ਮਨ ਤਨ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਵੱਸ ਰਿਹਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "в чьих уме и теле живёт памятование о Господе,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12195,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭ ਊਪਰਿ ਹੋਵਤ ਕਿਰਪਾਲ ॥",
+          "roman": "sabh ūpar hovat kirpāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਸਭ ਜੀਵਾਂ ਉਤੇ ਦਇਆ ਕਰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто проявляет сострадание ко всем существам,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12196,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪਿ ਦ੍ਰਿੜੈ ਅਵਰਹ ਨਾਮੁ ਜਪਾਵੈ ॥",
+          "roman": "āp driṛhē avrah nām japāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਆਪ (ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨੂੰ) ਆਪਣੇ ਮਨ ਵਿਚ ਟਿਕਾਉਂਦਾ ਹੈ ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਨਾਮ ਜਪਾਉਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто сам утверждает Имя в своём уме и побуждает других повторять Имя,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12197,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਓਹੁ ਬੈਸਨੋ ਪਰਮ ਗਤਿ ਪਾਵੈ ॥੨॥",
+          "roman": "Nānak oh bēsno param gat pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਉਹ ਵੈਸ਼ਨੋ ਉੱਚਾ ਦਰਜਾ ਹਾਸਲ ਕਰਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Такой вайшно достигает высшего состояния ॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 946,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12198,
+          "is_rahao": false,
+          "gurmukhi": "ਭਗਉਤੀ ਭਗਵੰਤ ਭਗਤਿ ਕਾ ਰੰਗੁ ॥",
+          "roman": "bhagautī bhagvant bhagat kā rang",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਭਗਵਾਨ ਦਾ (ਅਸਲੀ) ਉਪਾਸ਼ਕ (ਉਹ ਹੈ ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਭਗਵਾਨ ਦੀ ਭਗਤੀ ਦਾ ਪਿਆਰ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Подлинный почитатель Бога — тот, в чьём сердце есть любовь к преданности Богу,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12199,
+          "is_rahao": false,
+          "gurmukhi": "ਸਗਲ ਤਿਆਗੈ ਦੁਸਟ ਕਾ ਸੰਗੁ ॥",
+          "roman": "sagal tiāgē dusṭ kā sang",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇ ਜੋ ਸਭ ਮੰਦ-ਕਰਮੀਆਂ ਦੀ ਸੁਹਬਤ ਛੱਡ ਦੇਂਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и кто полностью оставляет общество злых людей;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12200,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਤੇ ਬਿਨਸੈ ਸਗਲਾ ਭਰਮੁ ॥",
+          "roman": "man te binsē saglā bharam",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਦੇ ਮਨ ਵਿਚੋਂ ਹਰ ਤਰ੍ਹਾਂ ਦਾ ਵਹਿਮ ਮਿਟ ਜਾਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "у кого из ума исчезают всякие сомнения,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12201,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਪੂਜੈ ਸਗਲ ਪਾਰਬ੍ਰਹਮੁ ॥",
+          "roman": "kar pūjē sagal pārbraham",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਅਕਾਲ ਪੁਰਖ ਨੂੰ ਹਰ ਥਾਂ ਮੌਜੂਦ ਜਾਣ ਕੇ ਪੂਜਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто поклоняется Акаал Пуракху, зная Его присутствующим повсюду,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12202,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਧਸੰਗਿ ਪਾਪਾ ਮਲੁ ਖੋਵੈ ॥",
+          "roman": "sādhsang pāpā mal khovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਪਾਪਾਂ ਦੀ ਮੈਲ (ਮਨ ਤੋਂ) ਦੂਰ ਕਰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто, пребывая в обществе гурмухов, очищает ум от скверны грехов,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12203,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸੁ ਭਗਉਤੀ ਕੀ ਮਤਿ ਊਤਮ ਹੋਵੈ ॥",
+          "roman": "tis bhagautī kī mat ūtam hovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਭਗਉਤੀ ਦੀ ਮਤਿ ਉੱਚੀ ਹੁੰਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "у того бхагаути ум становится возвышенным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12204,
+          "is_rahao": false,
+          "gurmukhi": "ਭਗਵੰਤ ਕੀ ਟਹਲ ਕਰੈ ਨਿਤ ਨੀਤਿ ॥",
+          "roman": "bhagvant kī ṭahal karē nit nīt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਨਿੱਤ ਭਗਵਾਨ ਦਾ ਸਿਮਰਨ ਕਰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Кто ежедневно помнит о Боге,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12205,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਤਨੁ ਅਰਪੈ ਬਿਸਨ ਪਰੀਤਿ ॥",
+          "roman": "man tan arpē bisan parīt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਪ੍ਰਭੂ-ਪਿਆਰ ਤੋਂ ਆਪਣਾ ਮਨ ਤੇ ਤਨ ਕੁਰਬਾਨ ਕਰ ਦੇਂਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "кто из любви к Господу посвящает Ему ум и тело;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12206,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕੇ ਚਰਨ ਹਿਰਦੈ ਬਸਾਵੈ ॥",
+          "roman": "har ke charan hirdē basāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਪ੍ਰਭੂ ਦੇ ਚਰਨ (ਸਦਾ ਆਪਣੇ) ਹਿਰਦੇ ਵਿਚ ਵਸਾਉਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "кто всегда хранит стопы Господа в своём сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12207,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਐਸਾ ਭਗਉਤੀ ਭਗਵੰਤ ਕਉ ਪਾਵੈ ॥੩॥",
+          "roman": "Nānak ēsā bhagautī bhagvant kau pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਅਜੇਹਾ ਭਗਉਤੀ ਭਗਵਾਨ ਨੂੰ ਲੱਭ ਲੈਂਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Такой бхагаути обретает Бога ॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 947,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12208,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਪੰਡਿਤੁ ਜੋ ਮਨੁ ਪਰਬੋਧੈ ॥",
+          "roman": "so paṇḍit jo man parbodhē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਅਸਲੀ) ਪੰਡਿਤ ਉਹ ਹੈ ਜੋ ਆਪਣੇ ਮਨ ਨੂੰ ਸਿੱਖਿਆ ਦੇਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Подлинный пандит — тот, кто наставляет свой ум,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12209,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਨਾਮੁ ਆਤਮ ਮਹਿ ਸੋਧੈ ॥",
+          "roman": "rām nām ātam mah sodhē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਭਾਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и ищет Имя Господа в своём уме."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12210,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਨਾਮ ਸਾਰੁ ਰਸੁ ਪੀਵੈ ॥",
+          "roman": "rām nām sār ras pīvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਪ੍ਰਭੂ-ਨਾਮ ਦਾ ਮਿੱਠਾ ਸੁਆਦ ਚੱਖਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Кто вкушает сладостный вкус Имени Господа,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12211,
+          "is_rahao": false,
+          "gurmukhi": "ਉਸੁ ਪੰਡਿਤ ਕੈ ਉਪਦੇਸਿ ਜਗੁ ਜੀਵੈ ॥",
+          "roman": "us paṇḍit kē updes jag jīvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਪੰਡਿਤ ਦੇ ਉਪਦੇਸ਼ ਨਾਲ (ਸਾਰਾ) ਸੰਸਾਰ ਰੂਹਾਨੀ ਜ਼ਿੰਦਗੀ ਹਾਸਲ ਕਰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "по наставлению того пандита весь мир обретает духовную жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12212,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕੀ ਕਥਾ ਹਿਰਦੈ ਬਸਾਵੈ ॥",
+          "roman": "har kī kathā hirdē basāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਅਕਾਲ ਪੁਰਖ (ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ) ਦੀਆਂ ਗੱਲਾਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਉਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Кто поселяeт в сердце слова хвалы Акаал Пуракху,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12213,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਪੰਡਿਤੁ ਫਿਰਿ ਜੋਨਿ ਨ ਆਵੈ ॥",
+          "roman": "so paṇḍit fir jon na āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਪੰਡਿਤ ਮੁੜ ਜਨਮ (ਮਰਨ) ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "тот пандит больше не приходит в круг рождений и смертей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12214,
+          "is_rahao": false,
+          "gurmukhi": "ਬੇਦ ਪੁਰਾਨ ਸਿਮ੍ਰਿਤਿ ਬੂਝੈ ਮੂਲ ॥",
+          "roman": "bed purān simrit būjhē mūl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਵੇਦ ਪੁਰਾਣ ਸਿਮ੍ਰਿਤੀਆਂ (ਆਦਿਕ ਸਭ ਧਰਮ-ਪੁਸਤਕਾਂ) ਦਾ ਮੁੱਢ (ਪ੍ਰਭੂ ਨੂੰ) ਸਮਝਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Кто понимает, что корень Вед, Пуран и Смрити, всех религиозных книг, — это Бог,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12215,
+          "is_rahao": false,
+          "gurmukhi": "ਸੂਖਮ ਮਹਿ ਜਾਨੈ ਅਸਥੂਲੁ ॥",
+          "roman": "sūkham mah jānē asthūl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਇਹ ਜਾਣਦਾ ਹੈ ਕਿ ਇਹ ਸਾਰਾ ਦਿੱਸਦਾ ਜਗਤ ਅਦ੍ਰਿਸ਼ਟ ਪ੍ਰਭੂ ਦੇ ਹੀ ਆਸਰੇ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "кто знает, что весь этот видимый мир держится на невидимом Боге;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12216,
+          "is_rahao": false,
+          "gurmukhi": "ਚਹੁ ਵਰਨਾ ਕਉ ਦੇ ਉਪਦੇਸੁ ॥",
+          "roman": "chah varnān kau de updes",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ (ਬ੍ਰਾਹਮਣ, ਖਤ੍ਰੀ, ਵੈਸ਼, ਸ਼ੂਦਰ) ਚਾਰੇ ਹੀ ਜਾਤੀਆਂ ਨੂੰ ਸਿੱਖਿਆ ਦੇਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "кто наставляет все четыре варны — брахмана, кшатрия, вайшью и шудру,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12217,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਉਸੁ ਪੰਡਿਤ ਕਉ ਸਦਾ ਅਦੇਸੁ ॥੪॥",
+          "roman": "Nānak us paṇḍit kau sadā ades",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਆਖ) ਉਸ ਪੰਡਿਤ ਅੱਗੇ ਅਸੀਂ ਸਦਾ ਸਿਰ ਨਿਵਾਉਂਦੇ ਹਾਂ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Такому пандиту мы всегда склоняем голову ॥4॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 948,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12218,
+          "is_rahao": false,
+          "gurmukhi": "ਬੀਜ ਮੰਤ੍ਰੁ ਸਰਬ ਕੋ ਗਿਆਨੁ ॥",
+          "roman": "bīj mantar sarab ko giān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਮ (ਹੋਰ ਸਭ ਮੰਤ੍ਰਾਂ ਦਾ) ਮੁੱਢ ਮੰਤ੍ਰ ਹੈ ਅਤੇ ਸਭ ਦਾ ਗਿਆਨ (ਦਾਤਾ) ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Имя — это коренной мантр всех других мантров и даритель знания для всех,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12219,
+          "is_rahao": false,
+          "gurmukhi": "ਚਹੁ ਵਰਨਾ ਮਹਿ ਜਪੈ ਕੋਊ ਨਾਮੁ ॥",
+          "roman": "chah varnān mah japē koū nām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਬ੍ਰਾਹਮਣ, ਖਤ੍ਰੀ, ਵੈਸ਼, ਸ਼ੂਦਰ) ਚਾਰੇ ਹੀ ਜਾਤੀਆਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਮਨੁੱਖ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਜਪ (ਕੇ ਵੇਖ ਲਏ)"
+            },
+            "sahib_singh_ru": {
+              "main": "любой человек из всех четырёх варн может повторять Имя Господа и увидеть,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12220,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਜੋ ਜਪੈ ਤਿਸ ਕੀ ਗਤਿ ਹੋਇ ॥",
+          "roman": "jo jo japē tis kī gat hoi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਜੋ ਮਨੁੱਖ ਨਾਮ ਜਪਦਾ ਹੈ ਉਸ ਦੀ ਉੱਚੀ ਜ਼ਿੰਦਗੀ ਬਣ ਜਾਂਦੀ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "что всякий, кто повторяет Имя, обретает возвышенную жизнь,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12221,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਧਸੰਗਿ ਪਾਵੈ ਜਨੁ ਕੋਇ ॥",
+          "roman": "sādhsang pāvē jan koi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ) ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਸਾਧ ਸੰਗਤਿ ਵਿਚ (ਰਹਿ ਕੇ) (ਇਸ ਨੂੰ) ਹਾਸਲ ਕਰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "но лишь редкий человек обретает это в садх-сангате."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12222,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਅੰਤਰਿ ਉਰ ਧਾਰੈ ॥",
+          "roman": "kar kirpā antar ur dhārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜੇ ਪ੍ਰਭੂ) ਮੇਹਰ ਕਰ ਕੇ (ਉਸ ਦੇ) ਹਿਰਦੇ ਵਿਚ (ਨਾਮ) ਟਿਕਾ ਦੇਵੇ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Если Господь по милости утверждает Имя в сердце,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12223,
+          "is_rahao": false,
+          "gurmukhi": "ਪਸੁ ਪ੍ਰੇਤ ਮੁਘਦ ਪਾਥਰ ਕਉ ਤਾਰੈ ॥",
+          "roman": "pas pret mughadh pāthar kau tārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਸ਼ੂ, ਚੰਦਰੀ ਰੂਹ, ਮੂਰਖ, ਪੱਥਰ (-ਦਿਲ) (ਕੋਈ ਭੀ ਹੋਵੇ ਸਭ) ਨੂੰ (ਨਾਮ) ਤਾਰ ਦੇਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "то Имя переправляет и зверя, и беспокойный дух, и глупца, и каменносердечного."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12224,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਬ ਰੋਗ ਕਾ ਅਉਖਦੁ ਨਾਮੁ ॥",
+          "roman": "sarab rog kā aukhad nām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਾਰੇ ਰੋਗਾਂ ਦੀ ਦਵਾਈ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Имя Господа — лекарство от всех болезней,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12225,
+          "is_rahao": false,
+          "gurmukhi": "ਕਲਿਆਣ ਰੂਪ ਮੰਗਲ ਗੁਣ ਗਾਮ ॥",
+          "roman": "kaliāṇ rūp mangal guṇ gām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਉਣੇ ਚੰਗੇ ਭਾਗਾਂ ਤੇ ਸੁਖ ਦਾ ਰੂਪ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "а пение Божьих качеств — образ благополучия и счастья."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12226,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਹੂ ਜੁਗਤਿ ਕਿਤੈ ਨ ਪਾਈਐ ਧਰਮਿ ॥",
+          "roman": "kāhū jugat kitē na pāīē dharam",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ ਇਹ ਨਾਮ ਹੋਰ) ਕਿਸੇ ਢੰਗ ਨਾਲ ਜਾਂ ਕਿਸੇ ਧਾਰਮਿਕ ਰਸਮ ਰਿਵਾਜ ਦੇ ਕਰਨ ਨਾਲ ਨਹੀਂ ਮਿਲਦਾ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Но это Имя не достигается никаким иным способом и никакими религиозными обрядами;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12227,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਤਿਸੁ ਮਿਲੈ ਜਿਸੁ ਲਿਖਿਆ ਧੁਰਿ ਕਰਮਿ ॥੫॥",
+          "roman": "Nānak tis milē jis likhiā dhur karam",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਇਹ ਨਾਮ) ਉਸ ਮਨੁੱਖ ਨੂੰ ਮਿਲਦਾ ਹੈ ਜਿਸ (ਦੇ ਮੱਥੇ ਤੇ) ਧੁਰੋਂ (ਪ੍ਰਭੂ ਦੀ) ਮੇਹਰ ਅਨੁਸਾਰ ਲਿਖਿਆ ਜਾਂਦਾ ਹੈ ॥੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Оно достаётся тому человеку, кому это предначертано изначальной милостью Господа ॥5॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 949,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12228,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸ ਕੈ ਮਨਿ ਪਾਰਬ੍ਰਹਮ ਕਾ ਨਿਵਾਸੁ ॥",
+          "roman": "jis kē man pārbraham kā nivās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਦੇ ਮਨ ਵਿਚ ਅਕਾਲ ਪੁਰਖ ਵੱਸਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, в чьём уме пребывает Акаал Пуракх,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

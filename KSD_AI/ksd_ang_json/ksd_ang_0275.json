@@ -1,0 +1,1381 @@
+{
+  "ang": 275,
+  "shabads": [
+    {
+      "shabad_id": 949,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12229,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸ ਕਾ ਨਾਮੁ ਸਤਿ ਰਾਮਦਾਸੁ ॥",
+          "roman": "tis kā nām sat rāmdās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਮਨੁੱਖ ਦਾ ਨਾਮ ਅਸਲੀ (ਅਰਥਾਂ ਵਿਚ) 'ਰਾਮਦਾਸੁ' (ਪ੍ਰਭੂ ਦਾ ਸੇਵਕ) ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "того человека поистине можно назвать Рамдасом, слугой Господа;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12230,
+          "is_rahao": false,
+          "gurmukhi": "ਆਤਮ ਰਾਮੁ ਤਿਸੁ ਨਦਰੀ ਆਇਆ ॥",
+          "roman": "ātam rām tis nadrī āiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਨੂੰ ਸਰਬ-ਵਿਆਪੀ ਪ੍ਰਭੂ ਦਿੱਸ ਪੈਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "ему становится зрим всепронизывающий Господь,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12231,
+          "is_rahao": false,
+          "gurmukhi": "ਦਾਸ ਦਸੰਤਣ ਭਾਇ ਤਿਨਿ ਪਾਇਆ ॥",
+          "roman": "dās dasantan bhāi tin pāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਦਾਸਾਂ ਦਾ ਦਾਸ ਹੋਣ ਦੇ ਸੁਭਾਉ ਨਾਲ ਉਸ ਨੇ ਪ੍ਰਭੂ ਨੂੰ ਲੱਭਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и он обрёл Господа благодаря настрою быть слугой слуг."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12232,
+          "is_rahao": false,
+          "gurmukhi": "ਸਦਾ ਨਿਕਟਿ ਨਿਕਟਿ ਹਰਿ ਜਾਨੁ ॥",
+          "roman": "sadā nikaṭ nikaṭ har jān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ (ਮਨੁੱਖ) ਸਦਾ ਪ੍ਰਭੂ ਨੂੰ ਨੇੜੇ ਜਾਣਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто всегда знает Господа как близкого,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12233,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਦਾਸੁ ਦਰਗਹ ਪਰਵਾਨੁ ॥",
+          "roman": "so dās dargah parvān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਸੇਵਕ ਦਰਗਾਹ ਵਿਚ ਕਬੂਲ ਹੁੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "тот слуга принимается в Божьем дворе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12234,
+          "is_rahao": false,
+          "gurmukhi": "ਅਪੁਨੇ ਦਾਸ ਕਉ ਆਪਿ ਕਿਰਪਾ ਕਰੈ ॥",
+          "roman": "apune dās kau āp kirpā karē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਉਸ ਸੇਵਕ ਉਤੇ ਆਪ ਮੇਹਰ ਕਰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Господь Сам оказывает милость этому слуге,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12235,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸੁ ਦਾਸ ਕਉ ਸਭ ਸੋਝੀ ਪਰੈ ॥",
+          "roman": "tis dās kau sabh sojhī parē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇ ਉਸ ਸੇਵਕ ਨੂੰ ਸਾਰੀ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и тому слуге приходит полное понимание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12236,
+          "is_rahao": false,
+          "gurmukhi": "ਸਗਲ ਸੰਗਿ ਆਤਮ ਉਦਾਸੁ ॥",
+          "roman": "sagal sang ātam udās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਾਰੇ ਪਰਵਾਰ ਵਿਚ (ਰਹਿੰਦਾ ਹੋਇਆ ਭੀ) ਉਹ ਅੰਦਰੋਂ ਨਿਰਮੋਹ ਹੁੰਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Оставаясь среди всей семьи, он внутри остаётся непривязанным;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12237,
+          "is_rahao": false,
+          "gurmukhi": "ਐਸੀ ਜੁਗਤਿ ਨਾਨਕ ਰਾਮਦਾਸੁ ॥੬॥",
+          "roman": "aisī jugat Nānak rāmdās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਇਹੋ ਜਿਹੀ (ਜੀਵਨ-) ਜੁਗਤੀ ਨਾਲ ਉਹ (ਅਸਲੀ) 'ਰਾਮਦਾਸ' (ਰਾਮ ਦਾ ਦਾਸ ਬਣ ਜਾਂਦਾ ਹੈ) ॥੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Именно такой жизненной практикой человек становится подлинным Рамдасом, слугой Рама ॥6॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 950,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12238,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਭ ਕੀ ਆਗਿਆ ਆਤਮ ਹਿਤਾਵੈ ॥",
+          "roman": "prabh kī āgiā ātam hitāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਨੂੰ ਮਨ ਵਿਚ ਮਿੱਠੀ ਕਰ ਕੇ ਮੰਨਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто принимает Божью волю как сладостную для сердца,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12239,
+          "is_rahao": false,
+          "gurmukhi": "ਜੀਵਨ ਮੁਕਤਿ ਸੋਊ ਕਹਾਵੈ ॥",
+          "roman": "jīvan mukt soū kahāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹੀ ਜੀਊਂਦਾ ਮੁਕਤ ਅਖਵਾਉਂਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "тот и называется освобождённым при жизни;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12240,
+          "is_rahao": false,
+          "gurmukhi": "ਤੈਸਾ ਹਰਖੁ ਤੈਸਾ ਉਸੁ ਸੋਗੁ ॥",
+          "roman": "tēsā harakh tēsā us sog",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਨੂੰ ਖ਼ੁਸ਼ੀ ਤੇ ਗ਼ਮੀ ਇਕੋ ਜਿਹੀ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "для него радость и печаль одинаковы,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12241,
+          "is_rahao": false,
+          "gurmukhi": "ਸਦਾ ਅਨੰਦੁ ਤਹ ਨਹੀ ਬਿਓਗੁ ॥",
+          "roman": "sadā anand tah nahī biog",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਨੂੰ ਸਦਾ ਆਨੰਦ ਹੈ (ਕਿਉਂਕਿ) ਓਥੇ (ਭਾਵ, ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਤੋਂ) ਵਿਛੋੜਾ ਨਹੀਂ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "он всегда пребывает в блаженстве, потому что там, в его сердце, нет разлуки со стопами Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12242,
+          "is_rahao": false,
+          "gurmukhi": "ਤੈਸਾ ਸੁਵਰਨੁ ਤੈਸੀ ਉਸੁ ਮਾਟੀ ॥",
+          "roman": "tēsā suvaran tēsī us māṭī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸੋਨਾ ਤੇ ਮਿੱਟੀ (ਭੀ ਉਸ ਮਨੁੱਖ ਵਾਸਤੇ) ਬਰਾਬਰ ਹੈ (ਭਾਵ, ਸੋਨਾ ਵੇਖ ਕੇ ਉਹ ਲੋਭ ਵਿਚ ਨਹੀਂ ਫਸਦਾ),"
+            },
+            "sahib_singh_ru": {
+              "main": "Золото и земля для него равны, то есть золото не улавливает его в жадность,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12243,
+          "is_rahao": false,
+          "gurmukhi": "ਤੈਸਾ ਅੰਮ੍ਰਿਤੁ ਤੈਸੀ ਬਿਖੁ ਖਾਟੀ ॥",
+          "roman": "tēsā amrit tēsī bikh khāṭī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅੰਮ੍ਰਿਤ ਤੇ ਕਉੜੀ ਵਿਹੁ ਭੀ ਉਸ ਲਈ ਇਕ ਜੈਸੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и нектар, и горький яд для него одинаковы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12244,
+          "is_rahao": false,
+          "gurmukhi": "ਤੈਸਾ ਮਾਨੁ ਤੈਸਾ ਅਭਿਮਾਨੁ ॥",
+          "roman": "tēsā mān tēsā abhimān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿਸੇ ਵਲੋਂ) ਆਦਰ (ਦਾ ਵਰਤਾਉ ਹੋਵੇ) ਜਾਂ ਅਹੰਕਾਰ (ਦਾ) (ਉਸ ਮਨੁੱਖ ਵਾਸਤੇ) ਇਕ ਸਮਾਨ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Почтение и высокомерное отношение для него равны,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12245,
+          "is_rahao": false,
+          "gurmukhi": "ਤੈਸਾ ਰੰਕੁ ਤੈਸਾ ਰਾਜਾਨੁ ॥",
+          "roman": "tēsā rank tēsā rājān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕੰਗਾਲ ਤੇ ਸ਼ਹਨਸ਼ਾਹ ਭੀ ਉਸ ਦੀ ਨਜ਼ਰ ਵਿਚ ਬਰਾਬਰ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "нищий и царь в его взгляде одинаковы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12246,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਵਰਤਾਏ ਸਾਈ ਜੁਗਤਿ ॥",
+          "roman": "jo vartāe sāī jugat",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ (ਰਜ਼ਾ ਪ੍ਰਭੂ) ਵਰਤਾਉਂਦਾ ਹੈ, ਉਹੀ (ਉਸ ਵਾਸਤੇ) ਜ਼ਿੰਦਗੀ ਦਾ ਗਾਡੀ-ਰਾਹ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "То, как Господь устраивает, и есть для него путь жизни;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12247,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਓਹੁ ਪੁਰਖੁ ਕਹੀਐ ਜੀਵਨ ਮੁਕਤਿ ॥੭॥",
+          "roman": "Nānak oh purakh kahīai jīvan mukat",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਜੀਊਂਦਾ ਮੁਕਤ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ ॥੭॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Такого человека можно назвать освобождённым при жизни ॥7॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 951,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12248,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਰਬ੍ਰਹਮ ਕੇ ਸਗਲੇ ਠਾਉ ॥",
+          "roman": "pārbraham ke sagle ṭhāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਾਰੇ ਥਾਂ (ਸਰੀਰ-ਰੂਪ ਘਰ) ਅਕਾਲ ਪੁਰਖ ਦੇ ਹੀ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Все места, все телесные жилища принадлежат Акаал Пуракху,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12249,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਤੁ ਜਿਤੁ ਘਰਿ ਰਾਖੈ ਤੈਸਾ ਤਿਨ ਨਾਉ ॥",
+          "roman": "jit jit ghar rākhē tēsā tin nāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਜਿਸ ਥਾਂ ਜੀਵਾਂ ਨੂੰ ਰੱਖਦਾ ਹੈ, ਉਹੋ ਜਿਹਾ ਉਹਨਾਂ ਦਾ ਨਾਉਂ (ਪੈ ਜਾਂਦਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "и в каком месте Он ни помещает существ, такое имя им и даётся."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12250,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪੇ ਕਰਨ ਕਰਾਵਨ ਜੋਗੁ ॥",
+          "roman": "āpe karan karāvan jog",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਆਪ ਹੀ (ਸਭ ਕੁਝ) ਕਰਨ ਦੀ (ਤੇ ਜੀਵਾਂ ਪਾਸੋਂ) ਕਰਾਉਣ ਦੀ ਤਾਕਤ ਰੱਖਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Господь Сам обладает силой делать всё и побуждать существ делать,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12251,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਸੋਈ ਫੁਨਿ ਹੋਗੁ ॥",
+          "roman": "prabh bhāvē soī fun hog",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੁੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и происходит только то, что Ему угодно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12252,
+          "is_rahao": false,
+          "gurmukhi": "ਪਸਰਿਓ ਆਪਿ ਹੋਇ ਅਨਤ ਤਰੰਗ ॥",
+          "roman": "pasrio āp hoi anat tarang",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜ਼ਿੰਦਗੀ ਦੀਆਂ) ਬੇਅੰਤ ਲਹਿਰਾਂ ਬਣ ਕੇ (ਅਕਾਲ ਪੁਰਖ) ਆਪ ਸਭ ਥਾਈਂ ਮੌਜੂਦ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Став бесконечными волнами жизни, Акаал Пуракх Сам присутствует повсюду,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12253,
+          "is_rahao": false,
+          "gurmukhi": "ਲਖੇ ਨ ਜਾਹਿ ਪਾਰਬ੍ਰਹਮ ਕੇ ਰੰਗ ॥",
+          "roman": "lakhe na jāh pārbraham ke rang",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਦੇ ਖੇਲ ਬਿਆਨ ਨਹੀਂ ਕੀਤੇ ਜਾ ਸਕਦੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и игры Акаал Пуракха невозможно описать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12254,
+          "is_rahao": false,
+          "gurmukhi": "ਜੈਸੀ ਮਤਿ ਦੇਇ ਤੈਸਾ ਪਰਗਾਸ ॥",
+          "roman": "jēsī mat deī tēsā pargās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਹੋ ਜਿਹੀ ਅਕਲ ਦੇਂਦਾ ਹੈ, ਉਹੋ ਜਿਹਾ ਜ਼ਹੂਰ (ਜੀਵ ਦੇ ਅੰਦਰ) ਹੁੰਦਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Какой разум Он даёт, такое и проявление происходит внутри существа;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12255,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਰਬ੍ਰਹਮੁ ਕਰਤਾ ਅਬਿਨਾਸ ॥",
+          "roman": "pārbraham kartā abinās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ (ਆਪ ਸਭ ਕੁਝ) ਕਰਨ ਵਾਲਾ ਹੈ ਤੇ ਕਦੇ ਮਰਦਾ ਨਹੀਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акаал Пуракх — Тот, кто всё совершает и никогда не умирает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12256,
+          "is_rahao": false,
+          "gurmukhi": "ਸਦਾ ਸਦਾ ਸਦਾ ਦਇਆਲ ॥",
+          "roman": "sadā sadā sadā da-iāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਸਦਾ ਮੇਹਰ ਕਰਨ ਵਾਲਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Господь всегда, всегда, всегда милостив,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12257,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਮਰਿ ਸਿਮਰਿ ਨਾਨਕ ਭਏ ਨਿਹਾਲ ॥੮॥੯॥",
+          "roman": "simar simar Nānak bhae nihāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਜੀਵ ਉਸ ਨੂੰ) ਸਦਾ ਸਿਮਰ ਕੇ (ਫੁੱਲ ਵਾਂਗ) ਖਿੜੇ ਰਹਿੰਦੇ ਹਨ ॥੮॥੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Постоянно помня Его, существа цветут и пребывают в блаженстве ॥8॥9॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 952,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12258,
+          "is_rahao": false,
+          "gurmukhi": "ਸਲੋਕੁ ॥",
+          "roman": "salok",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12259,
+          "is_rahao": false,
+          "gurmukhi": "ਉਸਤਤਿ ਕਰਹਿ ਅਨੇਕ ਜਨ ਅੰਤੁ ਨ ਪਾਰਾਵਾਰ ॥",
+          "roman": "ustat karah anek jan ant na pārāvār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਨੇਕਾਂ ਬੰਦੇ ਪ੍ਰਭੂ ਦੇ ਗੁਣਾਂ ਦਾ ਜ਼ਿਕਰ ਕਰਦੇ ਹਨ, ਪਰ ਉਹਨਾਂ ਗੁਣਾਂ ਦਾ ਹੱਦ-ਬੰਨਾ ਨਹੀਂ ਲੱਭਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Многие люди восхваляют качества Бога, но предел и границы этих качеств найти невозможно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12260,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਰਚਨਾ ਪ੍ਰਭਿ ਰਚੀ ਬਹੁ ਬਿਧਿ ਅਨਿਕ ਪ੍ਰਕਾਰ ॥੧॥",
+          "roman": "Nānak rachanā prabh rachī bah bidh anik prakār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਇਹੀ ਸਾਰੀ) ਸ੍ਰਿਸ਼ਟੀ (ਉਸ) ਪ੍ਰਭੂ ਨੇ ਕਈ ਕਿਸਮਾਂ ਦੀ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਬਣਾਈ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Всю эту вселенную тот Бог создал многими способами и во множестве видов. ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 953,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12261,
+          "is_rahao": false,
+          "gurmukhi": "ਅਸਟਪਦੀ ॥",
+          "roman": "asṭpadī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12262,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਹੋਏ ਪੂਜਾਰੀ ॥",
+          "roman": "kaī koṭ hoē pūjārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪ੍ਰਭੂ ਦੀ ਇਸ ਰਚੀ ਹੋਈ ਦੁਨੀਆ ਵਿਚ) ਕਈ ਕਰੋੜਾਂ ਪ੍ਰਾਣੀ ਪੁਜਾਰੀ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "В этом сотворённом Богом мире многие миллионы существ являются поклоняющимися,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12263,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਆਚਾਰ ਬਿਉਹਾਰੀ ॥",
+          "roman": "kaī koṭ āchār biuhārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਈ ਕਰੋੜਾਂ ਧਾਰਮਿਕ ਰੀਤਾਂ ਰਸਮਾਂ ਕਰਨ ਵਾਲੇ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и многие миллионы исполняют религиозные обряды и ритуалы;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12264,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਭਏ ਤੀਰਥ ਵਾਸੀ ॥",
+          "roman": "kaī koṭ bhaē tīrath vāsī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਈ ਕਰੋੜਾਂ (ਬੰਦੇ) ਤੀਰਥਾਂ ਦੇ ਵਸਨੀਕ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "многие миллионы людей являются жителями мест паломничества,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12265,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਬਨ ਭ੍ਰਮਹਿ ਉਦਾਸੀ ॥",
+          "roman": "kaī koṭ ban bhramah udāsī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਈ ਕਰੋੜਾਂ (ਜਗਤ ਵਲੋਂ) ਉਪਰਾਮ ਹੋ ਕੇ ਜੰਗਲਾਂ ਵਿਚ ਫਿਰਦੇ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и многие миллионы, отрешившись от мира, скитаются по лесам;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12266,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਬੇਦ ਕੇ ਸ੍ਰੋਤੇ ॥",
+          "roman": "kaī koṭ bēd ke srote",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਈ ਕਰੋੜਾਂ ਜੀਵ ਵੇਦਾਂ ਦੇ ਸੁਣਨ ਵਾਲੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Многие миллионы живых существ слушают Веды,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12267,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਤਪੀਸੁਰ ਹੋਤੇ ॥",
+          "roman": "kaī koṭ tapīsar hote",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਈ ਕਰੋੜਾਂ ਵੱਡੇ ਵੱਡੇ ਤਪੀਏ ਬਣੇ ਹੋਏ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и многие миллионы стали великими аскетами;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12268,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਆਤਮ ਧਿਆਨੁ ਧਾਰਹਿ ॥",
+          "roman": "kaī koṭ ātam dhyān dhārah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਈ ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਆਪਣੇ ਅੰਦਰ ਸੁਰਤ ਜੋੜ ਰਹੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Многие миллионы людей сосредоточивают внимание внутри себя,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12269,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਕਬਿ ਕਾਬਿ ਬੀਚਾਰਹਿ ॥",
+          "roman": "kaī koṭ kab kāb bīchārah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਈ ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਕਵੀਆਂ ਦੀਆਂ ਰਚੀਆਂ ਕਵਿਤਾ ਵਿਚਾਰਦੇ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и многие миллионы размышляют над поэзией, сочинённой поэтами;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12270,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਨਵਤਨ ਨਾਮ ਧਿਆਵਹਿ ॥",
+          "roman": "kaī koṭ navtan nām dhiāvah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਈ ਕਰੋੜਾਂ ਬੰਦੇ (ਪ੍ਰਭੂ ਦਾ) ਨਿੱਤ ਨਵਾਂ ਨਾਮ ਸਿਮਰਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Многие миллионы людей помнят в медитации вечно новый Имя Бога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12271,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕਰਤੇ ਕਾ ਅੰਤੁ ਨ ਪਾਵਹਿ ॥੧॥",
+          "roman": "Nānak karte kā ant na pāvahi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ) ਹੇ ਨਾਨਕ! ਉਸ ਕਰਤਾਰ ਦਾ ਕੋਈ ਭੀ ਅੰਤ ਨਹੀਂ ਪਾ ਸਕਦੇ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "но, о Нанак, никто не может постичь предел Творца. ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 954,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12272,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਭਏ ਅਭਿਮਾਨੀ ॥",
+          "roman": "kaī koṭ bhaē abhimānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਸ ਜਗਤ-ਰਚਨਾ ਵਿਚ) ਕਰੋੜਾਂ ਅਹੰਕਾਰੀ ਜੀਵ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "В этом творении мира есть миллионы гордых существ,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12273,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਅੰਧ ਅਗਿਆਨੀ ॥",
+          "roman": "kaī koṭ andh agiānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਰੋੜਾਂ ਹੀ ਬੰਦੇ ਪੁੱਜ ਕੇ ਜਾਹਿਲ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и миллионы людей, дошедших до полной тьмы невежества;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12274,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਕਿਰਪਨ ਕਠੋਰ ॥",
+          "roman": "kaī koṭ kirpan kaṭhor",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਸ਼ੂਮ ਤੇ ਪੱਥਰ-ਦਿਲ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Миллионы людей скупы и жестокосердны,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12275,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਅਭਿਗ ਆਤਮ ਨਿਕੋਰ ॥",
+          "roman": "kaī koṭ abhig ātam nikor",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਈ ਕਰੋੜ ਅੰਦਰੋਂ ਮਹਾ ਕੋਰੇ ਹਨ ਜੋ (ਕਿਸੇ ਦਾ ਦੁੱਖ ਤੱਕ ਕੇ ਭੀ ਕਦੇ) ਪਸੀਜਦੇ ਨਹੀਂ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и многие миллионы внутри совершенно черствы, так что никогда не смягчаются даже при виде чужого страдания;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12276,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਪਰ ਦਰਬ ਕਉ ਹਿਰਹਿ ॥",
+          "roman": "kaī koṭ par darab kau hirah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਰੋੜਾਂ ਬੰਦੇ ਦੂਜਿਆਂ ਦਾ ਧਨ ਚੁਰਾਉਂਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Миллионы людей крадут чужое имущество,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12277,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਪਰ ਦੂਖਨਾ ਕਰਹਿ ॥",
+          "roman": "kaī koṭ par dūkhnā karah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਰੋੜਾਂ ਹੀ ਦੂਜਿਆਂ ਦੀ ਨਿੰਦਿਆ ਕਰਦੇ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и миллионы порочат других;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12278,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਮਾਇਆ ਸ੍ਰਮ ਮਾਹਿ ॥",
+          "roman": "kaī koṭ māiā sram māh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਧਨ ਪਦਾਰਥ ਦੀ (ਖ਼ਾਤਰ) ਮੇਹਨਤ ਵਿਚ ਜੁੱਟੇ ਹੋਏ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Миллионы людей заняты трудом ради богатства и вещей,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12279,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਪਰਦੇਸ ਭ੍ਰਮਾਹਿ ॥",
+          "roman": "kaī koṭ pardēs bhramāh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਈ ਕਰੋੜ ਦੂਜੇ ਦੇਸ਼ਾਂ ਵਿਚ ਭਟਕ ਰਹੇ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и многие миллионы блуждают по чужим странам;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12280,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਤੁ ਜਿਤੁ ਲਾਵਹੁ ਤਿਤੁ ਤਿਤੁ ਲਗਨਾ ॥",
+          "roman": "jit jit lāvah tit tit lagnā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਜਿਸ ਆਹਰੇ ਤੂੰ ਲਾਉਂਦਾ ਹੈਂ ਉਸ ਉਸ ਆਹਰ ਵਿਚ ਜੀਵ ਲੱਗੇ ਹੋਏ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Бог, к какому занятию Ты направляешь, к тому занятию существа и бывают привязаны."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12281,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਕਰਤੇ ਕੀ ਜਾਨੈ ਕਰਤਾ ਰਚਨਾ ॥੨॥",
+          "roman": "Nānak karte kī jānē kartā rachanā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਕਰਤਾਰ ਦੀ ਰਚਨਾ (ਦਾ ਭੇਤ) ਕਰਤਾਰ ਹੀ ਜਾਣਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Тайну творения Творца знает только Сам Творец. ॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 955,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 12282,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਸਿਧ ਜਤੀ ਜੋਗੀ ॥",
+          "roman": "kaī koṭ siḍh jatī jogī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਸ ਸ੍ਰਿਸ਼ਟਿ-ਰਚਨਾ ਵਿਚ) ਕਰੋੜਾਂ ਪੁੱਗੇ ਹੋਏ, ਤੇ ਕਾਮ ਨੂੰ ਵੱਸ ਵਿਚ ਰੱਖਣ ਵਾਲੇ ਜੋਗੀ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "В этом сотворении мира есть миллионы совершенных йогов, целомудренных и держащих страсть под властью,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12283,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਰਾਜੇ ਰਸ ਭੋਗੀ ॥",
+          "roman": "kaī koṭ rāje ras bhogī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਰੋੜਾਂ ਹੀ ਮੌਜਾਂ ਮਾਣਨ ਵਾਲੇ ਰਾਜੇ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и миллионы царей, наслаждающихся удовольствиями;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12284,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਪੰਖੀ ਸਰਪ ਉਪਾਏ ॥",
+          "roman": "kaī koṭ pankhī sarap upāē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਰੋੜਾਂ ਪੰਛੀ ਤੇ ਸੱਪ (ਪ੍ਰਭੂ ਨੇ) ਪੈਦਾ ਕੀਤੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Миллионы птиц и змей создал Бог,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12285,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਪਾਥਰ ਬਿਰਖ ਨਿਪਜਾਏ ॥",
+          "roman": "kaī koṭ pāthar birakh nipjāē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਕਰੋੜਾਂ ਹੀ ਪੱਥਰ ਤੇ ਰੁੱਖ ਉਗਾਏ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "и миллионы камней и деревьев взрастил;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12286,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਪਵਣ ਪਾਣੀ ਬੈਸੰਤਰ ॥",
+          "roman": "kaī koṭ pavaṇ pāṇī bēsantar",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਰੋੜਾਂ ਹਵਾ ਪਾਣੀ ਤੇ ਅੱਗਾਂ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Есть миллионы ветров, вод и огней,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12287,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਦੇਸ ਭੂ ਮੰਡਲ ॥",
+          "roman": "kaī koṭ dēs bhū maṇḍal",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਰੋੜਾਂ ਦੇਸ ਤੇ ਧਰਤੀਆਂ ਦੇ ਚੱਕ੍ਰ ਹਨ;"
+            },
+            "sahib_singh_ru": {
+              "main": "миллионы стран и кругов земли;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 12288,
+          "is_rahao": false,
+          "gurmukhi": "ਕਈ ਕੋਟਿ ਸਸੀਅਰ ਸੂਰ ਨਖੵਤ੍ਰ ॥",
+          "roman": "kaī koṭ sasīar sūr nakhyatr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਈ ਕਰੋੜਾਂ ਚੰਦ੍ਰਮਾਂ, ਸੂਰਜ ਤੇ ਤਾਰੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Есть многие миллионы лун, солнц и звёзд,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

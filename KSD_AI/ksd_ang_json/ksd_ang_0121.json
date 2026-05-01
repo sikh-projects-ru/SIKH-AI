@@ -1,0 +1,953 @@
+{
+  "ang": 121,
+  "shabads": [
+    {
+      "shabad_id": 338,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 4900,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਨਾਮਿ ਰਤੇ ਵੀਚਾਰੀ ਸਚੋ ਸਚੁ ਕਮਾਵਣਿਆ ॥੮॥੧੮॥੧੯॥",
+          "roman": "Nānak nām rate vīchārī sacho sach kamāvaṇiā ॥8॥18॥19॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ (-ਰੰਗ) ਵਿਚ ਰੰਗੇ ਜਾਂਦੇ ਹਨ, ਉਹ ਚੰਗੀ ਮੰਦੀ ਕਰਤੂਤਿ ਨੂੰ ਪਰਖਣ ਜੋਗੇ ਹੋ ਜਾਂਦਾ ਹਨ, ਤੇ ਉਹ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਸਿਮਰਨ ਦੀ ਕਮਾਈ ਕਰਦੇ ਹਨ ॥੮॥੧੮॥੧੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Те люди, которые окрашиваются в цвет Имени Бога, становятся способными различать доброе и дурное деяние и совершают практику памятования Имени вечно сущего Бога. ॥8॥18॥19॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 339,
+      "rahao_verse_id": 4906,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 4901,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਝ ਮਹਲਾ ੩ ॥",
+          "roman": "Mājh mahalā 3",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4902,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਸਬਦੁ ਨਿਰਮਲ ਹੈ ਬਾਣੀ ॥",
+          "roman": "nirmal sabad nirmal hē bāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਸ਼ਬਦ (ਸਭ ਨੂੰ) ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Шабад Его хвалы, очищающий всех, является священным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4903,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਜੋਤਿ ਸਭ ਮਾਹਿ ਸਮਾਣੀ ॥",
+          "roman": "nirmal jot sabh māh samāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦੀ ਪਵਿੱਤ੍ਰ ਜੋਤਿ ਸਭ ਜੀਵਾਂ ਵਿਚ ਸਮਾਈ ਹੋਈ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Святая джоть Бога пронизывает всех существ."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4904,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਬਾਣੀ ਹਰਿ ਸਾਲਾਹੀ ਜਪਿ ਹਰਿ ਨਿਰਮਲੁ ਮੈਲੁ ਗਵਾਵਣਿਆ ॥੧॥",
+          "roman": "nirmal bāṇī har sālāhī jap har nirmal mēl gavāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਮੈਂ ਉਸ ਹਰੀ ਦੀ ਪਵਿਤ੍ਰ ਬਾਣੀ ਦੀ ਰਾਹੀਂ ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹਾਂ। ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ ਪਵਿਤ੍ਰ ਹੋ ਜਾਈਦਾ ਹੈ, (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ (ਮਨ ਵਿਚੋਂ) ਦੂਰ ਕਰ ਲਈਦੀ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Через святую Бани того Хари я воздаю Ему хвалу. Повторяя Имя Бога, человек становится чистым и удаляет из ума грязь пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4905,
+          "is_rahao": true,
+          "gurmukhi": "ਹਉ ਵਾਰੀ ਜੀਉ ਵਾਰੀ ਸੁਖਦਾਤਾ ਮੰਨਿ ਵਸਾਵਣਿਆ ॥",
+          "roman": "hau vārī jīo vārī sukhdātā man vasāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਕੇ ਹਾਂ ਕੁਰਬਾਨ ਹਾਂ, ਜੇਹੜੇ ਸੁੱਖ ਦੇਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я жертвую собой, я предан тем, кто поселяют в своём уме Бога, дающего счастье."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4906,
+          "is_rahao": true,
+          "gurmukhi": "ਹਰਿ ਨਿਰਮਲੁ ਗੁਰ ਸਬਦਿ ਸਲਾਹੀ ਸਬਦੋ ਸੁਣਿ ਤਿਸਾ ਮਿਟਾਵਣਿਆ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "har nirmal gur sabad salāhī sabado suṇ tisā miṭāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਪਵਿਤ੍ਰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹਾਂ। ਗੁਰੂ ਦਾ ਸ਼ਬਦ ਹੀ ਸੁਣ ਕੇ ਮੈਂ (ਆਪਣੇ ਅੰਦਰੋਂ ਮਾਇਆ ਦੀ) ਤ੍ਰਿਸ਼ਨਾ ਮਿਟਾਂਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Я, соединившись с Шабадом Гуру, восхваляю чистого Бога. Слушая Шабад Гуру, я устраняю изнутри жажду майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4907,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਨਾਮੁ ਵਸਿਆ ਮਨਿ ਆਏ ॥",
+          "roman": "nirmal nām vasiā man āe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਸ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਪਵਿਤ੍ਰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆ ਵੱਸਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Если в уме человека поселяется святое Имя Бога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4908,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਤਨੁ ਨਿਰਮਲੁ ਮਾਇਆ ਮੋਹੁ ਗਵਾਏ ॥",
+          "roman": "man tan nirmal māiā moh gavāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਦਾ ਮਨ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਸ ਦਾ ਤਨ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ। (ਆਪਣੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਦਾ ਮੋਹ ਦੂਰ ਕਰ ਲੈਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "его ум становится чистым, его тело становится чистым. Он удаляет изнутри привязанность к майе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4909,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਗੁਣ ਗਾਵੈ ਨਿਤ ਸਾਚੇ ਕੇ ਨਿਰਮਲ ਨਾਦੁ ਵਜਾਵਣਿਆ ॥੨॥",
+          "roman": "nirmal guṇ gāvē nit sāche ke nirmal nād vajāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੇ ਪਵਿਤ੍ਰ ਗੁਣ ਸਦਾ ਗਾਂਦਾ ਹੈ (ਜਿਵੇਂ ਜੋਗੀ ਨਾਦ ਵਜਾਂਦਾ ਹੈ) ਉਹ ਮਨੁੱਖ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ (ਮਾਨੋ) ਨਾਦ ਵਜਾਂਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Такой человек постоянно поёт чистые качества вечно сущего Бога и, словно йог, извлекает наад хвалы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4910,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਅੰਮ੍ਰਿਤੁ ਗੁਰ ਤੇ ਪਾਇਆ ॥",
+          "roman": "nirmal amrit gur te pāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਪਾਸੋਂ ਪਵਿਤ੍ਰ ਪਰਮਾਤਮਾ ਦਾ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ ਪ੍ਰਾਪਤ ਕਰ ਲਿਆ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Человек, который получил от Гуру святой нектар Имени, дарующий духовную жизнь,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4911,
+          "is_rahao": false,
+          "gurmukhi": "ਵਿਚਹੁ ਆਪੁ ਮੁਆ ਤਿਥੈ ਮੋਹੁ ਨ ਮਾਇਆ ॥",
+          "roman": "vichah āp muā tithē moh na māiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਦੇ ਅੰਦਰੋਂ ਆਪਾ-ਭਾਵ ਮੁੱਕ ਜਾਂਦਾ ਹੈ, ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ, ਮਾਇਆ ਦਾ ਮੋਹ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "избавляется внутри от эгоизма, и в его сердце больше не остаётся привязанности к майе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4912,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਗਿਆਨੁ ਧਿਆਨੁ ਅਤਿ ਨਿਰਮਲੁ ਨਿਰਮਲ ਬਾਣੀ ਮੰਨਿ ਵਸਾਵਣਿਆ ॥੩॥",
+          "roman": "nirmal giān dhiān at nirmal nirmal bāṇī man vasāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਉਂ ਜਿਉਂ ਉਹ ਮਨੁੱਖ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਾਲੀ ਪਵਿਤ੍ਰ ਬਾਣੀ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾਂਦਾ ਹੈ, ਪਰਮਾਤਮਾ ਨਾਲ ਉਸ ਦੀ ਪਵਿਤ੍ਰ ਡੂੰਘੀ ਸਾਂਝ ਬਣਦੀ ਹੈ, ਉਸ ਦੀ ਸੁਰਤ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਨਾਲ ਜੁੜਦੀ ਹੈ ਜੋ ਉਸ ਨੂੰ (ਹੋਰ) ਪਵਿਤ੍ਰ ਕਰਦੀ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "По мере того как человек поселя́ет в своём уме святую Бани хвалы Бога, у него возникает чистая глубокая связь с Богом, а его сознание соединяется со стопами Господа, что очищает его ещё больше."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4913,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਨਿਰਮਲੁ ਸੇਵੇ ਸੁ ਨਿਰਮਲੁ ਹੋਵੈ ॥",
+          "roman": "jo nirmal sevē su nirmal hovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜਾ ਮਨੁੱਖ ਪਵਿਤ੍ਰ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਦਾ ਹੈ, ਉਹ (ਆਪ ਭੀ) ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто помнит святого Бога, и сам становится чистым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4914,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉਮੈ ਮੈਲੁ ਗੁਰ ਸਬਦੇ ਧੋਵੈ ॥",
+          "roman": "haumē mēl gur sabde dhovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਬਰਕਤਿ ਨਾਲ ਉਹ (ਆਪਣੇ ਮਨ ਵਿਚੋਂ) ਹਉਮੈ ਦੀ ਮੈਲ ਧੋ ਲੈਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Благодаря Шабаду Гуру он смывает из своего ума грязь Хоумэ."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4915,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਵਾਜੈ ਅਨਹਦ ਧੁਨਿ ਬਾਣੀ ਦਰਿ ਸਚੈ ਸੋਭਾ ਪਾਵਣਿਆ ॥੪॥",
+          "roman": "nirmal vājē anhad dhun bāṇī dar sache sobhā pāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਇਕ-ਰਸ ਲਗਨ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਪਵਿਤ੍ਰ ਬਾਣੀ ਆਪਣਾ ਪ੍ਰਭਾਵ ਪਾਈ ਰੱਖਦੀ ਹੈ, ਤੇ ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਸੋਭਾ ਪਾਂਦਾ ਹੈ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Внутри такого человека постоянно действует святая Бани хвалы, рождающая ровную, непрерывную погружённость, и он обретает честь при дворе вечного Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4916,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਤੇ ਸਭ ਨਿਰਮਲ ਹੋਵੈ ॥",
+          "roman": "nirmal te sabh nirmal hovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਵਿਤ੍ਰ ਪਰਮਾਤਮਾ ਦੀ (ਨਾਮ-) ਛੁਹ ਨਾਲ ਸਾਰੀ ਲੁਕਾਈ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "От прикосновения святого Бога по Имени весь народ становится чистым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4917,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲੁ ਮਨੂਆ ਹਰਿ ਸਬਦਿ ਪਰੋਵੈ ॥",
+          "roman": "nirmal manūā har sabad parovē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਉਂ ਜਿਉਂ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਨੂੰ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਸ਼ਬਦ ਵਿਚ ਪ੍ਰੋਂਦਾ ਹੈ (ਤਿਉਂ ਤਿਉਂ ਉਸ ਦਾ) ਮਨ ਪਵਿਤ੍ਰ ਹੁੰਦਾ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "По мере того как человек вплетает свой ум в Шабад хвалы Бога, его ум становится всё более чистым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4918,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਨਾਮਿ ਲਗੇ ਬਡਭਾਗੀ ਨਿਰਮਲੁ ਨਾਮਿ ਸੁਹਾਵਣਿਆ ॥੫॥",
+          "roman": "nirmal nām lage baḍbhāgī nirmal nām suhāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਮਨੁੱਖ ਹੀ ਪਵਿਤ੍ਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਲੀਨ ਹੁੰਦੇ ਹਨ। ਜੇਹੜਾ ਮਨੁੱਖ ਨਾਮ ਵਿਚ ਜੁੜਦਾ ਹੈ, ਉਹ ਪਵਿਤ੍ਰ ਜੀਵਨ ਵਾਲਾ ਬਣ ਜਾਂਦਾ ਹੈ, ਉਹ ਸੋਹਣੇ ਜੀਵਨ ਵਾਲਾ ਬਣ ਜਾਂਦਾ ਹੈ ॥੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Только очень удачливые люди погружаются в святое Имя Господа. Тот, кто соединяется с Именем, обретает чистую и прекрасную жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4919,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਨਿਰਮਲੁ ਜੋ ਸਬਦੇ ਸੋਹੈ ॥",
+          "roman": "so nirmal jo sabde sohē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹੀ ਮਨੁੱਖ ਪਵਿਤ੍ਰ ਜੀਵਨ ਵਾਲਾ ਬਣਦਾ ਹੈ, ਜੇਹੜਾ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਸੋਹਣੇ ਜੀਵਨ ਵਾਲਾ ਬਣਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Чистую жизнь обретает лишь тот, кто, соединившись с Шабадом Гуру, становится прекрасным в жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4920,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਮਲ ਨਾਮਿ ਮਨੁ ਤਨੁ ਮੋਹੈ ॥",
+          "roman": "nirmal nām man tan mohē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਵਿਤ੍ਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਉਸ ਦਾ ਮਨ ਮਸਤ ਰਹਿੰਦਾ ਹੈ, ਉਸ ਦਾ ਤਨ (ਭਾਵ, ਹਰੇਕ ਗਿਆਨ-ਇੰਦ੍ਰਾ) ਮਸਤ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "В святом Имени Господа его ум пребывает в упоении, и его тело, то есть все органы восприятия, тоже пребывают в упоении."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4921,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚਿ ਨਾਮਿ ਮਲੁ ਕਦੇ ਨ ਲਾਗੈ ਮੁਖੁ ਊਜਲੁ ਸਚੁ ਕਰਾਵਣਿਆ ॥੬॥",
+          "roman": "sach nām mal kade na lāgē mukh ūjal sach karāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਦਾ-ਥਿਰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜਨ ਕਰ ਕੇ ਉਸ ਨੂੰ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਕਦੇ ਨਹੀਂ ਲਗਦੀ। ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ ਉਸ ਦਾ ਮੂੰਹ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਉਜਲਾ ਕਰ ਦੇਂਦਾ ਹੈ ॥੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Поскольку он соединён с Именем вечно сущего Бога, грязь пороков никогда к нему не пристаёт. Вечно сущий Господь делает его лицо светлым в этом мире и в следующем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4922,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਮੈਲਾ ਹੈ ਦੂਜੈ ਭਾਇ ॥",
+          "roman": "man mēlā hē dūjē bhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਜੇਹੜਾ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਪਿਆਰ ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ, ਉਸ ਦਾ ਮਨ (ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ ਨਾਲ) ਮੈਲਾ (ਹੀ) ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Но тот, кто опьянён любовью к майе, сохраняет свой ум грязным от пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4923,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈਲਾ ਚਉਕਾ ਮੈਲੈ ਥਾਇ ॥",
+          "roman": "mēlā chauṅkā mēlē thāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਹ ਲਕੀਰਾਂ ਕੱਢ ਕੱਢ ਕੇ ਬੇਸ਼ੱਕ ਸੁੱਚੇ ਚੌਂਕੇ ਬਣਾਏ, ਪਰ ਉਸ ਦੇ ਹਿਰਦੇ ਦਾ) ਚੌਂਕਾ ਮੈਲਾ ਹੀ ਰਹਿੰਦਾ ਹੈ (ਉਹ ਦੀ ਸੁਰਤ ਸਦਾ) ਮੈਲੇ ਥਾਂ ਵਿਚ ਹੀ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Пусть он и чертит линии и устраивает внешне чистые места, внутренний двор его сердца остаётся грязным, и его сознание по-прежнему закреплено в нечистом месте."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4924,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈਲਾ ਖਾਇ ਫਿਰਿ ਮੈਲੁ ਵਧਾਏ ਮਨਮੁਖ ਮੈਲੁ ਦੁਖੁ ਪਾਵਣਿਆ ॥੭॥",
+          "roman": "mēlā khāe phir mēl vaḍhāe manmukh mēl dukh pāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਮਨੁੱਖ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਨੂੰ ਹੀ ਆਪਣੀ ਆਤਮਕ ਖ਼ੁਰਾਕ ਬਣਾਈ ਰੱਖਦਾ ਹੈ, (ਜਿਸ ਕਰਕੇ ਉਹ ਆਪਣੇ ਅੰਦਰ) ਹੋਰ ਹੋਰ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਵਧਾਂਦਾ ਜਾਂਦਾ ਹੈ। (ਇਸ ਤਰ੍ਹਾਂ) ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲਾ ਮਨੁੱਖ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ (ਵਧਾ ਵਧਾ ਕੇ) ਦੁੱਖ ਸਹਾਰਦਾ ਹੈ ॥੭॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Такой человек делает грязь пороков своей духовной пищей и потому всё больше увеличивает её в себе. Идя за своим умом, он, накапливая эту грязь, терпит страдание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4925,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈਲੇ ਨਿਰਮਲ ਸਭਿ ਹੁਕਮਿ ਸਬਾਏ ॥",
+          "roman": "mēle nirmal sabh hukam sabhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਵਿਕਾਰੀ ਜੀਵ ਤੇ ਪਵਿਤ੍ਰ-ਆਤਮਾ ਜੀਵ ਸਾਰੇ ਪਰਮਾਤਮਾ ਦੇ ਹੁਕਮ ਵਿਚ (ਹੀ ਤੁਰ ਰਹੇ ਹਨ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Но что во власти существ? И порочные, и чистые душой — все находятся в Хукам Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4926,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇ ਨਿਰਮਲ ਜੋ ਹਰਿ ਸਾਚੇ ਭਾਏ ॥",
+          "roman": "se nirmal jo har sāche bhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਬੰਦੇ ਸਦਾ-ਥਿਰ ਹਰੀ ਨੂੰ ਪਿਆਰੇ ਲੱਗ ਪੈਂਦੇ ਹਨ, ਉਹ ਪਵਿਤ੍ਰ ਜੀਵਨ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто становятся любимы вечно сущему Хари, обретают чистую жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4927,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਨਾਮੁ ਵਸੈ ਮਨ ਅੰਤਰਿ ਗੁਰਮੁਖਿ ਮੈਲੁ ਚੁਕਾਵਣਿਆ ॥੮॥੧੯॥੨੦॥",
+          "roman": "Nānak nām vasē man antar gurmukh mēl chukāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਾਹ ਉੱਤੇ ਤੁਰਦਾ ਹੈ, ਉਸ ਦੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਵੱਸਦਾ ਹੈ, ਉਹ (ਆਪਣੇ ਅੰਦਰੋਂ ਵਿਕਾਰ ਆਦਿਕਾਂ ਦੀ) ਮੈਲ ਦੂਰ ਕਰ ਲੈਂਦਾ ਹੈ ॥੮॥੧੯॥੨੦॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! У того, кто идёт путём, указанным Гуру, в сердце поселяется Имя Бога, и он удаляет изнутри грязь пороков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 340,
+      "rahao_verse_id": 4933,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 4928,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਝ ਮਹਲਾ ੩ ॥",
+          "roman": "Mājh mahalā 3",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4929,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਵਿੰਦੁ ਊਜਲੁ ਊਜਲ ਹੰਸਾ ॥",
+          "roman": "govind ūjal ūjal hansā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰਮਾਤਮਾ ਦਾ ਪਵਿੱਤ੍ਰ ਨਾਮ ਜਪਣ ਵਾਲੇ) ਮਨੁੱਖ ਪਵਿਤ੍ਰ ਗੋਬਿੰਦ ਦਾ ਰੂਪ ਹੋ ਜਾਂਦੇ ਹਨ, ਪਰਮਾਤਮਾ-ਸਰੋਵਰ ਦੇ ਉਹ, (ਮਾਨੋ) ਸੋਹਣੇ ਹੰਸ ਬਣ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Люди, повторяющие святое Имя Бога, сами становятся образом чистого Гобинда; они, словно прекрасные лебеди в озере Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4930,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੁ ਬਾਣੀ ਨਿਰਮਲ ਮੇਰੀ ਮਨਸਾ ॥",
+          "roman": "man bāṇī nirmal merī mansā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਦਾ ਮਨ ਪਵਿੱਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਵਿਚ ਬੋਲੀ ਪਵਿੱਤ੍ਰ ਹੋ ਜਾਂਦੀ ਹੈ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਮਨ ਵਿੱਚ (ਭੀ) ਸੁੱਧ (ਫੁਰਨੇ) ਉਠਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Их ум становится чистым, их речь становится чистой, и в их уме тоже возникают чистые намерения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4931,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਿ ਊਜਲ ਸਦਾ ਮੁਖ ਸੋਹਹਿ ਅਤਿ ਊਜਲ ਨਾਮੁ ਧਿਆਵਣਿਆ ॥੧॥",
+          "roman": "man ūjal sadā mukh soheh at ūjal nām dhiāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਬਹੁਤ ਪਵਿਤ੍ਰ-ਆਤਮਾ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਦੇ ਮੂੰਹ (ਭੀ) ਸੋਹਣੇ ਦਿੱਸਦੇ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто помнят Имя Бога, становятся очень чистыми душой, и даже их лица выглядят прекрасными."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4932,
+          "is_rahao": true,
+          "gurmukhi": "ਹਉ ਵਾਰੀ ਜੀਉ ਵਾਰੀ ਗੋਬਿੰਦ ਗੁਣ ਗਾਵਣਿਆ ॥",
+          "roman": "hau vārī jīo vārī gobind guṇ gāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਉਸ ਮਨੁੱਖ ਤੋਂ ਸਦਾ ਸਦਕੇ ਵਾਰਨੇ ਜਾਂਦਾ ਹਾਂ, ਜੇਹੜਾ ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਸਦਾ ਗਾਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Я всегда жертвую собой ради того человека, который постоянно поёт качества Гобинда,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4933,
+          "is_rahao": true,
+          "gurmukhi": "ਗੋਬਿਦੁ ਗੋਬਿਦੁ ਕਹੈ ਦਿਨ ਰਾਤੀ ਗੋਬਿਦ ਗੁਣ ਸਬਦਿ ਸੁਣਾਵਣਿਆ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "gobid gobid kahē din rātī gobid guṇ sabad suṇāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜਾ ਦਿਨ ਰਾਤ ਗੋਬਿੰਦ ਦਾ ਨਾਮ ਉਚਾਰਦਾ ਹੈ, ਜੇਹੜਾ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ (ਹੋਰਨਾਂ ਨੂੰ ਭੀ) ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਸੁਣਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "который день и ночь произносит Имя Гобинда и через Шабад Гуру даёт другим услышать качества Гобинда."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4934,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਬਿਦੁ ਗਾਵਹਿ ਸਹਜਿ ਸੁਭਾਏ ॥",
+          "roman": "gobid gāveh sahaj subhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਮਨੁੱਖ ਗੋਬਿੰਦ (ਦੇ ਗੁਣ) ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ (ਪ੍ਰਭੂ ਚਰਨਾਂ ਦੇ) ਪ੍ਰੇਮ ਵਿਚ (ਟਿਕ ਕੇ) ਗਾਂਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Те люди, которые поют качества Гобинда, пребывая в духовной устойчивости и любви к стопам Господа,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4935,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਕੈ ਭੈ ਊਜਲ ਹਉਮੈ ਮਲੁ ਜਾਏ ॥",
+          "roman": "gur kē bhē ūjal haumē mal jāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਦੇ ਡਰ-ਅਦਬ ਵਿਚ ਰਹਿ ਕੇ ਉਹ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਸੁਰਖ਼ਰੂ ਹੋ ਜਾਂਦੇ ਹਨ, (ਉਹਨਾਂ ਦੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਦੀ ਮੈਲ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "живя в страхе-почтении к Гуру, становятся прославленными в этом мире и в ином, а грязь Хоумэ у них уходит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4936,
+          "is_rahao": false,
+          "gurmukhi": "ਸਦਾ ਅਨੰਦਿ ਰਹਹਿ ਭਗਤਿ ਕਰਹਿ ਦਿਨੁ ਰਾਤੀ ਸੁਣਿ ਗੋਬਿਦ ਗੁਣ ਗਾਵਣਿਆ ॥੨॥",
+          "roman": "sadā anand raheh bhagat kareh din rātī suṇ gobid guṇ gāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰਦੇ ਹਨ, ਸਦਾ ਆਤਮਕ ਆਨੰਦ ਵਿਚ ਮਗਨ ਰਹਿੰਦੇ ਹਨ, ਉਹ (ਹੋਰਨਾਂ ਪਾਸੋਂ) ਸੁਣ ਕੇ (ਭਾਵ, ਉਹ ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਸੁਣਦੇ ਭੀ ਹਨ, ਤੇ) ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਗਾਂਦੇ (ਭੀ) ਹਨ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Они день и ночь совершают преданность Богу, постоянно пребывают в духовной радости; они и слушают качества Гобинда от других, и сами поют их."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4937,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨੂਆ ਨਾਚੈ ਭਗਤਿ ਦ੍ਰਿੜਾਏ ॥",
+          "roman": "manūā nāchē bhagat driṛhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਉਂ ਜਿਉਂ ਮਨੁੱਖ ਭਗਤੀ ਦ੍ਰਿੜ੍ਹ ਕਰਦਾ ਹੈ ਉਸ ਦਾ ਮਨ ਹੁਲਾਰੇ ਵਿਚ ਆਉਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "По мере того как человек утверждается в бхагти, его ум приходит в восторженное движение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4938,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਮਨੈ ਮਨੁ ਮਿਲਾਏ ॥",
+          "roman": "gur kē sabad manē man milāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਉਹ ਆਪਣੇ ਮਨ ਨੂੰ ਉਧਰ ਹੀ ਟਿਕਾਈ ਰੱਖਦਾ ਹੈ (ਬਾਹਰ ਭਟਕਣ ਤੋਂ ਬਚਾਈ ਰੱਖਦਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Через Шабад Гуру он удерживает свой ум именно там, не давая ему блуждать вовне."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4939,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚਾ ਤਾਲੁ ਪੂਰੇ ਮਾਇਆ ਮੋਹੁ ਚੁਕਾਏ ਸਬਦੇ ਨਿਰਤਿ ਕਰਾਵਣਿਆ ॥੩॥",
+          "roman": "sachā tāl pūre māiā moh chukāe sabde nirat karāvaṇiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਵੇਂ ਕੋਈ ਰਾਸਧਾਰੀਆ ਰਾਸ ਪਾਣ ਵੇਲੇ ਰਾਗ ਦੇ ਸ਼ਾਜ਼ਾਂ ਦੇ ਨਾਲ ਨਾਲ ਮਿਲ ਕੇ ਨਾਚ ਕਰਦਾ ਹੈ, ਤਿਵੇਂ) ਉਹ ਮਨੁੱਖ (ਮਾਨੋ) ਸੱਚਾ ਨਾਚ ਕਰਦਾ ਹੈ (ਜਦੋਂ ਉਹ ਆਪਣੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਦਾ ਮੋਹ ਦੂਰ ਕਰਦਾ ਹੈ। ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਉਹ (ਆਤਮਕ) ਨਾਚ ਕਰਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Подобно тому как исполнитель танца движется в лад с мелодией и инструментами, так и этот человек совершает истинный танец, когда устраняет из себя привязанность к майе. Соединившись с Шабадом Гуру, он совершает духовный танец."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4940,
+          "is_rahao": false,
+          "gurmukhi": "ਊਚਾ ਕੂਕੇ ਤਨਹਿ ਪਛਾੜੇ ॥",
+          "roman": "ūchā kūke taneh pachhāṛe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਜੇਹੜਾ ਮਨੁੱਖ (ਰਾਸ ਆਦਿਕ ਪਾਣ ਵੇਲੇ) ਉੱਚੀ ਉੱਚੀ ਸੁਰ ਵਿਚ ਬੋਲਦਾ ਹੈ ਤੇ ਆਪਣੇ ਸਰੀਰ ਨੂੰ (ਕਿਸੇ ਸ਼ੈ ਨਾਲ) ਪਟਕਾਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Но если человек во время танцев и подобных действий громко выкрикивает и бросает своё тело о что-то,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 4941,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਇਆ ਮੋਹਿ ਜੋਹਿਆ ਜਮਕਾਲੇ ॥",
+          "roman": "māiā moh johiā jamkāle",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਂਞ ਉਹ) ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ (ਫਸਿਆ ਹੋਇਆ) ਹੈ, ਉਸ ਨੂੰ ਆਤਮਕ ਮੌਤ ਨੇ ਆਪਣੀ ਤੱਕ ਵਿਚ ਰੱਖਿਆ ਹੋਇਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "то он всё равно остаётся пойманным в привязанности к майе, и духовная смерть держит его в своём прицеле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

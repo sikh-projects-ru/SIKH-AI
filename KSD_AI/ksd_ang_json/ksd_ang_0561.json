@@ -1,0 +1,843 @@
+{
+  "ang": 561,
+  "shabads": [
+    {
+      "shabad_id": 2156,
+      "rahao_verse_id": 24633,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 24633,
+          "is_rahao": true,
+          "gurmukhi": "ਗੁਰੁ ਪੂਰਾ ਮੇਲਾਵੈ ਮੇਰਾ ਪ੍ਰੀਤਮੁ ਹਉ ਵਾਰਿ ਵਾਰਿ ਆਪਣੇ ਗੁਰੂ ਕਉ ਜਾਸਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "gur pūrā melāvē merā prītam hau vār vār apṇe gur kau jāsā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪੂਰਾ ਗੁਰੂ ਹੀ ਮੇਰਾ ਪਿਆਰਾ (ਪ੍ਰਭੂ) ਮਿਲਾ ਸਕਦਾ ਹੈ, ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਤੋਂ ਕੁਰਬਾਨ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Только совершенный Гуру может соединить меня с возлюбленным Богом, я снова и снова посвящаю себя своему Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24634,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਅਵਗਣ ਭਰਪੂਰਿ ਸਰੀਰੇ ॥",
+          "roman": "mē avgaṇ bharpūr sarīre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੇਰੇ ਸਰੀਰ ਵਿਚ ਔਗੁਣ ਹੀ ਔਗੁਣ ਭਰੇ ਪਏ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Моё тело полно недостатков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24635,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਕਿਉ ਕਰਿ ਮਿਲਾ ਅਪਣੇ ਪ੍ਰੀਤਮ ਪੂਰੇ ॥੨॥",
+          "roman": "hau kiyo kar milā apṇe prītam pūre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਆਪਣੇ ਉਸ ਪ੍ਰੀਤਮ ਨੂੰ ਕਿਵੇਂ ਮਿਲ ਸਕਾਂ ਜੋ ਸਾਰੇ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ ਹੈ? ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Как мне встретить моего совершенного Возлюбленного?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24636,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਿ ਗੁਣਵੰਤੀ ਮੇਰਾ ਪ੍ਰੀਤਮੁ ਪਾਇਆ ॥",
+          "roman": "jin guṇvaṅtī merā prītam pāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਗੁਣਾਂ ਵਾਲੀ (ਵਡ-ਭਾਗਣ ਜੀਵ-ਇਸਤ੍ਰੀ) ਨੇ ਪਿਆਰੇ ਪ੍ਰਭੂ ਨੂੰ ਲੱਭ ਲਿਆ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Та добродетельная душа, которая нашла Бога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24637,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇ ਮੈ ਗੁਣ ਨਾਹੀ ਹਉ ਕਿਉ ਮਿਲਾ ਮੇਰੀ ਮਾਇਆ ॥੩॥",
+          "roman": "se mē guṇ nāhī hau kiyo milā merī māiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੇਰੇ ਅੰਦਰ ਉਹੋ ਜਿਹੇ ਗੁਣ ਨਹੀਂ ਹਨ। ਮੈਂ ਕਿਵੇਂ ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਸਕਦੀ ਹਾਂ? ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "у меня нет таких качеств — как же мне встретить Бога?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24638,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਕਰਿ ਕਰਿ ਥਾਕਾ ਉਪਾਵ ਬਹੁਤੇਰੇ ॥",
+          "roman": "hau kar kar thākā upāv bahutere",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਅਨੇਕਾਂ ਉਪਾਵ ਕਰ ਕਰ ਕੇ ਥੱਕ ਗਿਆ ਹਾਂ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Я устал, пробуя множество способов,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24639,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਗਰੀਬ ਰਾਖਹੁ ਹਰਿ ਮੇਰੇ ॥੪॥੧॥",
+          "roman": "nānak garīb rākho har mere",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਗਰੀਬ ਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜੀ ਰੱਖ, ਹੇ ਪ੍ਰਭ! ॥੪॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Бог! Сохрани бедного Нанака у Своих стоп."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2157,
+      "rahao_verse_id": 24644,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 24640,
+          "is_rahao": false,
+          "gurmukhi": "ਵਡਹੰਸੁ ਮਹਲਾ ੪ ॥",
+          "roman": "vadahans mahalā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24641,
+          "is_rahao": false,
+          "gurmukhi": "ਮੇਰਾ ਹਰਿ ਪ੍ਰਭੁ ਸੁੰਦਰੁ ਮੈ ਸਾਰ ਨ ਜਾਣੀ ॥",
+          "roman": "merā har prabh sundar mē sār na jāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੇਰਾ ਹਰੀ ਪ੍ਰਭੂ ਸੋਹਣਾ ਹੈ, ਪਰ ਮੈਂ ਉਸ ਦੀ ਕਦਰ ਨਹੀਂ ਜਾਣਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Мой Хари, мой Господь прекрасен, но я не умею ценить Его."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24642,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਹਰਿ ਪ੍ਰਭ ਛੋਡਿ ਦੂਜੈ ਲੋਭਾਣੀ ॥੧॥",
+          "roman": "hau har prabh chhoḍ dūjē lobhāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਉਸ ਹਰੀ ਨੂੰ, ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਛੱਡ ਕੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਹੀ ਫਸੀ ਰਹੀ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Я оставила этого Хари, этого Господа, и увязла в привязанности к майе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24643,
+          "is_rahao": true,
+          "gurmukhi": "ਹਉ ਕਿਉ ਕਰਿ ਪਿਰ ਕਉ ਮਿਲਉ ਇਆਣੀ ॥",
+          "roman": "hau kio kar pir kau milau iāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਮੂਰਖ ਹਾਂ, ਮੈਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਕਿਵੇਂ ਮਿਲ ਸਕਦੀ ਹਾਂ?"
+            },
+            "sahib_singh_ru": {
+              "main": "Я неразумна, как мне встретить Господа-Супруга?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24644,
+          "is_rahao": true,
+          "gurmukhi": "ਜੋ ਪਿਰ ਭਾਵੈ ਸਾ ਸੋਹਾਗਣਿ ਸਾਈ ਪਿਰ ਕਉ ਮਿਲੈ ਸਿਆਣੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jo pir bhāvē sā sohāgaṇ sāī pir kau milē siāṇī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੀ (ਜੀਵ-ਇਸਤ੍ਰੀ) ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਪਸੰਦ ਆਉਂਦੀ ਹੈ, ਉਹ ਭਾਗਾਂ ਵਾਲੀ ਹੈ, ਉਹੀ ਅਕਲ ਵਾਲੀ ਹੈ, ਉਹੀ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਮਿਲ ਸਕਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Та душа-жена, которая нравится Господу-Супругу, та счастливая, та мудрая, только она встречает Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24645,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਵਿਚਿ ਦੋਸ ਹਉ ਕਿਉ ਕਰਿ ਪਿਰੁ ਪਾਵਾ ॥",
+          "roman": "mē vich dos hau kio kar pir pāvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੇਰੇ ਅੰਦਰ (ਅਨੇਕਾਂ) ਐਬ ਹਨ, ਮੈਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਕਿਵੇਂ ਮਿਲ ਪਾਵਾਂ?"
+            },
+            "sahib_singh_ru": {
+              "main": "Во мне много пороков, как же мне встретить Господа-Супруга?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24646,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇਰੇ ਅਨੇਕ ਪਿਆਰੇ ਹਉ ਪਿਰ ਚਿਤਿ ਨ ਆਵਾ ॥੨॥",
+          "roman": "tere anek piāre hau pir chit na āvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ-ਪਤੀ! ਤੇਰੇ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ ਅਨੇਕਾਂ ਹੀ ਹਨ, ਮੈਂ ਤੇਰੇ ਚਿੱਤ ਵਿਚ ਨਹੀਂ ਆ ਸਕਦੀ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь-Супруг, у Тебя много любящих, я не прихожу в Твоё внимание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24647,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਿ ਪਿਰੁ ਰਾਵਿਆ ਸਾ ਭਲੀ ਸੁਹਾਗਣਿ ॥",
+          "roman": "jin pir rāviā sā bhalī suhāgaṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੇ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਵਸਾ ਲਿਆ, ਉਹ ਨੇਕ ਹੈ, ਉਹ ਭਾਗਾਂ ਵਾਲੀ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Та душа-жена, которая поселила Господа-Супруга в сердце, добрая и благословенная,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24648,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇ ਮੈ ਗੁਣ ਨਾਹੀ ਹਉ ਕਿਆ ਕਰੀ ਦੁਹਾਗਣਿ ॥੩॥",
+          "roman": "se mē guṇ nāhī hau kiā karī duhāgaṇ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਸੁਹਾਗਣ ਵਾਲੇ ਗੁਣ ਮੇਰੇ ਅੰਦਰ ਨਹੀਂ ਹਨ, ਮੈਂ ਛੁੱਟੜ (ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਮਿਲਣ ਲਈ) ਕੀਹ ਕਰ ਸਕਦੀ ਹਾਂ? ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "этих качеств у меня нет, что мне делать, мне оставленной?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24649,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਤ ਸੁਹਾਗਣਿ ਸਦਾ ਪਿਰੁ ਰਾਵੈ ॥",
+          "roman": "nit suhāgaṇ sadā pir rāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਸਦਾ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖਦੀ ਹੈ ਉਹ ਸਦਾ ਭਾਗਾਂ ਵਾਲੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Та, которая всегда держит Господа в сердце, всегда благословенна."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24650,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਕਰਮਹੀਣ ਕਬ ਹੀ ਗਲਿ ਲਾਵੈ ॥੪॥",
+          "roman": "mē karam hīṇ kab h gal lāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੇਰੇ ਵਰਗੀ ਮੰਦ-ਭਾਗਣ ਨੂੰ ਉਹ ਕਦੇ (ਕਿਸਮਤ ਨਾਲ) ਹੀ ਆਪਣੇ ਗਲ ਨਾਲ ਲਾਂਦਾ ਹੈ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Такую несчастную, как я, Он лишь изредка обнимает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24651,
+          "is_rahao": false,
+          "gurmukhi": "ਤੂ ਪਿਰੁ ਗੁਣਵੰਤਾ ਹਉ ਅਉਗੁਣਿਆਰਾ ॥",
+          "roman": "tū pir guṇvanta hau auguṇiārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ-ਪਤੀ! ਤੂੰ ਗੁਣਾਂ ਨਾਲ ਭਰਪੂਰ ਹੈਂ, ਪਰ ਮੈਂ ਅਉਗਣਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь-Супруг, Ты полон добродетелей, а я полон недостатков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24652,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਨਿਰਗੁਣ ਬਖਸਿ ਨਾਨਕੁ ਵੇਚਾਰਾ ॥੫॥੨॥",
+          "roman": "mē nirguṇ bakhś nānak vechārā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਨੂੰ ਗੁਣ-ਹੀਨ ਨਿਮਾਣੇ ਨਾਨਕ ਨੂੰ ਬਖ਼ਸ਼ ਲੈ ॥੫॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Прости меня, лишённого достоинств, бедного Нанака."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2158,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 24653,
+          "is_rahao": false,
+          "gurmukhi": "ਵਡਹੰਸੁ ਮਹਲਾ ੪ ਘਰੁ ੨",
+          "roman": "vadahans mahalā 4 ghar 2",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਵਡਹੰਸ, ਘਰ ੨ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Раг Вадаханс, дом 2, бани Гуру Рамдаса Джи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24654,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oankar satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Есть один Акал Пуракх, и Он достигается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24655,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਮਨਿ ਵਡੀ ਆਸ ਹਰੇ ਕਿਉ ਕਰਿ ਹਰਿ ਦਰਸਨੁ ਪਾਵਾ ॥",
+          "roman": "mē man vaḍī ās hare kio kar har darsan pāvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਹਰੀ! ਮੇਰੇ ਮਨ ਵਿਚ ਬੜੀ ਤਾਂਘ ਹੈ ਕਿ ਮੈਂ ਕਿਸੇ ਨ ਕਿਸੇ ਤਰ੍ਹਾਂ, ਤੇਰਾ ਦਰਸਨ ਕਰ ਸਕਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Хари, в моём уме сильное желание, как мне увидеть Тебя?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24656,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਜਾਇ ਪੁਛਾ ਅਪਨੇ ਸਤਗੁਰੈ ਗੁਰ ਪੁਛਿ ਮਨੁ ਮੁਗਧੁ ਸਮਝਾਵਾ ॥",
+          "roman": "hau jāe puchhā apne satgurē gur puchh man mugadh samjhāvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਪਾਸ ਜਾ ਕੇ ਗੁਰੂ ਪਾਸੋਂ ਪੁੱਛਦੀ ਹਾਂ ਤੇ ਗੁਰੂ ਨੂੰ ਪੁੱਛ ਕੇ ਆਪਣੇ ਮੂਰਖ ਮਨ ਨੂੰ ਸਿੱਖਿਆ ਦੇਂਦੀ ਰਹਿੰਦੀ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я иду к своему Гуру, спрашиваю Его и, спрашивая, наставляю свой глупый ум."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24657,
+          "is_rahao": false,
+          "gurmukhi": "ਭੂਲਾ ਮਨੁ ਸਮਝੈ ਗੁਰ ਸਬਦੀ ਹਰਿ ਹਰਿ ਸਦਾ ਧਿਆਏ ॥",
+          "roman": "bhūlā man samjhē gur sabdī har har sadā dhiāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਮਨ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਹੀ ਅਕਲ ਸਿੱਖਦਾ ਹੈ ਤੇ ਫਿਰ ਉਹ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਯਾਦ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Заблудший ум понимает, соединяясь со словом Гуру, и затем всегда помнит Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24658,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਜਿਸੁ ਨਦਰਿ ਕਰੇ ਮੇਰਾ ਪਿਆਰਾ ਸੋ ਹਰਿ ਚਰਣੀ ਚਿਤੁ ਲਾਏ ॥੧॥",
+          "roman": "nānak jis nadar kare merā piārā so har charaṇī chit lāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਮੇਰਾ ਪਿਆਰਾ ਪ੍ਰਭੂ ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਕਰਦਾ ਹੈ, ਉਹ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਆਪਣਾ ਚਿੱਤ ਜੋੜੀ ਰੱਖਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, на кого мой возлюбленный Господь бросит милостивый взгляд, тот соединяет ум с Его стопами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24659,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਸਭਿ ਵੇਸ ਕਰੀ ਪਿਰ ਕਾਰਣਿ ਜੇ ਹਰਿ ਪ੍ਰਭ ਸਾਚੇ ਭਾਵਾ ॥",
+          "roman": "hau sabh ves karī pir kāraṇ je har prabh sāche bhāvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਪ੍ਰਭੂ-ਪਤੀ ਮਿਲਣ ਦੀ ਖ਼ਾਤਰ ਸਾਰੇ ਵੇਸ (ਧਾਰਮਿਕ ਪਹਿਰਾਵੇ ਆਦਿਕ) ਕਰਦੀ ਹਾਂ ਤਾਂ ਕਿ ਮੈਂ ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਹਰੀ ਪ੍ਰਭੂ ਨੂੰ ਪਸੰਦ ਆ ਜਾਵਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я принимаю все обряды ради встречи с Господом, чтобы понравиться вечному Хари."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24660,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਪਿਰੁ ਪਿਆਰਾ ਮੈ ਨਦਰਿ ਨ ਦੇਖੈ ਹਉ ਕਿਉ ਕਰਿ ਧੀਰਜੁ ਪਾਵਾ ॥",
+          "roman": "so pir piārā mē nadar na dekhē hau kio kar dhīraj pāvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਉਹ ਪਿਆਰਾ ਪ੍ਰਭੂ ਮੇਰੇ ਵਲ ਨਿਗਾਹ ਕਰ ਕੇ ਤੱਕਦਾ ਹੀ ਨਹੀਂ ਮੈਂ ਕਿਵੇਂ ਸ਼ਾਂਤੀ ਹਾਸਲ ਕਰ ਸਕਦੀ ਹਾਂ?"
+            },
+            "sahib_singh_ru": {
+              "main": "Но этот возлюбленный Господь не смотрит на меня, как мне обрести покой?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24661,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸੁ ਕਾਰਣਿ ਹਉ ਸੀਗਾਰੁ ਸੀਗਾਰੀ ਸੋ ਪਿਰੁ ਰਤਾ ਮੇਰਾ ਅਵਰਾ ॥",
+          "roman": "jis kāraṇ hau sīgār sīgārī so pir ratā merā avrā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਪ੍ਰਭੂ-ਪਤੀ ਦੀ ਖ਼ਾਤਰ ਮੈਂ (ਇਹ ਬਾਹਰਲਾ) ਸਿੰਗਾਰ ਕਰਦੀ ਹਾਂ, ਮੇਰਾ ਉਹ ਪ੍ਰਭੂ-ਪਤੀ ਤਾਂ ਹੋਰਨਾਂ ਵਿਚ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот Господь, ради которого я украшаюсь, доволен другими."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24662,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਧਨੁ ਧੰਨੁ ਧੰਨੁ ਸੋਹਾਗਣਿ ਜਿਨਿ ਪਿਰੁ ਰਾਵਿਅੜਾ ਸਚੁ ਸਵਰਾ ॥੨॥",
+          "roman": "nānak dhan dhan dhan sohāgaṇ jin pir rāviā sach savrā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਉਹ ਜੀਵ-ਇਸਤ੍ਰੀ ਸਲਾਹੁਣ-ਜੋਗ ਹੈ ਤੇ ਭਾਗਾਂ ਵਾਲੀ ਹੈ ਜਿਸ ਨੇ ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਸੁੰਦਰ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾ ਲਿਆ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, благословенна та душа-жена, которая поселила в сердце прекрасного вечного Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24663,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਜਾਇ ਪੁਛਾ ਸੋਹਾਗ ਸੁਹਾਗਣਿ ਤੁਸੀ ਕਿਉ ਪਿਰੁ ਪਾਇਅੜਾ ਪ੍ਰਭੁ ਮੇਰਾ ॥",
+          "roman": "hau jāe puchhā sohāg suhāgaṇ tusī kio pir pāiāṛā prabh merā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਜਾ ਕੇ ਪ੍ਰਭੂ-ਖਸਮ ਦੀ ਪਿਆਰੀ (ਜੀਵ-ਇਸਤ੍ਰੀ) ਨੂੰ ਪੁੱਛਦੀ ਹਾਂ ਕਿ ਤੂੰ ਪਿਆਰਾ ਪ੍ਰਭੂ-ਪਤੀ ਕਿਵੇਂ ਲੱਭਾ?"
+            },
+            "sahib_singh_ru": {
+              "main": "Я иду и спрашиваю счастливую душу-жену, как ты нашла моего Господа?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24664,
+          "is_rahao": false,
+          "gurmukhi": "ਮੈ ਊਪਰਿ ਨਦਰਿ ਕਰੀ ਪਿਰਿ ਸਾਚੈ ਮੈ ਛੋਡਿਅੜਾ ਮੇਰਾ ਤੇਰਾ ॥",
+          "roman": "mē ūpar nadar karī pir sāchē mē chhoḍiāṛā merā terā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਹ ਉੱਤਰ ਦੇਂਦੀ ਹੈ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ-ਪਤੀ ਨੇ ਮੇਰੇ ਉਤੇ ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਕੀਤੀ ਤਾਂ ਮੈਂ ਮੇਰ-ਤੇਰ (ਵਿਤਕਰਾ) ਛੱਡ ਦਿੱਤਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Она отвечает: когда вечный Господь посмотрел на меня с милостью, я оставила разделение моё и твоё."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24665,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭੁ ਮਨੁ ਤਨੁ ਜੀਉ ਕਰਹੁ ਹਰਿ ਪ੍ਰਭ ਕਾ ਇਤੁ ਮਾਰਗਿ ਭੈਣੇ ਮਿਲੀਐ ॥",
+          "roman": "sabh man tan jīo karah har prabh kā it mārag bhēṇe milīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਪਣਾ ਮਨ, ਆਪਣਾ ਸਰੀਰ, ਆਪਣੀ ਜਿੰਦ-ਸਭ ਕੁਝ ਪ੍ਰਭੂ ਦੇ ਹਵਾਲੇ ਕਰ ਦਿਉ, ਇਸ ਰਾਹ ਉਤੇ ਤੁਰਿਆਂ ਹੀ ਉਸ ਨੂੰ ਮਿਲ ਸਕੀਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Отдайте ум, тело и душу Господу — только этим путём можно встретить Его."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24666,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪਨੜਾ ਪ੍ਰਭੁ ਨਦਰਿ ਕਰਿ ਦੇਖੈ ਨਾਨਕ ਜੋਤਿ ਜੋਤੀ ਰਲੀਐ ॥੩॥",
+          "roman": "āpnṛā prabh nadar kar dekhē nānak jot jotī ralīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਪਿਆਰਾ ਪ੍ਰਭੂ ਜਿਸ ਜੀਵ ਨੂੰ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਵੇਖਦਾ ਹੈ, ਉਸ ਦੀ ਜਿੰਦ ਪ੍ਰਭੂ ਦੀ ਜੋਤਿ ਨਾਲ ਇਕ-ਮਿਕ ਹੋ ਜਾਂਦੀ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, тот, на кого Господь смотрит с милостью, сливается с Его светом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24667,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਹਰਿ ਪ੍ਰਭ ਕਾ ਮੈ ਦੇਇ ਸਨੇਹਾ ਤਿਸੁ ਮਨੁ ਤਨੁ ਅਪਣਾ ਦੇਵਾ ॥",
+          "roman": "jo har prabh kā mē de snehā tis man tan apṇā devā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜਾ (ਗੁਰਮੁਖ) ਮੈਨੂੰ ਹਰੀ-ਪ੍ਰਭੂ (ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ) ਦਾ ਸੁਨੇਹਾ ਦੇਵੇ, ਮੈਂ ਆਪਣਾ ਮਨ ਆਪਣਾ ਹਿਰਦਾ ਉਸ ਦੇ ਹਵਾਲੇ ਕਰਨ ਨੂੰ ਤਿਆਰ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Кто даст мне весть о Господе, тому я отдам свой ум и тело."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24668,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਤ ਪਖਾ ਫੇਰੀ ਸੇਵ ਕਮਾਵਾ ਤਿਸੁ ਆਗੈ ਪਾਣੀ ਢੋਵਾਂ ॥",
+          "roman": "nit pakhā pherī sev kamāvā tis āgē pāṇī ḍhovā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਸਦਾ ਉਸ ਨੂੰ ਪੱਖਾ ਝੱਲਣ ਨੂੰ ਤਿਆਰ ਹਾਂ, ਉਸ ਦੀ ਸੇਵਾ ਕਰਨ ਨੂੰ ਤਿਆਰ ਹਾਂ ਤੇ ਉਸ ਦੇ ਵਾਸਤੇ ਪਾਣੀ ਢੋਣ ਨੂੰ ਤਿਆਰ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я всегда готова служить ему, веять опахалом и носить для него воду."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 24669,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਤ ਨਿਤ ਸੇਵ ਕਰੀ ਹਰਿ ਜਨ ਕੀ ਜੋ ਹਰਿ ਹਰਿ ਕਥਾ ਸੁਣਾਏ ॥",
+          "roman": "nit nit sev karī har jan kī jo har har kathā suṇāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦਾ ਜੇਹੜਾ ਭਗਤ ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ ਗੱਲਾਂ ਸੁਣਾਏ, ਮੈਂ ਉਸ ਦੀ ਸੇਵਾ ਕਰਨ ਨੂੰ ਸਦਾ ਸਦਾ ਤਿਆਰ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Я всегда готова служить тому слуге Бога, кто рассказывает о Господе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

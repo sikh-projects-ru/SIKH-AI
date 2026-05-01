@@ -1,0 +1,857 @@
+{
+  "ang": 756,
+  "shabads": [
+    {
+      "shabad_id": 2872,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 32304,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚਾ ਸਾਹੁ ਸਚੇ ਵਣਜਾਰੇ ਓਥੈ ਕੂੜੇ ਨ ਟਿਕੰਨਿ ॥",
+          "roman": "sachā sāh sache vaṇjāre othē kūṛe na ṭikann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਹਰਿ-ਨਾਮ-ਸਰਮਾਏ ਦਾ ਮਾਲਕ) ਸ਼ਾਹ-ਪ੍ਰਭੂ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਉਸ ਦੇ ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਵਾਲੇ ਭੀ ਅਟੱਲ ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ। ਪਰ ਉਸ ਸ਼ਾਹ ਦੇ ਦਰਬਾਰ ਵਿਚ ਕੂੜੀ ਦੁਨੀਆ ਦੇ ਵਣਜਾਰੇ ਨਹੀਂ ਟਿਕ ਸਕਦੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Царь-Бог, владыка капитала Имени, вечен, и те, кто торгует Его Именем, тоже обретают устойчивую духовную жизнь. Но в дворе этого Царя не могут устоять торговцы ложного мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32305,
+          "is_rahao": false,
+          "gurmukhi": "ਓਨਾ ਸਚੁ ਨ ਭਾਵਈ ਦੁਖ ਹੀ ਮਾਹਿ ਪਚੰਨਿ ॥੧੮॥",
+          "roman": "onā sach na bhāvī dukh hī māh pachann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹਨਾਂ ਨੂੰ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਪਸੰਦ ਨਹੀਂ ਆਉਂਦਾ, ਤੇ, ਉਹ ਸਦਾ ਦੁੱਖ ਵਿਚ ਹੀ ਖ਼ੁਆਰ ਹੁੰਦੇ ਰਹਿੰਦੇ ਹਨ ॥੧੮॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Им не нравится Имя вечного Бога, и они всегда мучаются в страдании. ॥18॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32306,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉਮੈ ਮੈਲਾ ਜਗੁ ਫਿਰੈ ਮਰਿ ਜੰਮੈ ਵਾਰੋ ਵਾਰ ॥",
+          "roman": "haumē mēlā jag firē mar jammāi vāro vār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਹਉਮੈ (ਦੀ ਮੈਲ) ਨਾਲ ਮੈਲਾ ਹੋਇਆ ਹੋਇਆ ਜਗਤ ਭਟਕ ਰਿਹਾ ਹੈ, ਮੁੜ ਮੁੜ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਰਹਿੰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Мир, загрязнённый Хоумэ, скитается, снова и снова оставаясь в круге рождения и смерти,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32307,
+          "is_rahao": false,
+          "gurmukhi": "ਪਇਐ ਕਿਰਤਿ ਕਮਾਵਣਾ ਕੋਇ ਨ ਮੇਟਣਹਾਰ ॥੧੯॥",
+          "roman": "paiiai kirat kamāvaṇā koi na meṭaṇhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਿਛਲੇ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਅਨੁਸਾਰ ਓਹੋ ਜਿਹੇ ਹੀ ਹੋਰ ਕਰਮ ਕਰੀ ਜਾਂਦਾ ਹੈ। (ਕਰਮਾਂ ਦੀ ਬਣੀ ਇਸ ਫਾਹੀ ਨੂੰ) ਕੋਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ ॥੧੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "и по संस्कарам прежних деяний совершает всё новые такие же поступки. Никто не может уничтожить эту петлю, сотканную кармой. ॥19॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32308,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਤਾ ਸੰਗਤਿ ਮਿਲਿ ਰਹੈ ਤਾ ਸਚਿ ਲਗੈ ਪਿਆਰੁ ॥",
+          "roman": "santā saṅgat mil rahē tā sach lagē piār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇ ਮਨੁੱਖ ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਟਿਕਿਆ ਰਹੇ, ਤਾਂ ਇਸ ਦਾ ਪਿਆਰ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਬਣ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Если человек пребывает в обществе святых, тогда его любовь привязывается к вечному Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32309,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚੁ ਸਲਾਹੀ ਸਚੁ ਮਨਿ ਦਰਿ ਸਚੈ ਸਚਿਆਰੁ ॥੨੦॥",
+          "roman": "sach salāhī sach man dar sachē sachiār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਤੂੰ (ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਟਿਕ ਕੇ) ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਿਆ ਕਰ, ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਵਸਾ ਲੈ, (ਇਸ ਤਰ੍ਹਾਂ) ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਸੁਰਖ਼-ਰੂ ਹੋਵੇਂਗਾ ॥੨੦॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Пребывая в обществе святых, постоянно восхваляй вечного Бога, поселив Его в своём сердце, и тогда у двора вечного Господа станешь оправданным. ॥20॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32310,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਪੂਰੇ ਪੂਰੀ ਮਤਿ ਹੈ ਅਹਿਨਿਸਿ ਨਾਮੁ ਧਿਆਇ ॥",
+          "roman": "gur pūre pūrī mat hē ahinis nām dhiāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪੂਰੇ ਗੁਰੂ ਦੀ ਮਤਿ ਉਕਾਈ-ਹੀਣ ਹੈ। (ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਪੂਰੀ ਮਤਿ ਲੈ ਕੇ) ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Учение совершенного Гуру безупречно. Тот, кто, приняв полное учение Гуру, день и ночь размышляет об Имени Бога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32311,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉਮੈ ਮੇਰਾ ਵਡ ਰੋਗੁ ਹੈ ਵਿਚਹੁ ਠਾਕਿ ਰਹਾਇ ॥੨੧॥",
+          "roman": "haumē merā vaḍ rog hē vichah ṭhāk rahāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਮਨੁੱਖ ਹਉਮੈ ਅਤੇ ਮਮਤਾ ਦੇ ਵੱਡੇ ਰੋਗ ਨੂੰ ਆਪਣੇ ਅੰਦਰੋਂ ਰੋਕ ਦੇਂਦਾ ਹੈ ॥੨੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "тот удерживает внутри себя великую болезнь Хоумэ и моего-моего. ॥21॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32312,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰੁ ਸਾਲਾਹੀ ਆਪਣਾ ਨਿਵਿ ਨਿਵਿ ਲਾਗਾ ਪਾਇ ॥",
+          "roman": "gur sālāhī āpṇā niv niv lāgā pāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਜੇ ਪ੍ਰਭੂ ਮੇਹਰ ਕਰੇ, ਤਾਂ) ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਦੀ ਵਡਿਆਈ ਕਰਾਂ, ਨਿਊਂ ਨਿਊਂ ਕੇ ਮੈਂ ਗੁਰੂ ਦੀ ਚਰਨੀਂ ਲੱਗਾਂ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Если Бог смилуется, то я буду прославлять своего Гуру и, смиряясь вновь и вновь, припаду к Его стопам,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32313,
+          "is_rahao": false,
+          "gurmukhi": "ਤਨੁ ਮਨੁ ਸਉਪੀ ਆਗੈ ਧਰੀ ਵਿਚਹੁ ਆਪੁ ਗਵਾਇ ॥੨੨॥",
+          "roman": "tan man saupī āgē dharī vichah āp gavāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਪਣੇ ਅੰਦਰੋਂ ਹਉਮੈ ਦੂਰ ਕਰ ਕੇ ਆਪਣਾ ਮਨ ਆਪਣਾ ਤਨ ਗੁਰੂ ਦੇ ਹਵਾਲੇ ਕਰ ਦਿਆਂ, ਗੁਰੂ ਦੇ ਅੱਗੇ ਰੱਖ ਦਿਆਂ ॥੨੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "устранив изнутри Хоумэ, отдам своё тело и ум Гуру и положу их перед Ним. ॥22॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32314,
+          "is_rahao": false,
+          "gurmukhi": "ਖਿੰਚੋਤਾਣਿ ਵਿਗੁਚੀਐ ਏਕਸੁ ਸਿਉ ਲਿਵ ਲਾਇ ॥",
+          "roman": "khinchotāṇ viguchīai ekas siu liv lāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਡਾਂਵਾਂ-ਡੋਲ ਹਾਲਤ ਵਿਚ ਰਿਹਾਂ ਖ਼ੁਆਰ ਹੋਈਦਾ ਹੈ। ਇਕ ਪਰਮਾਤਮਾ ਨਾਲ ਹੀ ਸੁਰਤ ਜੋੜੀ ਰੱਖ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! В колеблющемся состоянии человек погибает. Соединяй своё сознание только с единым Богом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32315,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉਮੈ ਮੇਰਾ ਛਡਿ ਤੂ ਤਾ ਸਚਿ ਰਹੈ ਸਮਾਇ ॥੨੩॥",
+          "roman": "haumē merā chhaḍ tū tā sach rahē samāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਪਣੇ ਅੰਦਰੋਂ ਹਉਮੈ ਦੂਰ ਕਰ, ਮਮਤਾ ਦੂਰ ਕਰ। (ਜਦੋਂ ਮਨੁੱਖ ਹਉਮੈ ਮਮਤਾ ਦੂਰ ਕਰਦਾ ਹੈ) ਤਦੋਂ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਵਿਚ ਲੀਨ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ ॥੨੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Оставь внутри себя Хоумэ, оставь привязанность к своему. Когда человек отбрасывает Хоумэ и моё, тогда он пребывает погружённым в вечного Бога. ॥23॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32316,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਨੋ ਮਿਲੇ ਸਿ ਭਾਇਰਾ ਸਚੈ ਸਬਦਿ ਲਗੰਨਿ ॥",
+          "roman": "satigur no mile s bhāirā sachē sabad lagann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਮੇਰੇ) ਉਹ ਮਨੁੱਖ ਭਰਾ ਹਨ, ਜੇਹੜੇ ਗੁਰੂ ਦੀ ਸਰਨ ਵਿਚ ਆ ਪਏ ਹਨ, ਅਤੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਵਿਚ ਚਿੱਤ ਜੋੜਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те люди — мои братья, которые пришли в прибежище Гуру и соединяют ум с Бани хвалы вечному Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32317,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚਿ ਮਿਲੇ ਸੇ ਨ ਵਿਛੁੜਹਿ ਦਰਿ ਸਚੈ ਦਿਸੰਨਿ ॥੨੪॥",
+          "roman": "sach mile se na vichhuṛahi dar sachē disann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜੇ ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹ (ਫਿਰ ਪ੍ਰਭੂ ਨਾਲੋਂ) ਨਹੀਂ ਵਿਛੁੜਦੇ। ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ (ਟਿਕੇ ਹੋਏ) ਦਿੱਸਦੇ ਹਨ ॥੨੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кто растворяется в вечном Боге, уже не разлучаются с Ним. Они видны пребывающими у двора вечного Господа. ॥24॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32318,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇ ਭਾਈ ਸੇ ਸਜਣਾ ਜੋ ਸਚਾ ਸੇਵੰਨਿ ॥",
+          "roman": "se bhāī se sajṇā jo sachā sevann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਮੇਰੇ ਉਹ ਮਨੁੱਖ ਭਰਾ ਹਨ ਸੱਜਣ ਹਨ, ਜੇਹੜੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те люди — мои братья и друзья, которые служат и поклоняются вечному Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32319,
+          "is_rahao": false,
+          "gurmukhi": "ਅਵਗਣ ਵਿਕਣਿ ਪਲੑਰਨਿ ਗੁਣ ਕੀ ਸਾਝ ਕਰੰਨਿੑ ॥੨੫॥",
+          "roman": "avgaṇ vikaṇ palharṇ guṇ kī sāñjh karannh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਗੁਣਾਂ, ਦੇ ਵੱਟੇ) ਅਉਗਣ ਵਿਕ ਜਾਣ ਨਾਲ (ਦੂਰ ਹੋ ਜਾਣ ਨਾਲ) ਉਹ ਮਨੁੱਖ (ਆਤਮਕ ਜੀਵਨ ਵਿਚ) ਪ੍ਰਫੁਲਤ ਹੁੰਦੇ ਹਨ, ਉਹ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਨਾਲ ਸਾਂਝ ਪਾਂਦੇ ਹਨ ॥੨੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда пороки продаются, то есть уходят прочь, эти люди расцветают в духовной жизни и вступают в общность с добродетелями Бога. ॥25॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32320,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਣ ਕੀ ਸਾਝ ਸੁਖੁ ਊਪਜੈ ਸਚੀ ਭਗਤਿ ਕਰੇਨਿ ॥",
+          "roman": "guṇ kī sāñjh sukh ūpajē sachī bhagat karen",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਗੁਰੂ ਨਾਲ (ਆਤਮਕ) ਸਾਂਝ ਦੀ ਬਰਕਤਿ ਨਾਲ (ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਆਤਮਕ ਆਨੰਦ ਪੈਦਾ ਹੁੰਦਾ ਹੈ, ਉਹ ਪਰਮਾਤਮਾ ਦੀ ਅਟੱਲ ਰਹਿਣ ਵਾਲੀ ਭਗਤੀ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Благодаря духовной связи с Гуру в них рождается духовная радость, и они продолжают совершать истинное, неколебимое поклонение Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32321,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚੁ ਵਣੰਜਹਿ ਗੁਰ ਸਬਦ ਸਿਉ ਲਾਹਾ ਨਾਮੁ ਲਏਨਿ ॥੨੬॥",
+          "roman": "sach vaṇanjahi gur sabad siu lāhā nām laen",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨਾਲ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਵਿਹਾਝਦੇ ਹਨ ਅਤੇ ਹਰਿ-ਨਾਮ (ਦਾ) ਲਾਭ ਖੱਟਦੇ ਹਨ ॥੨੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "С помощью Шабада Гуру они приобретают Имя вечного Бога и извлекают прибыль Имени Хари. ॥26॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32322,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਇਨਾ ਰੁਪਾ ਪਾਪ ਕਰਿ ਕਰਿ ਸੰਚੀਐ ਚਲੈ ਨ ਚਲਦਿਆ ਨਾਲਿ ॥",
+          "roman": "suinā rupā pāp kar kar sañchīē chalē na chaldiyā nāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਕਈ ਕਿਸਮ ਦੇ) ਪਾਪ ਕਰ ਕਰ ਕੇ ਸੋਨਾ ਚਾਂਦੀ (ਆਦਿਕ ਧਨ) ਇਕੱਠਾ ਕਰੀਦਾ ਹੈ, ਪਰ (ਜਗਤ ਤੋਂ) ਤੁਰਨ ਵੇਲੇ (ਉਹ ਧਨ ਮਨੁੱਖ ਦੇ) ਨਾਲ ਨਹੀਂ ਜਾਂਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Совершая всяческие грехи, человек собирает золото, серебро и богатство, но в час ухода из мира это богатство не идёт с ним."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32323,
+          "is_rahao": false,
+          "gurmukhi": "ਵਿਣੁ ਨਾਵੈ ਨਾਲਿ ਨ ਚਲਸੀ ਸਭ ਮੁਠੀ ਜਮਕਾਲਿ ॥੨੭॥",
+          "roman": "viṇ nāvē nāl na chalsī sabh muṭhī jamkāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਭੀ ਚੀਜ਼ ਮਨੁੱਖ ਦੇ ਨਾਲ ਨਹੀਂ ਜਾਵੇਗੀ। ਨਾਮ ਤੋਂ ਸੁੰਞੀ ਸਾਰੀ ਲੁਕਾਈ ਆਤਮਕ ਮੌਤ ਦੀ ਹੱਥੀ ਲੁੱਟੀ ਜਾਂਦੀ ਹੈ (ਆਪਣਾ ਆਤਮਕ ਜੀਵਨ ਲੁਟਾ ਬੈਠਦੀ ਹੈ) ॥੨੭॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Кроме Имени Бога, ничто не пойдёт с человеком. Всё человечество, лишённое Имени, разграбляется духовной смертью. ॥27॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32324,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨ ਕਾ ਤੋਸਾ ਹਰਿ ਨਾਮੁ ਹੈ ਹਿਰਦੈ ਰਖਹੁ ਸਮੑਾਲਿ ॥",
+          "roman": "man kā tosā har nām hē hirdē rakhah samhāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਮਨੁੱਖ ਦੇ ਮਨ ਵਾਸਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ (ਜੀਵਨ-ਸਫ਼ਰ ਦਾ) ਖ਼ਰਚ ਹੈ। ਇਸ ਸਫ਼ਰ-ਖ਼ਰਚ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਸਾਂਭ ਕੇ ਰੱਖੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Для человеческого ума Имя Бога — это дорожный запас на жизненный путь. Сохраняйте этот запас в своём сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32325,
+          "is_rahao": false,
+          "gurmukhi": "ਏਹੁ ਖਰਚੁ ਅਖੁਟੁ ਹੈ ਗੁਰਮੁਖਿ ਨਿਬਹੈ ਨਾਲਿ ॥੨੮॥",
+          "roman": "eh kharach akhuṭ hē gurmukh nibhē nāl",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਖ਼ਰਚ ਕਦੇ ਮੁੱਕਣ ਵਾਲਾ ਨਹੀਂ ਹੈ। ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਸਤੇ ਉਤੇ ਤੁਰਦਾ ਹੈ, ਉਸ ਦੇ ਨਾਲ ਇਹ ਸਦਾ ਲਈ ਸਾਥ ਬਣਾਂਦਾ ਹੈ ॥੨੮॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Этот запас никогда не иссякает. У того, кто идёт путём, указанным Гуру, он остаётся спутником навсегда. ॥28॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32326,
+          "is_rahao": false,
+          "gurmukhi": "ਏ ਮਨ ਮੂਲਹੁ ਭੁਲਿਆ ਜਾਸਹਿ ਪਤਿ ਗਵਾਇ ॥",
+          "roman": "e man mūlah bhuliā jāsah pat gavāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਗਤ ਦੇ ਮੂਲ ਪਰਮਾਤਮਾ ਤੋਂ ਖੁੰਝੇ ਹੋਏ ਹੇ ਮਨ! (ਜੇ ਤੂੰ ਇਸੇ ਤਰ੍ਹਾਂ ਖੁੰਝਿਆ ਹੀ ਰਿਹਾ, ਤਾਂ) ਆਪਣੀ ਇੱਜ਼ਤ ਗਵਾ ਕੇ (ਇਥੋਂ) ਜਾਵੇਂਗਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О ум, оторвавшийся от корня, от Бога! Если ты и дальше так останешься оторванным, то уйдёшь отсюда, потеряв честь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32327,
+          "is_rahao": false,
+          "gurmukhi": "ਇਹੁ ਜਗਤੁ ਮੋਹਿ ਦੂਜੈ ਵਿਆਪਿਆ ਗੁਰਮਤੀ ਸਚੁ ਧਿਆਇ ॥੨੯॥",
+          "roman": "ihu jagat moh dūjē viāpiā gurmatī sach dhiāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਜਗਤ ਤਾਂ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਪਿਆ ਹੈ (ਤੂੰ ਇਸ ਨਾਲ ਆਪਣਾ ਮੋਹ ਛੱਡ, ਅਤੇ) ਗੁਰੂ ਦੀ ਮਤਿ ਉਤੇ ਤੁਰ ਕੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰ ॥੨੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Этот мир погружён в привязанность к майе. Оставь свою привязанность к нему и, следуя учению Гуру, размышляй об Имени вечного Бога. ॥29॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32328,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕੀ ਕੀਮਤਿ ਨ ਪਵੈ ਹਰਿ ਜਸੁ ਲਿਖਣੁ ਨ ਜਾਇ ॥",
+          "roman": "har kī kīmat na pavē har jas likhaṇ na jāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਕਿਸੇ ਮੁੱਲ ਤੋਂ ਨਹੀਂ ਮਿਲ ਸਕਦਾ। ਪਰਮਾਤਮਾ ਦੀ ਵਡਿਆਈ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Бог не обретается ни за какую цену. Величие Бога невозможно описать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32329,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਮਨੁ ਤਨੁ ਰਪੈ ਹਰਿ ਸਿਉ ਰਹੈ ਸਮਾਇ ॥੩੦॥",
+          "roman": "gur kē sabad man tan rapē har siu rahē samāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਅਤੇ ਤਨ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ, ਉਹ ਸਦਾ ਪਰਮਾਤਮਾ ਵਿਚ ਲੀਨ ਰਹਿੰਦਾ ਹੈ ॥੩੦॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, чей ум и тело окрашиваются в Шабад Гуру, всегда остаётся погружённым в Бога. ॥30॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32330,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਸਹੁ ਮੇਰਾ ਰੰਗੁਲਾ ਰੰਗੇ ਸਹਜਿ ਸੁਭਾਇ ॥",
+          "roman": "so sah merā raṅgulā raṅge sahaj subhāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਮੇਰਾ ਉਹ ਖਸਮ-ਪ੍ਰਭੂ ਆਨੰਦ-ਸਰੂਪ ਹੈ (ਜੇਹੜਾ ਮਨੁੱਖ ਉਸ ਦੇ ਚਰਨਾਂ ਵਿਚ ਆ ਜੁੜਦਾ ਹੈ) ਉਸ ਨੂੰ ਉਹ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ, ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗ ਦੇਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Мой Господь-Муж — сущность блаженства. Того, кто соединяется с Его стопами, Он окрашивает в духовную устойчивость и в цвет любви."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32331,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮਣਿ ਰੰਗੁ ਤਾ ਚੜੈ ਜਾ ਪਿਰ ਕੈ ਅੰਕਿ ਸਮਾਇ ॥੩੧॥",
+          "roman": "kāmaṇ raṅg tā chaṛē jā pir kē ank samāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਕੋਈ ਜੀਵ-ਇਸਤ੍ਰੀ ਉਸ ਖਸਮ-ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦੀ ਹੈ, ਤਦੋਂ ਉਸ (ਦੀ ਜਿੰਦ) ਨੂੰ ਪ੍ਰੇਮ-ਰੰਗ ਚੜ੍ਹ ਜਾਂਦਾ ਹੈ ॥੩੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда душа-невеста погружается в объятие этого Господа-Мужа, тогда её жизнь окрашивается любовью. ॥31॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32332,
+          "is_rahao": false,
+          "gurmukhi": "ਚਿਰੀ ਵਿਛੁੰਨੇ ਭੀ ਮਿਲਨਿ ਜੋ ਸਤਿਗੁਰੁ ਸੇਵੰਨਿ ॥",
+          "roman": "chirī vichhuṇne bhī milan jo satigur sevann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦੇ ਹਨ, ਉਹ (ਪ੍ਰਭੂ ਨਾਲੋਂ) ਚਿਰ ਦੇ ਵਿਛੁੜੇ ਹੋਏ ਭੀ (ਪ੍ਰਭੂ ਨੂੰ) ਆ ਮਿਲਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те, кто приходит в прибежище Гуру, даже если давно были разлучены с Богом, всё равно встречаются с Ним."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32333,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਤਰਿ ਨਵ ਨਿਧਿ ਨਾਮੁ ਹੈ ਖਾਨਿ ਖਰਚਨਿ ਨ ਨਿਖੁਟਈ ਹਰਿ ਗੁਣ ਸਹਜਿ ਰਵੰਨਿ ॥੩੨॥",
+          "roman": "antar nav nidh nām hē khān kharchan na nikhuṭī har guṇ sahaj ravann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਜੋ, ਮਾਨੋ, ਧਰਤੀ ਦੇ ਸਾਰੇ) ਨੌ ਖ਼ਜ਼ਾਨੇ (ਹੈ, ਉਹਨਾਂ ਨੂੰ) ਆਪਣੇ ਅੰਦਰ ਹੀ ਲੱਭ ਪੈਂਦਾ ਹੈ। ਉਸ ਨਾਮ-ਖ਼ਜ਼ਾਨੇ ਨੂੰ ਉਹ ਆਪ ਵਰਤਦੇ ਹਨ, ਹੋਰਨਾਂ ਨੂੰ ਵੰਡਦੇ ਹਨ, ਉਹ ਫਿਰ ਭੀ ਨਹੀਂ ਮੁੱਕਦਾ। ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਉਹ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਯਾਦ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ ॥੩੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Имя Бога, словно все девять сокровищ земли, обретается внутри них самих. Этим сокровищем Имени они пользуются сами, раздают другим, и оно всё равно не иссякает. Пребывая в духовной устойчивости, они продолжают вспоминать добродетели Бога. ॥32॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32334,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾ ਓਇ ਜਨਮਹਿ ਨਾ ਮਰਹਿ ਨਾ ਓਇ ਦੁਖ ਸਹੰਨਿ ॥",
+          "roman": "nā oi janmeh nā mareh nā oi dukh sahann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਗੁਰੂ ਦੀ ਸਰਨ ਆ ਪਏ) ਉਹ ਮਨੁੱਖ ਨਾਹ ਜੰਮਦੇ ਹਨ ਨਾਹ ਮਰਦੇ ਹਨ, ਨਾਹ ਹੀ ਉਹ (ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦੇ) ਦੁੱਖ ਸਹਾਰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Эти люди, пришедшие в прибежище Гуру, не рождаются и не умирают и не терпят страданий круга рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32335,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਿ ਰਾਖੇ ਸੇ ਉਬਰੇ ਹਰਿ ਸਿਉ ਕੇਲ ਕਰੰਨਿ ॥੩੩॥",
+          "roman": "gur rākhē se ubre har siu kel karann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਨ੍ਹਾਂ ਦੀ ਰੱਖਿਆ ਗੁਰੂ ਨੇ ਕਰ ਦਿੱਤੀ ਹੈ, ਉਹ (ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਤੋਂ) ਬਚ ਗਏ। ਉਹ ਸਦਾ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜ ਕੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦੇ ਹਨ ॥੩੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, кого защитил Гуру, спаслись от круга рождения и смерти. Соединяясь с Богом, они всегда наслаждаются духовной радостью. ॥33॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32336,
+          "is_rahao": false,
+          "gurmukhi": "ਸਜਣ ਮਿਲੇ ਨ ਵਿਛੁੜਹਿ ਜਿ ਅਨਦਿਨੁ ਮਿਲੇ ਰਹੰਨਿ ॥",
+          "roman": "sajaṇ mile na vichhuṛah j andin mile rahann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਭਲੇ ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜੇ ਰਹਿੰਦੇ ਹਨ, ਉਹ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਮਿਲ ਕੇ ਮੁੜ ਕਦੇ ਨਹੀਂ ਵਿਛੁੜਦੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те добрые люди, которые всегда соединены со стопами Бога, однажды встретившись с Ним, уже никогда не разлучаются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32337,
+          "is_rahao": false,
+          "gurmukhi": "ਇਸੁ ਜਗ ਮਹਿ ਵਿਰਲੇ ਜਾਣੀਅਹਿ ਨਾਨਕ ਸਚੁ ਲਹੰਨਿ ॥੩੪॥੧॥੩॥",
+          "roman": "is جگ mahi virle jāṇīahi nānak sach lahann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ, ਹੇ ਨਾਨਕ! ਇਸ ਜਗਤ ਵਿਚ ਅਜੇਹੇ ਵਿਰਲੇ ਬੰਦੇ ਹੀ ਉੱਘੜਦੇ ਹਨ, ਜੇਹੜੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦਾ ਮਿਲਾਪ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹਨ ॥੩੪॥੧॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но, о Нанак! В этом мире становятся явными лишь редкие люди, которые обретают встречу с вечным Богом. ॥34॥1॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2873,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 32338,
+          "is_rahao": false,
+          "gurmukhi": "ਸੂਹੀ ਮਹਲਾ ੩ ॥",
+          "roman": "sūhī mehlā 3",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32339,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜੀ ਸੂਖਮੁ ਅਗਮੁ ਹੈ ਕਿਤੁ ਬਿਧਿ ਮਿਲਿਆ ਜਾਇ ॥",
+          "roman": "har jī sūkham agam hē kit bidh miliā jāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਅਦ੍ਰਿਸ਼ਟ ਹੈ ਅਪਹੁੰਚ ਹੈ, (ਫਿਰ) ਉਸ ਨੂੰ ਕਿਸ ਤਰੀਕੇ ਨਾਲ ਮਿਲਿਆ ਜਾ ਸਕਦਾ ਹੈ?"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Параматма невидим и недостижим, тогда каким способом можно с Ним встретиться?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32340,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਭ੍ਰਮੁ ਕਟੀਐ ਅਚਿੰਤੁ ਵਸੈ ਮਨਿ ਆਇ ॥੧॥",
+          "roman": "gur kē sabad bhram kaṭīē achint vasē man āy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜਦੋਂ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਬਰਕਤਿ ਨਾਲ (ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ ਉਸ ਦੇ ਮਨ ਦੀ) ਭਟਕਣਾ ਕੱਟੀ ਜਾਂਦੀ ਹੈ, ਤਦੋਂ ਪਰਮਾਤਮਾ ਸਹਜ ਸੁਭਾਇ (ਆਪ ਹੀ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Когда по благодати Шабда Гуру устраняется внутреннее блуждание ума, тогда Параматма сам естественно поселяется в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 32341,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਮੁਖਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਜਪੰਨਿ ॥",
+          "roman": "gurmukh har har nām japann",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੇ ਮਨੁੱਖ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те, кто обращены к Гуру, постоянно повторяют Имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

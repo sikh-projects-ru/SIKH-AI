@@ -1,0 +1,895 @@
+{
+  "ang": 480,
+  "shabads": [
+    {
+      "shabad_id": 1783,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21576,
+          "is_rahao": false,
+          "gurmukhi": "ਜਮ ਕਾ ਡੰਡੁ ਮੂੰਡ ਮਹਿ ਲਾਗੈ ਖਿਨ ਮਹਿ ਕਰੈ ਨਿਬੇਰਾ ॥੩॥",
+          "roman": "jam kā ḍaṇḍ muṇḍ mah lāgē khin mah karē nibērā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ ਜਿਸ ਵੇਲੇ) ਜਮ ਦਾ ਡੰਡਾ ਸਿਰ ਤੇ ਆ ਵੱਜਦਾ ਹੈ ਤਦੋਂ ਇਕ ਪਲਕ ਵਿਚ ਫ਼ੈਸਲਾ ਕਰ ਦੇਂਦਾ ਹੈ (ਕਿ ਅਸਲ ਵਿਚ ਇਹ ਧਨ ਕਿਸੇ ਦਾ ਭੀ ਨਹੀਂ) ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда удар Ямы падает на голову, всё решается в один миг."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21577,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜਨੁ ਊਤਮੁ ਭਗਤੁ ਸਦਾਵੈ ਆਗਿਆ ਮਨਿ ਸੁਖੁ ਪਾਈ ॥",
+          "roman": "har jan ūtam bhagat sadāvē āgiā man sukh pāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਸੇਵਕ (ਬਣ ਕੇ ਰਹਿੰਦਾ) ਹੈ, ਉਹ ਪਰਮਾਤਮਾ ਦਾ ਹੁਕਮ ਮੰਨ ਕੇ ਸੁਖ ਮਾਣਦਾ ਹੈ ਤੇ ਜਗਤ ਵਿਚ ਨੇਕ ਭਗਤ ਸਦਾਂਦਾ ਹੈ (ਭਾਵ, ਸੋਭਾ ਪਾਂਦਾ ਹੈ),"
+            },
+            "sahib_singh_ru": {
+              "main": "Слуга Бога становится истинным преданным, следуя Его воле и обретая покой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21578,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸਤਿ ਕਰਿ ਮਾਨੈ ਭਾਣਾ ਮੰਨਿ ਵਸਾਈ ॥੪॥",
+          "roman": "jo tis bhāvē sat kar mānē bhāṇā man vasāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਮਨ ਵਿਚ ਵਸਾਂਦਾ ਹੈ, ਜੋ ਪ੍ਰਭੂ ਨੂੰ ਭਾਂਦਾ ਹੈ ਉਸੇ ਨੂੰ ਹੀ ਠੀਕ ਸਮਝਦਾ ਹੈ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Он принимает волю Бога как истину и хранит её в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21579,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੈ ਕਬੀਰੁ ਸੁਨਹੁ ਰੇ ਸੰਤਹੁ ਮੇਰੀ ਮੇਰੀ ਝੂਠੀ ॥",
+          "roman": "kahē kabīr sunah re santah merī merī jhūṭhī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਬੀਰ ਕਹਿੰਦਾ ਹੈ-ਹੇ ਸੰਤ ਜਨੋ! ਸੁਣੋ, 'ਇਹ ਧਨ ਪਦਾਰਥ ਆਦਿਕ ਮੇਰਾ ਹੈ'-ਇਹ ਖ਼ਿਆਲ ਕੂੜਾ ਹੈ (ਭਾਵ, ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਵਾਲੀ ਅਪਣੱਤ ਸਦਾ ਨਹੀਂ ਰਹਿ ਸਕਦੀ);"
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: слушайте, святые — мысль «это моё» ложна."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21580,
+          "is_rahao": false,
+          "gurmukhi": "ਚਿਰਗਟ ਫਾਰਿ ਚਟਾਰਾ ਲੈ ਗਇਓ ਤਰੀ ਤਾਗਰੀ ਛੂਟੀ ॥੫॥੩॥੧੬॥",
+          "roman": "chirgaṭ phār chaṭārā lē gēo tarī tāgarī chhūṭī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਵੇਂ, ਜੇ) ਪਿੰਜਰੇ ਨੂੰ ਪਾੜ ਕੇ (ਕੋਈ ਬਿੱਲਾ) ਚਿੜੇ ਨੂੰ ਫੜ ਕੇ ਲੈ ਜਾਏ ਤਾਂ (ਉਸ ਪਿੰਜਰੇ-ਪਏ ਪੰਛੀ ਦੀ) ਕੁੱਜੀ ਤੇ ਠੂਠੀ ਧਰੀ ਹੀ ਰਹਿ ਜਾਂਦੀ ਹੈ (ਤਿਵੇਂ, ਮੌਤ ਆਇਆਂ ਬੰਦੇ ਦੇ ਖਾਣ-ਪੀਣ ਵਾਲੇ ਪਦਾਰਥ ਇਥੇ ਹੀ ਧਰੇ ਰਹਿ ਜਾਂਦੇ ਹਨ) ॥੫॥੩॥੧੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Как птицу уносят, разорвав клетку, и всё остальное остаётся — так и при смерти всё имущество остаётся здесь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1784,
+      "rahao_verse_id": 21584,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21581,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ॥",
+          "roman": "āsā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21582,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਮਸਕੀਨ ਖੁਦਾਈ ਬੰਦੇ ਤੁਮ ਰਾਜਸੁ ਮਨਿ ਭਾਵੈ ॥",
+          "roman": "ham maskīn khudāī bande tum rājas man bhāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਕਾਜ਼ੀ!) ਅਸੀਂ ਤਾਂ ਆਜਜ਼ ਲੋਕ ਹਾਂ, ਪਰ ਹਾਂ (ਅਸੀਂ ਭੀ) ਰੱਬ ਦੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ। ਤੁਹਾਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਹਕੂਮਤ ਚੰਗੀ ਲੱਗਦੀ ਹੈ (ਭਾਵ, ਤੁਹਾਨੂੰ ਹਕੂਮਤ ਦਾ ਮਾਣ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Мы — смиренные люди, но и мы созданы Богом. Тебе же в твоём уме нравится власть (то есть ты гордишься властью)."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21583,
+          "is_rahao": false,
+          "gurmukhi": "ਅਲਹ ਅਵਲਿ ਦੀਨ ਕੋ ਸਾਹਿਬੁ ਜੋਰੁ ਨਹੀ ਫੁਰਮਾਵੈ ॥੧॥",
+          "roman": "alah aval dīn ko sāhib jor nahī furmāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਜ਼ਹਬ ਦਾ ਸਭ ਤੋਂ ਵੱਡਾ ਮਾਲਕ ਤਾਂ ਰੱਬ ਹੈ, ਉਹ (ਕਿਸੇ ਉਤੇ) ਧੱਕਾ ਕਰਨ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦੇਂਦਾ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Высший владыка религии — Сам Бог; Он не велит притеснять кого-либо."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21584,
+          "is_rahao": true,
+          "gurmukhi": "ਕਾਜੀ ਬੋਲਿਆ ਬਨਿ ਨਹੀ ਆਵੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "kājī boliyā ban nahī āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਕਾਜ਼ੀ! ਤੇਰੀਆਂ (ਜ਼ਬਾਨੀ) ਗੱਲਾਂ ਫਬਦੀਆਂ ਨਹੀਂ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О кади! Твои словесные речи неуместны."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21585,
+          "is_rahao": false,
+          "gurmukhi": "ਰੋਜਾ ਧਰੈ ਨਿਵਾਜ ਗੁਜਾਰੈ ਕਲਮਾ ਭਿਸਤਿ ਨ ਹੋਈ ॥",
+          "roman": "rojā dharē nivāj gujārē kalmā bhisat na hoī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਨਿਰਾ) ਰੋਜ਼ਾ ਰੱਖਿਆਂ, ਨਿਮਾਜ਼ ਪੜ੍ਹਿਆਂ ਤੇ ਕਲਮਾ ਆਖਿਆਂ ਭਿਸ਼ਤ ਨਹੀਂ ਮਿਲ ਜਾਂਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "От одного лишь соблюдения поста, чтения намаза и произнесения калмы рай не достигается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21586,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਰਿ ਕਾਬਾ ਘਟ ਹੀ ਭੀਤਰਿ ਜੇ ਕਰਿ ਜਾਨੈ ਕੋਈ ॥੨॥",
+          "roman": "satar kābā ghaṭ hī bhītar je kar jānē koī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰੱਬ ਦਾ ਗੁਪਤ ਘਰ ਤਾਂ ਮਨੁੱਖ ਦੇ ਦਿਲ ਵਿਚ ਹੀ ਹੈ, (ਪਰ ਲੱਭਦਾ ਤਾਂ ਹੀ ਹੈ) ਜੇ ਕੋਈ ਸਮਝ ਲਏ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Скрытый дом Бога находится внутри сердца человека — но найти его можно лишь, если кто-то это поймёт."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21587,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਵਾਜ ਸੋਈ ਜੋ ਨਿਆਉ ਬਿਚਾਰੈ ਕਲਮਾ ਅਕਲਹਿ ਜਾਨੈ ॥",
+          "roman": "nivāj soī jo niāu bichārē kalmā akalah jānē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਨਿਆਂ ਕਰਦਾ ਹੈ ਉਹ (ਮਾਨੋ) ਨਿਮਾਜ਼ ਪੜ੍ਹ ਰਿਹਾ ਹੈ, ਤੇ ਜੇ ਰੱਬ ਨੂੰ ਅਕਲ ਨਾਲ ਪਛਾਣਦਾ ਹੈ ਤਾਂ ਕਲਮਾ ਆਖ ਰਿਹਾ ਹੈ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто поступает справедливо, словно совершает намаз; и если он познаёт Бога разумом, то словно произносит калму."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21588,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਚਹੁ ਮੁਸਿ ਮੁਸਲਾ ਬਿਛਾਵੈ ਤਬ ਤਉ ਦੀਨੁ ਪਛਾਨੈ ॥੩॥",
+          "roman": "pāchah mus muslā bichhāvē tab tau dīn pachhānē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਾਮਾਦਿਕ ਪੰਜ (ਬਲੀ ਵਿਕਾਰਾਂ) ਨੂੰ ਜੇ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕਰਦਾ ਹੈ ਤਾਂ (ਮਾਨੋ) ਮੁਸੱਲਾ ਵਿਛਾਂਦਾ ਹੈ, ਤੇ ਮਜ਼ਹਬ ਨੂੰ ਪਛਾਣਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Если он обуздывает пять пороков, то словно расстилает молитвенный коврик и тогда понимает религию."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21589,
+          "is_rahao": false,
+          "gurmukhi": "ਖਸਮੁ ਪਛਾਨਿ ਤਰਸ ਕਰਿ ਜੀਅ ਮਹਿ ਮਾਰਿ ਮਣੀ ਕਰਿ ਫੀਕੀ ॥",
+          "roman": "khasam pachhān taras kar jīa mah mār maṇī kar phīkī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਕਾਜ਼ੀ! ਮਾਲਕ ਪ੍ਰਭੂ ਨੂੰ ਪਛਾਣ, ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਿਆਰ ਵਸਾ, ਮਣੀ ਨੂੰ ਫਿੱਕੀ ਜਾਣ ਕੇ ਮਾਰ ਦੇਹ (ਭਾਵ, ਹੰਕਾਰ ਨੂੰ ਮਾੜਾ ਜਾਣ ਕੇ ਦੂਰ ਕਰ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Познай Господа, утверди в сердце сострадание, и, признав гордыню ничтожной, уничтожь её."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21590,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪੁ ਜਨਾਇ ਅਵਰ ਕਉ ਜਾਨੈ ਤਬ ਹੋਇ ਭਿਸਤ ਸਰੀਕੀ ॥੪॥",
+          "roman": "āp janāi avar kau jānē tab hoi bhisat sarīkī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਸਮਝਾ ਕੇ ਦੂਜਿਆਂ ਨੂੰ (ਆਪਣੇ ਵਰਗਾ) ਸਮਝਦਾ ਹੈ, ਤਦ ਭਿਸ਼ਤ ਦਾ ਭਾਈਵਾਲ ਬਣਦਾ ਹੈ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда человек, поняв себя, начинает понимать других как подобных себе, тогда становится причастным к раю."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21591,
+          "is_rahao": false,
+          "gurmukhi": "ਮਾਟੀ ਏਕ ਭੇਖ ਧਰਿ ਨਾਨਾ ਤਾ ਮਹਿ ਬ੍ਰਹਮੁ ਪਛਾਨਾ ॥",
+          "roman": "māṭī ek bhekh dhar nānā tā mah brahm pachhānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਿੱਟੀ ਇਕੋ ਹੀ ਹੈ, (ਪ੍ਰਭੂ ਨੇ ਇਸ ਦੇ) ਅਨੇਕਾਂ ਵੇਸ ਧਾਰੇ ਹੋਏ ਹਨ। (ਅਸਲ ਮੋਮਨ ਨੇ) ਇਹਨਾਂ (ਵੇਸਾਂ) ਵਿਚ ਰੱਬ ਨੂੰ ਪਛਾਣਿਆ ਹੈ (ਤੇ ਇਹੀ ਹੈ ਭਿਸ਼ਤ ਦਾ ਰਾਹ);"
+            },
+            "sahib_singh_ru": {
+              "main": "Материя одна, но принимает множество форм; истинный верующий распознаёт Бога в этих формах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21592,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੈ ਕਬੀਰਾ ਭਿਸਤ ਛੋਡਿ ਕਰਿ ਦੋਜਕ ਸਿਉ ਮਨੁ ਮਾਨਾ ॥੫॥੪॥੧੭॥",
+          "roman": "kahē kabīrā bhisat chhoḍ kar dojāk siu man mānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ, ਕਬੀਰ ਆਖਦਾ ਹੈ, (ਹੇ ਕਾਜ਼ੀ!) ਤੁਸੀ ਤਾਂ (ਦੂਜਿਆਂ ਉੱਤੇ ਜੋਰ-ਧੱਕਾ ਕਰ ਕੇ) ਭਿਸ਼ਤ (ਦਾ ਰਸਤਾ) ਛੱਡ ਕੇ ਦੋਜ਼ਕ ਨਾਲ ਮਨ ਜੋੜੀ ਬੈਠੇ ਹੋ ॥੫॥੪॥੧੭॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: вы же, оставив путь к раю, привязали своё сердце к аду."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1785,
+      "rahao_verse_id": 21597,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21593,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ॥",
+          "roman": "āsā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21594,
+          "is_rahao": false,
+          "gurmukhi": "ਗਗਨ ਨਗਰਿ ਇਕ ਬੂੰਦ ਨ ਬਰਖੈ ਨਾਦੁ ਕਹਾ ਜੁ ਸਮਾਨਾ ॥",
+          "roman": "gagan nagar ik būnd na barkhē nād kahā ju samānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਬਾਬਾ! ਸਰੀਰਕ ਮੋਹ ਆਦਿਕ ਦਾ ਉਹ ਰੌਲਾ ਕਿੱਥੇ ਗਿਆ (ਜੋ ਹਰ ਵੇਲੇ ਤੇਰੇ ਮਨ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਸੀ)? ਹੁਣ ਤਾਂ ਤੇਰੇ ਮਨ ਵਿਚ ਕੋਈ ਇੱਕ ਫੁਰਨਾ ਭੀ ਨਹੀਂ ਉਠਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Где исчез тот шум телесных привязанностей, который прежде постоянно жил в твоём уме? Теперь в твоём уме не возникает ни одной мысли."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21595,
+          "is_rahao": false,
+          "gurmukhi": "ਪਾਰਬ੍ਰਹਮ ਪਰਮੇਸੁਰ ਮਾਧੋ ਪਰਮ ਹੰਸੁ ਲੇ ਸਿਧਾਨਾ ॥੧॥",
+          "roman": "pārbrahm parmesur mādhō param hans le sidhānā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਹ ਸਭ ਮਿਹਰ) ਉਸ ਪਾਰਬ੍ਰਹਮ ਪਰਮੇਸ਼ਰ ਮਾਧੋ ਪਰਮ ਹੰਸ (ਦੀ ਹੈ ਜਿਸ) ਨੇ ਮਨ ਦੇ ਇਹ ਸਾਰੇ ਮਾਇਕ ਸ਼ੋਰ ਨਾਸ ਕਰ ਦਿੱਤੇ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Это всё — милость Парабрахмa, Господа Мадхо, который уничтожил весь этот мирской шум ума."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21596,
+          "is_rahao": true,
+          "gurmukhi": "ਬਾਬਾ ਬੋਲਤੇ ਤੇ ਕਹਾ ਗਏ ਦੇਹੀ ਕੇ ਸੰਗਿ ਰਹਤੇ ॥",
+          "roman": "bābā bolte te kahā gae dehī ke sang rahte",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਹਰਿ-ਸਿਮਰਨ ਦੀ ਬਰਕਤ ਨਾਲ ਤੇਰੇ ਅੰਦਰ ਅਚਰਜ ਤਬਦੀਲੀ ਪੈਦਾ ਹੋ ਗਈ ਹੈ) ਤੇਰੇ ਉਹ ਬੋਲ-ਬੁਲਾਰੇ ਕਿੱਥੇ ਗਏ ਜੋ ਸਦਾ ਸਰੀਰ ਸੰਬੰਧੀ ਹੀ ਰਹਿੰਦੇ ਸਨ?"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Где те речи, что всегда были связаны лишь с телесным?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21597,
+          "is_rahao": true,
+          "gurmukhi": "ਸੁਰਤਿ ਮਾਹਿ ਜੋ ਨਿਰਤੇ ਕਰਤੇ ਕਥਾ ਬਾਰਤਾ ਕਹਤੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "surat māhi jo nirte karte kathā bārtā kahte",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਦੇ (ਉਹ ਸਮਾ ਸੀ ਜਦੋਂ) ਤੇਰੀਆਂ ਸਾਰੀਆਂ ਗੱਲਾਂ-ਬਾਤਾਂ ਸਰੀਰਕ ਮੋਹ ਬਾਰੇ ਹੀ ਸਨ, ਤੇਰੇ ਮਨ ਵਿਚ ਮਾਇਕ ਫੁਰਨੇ ਹੀ ਨਾਚ ਕਰਦੇ ਸਨ-ਉਹ ਸਭ ਕਿਤੇ ਲੋਪ ਹੀ ਹੋ ਗਏ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда-то все твои разговоры были только о телесных привязанностях, мысли плясали в уме — теперь всё это исчезло."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21598,
+          "is_rahao": false,
+          "gurmukhi": "ਬਜਾਵਨਹਾਰੋ ਕਹਾ ਗਇਓ ਜਿਨਿ ਇਹੁ ਮੰਦਰੁ ਕੀਨੑਾ ॥",
+          "roman": "bajāvanhāro kahā gaio jin ih mandar kīnhā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਸਰੀਰਕ ਮੋਹ ਦੇ ਉਹ ਫੁਰਨੇ ਕਿੱਥੇ ਰਹਿ ਸਕਦੇ ਹਨ? ਹੁਣ ਤਾਂ ਉਹ ਮਨ ਹੀ ਨਹੀਂ ਰਿਹਾ ਜਿਸ ਮਨ ਨੇ ਸਰੀਰਕ ਮੋਹ ਦੀ ਇਹ ਢੋਲਕੀ ਬਣਾਈ ਹੋਈ ਸੀ। ਮਾਇਕ ਮੋਹ ਦੀ ਢੋਲਕੀ ਨੂੰ) ਵਜਾਣ ਵਾਲਾ ਉਹ ਮਨ ਹੀ ਕਿਤੇ ਲੋਪ ਹੋ ਗਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Где тот, кто играл на этом инструменте — тот ум, который создал этот храм телесных привязанностей? Он исчез."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21599,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਖੀ ਸਬਦੁ ਸੁਰਤਿ ਨਹੀ ਉਪਜੈ ਖਿੰਚਿ ਤੇਜੁ ਸਭੁ ਲੀਨੑਾ ॥੨॥",
+          "roman": "sākhī sabad surat nahī upjē khinch tej sabh līnhā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਾਰਬ੍ਰਹਮ ਪਰਮੇਸਰ ਨੇ ਮਨ ਦਾ ਉਹ ਪਹਿਲਾ) ਤੇਜ-ਪ੍ਰਤਾਪ ਹੀ ਖਿੱਚ ਲਿਆ ਹੈ, ਮਨ ਵਿਚ ਹੁਣ ਉਹ ਪਹਿਲੀ ਗੱਲ ਪਹਿਲਾ ਬੋਲ ਪਹਿਲਾ ਫੁਰਨਾ ਕਿਤੇ ਪੈਦਾ ਹੀ ਨਹੀਂ ਹੁੰਦਾ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Бог отнял прежнюю силу ума — теперь ни прежние слова, ни мысли больше не возникают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21600,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰਵਨਨ ਬਿਕਲ ਭਏ ਸੰਗਿ ਤੇਰੇ ਇੰਦ੍ਰੀ ਕਾ ਬਲੁ ਥਾਕਾ ॥",
+          "roman": "sravnan bikal bhe sang tere indrī kā bal thākā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇਰੇ ਉਹ ਕੰਨ ਕਿੱਥੇ ਗਏ ਜੋ ਪਹਿਲਾਂ ਸਰੀਰਕ ਮੋਹ ਵਿਚ ਫਸੇ ਹੋਏ ਸਦਾ ਵਿਆਕੁਲ ਰਹਿੰਦੇ ਸਨ? ਤੇਰੀ ਕਾਮ-ਚੇਸ਼ਟਾ ਦਾ ਜ਼ੋਰ ਭੀ ਰੁਕ ਗਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Где те уши, что раньше были беспокойны из-за привязанностей? Сила чувств тоже иссякла."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21601,
+          "is_rahao": false,
+          "gurmukhi": "ਚਰਨ ਰਹੇ ਕਰ ਢਰਕਿ ਪਰੇ ਹੈ ਮੁਖਹੁ ਨ ਨਿਕਸੈ ਬਾਤਾ ॥੩॥",
+          "roman": "charan rahe kar ḍharak pare hē mukhah na nikasē bātā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇਰੇ ਨਾਹ ਉਹ ਪੈਰ ਹਨ, ਨਾਹ ਉਹ ਹੱਥ ਹਨ ਜੋ ਦੇਹ-ਅੱਧਿਆਸ ਦੀ ਦੌੜ-ਭੱਜ ਵਿਚ ਰਹਿੰਦੇ ਸਨ। ਤੇਰੇ ਮੂੰਹ ਤੋਂ ਭੀ ਹੁਣ ਸਰੀਰਕ ਮੋਹ ਦੀਆਂ ਗੱਲਾਂ ਨਹੀਂ ਨਿਕਲਦੀਆਂ ਹਨ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нет уже тех ног и рук, занятых суетой; из уст больше не выходят слова о телесных привязанностях."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21602,
+          "is_rahao": false,
+          "gurmukhi": "ਥਾਕੇ ਪੰਚ ਦੂਤ ਸਭ ਤਸਕਰ ਆਪ ਆਪਣੈ ਭ੍ਰਮਤੇ ॥",
+          "roman": "thāke pañch dūt sabh taskar āp āpnē bhramte",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਾਮਾਦਿਕ ਤੇਰੇ ਪੰਜੇ ਵੈਰੀ ਹਾਰ ਚੁਕੇ ਹਨ, ਉਹ ਸਾਰੇ ਚੋਰ ਆਪੋ ਆਪਣੀ ਭਟਕਣਾ ਤੋਂ ਹਟ ਗਏ ਹਨ (ਕਿਉਂਕਿ ਜਿਸ ਮਨ ਦਾ) ਤੇਜ ਤੇ ਆਸਰਾ ਲੈ ਕੇ (ਇਹ ਪੰਜੇ ਕਾਮਾਦਿਕ) ਦੌੜ-ਭੱਜ ਕਰਦੇ ਸਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Пять врагов-пороков ослабли, все эти воры прекратили своё блуждание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21603,
+          "is_rahao": false,
+          "gurmukhi": "ਥਾਕਾ ਮਨੁ ਕੁੰਚਰ ਉਰੁ ਥਾਕਾ ਤੇਜੁ ਸੂਤੁ ਧਰਿ ਰਮਤੇ ॥੪॥",
+          "roman": "thākā man kunchar ur thākā tej sūt dhar ramte",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਮਨ-ਹਾਥੀ ਹੀ ਨਹੀਂ ਰਿਹਾ, ਉਹ ਹਿਰਦਾ ਹੀ ਨਹੀਂ ਰਿਹਾ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Исчез ум-слон, исчезло и то сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21604,
+          "is_rahao": false,
+          "gurmukhi": "ਮਿਰਤਕ ਭਏ ਦਸੈ ਬੰਦ ਛੂਟੇ ਮਿਤ੍ਰ ਭਾਈ ਸਭ ਛੋਰੇ ॥",
+          "roman": "mirtak bhe dasē band chhūṭe mitr bhāī sabh chhore",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹਰਿ ਸਿਮਰਨ ਦੀ ਬਰਕਤ ਨਾਲ) ਤੇਰੇ ਦਸੇ ਹੀ ਇੰਦ੍ਰੇ ਸਰੀਰਕ ਮੋਹ ਵਲੋਂ ਮਰ ਚੁਕੇ ਹਨ, ਸਰੀਰਕ ਮੋਹ ਵਲੋਂ ਅਜ਼ਾਦ ਹੋ ਗਏ ਹਨ, ਇਹਨਾਂ ਨੇ ਆਸਾ ਤ੍ਰਿਸ਼ਨਾ ਆਦਿਕ ਆਪਣੇ ਸਾਰੇ ਸੱਜਣ-ਮਿੱਤਰ ਭੀ ਛੱਡ ਦਿੱਤੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Десять органов чувств стали словно мёртвы к привязанностям и освободились, оставив всех своих «друзей» — желания и страсти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21605,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਤ ਕਬੀਰਾ ਜੋ ਹਰਿ ਧਿਆਵੈ ਜੀਵਤ ਬੰਧਨ ਤੋਰੇ ॥੫॥੫॥੧੮॥",
+          "roman": "kahat kabīrā jo har dhiāvē jīvat bandhan tore",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਜੋ ਜੋ ਭੀ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰਦਾ ਹੈ ਉਹ ਜੀਊਂਦਾ ਹੀ (ਦੁਨੀਆ ਦੀ ਕਿਰਤ-ਕਾਰ ਕਰਦਾ ਹੋਇਆ ਹੀ, ਇਸ ਤਰ੍ਹਾਂ) ਸਰੀਰਕ ਮੋਹ ਦੇ ਬੰਧਨ ਤੋੜ ਲੈਂਦਾ ਹੈ ॥੫॥੫॥੧੮॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: тот, кто помнит Бога, ещё при жизни разрывает узы привязанностей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 1786,
+      "rahao_verse_id": 21610,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 21606,
+          "is_rahao": false,
+          "gurmukhi": "ਆਸਾ ਇਕਤੁਕੇ ੪ ॥",
+          "roman": "āsā iktuke chār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21607,
+          "is_rahao": false,
+          "gurmukhi": "ਸਰਪਨੀ ਤੇ ਊਪਰਿ ਨਹੀ ਬਲੀਆ ॥",
+          "roman": "sarpanī te ūpar nahī balīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ (ਮਾਇਆ) ਤੋਂ ਵਧੀਕ ਬਲ ਵਾਲਾ (ਜਗਤ ਵਿਚ ਹੋਰ ਕੋਈ) ਨਹੀਂ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Нет никого сильнее этой Майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21608,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਿ ਬ੍ਰਹਮਾ ਬਿਸਨੁ ਮਹਾਦੇਉ ਛਲੀਆ ॥੧॥",
+          "roman": "jin brahmā bisan mahādeu chhalīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਮਾਇਆ ਨੇ ਬ੍ਰਹਮਾ, ਵਿਸ਼ਨੂੰ ਤੇ ਸ਼ਿਵ (ਵਰਗੇ ਵੱਡੇ ਦੇਵਤੇ) ਛਲ ਲਏ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Она обманула даже Брахму, Вишну и Шиву."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21609,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਰੁ ਮਾਰੁ ਸ੍ਰਪਨੀ ਨਿਰਮਲ ਜਲਿ ਪੈਠੀ ॥",
+          "roman": "mār mār sarpanī nirmal jal pēṭhī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਇਹ ਬੜੇ ਜ਼ੋਰਾਂ ਵਿਚ ਆਈ ਮਾਇਆ ਸਤਸੰਗ ਵਿਚ ਸ਼ਾਂਤ ਹੋ ਜਾਂਦੀ ਹੈ, (ਭਾਵ, ਇਸ ਮਾਰੋ-ਮਾਰ ਕਰਨ ਵਾਲੀ ਮਾਇਆ ਦਾ ਪ੍ਰਭਾਵ ਸਤਸੰਗ ਵਿਚ ਅੱਪੜਿਆਂ ਠੰਡਾ ਪੈ ਜਾਂਦਾ ਹੈ),"
+            },
+            "sahib_singh_ru": {
+              "main": "Но эта яростная Майя успокаивается в святом обществе — её влияние там ослабевает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21610,
+          "is_rahao": true,
+          "gurmukhi": "ਜਿਨਿ ਤ੍ਰਿਭਵਣੁ ਡਸੀਅਲੇ ਗੁਰ ਪ੍ਰਸਾਦਿ ਡੀਠੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jin tribhavan dasīale gur prasād ḍīṭhī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਿਉਂਕਿ ਜਿਸ ਮਾਇਆ ਨੇ ਸਾਰੇ ਜਗਤ ਨੂੰ (ਮੋਹ ਦਾ) ਡੰਗ ਮਾਰਿਆ ਹੈ (ਸੰਗਤਿ ਵਿਚ) ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਉਸ ਦੀ ਅਸਲੀਅਤ) ਦਿੱਸ ਪੈਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Та, что ужалила весь мир, становится распознаваемой благодаря милости Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21611,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰਪਨੀ ਸ੍ਰਪਨੀ ਕਿਆ ਕਹਹੁ ਭਾਈ ॥",
+          "roman": "sarpanī sarpanī kiā kahah bhāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸੋ, ਹੇ ਭਾਈ! ਇਸ ਮਾਇਆ ਤੋਂ ਇਤਨਾ ਡਰਨ ਦੀ ਲੋੜ ਨਹੀਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Не нужно так бояться этой Майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21612,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਿ ਸਾਚੁ ਪਛਾਨਿਆ ਤਿਨਿ ਸ੍ਰਪਨੀ ਖਾਈ ॥੨॥",
+          "roman": "jin sāch pachhāniā tin sarpanī khāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਮਨੁੱਖ ਨੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਪਾ ਲਈ ਹੈ, ਉਸ ਨੇ ਇਸ ਮਾਇਆ ਨੂੰ ਆਪਣੇ ਵੱਸ ਵਿੱਚ ਕਰ ਲਿਆ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто познал Истинного Бога, подчинил эту Майю."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21613,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰਪਨੀ ਤੇ ਆਨ ਛੂਛ ਨਹੀ ਅਵਰਾ ॥",
+          "roman": "sarpanī te ān chhūchh nahī avarā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪ੍ਰਭੂ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਕਰਨ ਵਾਲਿਆਂ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਕੋਈ ਜੀਵ ਇਸ ਸੱਪਣੀ ਦੇ ਅਸਰ ਤੋਂ ਬਚਿਆ ਹੋਇਆ ਨਹੀਂ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Кроме познавших Бога, никто не свободен от влияния этой змеи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 21614,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰਪਨੀ ਜੀਤੀ ਕਹਾ ਕਰੈ ਜਮਰਾ ॥੩॥",
+          "roman": "sarpanī jītī kahā karē jamrā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਨੇ (ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਇਸ ਸੱਪਣੀ ਮਾਇਆ ਨੂੰ ਜਿੱਤ ਲਿਆ ਹੈ, ਜਮ ਵਿਚਾਰਾ ਭੀ ਉਸ ਦਾ ਕੁਝ ਵਿਗਾੜ ਨਹੀਂ ਸਕਦਾ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Тому, кто победил эту Майю, даже смерть ничего не может сделать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

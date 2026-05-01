@@ -1,0 +1,571 @@
+{
+  "ang": 540,
+  "shabads": [
+    {
+      "shabad_id": 2068,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 23856,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਹਰਿ ਜਪਿ ਸੁਖੁ ਪਾਇਆ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਸਭਿ ਦੂਖ ਨਿਵਾਰਣਹਾਰੋ ਰਾਮ ॥੧॥",
+          "roman": "nānak har jap sukh pāiā merī jinduṛīe sabh dūkh nivāraṇhāro rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ ਸੁਖ ਮਿਲ ਜਾਂਦਾ ਹੈ, ਹਰਿ-ਨਾਮ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਕਰਨ ਦੀ ਸਮਰੱਥਾ ਵਾਲਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! О моя прекрасная душа! Повторяя Имя Бога, обретают счастье; оно устраняет все страдания."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23857,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾ ਰਸਨਾ ਧਨੁ ਧੰਨੁ ਹੈ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਗੁਣ ਗਾਵੈ ਹਰਿ ਪ੍ਰਭ ਕੇਰੇ ਰਾਮ ॥",
+          "roman": "sā rasnā dhan dhan hē merī jinduṛīe guṇ gāvē har prabh kere rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਹ ਜੀਭ ਭਾਗਾਂ ਵਾਲੀ ਹੈ ਮੁਬਾਰਿਕ ਹੈ, ਜੇਹੜੀ (ਸਦਾ) ਪਰਾਮਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦੀ ਰਹਿੰਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Благословен язык, который поёт качества Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23858,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇ ਸ੍ਰਵਨ ਭਲੇ ਸੋਭਨੀਕ ਹਹਿ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਹਰਿ ਕੀਰਤਨੁ ਸੁਣਹਿ ਹਰਿ ਤੇਰੇ ਰਾਮ ॥",
+          "roman": "te sravan bhale sobhanīk ha merī jinduṛīe har kīrtan suṇeh har tere rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਹੇ ਪ੍ਰਭੂ! ਉਹ ਕੰਨ ਸੋਹਣੇ ਹਨ ਚੰਗੇ ਹਨ ਜੇਹੜੇ ਤੇਰੇ ਕੀਰਤਨ ਸੁਣਦੇ ਰਹਿੰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Прекрасны уши, которые слушают воспевание Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23859,
+          "is_rahao": false,
+          "gurmukhi": "ਸੋ ਸੀਸੁ ਭਲਾ ਪਵਿਤ੍ਰ ਪਾਵਨੁ ਹੈ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜੋ ਜਾਇ ਲਗੈ ਗੁਰ ਪੈਰੇ ਰਾਮ ॥",
+          "roman": "so sīs bhalā pavitr pāvan hē merī jinduṛīe jo jāi lagē gur pēre rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਹ ਸਿਰ ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਪਵਿਤ੍ਰ ਹੈ, ਜੇਹੜਾ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜਾ ਲੱਗਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Благословен и свят тот, кто склоняется к стопам Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23860,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਵਿਟਹੁ ਨਾਨਕੁ ਵਾਰਿਆ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜਿਨਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਚਿਤੇਰੇ ਰਾਮ ॥੨॥",
+          "roman": "gur viṭah nānak vāriā merī jinduṛīe jin har har nām chitēre rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਨਾਨਕ (ਉਸ) ਗੁਰੂ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹੈ ਜਿਸ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਚੇਤੇ ਕਰਾਇਆ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Нанак жертвует собой ради Гуру, который пробуждает память об Имени Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23861,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇ ਨੇਤ੍ਰ ਭਲੇ ਪਰਵਾਣੁ ਹਹਿ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜੋ ਸਾਧੂ ਸਤਿਗੁਰੁ ਦੇਖਹਿ ਰਾਮ ॥",
+          "roman": "te netr bhale parvāṇ ha merī jinduṛīe jo sādhū satgur dekhah rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਹ ਅੱਖਾਂ ਭਲੀਆਂ ਹਨ ਸਫਲ ਹਨ ਜੋ ਗੁਰੂ ਦਾ ਦਰਸਨ ਕਰਦੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Благословенны глаза, которые видят Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23862,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇ ਹਸਤ ਪੁਨੀਤ ਪਵਿਤ੍ਰ ਹਹਿ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜੋ ਹਰਿ ਜਸੁ ਹਰਿ ਹਰਿ ਲੇਖਹਿ ਰਾਮ ॥",
+          "roman": "te hast punīt pavitr ha merī jinduṛīe jo har jas har har lekhah rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਹ ਹੱਥ ਪਵਿਤ੍ਰ ਹਨ ਜੇਹੜੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਲਿਖਦੇ ਰਹਿੰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Чисты руки, которые пишут хвалу Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23863,
+          "is_rahao": false,
+          "gurmukhi": "ਤਿਸੁ ਜਨ ਕੇ ਪਗ ਨਿਤ ਪੂਜੀਅਹਿ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜੋ ਮਾਰਗਿ ਧਰਮ ਚਲੇਸਹਿ ਰਾਮ ॥",
+          "roman": "tis jan ke pag nit pūjīah merī jinduṛīe jo mārag dharam chalesah rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਸ ਮਨੁੱਖ ਦੇ (ਉਹ) ਪੈਰ ਸਦਾ ਪੂਜੇ ਜਾਂਦੇ ਹਨ ਜੇਹੜੇ (ਪੈਰ) ਧਰਮ ਦੇ ਰਾਹ ਉਤੇ ਤੁਰਦੇ ਰਹਿੰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Почитаемы ноги тех, кто идёт путём дхармы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23864,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕੁ ਤਿਨ ਵਿਟਹੁ ਵਾਰਿਆ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਹਰਿ ਸੁਣਿ ਹਰਿ ਨਾਮੁ ਮਨੇਸਹਿ ਰਾਮ ॥੩॥",
+          "roman": "nānak tin viṭah vāriā merī jinduṛīe har suṇ har nām manesah rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਨਾਨਕ ਉਹਨਾਂ (ਵਡ-ਭਾਗੀ) ਮਨੁੱਖਾਂ ਤੋਂ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹੈ ਜੇਹੜੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸੁਣ ਕੇ ਨਾਮ ਨੂੰ ਮੰਨਦੇ ਹਨ (ਜੀਵਨ-ਅਧਾਰ ਬਣਾ ਲੈਂਦੇ ਹਨ) ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Нанак жертвует собой ради тех, кто, услышав Имя Бога, принимает его."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23865,
+          "is_rahao": false,
+          "gurmukhi": "ਧਰਤਿ ਪਾਤਾਲੁ ਆਕਾਸੁ ਹੈ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਸਭ ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਵੈ ਰਾਮ ॥",
+          "roman": "dharat pātāl ākās hē merī jinduṛīe sabh har har nām dhiāvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਧਰਤੀ, ਪਾਤਾਲ, ਆਕਾਸ਼-ਹਰੇਕ ਹੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ ਰਿਹਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Земля, подземный мир и небо — всё помнит Имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23866,
+          "is_rahao": false,
+          "gurmukhi": "ਪਉਣੁ ਪਾਣੀ ਬੈਸੰਤਰੋ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਨਿਤ ਹਰਿ ਹਰਿ ਹਰਿ ਜਸੁ ਗਾਵੈ ਰਾਮ ॥",
+          "roman": "pauṇ pāṇī bēsantar merī jinduṛīe nit har har har jas gāvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਹਵਾ ਪਾਣੀ, ਅੱਗ-ਹਰੇਕ ਤੱਤ ਭੀ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾ ਰਿਹਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Воздух, вода и огонь постоянно поют хвалу Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23867,
+          "is_rahao": false,
+          "gurmukhi": "ਵਣੁ ਤ੍ਰਿਣੁ ਸਭੁ ਆਕਾਰੁ ਹੈ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਮੁਖਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਵੈ ਰਾਮ ॥",
+          "roman": "vaṇ triṇ sabh ākār hē merī jinduṛīe mukh har har nām dhiāvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜੰਗਲ, ਘਾਹ, ਇਹ ਸਾਰਾ ਦਿੱਸਦਾ ਸੰਸਾਰ-ਆਪਣੇ ਮੂੰਹ ਨਾਲ ਹਰੇਕ ਹੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਰਿਹਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Леса, травы — всё творение устами повторяет Имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23868,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਤੇ ਹਰਿ ਦਰਿ ਪੈਨੑਾਇਆ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜੋ ਗੁਰਮੁਖਿ ਭਗਤਿ ਮਨੁ ਲਾਵੈ ਰਾਮ ॥੪॥੪॥",
+          "roman": "nānak te har dar peṇhāiā merī jinduṛīe jo gurmukh bhagat man lāvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜੇਹੜਾ ਜੇਹੜਾ ਜੀਵ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਵਿਚ ਆਪਣਾ ਮਨ ਜੋੜਦਾ ਹੈ, ਉਹ ਸਾਰੇ ਪਰਾਮਤਮਾ ਦੇ ਦਰ ਤੇ ਸਤਕਾਰੇ ਜਾਂਦੇ ਹਨ ॥੪॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! О моя прекрасная душа! Те, кто через Гуру соединяет ум с преданностью Богу, удостаиваются чести при Его дворе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2069,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 23869,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਹਾਗੜਾ ਮਹਲਾ ੪ ॥",
+          "roman": "bihāgṛā mehlā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23870,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਤੇ ਮਨਮੁਖ ਮੂੜ ਇਆਣੇ ਰਾਮ ॥",
+          "roman": "jin har har nām na chetio merī jinduṛīe te manmukh mūṛ iāṇe rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ (ਕਦੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਚੇਤੇ ਨਹੀਂ ਕੀਤਾ, ਉਹ ਆਪਣੇ ਹੀ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮਨੁੱਖ ਮੂਰਖ ਹਨ ਅੰਞਾਣ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Те люди, которые никогда не помнили Имя Бога, они следуют своему уму и являются глупыми и невежественными."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23871,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਮੋਹਿ ਮਾਇਆ ਚਿਤੁ ਲਾਇਦੇ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਸੇ ਅੰਤਿ ਗਏ ਪਛੁਤਾਣੇ ਰਾਮ ॥",
+          "roman": "jo moh māiā chit lāide merī jinduṛīe se ant gae pachhutāṇe rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜੇਹੜੇ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਆਪਣਾ ਮਨ ਜੋੜੀ ਰੱਖਦੇ ਹਨ ਉਹ ਅਖ਼ੀਰ ਵੇਲੇ (ਇਥੋਂ) ਹੱਥ ਮਲਦੇ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Те люди, которые привязывают своё сознание к иллюзии майи, в конце уходят, сожалея."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23872,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਦਰਗਹ ਢੋਈ ਨਾ ਲਹਨਿੑ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜੋ ਮਨਮੁਖ ਪਾਪਿ ਲੁਭਾਣੇ ਰਾਮ ॥",
+          "roman": "har dargeh ḍhoī na lahni merī jinduṛīe jo manmukh pāp lubhāṇe rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਆਪਣੇ ਹੀ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਜੇਹੜੇ ਮਨੁੱਖ (ਸਦਾ) ਪਾਪ-ਕਰਮ ਵਿਚ ਫਸੇ ਰਹਿੰਦੇ ਹਨ ਉਹ ਪਰਮਾਤਮਾ ਦੀ ਦਰਗਾਹ ਵਿਚ ਆਸਰਾ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Те, кто следует своему уму и погружены в грехи, не получают прибежища в Божьем дворе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23873,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਗੁਰ ਮਿਲਿ ਉਬਰੇ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਹਰਿ ਜਪਿ ਹਰਿ ਨਾਮਿ ਸਮਾਣੇ ਰਾਮ ॥੧॥",
+          "roman": "jan nānak gur mil ubare merī jinduṛīe har jap har nām samāṇe rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਵਡ-ਭਾਗੀ ਮਨੁੱਖ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ ਡੁੱਬਣੋਂ) ਬਚ ਜਾਂਦੇ ਹਨ (ਕਿਉਂਕਿ ਉਹ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਮਗਨ ਰਹਿੰਦੇ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак! О моя прекрасная душа! Встретив Гуру, люди спасаются, ибо, повторяя Имя Бога, они погружаются в Него."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23874,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭਿ ਜਾਇ ਮਿਲਹੁ ਸਤਿਗੁਰੂ ਕਉ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜੋ ਹਰਿ ਹਰਿ ਨਾਮੁ ਦ੍ਰਿੜਾਵੈ ਰਾਮ ॥",
+          "roman": "sabh jāe milh satgurū kau merī jinduṛīe jo har har nām driṛhāvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਸਾਰੇ ਗੁਰੂ ਨੂੰ ਜਾ ਮਿਲੋ ਕਿਉਂਕਿ ਉਹ (ਗੁਰੂ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹਿਰਦੇ ਵਿਚ ਪੱਕਾ ਕਰ ਦੇਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Идите все и встречайтесь с Истинным Гуру, ибо он укрепляет Имя Бога в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23875,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜਪਦਿਆ ਖਿਨੁ ਢਿਲ ਨ ਕੀਜਈ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਮਤੁ ਕਿ ਜਾਪੈ ਸਾਹੁ ਆਵੈ ਕਿ ਨ ਆਵੈ ਰਾਮ ॥",
+          "roman": "har japdiā khin ḍhil na kījī merī jinduṛīe mat k jāpē sāh āvē k na āvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਿਆਂ ਰਤਾ ਭਰ ਭੀ ਦੇਰ ਨਹੀਂ ਕਰਨੀ ਚਾਹੀਦੀ। ਕੀਹ ਪਤਾ ਹੈ! ਮਤਾਂ ਅਗਲਾ ਸਾਹ ਲਿਆ ਜਾਏ ਜਾਂ ਨਾਹ ਲਿਆ ਜਾਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Повторяя Имя Бога, не следует откладывать даже на мгновение. Кто знает, придёт ли следующий вдох или нет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23876,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾ ਵੇਲਾ ਸੋ ਮੂਰਤੁ ਸਾ ਘੜੀ ਸੋ ਮੁਹਤੁ ਸਫਲੁ ਹੈ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜਿਤੁ ਹਰਿ ਮੇਰਾ ਚਿਤਿ ਆਵੈ ਰਾਮ ॥",
+          "roman": "sā velā so mūrat sā ghaṛī so muhat safal hē merī jinduṛīe jit har merā chit āvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਉਹ ਵੇਲਾ ਭਾਗਾਂ ਵਾਲਾ ਹੈ, ਉਹ ਘੜੀ ਭਾਗਾਂ ਵਾਲੀ ਹੈ, ਉਹ ਸਮਾ ਭਾਗਾਂ ਵਾਲਾ ਹੈ, ਜਿਸ ਵੇਲੇ ਪਿਆਰਾ ਪਰਮਾਤਮਾ ਚਿੱਤ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! То время, тот момент, тот час — благословенны, когда возлюбленный Бог приходит в сознание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23877,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਨਾਮੁ ਧਿਆਇਆ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਜਮਕੰਕਰੁ ਨੇੜਿ ਨ ਆਵੈ ਰਾਮ ॥੨॥",
+          "roman": "jan nānak nām dhiāiā merī jinduṛīe jamkaṅkar neṛ na āvē rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹਰ ਵੇਲੇ) ਸਿਮਰਿਆ ਹੈ, ਜਮ ਦੂਤ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁੱਕਦਾ (ਮੌਤ ਦਾ ਡਰ ਉਸ ਨੂੰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ, ਉਸ ਨੂੰ ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਆਉਂਦੀ) ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак! О моя прекрасная душа! Тот, кто постоянно помнит Имя Бога, к тому не приближается посланник смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23878,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਵੇਖੈ ਸੁਣੈ ਨਿਤ ਸਭੁ ਕਿਛੁ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਸੋ ਡਰੈ ਜਿਨਿ ਪਾਪ ਕਮਤੇ ਰਾਮ ॥",
+          "roman": "har vekhē suṇē nit sabh kichh merī jinduṛīe so ḍarē jin pāp kamte rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! (ਜੇਹੜੇ ਕੰਮ ਅਸੀਂ ਕਰਦੇ ਹਾਂ, ਜੇਹੜੇ ਬੋਲ ਅਸੀਂ ਬੋਲਦੇ ਹਾਂ) ਪਰਮਾਤਮਾ ਉਹ ਸਭ ਕੁਝ ਸਦਾ ਵੇਖਦਾ ਰਹਿੰਦਾ ਹੈ, ਤੇ, ਸੁਣਦਾ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! Всё, что мы делаем и говорим, Бог постоянно видит и слышит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23879,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸੁ ਅੰਤਰੁ ਹਿਰਦਾ ਸੁਧੁ ਹੈ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਤਿਨਿ ਜਨਿ ਸਭਿ ਡਰ ਸੁਟਿ ਘਤੇ ਰਾਮ ॥",
+          "roman": "jis antar hirdā sudh hē merī jinduṛīe tin jan sabh ḍar suṭ ghate rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਸੋਹਣੀ ਜਿੰਦੇ! ਜਿਸ (ਮਨੁੱਖ) ਦਾ ਅੰਦਰਲਾ ਹਿਰਦਾ ਪਵਿਤ੍ਰ ਹੈ, ਉਸ ਮਨੁੱਖ ਨੇ ਸਾਰੇ ਡਰ ਲਾਹ ਦਿੱਤੇ ਹੁੰਦੇ ਹਨ। ਜਿਸ ਮਨੁੱਖ ਨੇ (ਸਾਰੀ ਉਮਰ) ਪਾਪ ਕਮਾਏ ਹੁੰਦੇ ਹਨ, ਉਹ ਡਰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О моя прекрасная душа! У кого внутреннее сердце чисто, тот избавился от всех страхов. А тот, кто совершал грехи, испытывает страх."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 23880,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਨਿਰਭਉ ਨਾਮਿ ਪਤੀਜਿਆ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਸਭਿ ਝਖ ਮਾਰਨੁ ਦੁਸਟ ਕੁਪਤੇ ਰਾਮ ॥",
+          "roman": "har nirbhau nām patījia merī jinduṛīe sabh jhakh māran dust kupte rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜਾ ਮਨੁੱਖ ਨਿਰਭਉ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਗਿੱਝ ਜਾਂਦਾ ਹੈ, (ਕਾਮਾਦਿਕ) ਸਾਰੇ ਕੁਪੱਤੇ ਵੈਰੀ ਬੇਸ਼ਕ ਪਏ ਝਖਾਂ ਮਾਰਨ (ਉਸ ਮਨੁੱਖ ਦਾ ਕੁਝ ਵਿਗਾੜ ਨਹੀਂ ਸਕਦੇ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто насыщается Именем бесстрашного Бога, тому все порочные враги ничего не могут сделать, сколько бы ни старались."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

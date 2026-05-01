@@ -1,0 +1,865 @@
+{
+  "ang": 53,
+  "shabads": [
+    {
+      "shabad_id": 153,
+      "rahao_verse_id": 2137,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 2136,
+          "is_rahao": true,
+          "gurmukhi": "ਭਾਈ ਰੇ ਸਾਚੀ ਸਤਿਗੁਰ ਸੇਵ ॥",
+          "roman": "bhāī re sāchī satgur sev",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸੇਵਾ ਜ਼ਰੂਰ ਫਲ ਦੇਂਦੀ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Служение Гуру обязательно приносит плод."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2137,
+          "is_rahao": true,
+          "gurmukhi": "ਸਤਿਗੁਰ ਤੁਠੈ ਪਾਈਐ ਪੂਰਨ ਅਲਖ ਅਭੇਵ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "satgur tuṭhē pāīē pūran alakh abhev",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿਉਂਕਿ) ਜੇ ਗੁਰੂ ਪ੍ਰਸੰਨ ਹੋ ਪਏ, ਤਾਂ ਉਹ ਪਰਮਾਤਮਾ ਮਿਲ ਪੈਂਦਾ ਹੈ ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ ਜੋ ਅਦ੍ਰਿਸ਼ਟ ਹੈ ਅਤੇ ਜਿਸ ਦਾ ਭੇਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Если Гуру доволен, достигается тот невидимый и непостижимый Бог."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2138,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਿਗੁਰ ਵਿਟਹੁ ਵਾਰਿਆ ਜਿਨਿ ਦਿਤਾ ਸਚੁ ਨਾਉ ॥",
+          "roman": "satgur viṭah vāriā jin ditā sach nāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਮੈਂ ਉਸ ਗੁਰੂ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ, ਜਿਸ ਨੇ (ਮੈਨੂੰ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਦਿੱਤਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Я жертвую себя Гуру, который дал мне вечное Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2139,
+          "is_rahao": false,
+          "gurmukhi": "ਅਨਦਿਨੁ ਸਚੁ ਸਲਾਹਣਾ ਸਚੇ ਕੇ ਗੁਣ ਗਾਉ ॥",
+          "roman": "andin sach salāhaṇā sache ke guṇ gāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਸ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਮੈਂ ਹਰ ਵੇਲੇ ਸਦਾ-ਥਿਰ ਪਰਮਾਤਮਾ ਨੂੰ ਸਲਾਹੁੰਦਾ ਰਹਿੰਦਾ ਹਾਂ ਅਤੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "День и ночь я восхваляю Вечного и пою Его качества."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2140,
+          "is_rahao": false,
+          "gurmukhi": "ਸਚੁ ਖਾਣਾ ਸਚੁ ਪੈਨਣਾ ਸਚੇ ਸਚਾ ਨਾਉ ॥੨॥",
+          "roman": "sach khāṇā sach pēnṇā sache sachā nāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਮਿਹਰ ਨਾਲ ਹੁਣ) ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ (ਮੇਰੀ ਆਤਮਕ) ਖ਼ੁਰਾਕ ਬਣ ਗਿਆ ਹੈ, ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ (ਮੇਰੀ) ਪੋਸ਼ਾਕ ਹੋ ਚੁਕਾ ਹੈ (ਆਦਰ-ਸਤਿਕਾਰ ਦਾ ਕਾਰਨ ਬਣ ਚੁਕਾ ਹੈ), (ਹੁਣ ਮੈਂ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦਾ ਸਦਾ-ਥਿਰ ਨਾਮ (ਹਰ ਵੇਲੇ ਜਪਦਾ ਹਾਂ) ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Имя стало моей пищей и одеждой; я постоянно повторяю Его."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2141,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਸਿ ਗਿਰਾਸਿ ਨ ਵਿਸਰੈ ਸਫਲੁ ਮੂਰਤਿ ਗੁਰੁ ਆਪਿ ॥",
+          "roman": "sās girās na visrē safal mūrat gur āp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਗੁਰੂ ਉਹ ਸ਼ਖ਼ਸੀਅਤ ਹੈ ਜੋ ਸਾਰੇ ਫਲ ਦੇਣ ਦੇ ਸਮਰੱਥ ਹੈ (ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ ਹਰੇਕ) ਸਾਹ ਨਾਲ (ਹਰੇਕ) ਗਿਰਾਹੀ ਨਾਲ (ਕਦੇ ਭੀ ਪਰਮਾਤਮਾ) ਭੁੱਲਦਾ ਨਹੀਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "С каждым дыханием и приёмом пищи Бог не забывается; Гуру — дарующий плоды."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2142,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਜੇਵਡੁ ਅਵਰੁ ਨ ਦਿਸਈ ਆਠ ਪਹਰ ਤਿਸੁ ਜਾਪਿ ॥",
+          "roman": "gur jevaḍ avar na disai āṭh pahar tis jāp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ (ਦਾਤਾ) ਨਹੀਂ ਦਿੱਸਦਾ, ਅੱਠੇ ਪਹਰ ਉਸ (ਗੁਰੂ ਨੂੰ) ਚੇਤੇ ਰੱਖ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Нет равного Гуру; помни Его восемь стражей дня."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2143,
+          "is_rahao": false,
+          "gurmukhi": "ਨਦਰਿ ਕਰੇ ਤਾ ਪਾਈਐ ਸਚੁ ਨਾਮੁ ਗੁਣਤਾਸਿ ॥੩॥",
+          "roman": "nadar kare tā pāīai sach nām guṇtās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਦੋਂ ਗੁਰੂ ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਕਰਦਾ ਹੈ, ਤਾਂ ਸਾਰੇ ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਪਰਮਾਤਮਾ ਦਾ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਨਾਮ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Когда Гуру проявляет милость, обретается Имя — сокровище добродетелей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2144,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰੁ ਪਰਮੇਸਰੁ ਏਕੁ ਹੈ ਸਭ ਮਹਿ ਰਹਿਆ ਸਮਾਇ ॥",
+          "roman": "gur parmesar ek hē sabh meh rahiā samāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜਿਹੜਾ ਪਰਮਾਤਮਾ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਵਿਆਪਕ ਹੋ ਰਿਹਾ ਹੈ, ਉਹ ਅਤੇ ਗੁਰੂ ਇੱਕ-ਰੂਪ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру и Бог едины и пребывают во всём."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2145,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨ ਕਉ ਪੂਰਬਿ ਲਿਖਿਆ ਸੇਈ ਨਾਮੁ ਧਿਆਇ ॥",
+          "roman": "jin kau pūrab likhiā seī nām dhiāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦਾ ਪੂਰਬਲੇ ਜਨਮ ਦੀ ਨੇਕ ਕਮਾਈ ਦੇ ਸੰਸਕਾਰਾਂ ਦਾ ਲੇਖਾ ਉੱਘੜਦਾ ਹੈ ਉਹ ਮਨੁੱਖ ਹੀ (ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ ਕੇ (ਇਹ ਸਰਧਾ ਬਣਾਂਦੇ ਹਨ ਕਿ ਪਰਮਾਤਮਾ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Те, у кого раскрываются прежние заслуги, медитируют на Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2146,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਗੁਰ ਸਰਣਾਗਤੀ ਮਰੈ ਨ ਆਵੈ ਜਾਇ ॥੪॥੩੦॥੧੦੦॥",
+          "roman": "nānak gur saraṇāgat marē na āvē jāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਜਿਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਹ ਮਨੁੱਖ ਆਤਮਕ ਮੌਤੇ ਨਹੀਂ ਮਰਦਾ, ਉਹ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ ॥੪॥੩੦॥੧੦੦॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Тот, кто в убежище Гуру, не умирает духовно и не входит в круг рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 154,
+      "rahao_verse_id": 2153,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 2147,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oṅkār satgur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2148,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੧ ਘਰੁ ੧ ਅਸਟਪਦੀਆ ॥",
+          "roman": "sirī rāg mehlā 1 ghar 1 asṭpadīā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2149,
+          "is_rahao": false,
+          "gurmukhi": "ਆਖਿ ਆਖਿ ਮਨੁ ਵਾਵਣਾ ਜਿਉ ਜਿਉ ਜਾਪੈ ਵਾਇ ॥",
+          "roman": "ākh ākh man vāvaṇā jiū jiū jāpē vāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਉਂ ਜਿਉਂ ਕਿਸੇ ਜੀਵ ਨੂੰ (ਪ੍ਰਭੂ ਦੇ ਗੁਣ) ਬੋਲਣ ਦੀ ਸਮਝ ਪੈਂਦੀ ਹੈ (ਤਿਉਂ ਤਿਉਂ ਇਹ ਸਮਝ ਭੀ ਆਉਂਦੀ ਜਾਂਦੀ ਹੈ ਕਿ ਉਸ ਦੇ ਗੁਣ) ਬਿਆਨ ਕਰ ਕਰ ਕੇ ਮਨ ਨੂੰ ਖਪਾਣਾ ਹੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "По мере того как живому существу приходит понимание говорить о качествах (Бога), так же приходит понимание, что, говоря о них, приходится истощать ум."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2150,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸ ਨੋ ਵਾਇ ਸੁਣਾਈਐ ਸੋ ਕੇਵਡੁ ਕਿਤੁ ਥਾਇ ॥",
+          "roman": "jis no vāe suṇāīai so kevad kit thāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਪ੍ਰਭੂ ਨੂੰ ਬੋਲ ਕੇ ਸੁਣਾਈਦਾ ਹੈ (ਭਾਵ, ਜਿਸ ਪ੍ਰਭੂ ਦੇ ਗੁਣਾਂ ਬਾਰੇ ਬੋਲ ਕੇ ਹੋਰਨਾਂ ਨੂੰ ਦੱਸੀਦਾ ਹੈ, ਉਸ ਦੀ ਬਾਬਤ ਇਹ ਤਾਂ ਪਤਾ ਹੀ ਨਹੀਂ ਲੱਗਦਾ ਕਿ) ਉਹ ਕੇਡਾ ਵੱਡਾ ਹੈ ਤੇ ਕਿਸ ਥਾਂ ਤੇ (ਨਿਵਾਸ ਰੱਖਦਾ) ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О том Боге, о Котором рассказывают, невозможно узнать, насколько Он велик и где Он пребывает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2151,
+          "is_rahao": false,
+          "gurmukhi": "ਆਖਣ ਵਾਲੇ ਜੇਤੜੇ ਸਭਿ ਆਖਿ ਰਹੇ ਲਿਵ ਲਾਇ ॥੧॥",
+          "roman": "ākhaṇ vāle jetṛe sabh ākh rahe liv lāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਸਾਰੇ ਬਿਆਨ ਕਰਦੇ ਥੱਕ ਜਾਂਦੇ ਹਨ, (ਗੁਣਾਂ ਵਿਚ) ਸੁਰਤ ਜੋੜਦੇ ਰਹਿ ਜਾਂਦੇ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Все говорящие устают, оставаясь лишь сосредоточенными на Его качествах."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2152,
+          "is_rahao": true,
+          "gurmukhi": "ਬਾਬਾ ਅਲਹੁ ਅਗਮ ਅਪਾਰੁ ॥",
+          "roman": "bābā alah agam apār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਗੁਣਾਂ ਤਕ ਪਹੁੰਚ ਨਹੀਂ ਹੋ ਸਕਦੀ, ਉਸ ਦੇ ਗੁਣਾਂ ਦਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! К качествам Бога невозможно достичь, и невозможно найти их предел."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2153,
+          "is_rahao": true,
+          "gurmukhi": "ਪਾਕੀ ਨਾਈ ਪਾਕ ਥਾਇ ਸਚਾ ਪਰਵਦਿਗਾਰੁ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "pākī nāī pāk thāe sachā parvadigār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਦੀ ਵਡਿਆਈ ਪਵਿਤ੍ਰ ਹੈ, ਉਹ ਪਵਿਤ੍ਰ ਅਸਥਾਨ ਤੇ (ਸੋਭ ਰਿਹਾ) ਹੈ। ਉਹ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ (ਸਭ ਜੀਵਾਂ ਦਾ) ਪਾਲਣ ਵਾਲਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Его величие чисто, Он пребывает в чистом месте. Он — вечный Господь, питающий всех."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2154,
+          "is_rahao": false,
+          "gurmukhi": "ਤੇਰਾ ਹੁਕਮੁ ਨ ਜਾਪੀ ਕੇਤੜਾ ਲਿਖਿ ਨ ਜਾਣੈ ਕੋਇ ॥",
+          "roman": "terā hukam na jāpī ketṛā likh na jāṇē koe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ! ਕਿਸੇ ਨੂੰ ਭੀ ਇਹ ਸਮਝ ਨਹੀਂ ਪਈ, ਕਿ ਤੇਰਾ ਹੁਕਮ ਕਿਤਨਾ ਅਟੱਲ ਹੈ, ਕੋਈ ਭੀ ਤੇਰੇ ਹੁਕਮ ਨੂੰ ਬਿਆਨ ਨਹੀਂ ਕਰ ਸਕਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Никто не понял, насколько твёрд Твой приказ, и никто не может его описать."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2155,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇ ਸਉ ਸਾਇਰ ਮੇਲੀਅਹਿ ਤਿਲੁ ਨ ਪੁਜਾਵਹਿ ਰੋਇ ॥",
+          "roman": "je sau sāir melīah til na pujāvah roe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇ ਸੌ ਕਵੀ ਭੀ ਇਕੱਠੇ ਕਰ ਲਏ ਜਾਣ, ਤਾਂ ਭੀ ਉਹ ਬਿਆਨ ਕਰਨ ਦਾ ਵਿਅਰਥ ਜਤਨ ਕਰ ਕੇ ਤੇਰੇ ਗੁਣਾਂ ਦੇ ਇਕ ਤਿਲ ਮਾਤ੍ਰ ਤਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕਦੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Даже если собрать сто поэтов, они не смогут достичь и малой части Твоих качеств."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2156,
+          "is_rahao": false,
+          "gurmukhi": "ਕੀਮਤਿ ਕਿਨੈ ਨ ਪਾਈਆ ਸਭਿ ਸੁਣਿ ਸੁਣਿ ਆਖਹਿ ਸੋਇ ॥੨॥",
+          "roman": "kīmat kinē na pāīā sabh suṇ suṇ ākhah soe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਿਸੇ ਭੀ ਜੀਵ ਨੇ ਤੇਰਾ ਮੁੱਲ ਨਹੀਂ ਪਾਇਆ, ਸਾਰੇ ਜੀਵ ਤੇਰੀ ਬਾਬਤ (ਦੂਜਿਆਂ ਤੋਂ) ਸੁਣ ਸੁਣ ਕੇ ਹੀ ਆਖ ਦੇਂਦੇ ਹਨ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Никто не познал Твою ценность, все лишь повторяют услышанное от других."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2157,
+          "is_rahao": false,
+          "gurmukhi": "ਪੀਰ ਪੈਕਾਮਰ ਸਾਲਕ ਸਾਦਕ ਸੁਹਦੇ ਅਉਰੁ ਸਹੀਦ ॥",
+          "roman": "pīr pēkāmar sālak sādhak suhdē aur shahīd",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਦੁਨੀਆ ਤੇ) ਅਨੇਕਾਂ ਪੀਰ ਪੈਗ਼ੰਬਰ, ਹੋਰਨਾਂ ਨੂੰ ਜੀਵਨ-ਰਾਹ ਦੱਸਣ ਵਾਲੇ,"
+            },
+            "sahib_singh_ru": {
+              "main": "В мире были многие пиры, пророки и наставники."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2158,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇਖ ਮਸਾਇਕ ਕਾਜੀ ਮੁਲਾ ਦਰਿ ਦਰਵੇਸ ਰਸੀਦ ॥",
+          "roman": "sekh masāik kājī mulā dar darvēs rasīd",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਨੇਕਾਂ, ਸ਼ੇਖ਼, ਕਾਜ਼ੀ, ਮੁੱਲਾਂ ਅਤੇ ਤੇਰੇ ਦਰਵਾਜ਼ੇ ਤਕ ਪਹੁੰਚੇ ਹੋਏ ਦਰਵੇਸ਼ ਆਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Многие шейхи, кази, муллы и достигшие Твоего двора дервиши приходили."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2159,
+          "is_rahao": false,
+          "gurmukhi": "ਬਰਕਤਿ ਤਿਨ ਕਉ ਅਗਲੀ ਪੜਦੇ ਰਹਨਿ ਦਰੂਦ ॥੩॥",
+          "roman": "barkat tin kau aglī paṛde rahan darūd",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿਸੇ ਨੇ, ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨ ਲੱਭਾ, ਹਾਂ ਸਿਰਫ਼) ਉਹਨਾਂ ਨੂੰ ਬਹੁਤ ਬਰਕਤਿ ਮਿਲੀ (ਉਹਨਾਂ ਦੇ ਹੀ ਭਾਗ ਜਾਗੇ) ਜੋ (ਤੇਰੇ ਦਰ ਤੇ) ਦੁਆ (ਅਰਜ਼ੋਈ) ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Никто не нашёл конца Твоим качествам; лишь те получили благословение, кто продолжал молиться у Твоего двора."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2160,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁਛਿ ਨ ਸਾਜੇ ਪੁਛਿ ਨ ਢਾਹੇ ਪੁਛਿ ਨ ਦੇਵੈ ਲੇਇ ॥",
+          "roman": "puchh na sāje puchh na ḍhāhe puchh na deve le",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਇਹ ਜਗਤ ਨਾਹ ਕਿਸੇ ਪਾਸੋਂ ਸਲਾਹ ਲੈ ਕੇ ਬਣਾਂਦਾ ਹੈ ਨਾਹ ਹੀ ਪੁੱਛ ਕੇ ਨਾਸ ਕਰਦਾ ਹੈ, ਨਾਹ ਹੀ ਕਿਸੇ ਦੀ ਸਲਾਹ ਨਾਲ ਸਰੀਰ ਵਿਚ ਜਿੰਦ ਪਾਂਦਾ ਹੈ ਨਾਹ ਕੱਢਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бог не создаёт мир, советуясь с кем-либо, не разрушает по совету и не даёт и не забирает жизнь по чьей-то воле."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2161,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪਣੀ ਕੁਦਰਤਿ ਆਪੇ ਜਾਣੈ ਆਪੇ ਕਰਣੁ ਕਰੇਇ ॥",
+          "roman": "āpaṇī kudrat āpe jāṇē āpe karaṇ kare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਆਪਣੀ ਕੁਦਰਤਿ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ, ਆਪ ਹੀ ਇਹ ਜਗਤ-ਰਚਨਾ ਰਚਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бог сам знает Свою природу и Сам творит мир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2162,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭਨਾ ਵੇਖੈ ਨਦਰਿ ਕਰਿ ਜੈ ਭਾਵੈ ਤੈ ਦੇਇ ॥੪॥",
+          "roman": "sabhna vekhē nadar kar jae bhāvē tae de",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਿਹਰ ਦੀ ਨਿਗਾਹ ਕਰ ਕੇ ਸਭ ਜੀਵਾਂ ਦੀ ਸੰਭਾਲ ਆਪ ਹੀ ਕਰਦਾ ਹੈ, ਜੋ ਉਸ ਨੂੰ ਭਾਉਂਦਾ ਹੈ ਉਸ ਨੂੰ (ਆਪਣੇ ਗੁਣਾਂ ਦੀ ਕਦਰ) ਬਖ਼ਸ਼ਦਾ ਹੈ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Своим милостивым взглядом Он заботится о всех и даёт тому, кто Ему угоден."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2163,
+          "is_rahao": false,
+          "gurmukhi": "ਥਾਵਾ ਨਾਵ ਨ ਜਾਣੀਅਹਿ ਨਾਵਾ ਕੇਵਡੁ ਨਾਉ ॥",
+          "roman": "thāvā nāv na jāṇīah nāvā kevad nāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਬੇਅੰਤ ਪੁਰੀਆਂ ਧਰਤੀਆਂ ਆਦਿਕ ਹਨ। ਇਤਨੀ ਬੇਅੰਤ ਰਚਨਾ ਹੈ ਕਿ) ਸਭ ਥਾਵਾਂ ਦੇ (ਪਦਾਰਥਾਂ ਦੇ) ਨਾਮ ਜਾਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ। ਬੇਅੰਤ ਨਾਮਾਂ ਵਿਚੋਂ ਉਹ ਕੇਹੜਾ ਨਾਮ ਹੋ ਸਕਦਾ ਹੈ ਜੋ ਇਤਨਾ ਵੱਡਾ ਹੋਵੇ ਕਿ ਪਰਮਾਤਮਾ ਦੇ ਅਸਲ ਵਡੱਪਣ ਨੂੰ ਬਿਆਨ ਕਰ ਸਕੇ?-ਇਹ ਹੱਲ ਕੋਈ ਨਹੀਂ ਦੱਸ ਸਕਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Невозможно узнать все имена и места; нельзя указать имя, которое полностью выразило бы величие Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2164,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਥੈ ਵਸੈ ਮੇਰਾ ਪਾਤਿਸਾਹੁ ਸੋ ਕੇਵਡੁ ਹੈ ਥਾਉ ॥",
+          "roman": "jithē vasē merā pātisāh so kevad hē thāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਭੀ ਨਹੀਂ ਦੱਸਿਆ ਜਾ ਸਕਦਾ ਕਿ ਜਿੱਥੇ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਪਾਤਿਸ਼ਾਹ ਪ੍ਰਭੂ ਵੱਸਦਾ ਹੈ ਉਹ ਥਾਂ ਕੇਡਾ ਵੱਡਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Невозможно сказать, насколько велико место, где пребывает Господь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2165,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਬੜਿ ਕੋਇ ਨ ਸਕਈ ਹਉ ਕਿਸ ਨੋ ਪੁਛਣਿ ਜਾਉ ॥੫॥",
+          "roman": "aṁbaṛ koe na sakai hau kis no puchhaṇ jāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਿਸੇ ਪਾਸੋਂ ਭੀ ਇਹ ਪੁੱਛ ਪੁੱਛੀ ਨਹੀਂ ਜਾ ਸਕਦੀ, ਕਿਉਂਕਿ ਕੋਈ ਜੀਵ ਉਸ ਅਵਸਥਾ ਤੇ ਪਹੁੰਚ ਨਹੀਂ ਸਕਦਾ (ਜਿੱਥੋਂ ਉਹ ਪਰਮਾਤਮਾ ਦੀ ਬਜ਼ੁਰਗੀ ਸਹੀ ਸਹੀ ਦੱਸ ਸਕੇ) ॥੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Никого нельзя спросить об этом, ибо никто не достигает такого состояния."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2166,
+          "is_rahao": false,
+          "gurmukhi": "ਵਰਨਾ ਵਰਨ ਨ ਭਾਵਨੀ ਜੇ ਕਿਸੈ ਵਡਾ ਕਰੇਇ ॥",
+          "roman": "varnā varan na bhāvanī je kisē vaḍā kare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਹ ਭੀ ਨਹੀਂ ਕਿਹਾ ਜਾ ਸਕਦਾ ਕਿ) ਪਰਮਾਤਮਾ ਨੂੰ ਫਲਾਣੀ ਉੱਚੀ ਜਾਂ ਨੀਵੀਂ ਜਾਤਿ ਭਾਉਂਦੀ ਹੈ ਜਾਂ ਨਹੀਂ ਭਾਉਂਦੀ ਤੇ ਇਸ ਤਰ੍ਹਾਂ ਉਹ ਕਿਸੇ ਇੱਕ ਜਾਤਿ ਨੂੰ ਉੱਚਾ ਕਰ ਦੇਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Нельзя сказать, какая каста угодна Богу и делает ли Он какую-то выше."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2167,
+          "is_rahao": false,
+          "gurmukhi": "ਵਡੇ ਹਥਿ ਵਡਿਆਈਆ ਜੈ ਭਾਵੈ ਤੈ ਦੇਇ ॥",
+          "roman": "vaḍe hath vaḍīāīā jae bhāvē tae de",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਭ ਵਡਿਆਈਆਂ ਵੱਡੇ ਪ੍ਰਭੂ ਦੇ ਆਪਣੇ ਹੱਥ ਵਿਚ ਹਨ। ਜੇਹੜਾ ਜੀਵ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਸ ਨੂੰ ਵਡਿਆਈ ਬਖ਼ਸ਼ ਦੇਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Все величия в руках Бога; Он даёт их тому, кто Ему угоден."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2168,
+          "is_rahao": false,
+          "gurmukhi": "ਹੁਕਮਿ ਸਵਾਰੇ ਆਪਣੈ ਚਸਾ ਨ ਢਿਲ ਕਰੇਇ ॥੬॥",
+          "roman": "hukam savāre āpaṇe chasā na ḍhil kare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ ਹੀ ਉਹ ਜੀਵ ਦੇ ਜੀਵਨ ਨੂੰ ਸੰਵਾਰ ਦੇਂਦਾ ਹੈ, ਰਤਾ ਭਰ ਭੀ ਢਿੱਲ ਨਹੀਂ ਕਰਦਾ ॥੬॥"
+            },
+            "sahib_singh_ru": {
+              "main": "По Своей воле Он украшает жизнь и не медлит ни на мгновение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2169,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭੁ ਕੋ ਆਖੈ ਬਹੁਤੁ ਬਹੁਤੁ ਲੈਣੈ ਕੈ ਵੀਚਾਰਿ ॥",
+          "roman": "sabh ko ākhē bahut bahut lēṇē kē vīchār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਤੋਂ ਦਾਤਾਂ ਲੈਣ ਦੇ ਖ਼ਿਆਲ ਨਾਲ ਹਰੇਕ ਜੀਵ ਬਹੁਤੀ ਮੰਗ ਮੰਗਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Каждый просит много, думая о получении даров от Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2170,
+          "is_rahao": false,
+          "gurmukhi": "ਕੇਵਡੁ ਦਾਤਾ ਆਖੀਐ ਦੇ ਕੈ ਰਹਿਆ ਸੁਮਾਰਿ ॥",
+          "roman": "kevad dātā ākhīē de kē rahiā sumār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਦੱਸਿਆ ਹੀ ਨਹੀਂ ਜਾ ਸਕਦਾ ਕਿ ਪਰਮਾਤਮਾ ਕਿਤਨਾ ਵੱਡਾ ਦਾਤਾ ਹੈ। ਉਹ ਦਾਤਾਂ ਦੇ ਰਿਹਾ ਹੈ, ਪਰ ਦਾਤਾਂ ਗਿਣਤੀ ਤੋਂ ਪਰੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Невозможно сказать, насколько велик Даритель; Он даёт без счёта."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2171,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਤੋਟਿ ਨ ਆਵਈ ਤੇਰੇ ਜੁਗਹ ਜੁਗਹ ਭੰਡਾਰ ॥੭॥੧॥",
+          "roman": "nānak toṭ na āvī tere jugah jugah bhaṇḍār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਖ਼ਜ਼ਾਨੇ ਸਦਾ ਹੀ ਭਰੇ ਰਹਿੰਦੇ ਹਨ, ਇਹਨਾਂ ਵਿਚ ਕਦੇ ਭੀ ਘਾਟ ਨਹੀਂ ਪੈ ਸਕਦੀ ॥੭॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак, Твои сокровищницы всегда полны и никогда не истощаются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 155,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 2172,
+          "is_rahao": false,
+          "gurmukhi": "ਮਹਲਾ ੧ ॥",
+          "roman": "mehlā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 2173,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭੇ ਕੰਤ ਮਹੇਲੀਆ ਸਗਲੀਆ ਕਰਹਿ ਸੀਗਾਰੁ ॥",
+          "roman": "sabhe kant mahelīā saglīā karah sīgār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਾਰੀਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਪ੍ਰਭੂ-ਖਸਮ ਦੀਆਂ ਹੀ ਹਨ, ਸਾਰੀਆਂ ਹੀ (ਉਸ ਖਸਮ-ਪ੍ਰਭੂ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰਨ ਲਈ) ਸਿੰਗਾਰ ਕਰਦੀਆਂ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Все души — жёны Господа и украшают себя, чтобы угодить Ему."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

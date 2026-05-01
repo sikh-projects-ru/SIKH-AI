@@ -1,0 +1,733 @@
+{
+  "ang": 881,
+  "shabads": [
+    {
+      "shabad_id": 3284,
+      "rahao_verse_id": 37425,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 37424,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਜਨ ਗੁਰਮਤਿ ਰਾਮੁ ਬੋਲਾਇ ॥",
+          "roman": "rām jan gurmat rām bolāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ ਦੇ ਭਗਤ-ਜਨੋ! (ਮੈਨੂੰ) ਗੁਰੂ ਦੀ ਸਿਖਿਆ ਦੇ ਕੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਨ ਲਈ ਮਦਦ ਕਰੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О भक्तы, помогите мне произносить Имя через учение Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37425,
+          "is_rahao": true,
+          "gurmukhi": "ਜੋ ਜੋ ਸੁਣੈ ਕਹੈ ਸੋ ਮੁਕਤਾ ਰਾਮ ਜਪਤ ਸੋਹਾਇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jo jo suṇē kahē so mukta rām japat sohāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜਾ ਜੇਹੜਾ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸੁਣਦਾ ਹੈ (ਜਾਂ) ਉਚਾਰਦਾ ਹੈ, ਉਹ (ਦੁਰਮਤਿ ਤੋਂ) ਸੁਤੰਤਰ ਹੋ ਜਾਂਦਾ ਹੈ। ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਉਹ ਸੋਹਣੇ ਜੀਵਨ ਵਾਲਾ ਬਣ ਜਾਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, кто слушает и повторяет Имя, освобождается и становится прекрасным."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37426,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇ ਵਡ ਭਾਗ ਹੋਵਹਿ ਮੁਖਿ ਮਸਤਕਿ ਹਰਿ ਰਾਮ ਜਨਾ ਭੇਟਾਇ ॥",
+          "roman": "je vaḍ bhāg hovah mukh mastak har rām janā bheṭāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇ ਕਿਸੇ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਚੰਗੇ ਭਾਗ ਜਾਗ ਪੈਣ, ਤਾਂ ਪਰਮਾਤਮਾ ਉਸ ਨੂੰ ਸੰਤ ਜਨਾਂ ਨਾਲ ਮਿਲਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "С великими заслугами человек встречает святых."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37427,
+          "is_rahao": false,
+          "gurmukhi": "ਦਰਸਨੁ ਸੰਤ ਦੇਹੁ ਕਰਿ ਕਿਰਪਾ ਸਭੁ ਦਾਲਦੁ ਦੁਖੁ ਲਹਿ ਜਾਇ ॥੨॥",
+          "roman": "darsan sant deh kar kirpā sabh dālad dukh lah jāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ! ਕਿਰਪਾ ਕਰ ਕੇ (ਮੈਨੂੰ) ਸੰਤ ਜਨਾਂ ਦਾ ਦਰਸ਼ਨ ਬਖ਼ਸ਼, (ਸੰਤ ਜਨਾਂ ਦਾ ਦਰਸ਼ਨ ਕਰ ਕੇ) ਸਾਰਾ ਦਰਿੱਦਰ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Даруй दर्शन святых, и исчезают бедность и страдание."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37428,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕੇ ਲੋਗ ਰਾਮ ਜਨ ਨੀਕੇ ਭਾਗਹੀਣ ਨ ਸੁਖਾਇ ॥",
+          "roman": "har ke log rām jan nīke bhāghīṇ na sukhāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਕਰਨ ਵਾਲੇ ਬੰਦੇ ਸੋਹਣੇ (ਜੀਵਨ ਵਾਲੇ) ਹੁੰਦੇ ਹਨ, ਪਰ ਮੰਦ-ਭਾਗੀ ਮਨੁੱਖਾਂ ਨੂੰ (ਉਹਨਾਂ ਦਾ ਦਰਸ਼ਨ) ਚੰਗਾ ਨਹੀਂ ਲੱਗਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Святые прекрасны, но несчастным они не нравятся."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37429,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਉ ਜਿਉ ਰਾਮ ਕਹਹਿ ਜਨ ਊਚੇ ਨਰ ਨਿੰਦਕ ਡੰਸੁ ਲਗਾਇ ॥੩॥",
+          "roman": "jiu jiu rām kahahi jan ūche nar nindak daṅs lagāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਸੰਤ ਜਨ ਜਿਉਂ ਜਿਉਂ ਹਰਿ-ਨਾਮ ਸਿਮਰਦੇ ਹਨ, ਤਿਉਂ ਤਿਉਂ ਉੱਚੇ ਜੀਵਨ ਵਾਲੇ ਬਣਦੇ ਜਾਂਦੇ ਹਨ, ਪਰ ਉਹਨਾਂ ਦੀ ਨਿੰਦਾ ਕਰਨ ਵਾਲਿਆਂ ਨੂੰ ਉਹਨਾਂ ਦਾ ਜੀਵਨ ਇਉਂ ਲੱਗਦਾ ਹੈ ਜਿਵੇਂ ਡੰਗ ਵੱਜ ਜਾਂਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Чем больше святые повторяют Имя, тем выше становятся, а злословящие страдают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37430,
+          "is_rahao": false,
+          "gurmukhi": "ਧ੍ਰਿਗੁ ਧ੍ਰਿਗੁ ਨਰ ਨਿੰਦਕ ਜਿਨ ਜਨ ਨਹੀ ਭਾਏ ਹਰਿ ਕੇ ਸਖਾ ਸਖਾਇ ॥",
+          "roman": "dhriḡ dhriḡ nar nindak jin jan nahī bhāe har ke sakhā sakhāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਨਿੰਦਕ ਮਨੁੱਖ ਫਿਟਕਾਰ-ਜੋਗ (ਜੀਵਨ ਵਾਲੇ) ਹੋ ਜਾਂਦੇ ਹਨ, ਕਿਉਂਕਿ ਉਹਨਾਂ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜੇ ਰਹਿਣ ਵਾਲੇ ਸੰਤ ਜਨ ਚੰਗੇ ਨਹੀਂ ਲੱਗਦੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Прокляты злословящие, которым не нравятся друзья Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37431,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇ ਹਰਿ ਕੇ ਚੋਰ ਵੇਮੁਖ ਮੁਖ ਕਾਲੇ ਜਿਨ ਗੁਰ ਕੀ ਪੈਜ ਨ ਭਾਇ ॥੪॥",
+          "roman": "se har ke chor vemukh mukh kāle jin gur kī pēj na bhāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਗੁਰੂ ਦੀ ਇੱਜ਼ਤ (ਹੁੰਦੀ) ਪਸੰਦ ਨਹੀਂ ਆਉਂਦੀ, ਉਹ ਗੁਰੂ ਵਲੋਂ ਮੂੰਹ ਮੋੜੀ ਰੱਖਦੇ ਹਨ, ਉਹ ਰੱਬ ਦੇ ਭੀ ਚੋਰ ਬਣ ਜਾਂਦੇ ਹਨ (ਪ੍ਰਭੂ ਨੂੰ ਭੀ ਮੂੰਹ ਦੇਣ-ਜੋਗੇ ਨਹੀਂ ਰਹਿੰਦੇ, ਵਿਕਾਰਾਂ ਦੇ ਕਾਰਨ) ਉਹ ਭ੍ਰਿਸ਼ਟੇ ਹੋਏ ਮੂੰਹ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Они отвернулись от Гуру и стали духовно тёмными."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37432,
+          "is_rahao": false,
+          "gurmukhi": "ਦਇਆ ਦਇਆ ਕਰਿ ਰਾਖਹੁ ਹਰਿ ਜੀਉ ਹਮ ਦੀਨ ਤੇਰੀ ਸਰਣਾਇ ॥",
+          "roman": "daia daia kar rākhah har jīu ham dīn terī saraṇāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਗਰੀਬ (ਜੀਵ) ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ, ਕਿਰਪਾ ਕਰ ਕੇ (ਸਾਨੂੰ ਆਪਣੀ) ਸਰਨ ਵਿਚ ਰੱਖੀ ਰੱਖੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Господь, по милости защити нас, мы в Твоём прибежище."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37433,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਬਾਰਿਕ ਤੁਮ ਪਿਤਾ ਪ੍ਰਭ ਮੇਰੇ ਜਨ ਨਾਨਕ ਬਖਸਿ ਮਿਲਾਇ ॥੫॥੨॥",
+          "roman": "ham bārik tum pitā prabh mere jan nānak bakhas milāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਡਾ ਪਿਤਾ ਹੈਂ, ਅਸੀਂ ਤੇਰੇ ਬੱਚੇ ਹਾਂ। ਦਾਸ ਨਾਨਕ ਉਤੇ ਬਖ਼ਸ਼ਸ਼ ਕਰ ਕੇ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਟਿਕਾਈ ਰੱਖ ॥੫॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Мы Твои дети, Ты наш Отец, прости и соединяй с Собой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3285,
+      "rahao_verse_id": 37438,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 37434,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੪ ॥",
+          "roman": "rāmkalī mehlā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37435,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕੇ ਸਖਾ ਸਾਧ ਜਨ ਨੀਕੇ ਤਿਨ ਊਪਰਿ ਹਾਥੁ ਵਤਾਵੈ ॥",
+          "roman": "har ke sakhā sādh jan nīke tin ūpar hāth vatāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਸਦਾ ਰਹਿਣ ਵਾਲੇ ਸਾਧੂ ਜਨ ਸੋਹਣੇ ਜੀਵਨ ਵਾਲੇ ਹੁੰਦੇ ਹਨ, ਪ੍ਰਭੂ ਆਪ ਉਹਨਾਂ ਉਤੇ ਕਿਰਪਾ ਦਾ ਹੱਥ ਰੱਖਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те святые люди, которые постоянно пребывают у стоп Господа, обладают прекрасной жизнью, и Сам Господь держит над ними руку милости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37436,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰਮੁਖਿ ਸਾਧ ਸੇਈ ਪ੍ਰਭ ਭਾਏ ਕਰਿ ਕਿਰਪਾ ਆਪਿ ਮਿਲਾਵੈ ॥੧॥",
+          "roman": "gurmukh sādh seī prabh bhāe kar kirpā āp milāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਦੀ ਸਰਨ ਰਹਿਣ ਵਾਲੇ ਉਹੀ ਸਾਧੂ-ਜਨ ਪ੍ਰਭੂ ਨੂੰ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ। ਪ੍ਰਭੂ ਆਪਣੀ ਮੇਹਰ ਕਰ ਕੇ ਆਪ (ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਜੋੜੀ ਰੱਖਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Только те святые, которые пребывают в прибежище Гуру, нравятся Господу. По Своей милости Господь Сам соединяет их с Собой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37437,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਮੋ ਕਉ ਹਰਿ ਜਨ ਮੇਲਿ ਮਨਿ ਭਾਵੈ ॥",
+          "roman": "rām mo kau har jan mel man bhāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੇ ਰਾਮ! ਮੈਨੂੰ ਆਪਣੇ ਸੰਤ ਜਨ ਮਿਲਾ, (ਮੇਰੇ) ਮਨ ਵਿਚ ਇਹੀ ਤਾਂਘ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Рам! Соедини меня с Твоими святыми — это желание моего сердца."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37438,
+          "is_rahao": true,
+          "gurmukhi": "ਅਮਿਉ ਅਮਿਉ ਹਰਿ ਰਸੁ ਹੈ ਮੀਠਾ ਮਿਲਿ ਸੰਤ ਜਨਾ ਮੁਖਿ ਪਾਵੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "amiu amiu har ras hē mīṭhā mil sant janā mukh pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਰਾਮ! ਤੇਰਾ ਨਾਮ-ਰਸ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਮਿੱਠਾ ਜਲ ਹੈ। (ਤੇਰਾ ਇਹ ਦਾਸ ਤੇਰੇ) ਸੰਤ ਜਨਾਂ ਨੂੰ ਮਿਲ ਕੇ (ਇਹੀ ਅੰਮ੍ਰਿਤ) ਮੂੰਹ ਵਿਚ ਪਾਣਾ ਚਾਹੁੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Рам! Твой Нектар-Имя — сладкая вода, дающая духовную жизнь. Этот слуга, встретив Твоих святых, желает вкусить этот амрит."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37439,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕੇ ਲੋਗ ਰਾਮ ਜਨ ਊਤਮ ਮਿਲਿ ਊਤਮ ਪਦਵੀ ਪਾਵੈ ॥",
+          "roman": "har ke log rām jan ūṭam mil ūṭam padvī pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਨਾਲ ਪਿਆਰ ਕਰਨ ਵਾਲੇ ਸੰਤ ਜਨ ਉੱਚੇ ਜੀਵਨ ਵਾਲੇ ਹੁੰਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਮਿਲ ਕੇ ਮਨੁੱਖ ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Святые, любящие Господа, обладают высоким духовным состоянием; встретив их, человек достигает высокого духовного положения."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37440,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮ ਹੋਵਤ ਚੇਰੀ ਦਾਸ ਦਾਸਨ ਕੀ ਮੇਰਾ ਠਾਕੁਰੁ ਖੁਸੀ ਕਰਾਵੈ ॥੨॥",
+          "roman": "ham hovat cherī dās dāsan kī merā ṭhākur khusī karāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਉਤੇ ਮੇਰਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਕਰਦਾ ਹੈ, ਮੈਂ ਉਹਨਾਂ ਦੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਹਾਂ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Я — слуга слуг тех людей, на которых мой Господь проливает милость."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37441,
+          "is_rahao": false,
+          "gurmukhi": "ਸੇਵਕ ਜਨ ਸੇਵਹਿ ਸੇ ਵਡਭਾਗੀ ਰਿਦ ਮਨਿ ਤਨਿ ਪ੍ਰੀਤਿ ਲਗਾਵੈ ॥",
+          "roman": "sevak jan seveh se vadbhāgī rid man tan prīt lagāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਸੇਵਕ ਪ੍ਰਭੂ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਦੇ ਹਨ ਉਹ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਹਨ! ਪ੍ਰਭੂ ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ ਉਹਨਾਂ ਦੇ ਤਨ ਵਿਚ ਆਪਣੇ ਚਰਨਾਂ ਦੀ ਪ੍ਰੀਤ ਪੈਦਾ ਕਰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те слуги, которые служат Господу, очень благословенны; Господь вселяет любовь к Своим стопам в их сердце, ум и тело."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37442,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਪ੍ਰੀਤੀ ਕਰਹਿ ਬਹੁ ਬਾਤਾ ਕੂੜੁ ਬੋਲਿ ਕੂੜੋ ਫਲੁ ਪਾਵੈ ॥੩॥",
+          "roman": "bin prītī kareh bah bātā kūṛ bol kūṛo phal pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਕਈ ਮਨੁੱਖ ਇਸ ਪ੍ਰੀਤ (ਦੀ ਦਾਤਿ) ਤੋਂ ਬਿਨਾ ਹੀ ਬਹੁਤ ਗੱਲਾਂ ਕਰਦੇ ਹਨ। (ਕਿ ਸਾਡੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦੀ ਪ੍ਰੀਤ ਵੱਸ ਰਹੀ ਹੈ) ਅਜੇਹਾ ਮਨੁੱਖ ਝੂਠ ਬੋਲ ਕੇ ਝੂਠ ਹੀ (ਉਸ ਦਾ) ਫਲ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ (ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰੀਤ ਦੇ ਥਾਂ ਝੂਠ ਹੀ ਸਦਾ ਵੱਸਿਆ ਰਹਿੰਦਾ ਹੈ) ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но многие люди без этой любви говорят много слов; такой человек, говоря ложь, получает только ложный плод."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37443,
+          "is_rahao": false,
+          "gurmukhi": "ਮੋ ਕਉ ਧਾਰਿ ਕ੍ਰਿਪਾ ਜਗਜੀਵਨ ਦਾਤੇ ਹਰਿ ਸੰਤ ਪਗੀ ਲੇ ਪਾਵੈ ॥",
+          "roman": "mo kau dhār kirpā jagjīvan dāte har sant pagī le pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਜਗਤ ਨੂੰ ਜ਼ਿੰਦਗੀ ਦੇਣ ਵਾਲੇ ਹਰੀ! ਮੇਰੇ ਉਤੇ ਮੇਹਰ ਕਰ, (ਤਾ ਕਿ ਕੋਈ ਗੁਰਮੁਖ ਮਨੁੱਖ ਮੈਨੂੰ ਤੇਰੇ) ਸੰਤ ਜਨਾਂ ਦੀ ਚਰਨੀਂ ਲਾ ਦੇਵੇ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О Дарующий жизнь миру Хари! Прояви ко мне милость, чтобы какой-нибудь гурумух привёл меня к стопам Твоих святых."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37444,
+          "is_rahao": false,
+          "gurmukhi": "ਹਉ ਕਾਟਉ ਕਾਟਿ ਬਾਢਿ ਸਿਰੁ ਰਾਖਉ ਜਿਤੁ ਨਾਨਕ ਸੰਤੁ ਚੜਿ ਆਵੈ ॥੪॥੩॥",
+          "roman": "hau kāṭau kāṭ bāḍh sir rākhau jit nānak sant chaṛ āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਆਪਣਾ ਸਿਰ ਕੱਟ ਦਿਆਂ, ਕੱਟ ਵੱਢ ਕੇ ਰੱਖ ਦਿਆਂ, ਜਿਸ ਉਤੇ ਚੜ੍ਹ ਕੇ ਕੋਈ ਸੰਤ ਜਨ ਮੈਨੂੰ ਆ ਮਿਲੇ (ਭਾਵ, ਮੈਂ ਸਦਕੇ ਕੁਰਬਾਨ ਜਾਂਵਾਂ ਉਸ ਰਸਤੇ ਤੋਂ ਜਿਸ ਰਸਤੇ ਕੋਈ ਸੰਤ ਆ ਕੇ ਮੈਨੂੰ ਮਿਲੇ ॥੪॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Скажи: о Господь! Я готов отдать свою голову, разрубить её и положить, чтобы святой мог взойти и прийти ко мне."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3286,
+      "rahao_verse_id": 37449,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 37445,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੪ ॥",
+          "roman": "rāmkalī mehlā 4",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37446,
+          "is_rahao": false,
+          "gurmukhi": "ਜੇ ਵਡ ਭਾਗ ਹੋਵਹਿ ਵਡ ਮੇਰੇ ਜਨ ਮਿਲਦਿਆ ਢਿਲ ਨ ਲਾਈਐ ॥",
+          "roman": "je vaḍ bhāg hovah vaḍ mere jan mildiā ḍhil na lāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਸੰਤ ਜਨਾਂ ਨੂੰ ਮਿਲਣ ਵਿਚ ਰਤਾ ਭੀ ਢਿੱਲ ਨਹੀਂ ਕਰਨੀ ਚਾਹੀਦੀ। ਜੇ ਮੇਰੇ ਵੱਡੇ ਭਾਗ ਜਾਗ ਪੈਣ (ਤਾਂ ਹੀ ਸੰਤ ਜਨਾਂ ਨੂੰ ਮਿਲਣ ਦਾ ਅਵਸਰ ਮਿਲਦਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Встречу со святыми нельзя откладывать ни на мгновение; только при великой удаче выпадает возможность встретиться с ними."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37447,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜਨ ਅੰਮ੍ਰਿਤ ਕੁੰਟ ਸਰ ਨੀਕੇ ਵਡਭਾਗੀ ਤਿਤੁ ਨਾਵਾਈਐ ॥੧॥",
+          "roman": "har jan amrit kunt sar nīke vadbhāgī tit nāvāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਸੇਵਕ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਨਾਮ-ਜਲ ਦੇ ਸੋਹਣੇ ਚਸ਼ਮੇ ਹਨ, ਸੋਹਣੇ ਸਰੋਵਰ ਹਨ। ਉਸ ਚਸ਼ਮੇ ਵਿਚ ਉਸ ਸਰੋਵਰ ਵਿਚ ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ ਹੀ ਇਸ਼ਨਾਨ ਕਰ ਸਕੀਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Слуги Господа — это прекрасные источники и озёра живительной воды Имени; лишь по великой удаче можно омыться в них."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37448,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਮੋ ਕਉ ਹਰਿ ਜਨ ਕਾਰੈ ਲਾਈਐ ॥",
+          "roman": "rām mo kau har jan kārē lāīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ (ਮੇਰੇ) ਰਾਮ! ਮੈਨੂੰ (ਆਪਣੇ) ਸੰਤ ਜਨਾਂ ਦੀ ਸੇਵਾ ਵਿਚ ਲਾਈ ਰੱਖ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О мой Рам! Держи меня в служении Твоим святым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37449,
+          "is_rahao": true,
+          "gurmukhi": "ਹਉ ਪਾਣੀ ਪਖਾ ਪੀਸਉ ਸੰਤ ਆਗੈ ਪਗ ਮਲਿ ਮਲਿ ਧੂਰਿ ਮੁਖਿ ਲਾਈਐ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "hau pāṇī pakhā pīsau sant āgē pag mal mal dhūr mukh lāīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਸੰਤ ਜਨਾਂ ਦੇ ਦਰ ਤੇ ਪਾਣੀ ਢੋਵਾਂ, ਪੱਖਾਂ ਝੱਲਾਂ, (ਆਟਾ) ਪੀਹਾਂ। ਮੈਂ ਸੰਤ ਜਨਾਂ ਦੇ ਪੈਰ ਮਲ ਮਲ ਕੇ ਧੋਵਾਂ, ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਆਪਣੇ ਮੱਥੇ ਤੇ ਲਾਂਦਾ ਰਹਾਂ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Я буду носить воду, веять веером, молоть зерно перед святыми; буду массировать их ноги и наносить пыль их стоп на свой лоб."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37450,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਜਨ ਵਡੇ ਵਡੇ ਵਡ ਊਚੇ ਜੋ ਸਤਗੁਰ ਮੇਲਿ ਮਿਲਾਈਐ ॥",
+          "roman": "har jan vaḍe vaḍe vaḍ ūche jo satgur mel milāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਸੇਵਕ ਬੜੇ ਉੱਚੇ ਜੀਵਨ ਵਾਲੇ ਹੁੰਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਮਿਲਾਪ ਸਤਿਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Слуги Господа обладают очень высоким духовным состоянием; их встреча происходит в обществе Истинного Гуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37451,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਗੁਰ ਜੇਵਡੁ ਅਵਰੁ ਨ ਕੋਈ ਮਿਲਿ ਸਤਗੁਰ ਪੁਰਖ ਧਿਆਈਐ ॥੨॥",
+          "roman": "satgur jevaḍ avar na koī mil satgur purakh dhiāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਜੇਡਾ ਵੱਡਾ ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ। ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਹੀ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нет никого столь великого, как Гуру; только встретив Гуру, можно помнить о Господе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37452,
+          "is_rahao": false,
+          "gurmukhi": "ਸਤਗੁਰ ਸਰਣਿ ਪਰੇ ਤਿਨ ਪਾਇਆ ਮੇਰੇ ਠਾਕੁਰ ਲਾਜ ਰਖਾਈਐ ॥",
+          "roman": "satgur saraṇ pare tin pāiā mere ṭhākur lāj rakhāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਗਏ, ਉਹਨਾਂ ਨੇ ਪ੍ਰਭੂ ਦਾ ਮਿਲਾਪ ਹਾਸਲ ਕਰ ਲਿਆ, ਮੇਰੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੇ ਉਹਨਾਂ ਦੀ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਇੱਜ਼ਤ ਰੱਖ ਲਈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Те, кто пришли в прибежище Гуру, обрели Господа; мой Владыка сохранил их честь в этом и будущем мире."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37453,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕਿ ਅਪਣੈ ਸੁਆਇ ਆਇ ਬਹਹਿ ਗੁਰ ਆਗੈ ਜਿਉ ਬਗੁਲ ਸਮਾਧਿ ਲਗਾਈਐ ॥੩॥",
+          "roman": "ik apṇē suāi āi baheh gur āgē jiu bagul samādh lagāīē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਅਨੇਕਾਂ ਬੰਦੇ ਐਸੇ ਭੀ ਹਨ ਜੋ ਆਪਣੀ ਕਿਸੇ ਗ਼ਰਜ਼ ਦੀ ਖ਼ਾਤਰ ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਆ ਬੈਠਦੇ ਹਨ ਅਤੇ ਬਗੁਲੇ ਵਾਂਗ ਸਮਾਧੀ ਲਾ ਲੈਂਦੇ ਹਨ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но многие приходят к Гуру ради своей выгоды и сидят перед ним, как журавль в притворной медитации."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37454,
+          "is_rahao": false,
+          "gurmukhi": "ਬਗੁਲਾ ਕਾਗ ਨੀਚ ਕੀ ਸੰਗਤਿ ਜਾਇ ਕਰੰਗ ਬਿਖੂ ਮੁਖਿ ਲਾਈਐ ॥",
+          "roman": "bagulā kāg nīch kī sangat jāi karang bikhū mukh lāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਬਗੁਲਾ ਅਤੇ ਕਾਂ ਨੀਚ ਦੀ ਸੰਗਤਿ ਹੀ ਪਸੰਦ ਕਰਦੇ ਹਨ (ਜੇ ਉਹ ਕਿਸੇ ਸੁਆਰਥ ਵਾਸਤੇ ਗੁਰੂ ਦੇ ਦਰ ਤੇ ਆਉਂਦੇ ਭੀ ਹਨ, ਤਾਂ ਇਥੋਂ) ਉੱਠ ਕੇ ਕੋਈ ਮੁਰਦਾਰ ਜਾਂ ਗੰਦ ਹੀ ਮੂੰਹ ਵਿਚ ਪਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Журавль и ворона любят общество низких; даже если они приходят к Гуру из корысти, потом уходят и наполняют рот нечистотой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 37455,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਮੇਲਿ ਮੇਲਿ ਪ੍ਰਭ ਸੰਗਤਿ ਮਿਲਿ ਸੰਗਤਿ ਹੰਸੁ ਕਰਾਈਐ ॥੪॥੪॥",
+          "roman": "nānak mel mel prabh sangat mil sangat hans karāīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ-ਦਰ ਤੇ ਅਰਦਾਸ ਕਰ, ਤੇ, ਆਖ-) ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਿਲਾਈ ਰੱਖ। ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਿਲ ਕੇ (ਕਾਂ ਤੋਂ) ਹੰਸ ਬਣ ਜਾਈਦਾ ਹੈ ॥੪॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Молись Господу: соединяй меня с обществом Гуру; в этом обществе человек становится лебедем."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

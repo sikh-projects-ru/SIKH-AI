@@ -1,0 +1,725 @@
+{
+  "ang": 75,
+  "shabads": [
+    {
+      "shabad_id": 184,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 3026,
+          "is_rahao": false,
+          "gurmukhi": "ਦੂਜੈ ਪਹਰੈ ਰੈਣਿ ਕੈ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਵਿਸਰਿ ਗਇਆ ਧਿਆਨੁ ॥",
+          "roman": "dūjē pahrē rēṇ kē vaṇjāriyā mitrā visar gaeā dhiān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹਰਿ-ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਏ ਹੇ ਜੀਵ ਮਿਤ੍ਰ! (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ ਦੇ ਦੂਜੇ ਪਹਰ ਵਿਚ (ਸੰਸਾਰ ਵਿਚ ਜਨਮ ਲੈ ਕੇ ਜੀਵਨ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਵਿਚ ਉਹ) ਧਿਆਨ ਭੁੱਲ ਜਾਂਦਾ ਹੈ (ਜੋ ਉਸ ਨੂੰ ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਰਹਿਣ ਸਮੇ ਹੁੰਦਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-живое существо! Во втором периоде ночи жизни, родившись в мире, ты забываешь то сосредоточение, которое имел в утробе."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3027,
+          "is_rahao": false,
+          "gurmukhi": "ਹਥੋ ਹਥਿ ਨਚਾਈਐ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਜਿਉ ਜਸੁਦਾ ਘਰਿ ਕਾਨੁ ॥",
+          "roman": "hatho hath nachāīai vaṇjāriyā mitrā jiō jasudā ghar kān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! (ਜਨਮ ਲੈ ਕੇ ਜੀਵ ਘਰ ਦੇ) ਹਰੇਕ ਜੀਵ ਦੇ ਹੱਥ ਉੱਤੇ (ਇਉਂ) ਨਚਾਈਦਾ ਹੈ ਜਿਵੇਂ ਜਸੋਧਾ ਦੇ ਘਰ ਵਿਚ ਸ੍ਰੀ ਕ੍ਰਿਸ਼ਨ ਜੀ ਨੂੰ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг! После рождения тебя передают из рук в руки, как в доме Яшоды играли с Кришной."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3028,
+          "is_rahao": false,
+          "gurmukhi": "ਹਥੋ ਹਥਿ ਨਚਾਈਐ ਪ੍ਰਾਣੀ ਮਾਤ ਕਹੈ ਸੁਤੁ ਮੇਰਾ ॥",
+          "roman": "hatho hath nachāīē prāṇī māt kahē sut merā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਨਵਾਂ ਜਨਮਿਆ) ਜੀਵ ਹਰੇਕ ਦੇ ਹੱਥ ਵਿਚ ਨਚਾਈਦਾ ਹੈ (ਖਿਡਾਈਦਾ ਹੈ), ਮਾਂ ਆਖਦੀ ਹੈ ਕਿ ਇਹ ਮੇਰਾ ਪੁੱਤਰ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Новорождённого носят на руках, и мать говорит: это мой сын."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3029,
+          "is_rahao": false,
+          "gurmukhi": "ਚੇਤਿ ਅਚੇਤ ਮੂੜ ਮਨ ਮੇਰੇ ਅੰਤਿ ਨਹੀ ਕਛੁ ਤੇਰਾ ॥",
+          "roman": "chet achēt mūṛ man merē ant nahī kachh terā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ, ਹੇ ਮੇਰੇ ਗ਼ਾਫ਼ਿਲ ਮੂਰਖ ਮਨ! ਚੇਤੇ ਰੱਖ, ਅਖ਼ੀਰ ਵੇਲੇ ਕੋਈ ਭੀ ਸ਼ੈ ਤੇਰੀ ਨਹੀਂ ਬਣੀ ਰਹੇਗੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Но, о мой беспечный глупый ум, помни: в конце ничто не останется твоим."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3030,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਨਿ ਰਚਿ ਰਚਿਆ ਤਿਸਹਿ ਨ ਜਾਣੈ ਮਨ ਭੀਤਰਿ ਧਰਿ ਗਿਆਨੁ ॥",
+          "roman": "jin rach rachia tisah na jāṇē man bhītar dhar giān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੀਵ ਆਪਣੇ ਮਨ ਵਿਚ ਉਸ ਪ੍ਰਭੂ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾ ਕੇ ਉਸ ਨੂੰ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ, ਜਿਸਨੇ ਇਸ ਦੀ ਬਣਤਰ ਬਣਾ ਕੇ ਇਸ ਨੂੰ ਪੈਦਾ ਕੀਤਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Существо не вспоминает Того, кто его создал, не устанавливает с Ним глубокую связь в своём уме."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3031,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਾਣੀ ਦੂਜੈ ਪਹਰੈ ਵਿਸਰਿ ਗਇਆ ਧਿਆਨੁ ॥੨॥",
+          "roman": "kah nānak prāṇī dūjē pahrē visar gaeā dhiān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ ਦੇ ਦੂਜੇ ਪਹਰ ਵਿਚ (ਸੰਸਾਰ ਵਿਚ ਜਨਮ ਲੈ ਕੇ) ਜੀਵ ਨੂੰ ਪ੍ਰਭੂ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਭੁੱਲ ਜਾਂਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак говорит: во втором периоде ночи жизни существо забывает сосредоточение на Боге."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3032,
+          "is_rahao": false,
+          "gurmukhi": "ਤੀਜੈ ਪਹਰੈ ਰੈਣਿ ਕੈ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਧਨ ਜੋਬਨ ਸਿਉ ਚਿਤੁ ॥",
+          "roman": "tījē pahrē rēṇ kē vaṇjāriyā mitrā dhan joban siō chit",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹਰਿ-ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਏ ਹੇ ਜੀਵ ਮਿਤ੍ਰ! (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ ਦੇ ਤੀਜੇ ਪਹਰ ਵਿਚ ਤੇਰਾ ਮਨ ਧਨ ਨਾਲ ਤੇ ਜਵਾਨੀ ਨਾਲ ਪਰਚ ਗਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-живое существо! В третьем периоде ночи жизни твой ум привязывается к богатству и молодости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3033,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਨ ਚੇਤਹੀ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਬਧਾ ਛੁਟਹਿ ਜਿਤੁ ॥",
+          "roman": "har kā nām na chetahī vaṇjāriyā mitrā badhā chhuṭah jit",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਵਣਜਾਰੇ ਮਿਤ੍ਰ! ਤੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ, ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਤੂੰ (ਧਨ ਜੋਬਨ ਦੇ ਮੋਹ ਦੇ) ਬੰਧਨਾਂ ਵਿਚੋਂ ਖ਼ਲਾਸੀ ਪਾ ਸਕੇਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг! Ты не вспоминаешь Имя Бога, благодаря которому мог бы освободиться от этих оков."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3034,
+          "is_rahao": false,
+          "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਨ ਚੇਤੈ ਪ੍ਰਾਣੀ ਬਿਕਲੁ ਭਇਆ ਸੰਗਿ ਮਾਇਆ ॥",
+          "roman": "har kā nām na chetē prāṇī bikal bhaeā sang māiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੀਵ ਮਾਇਆ (ਦੇ ਮੋਹ) ਵਿਚ ਇਤਨਾ ਡੌਰ-ਭੌਰਾ ਹੋ ਜਾਂਦਾ ਹੈ ਕਿ ਇਹ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Существо настолько теряется в привязанности к майе, что не вспоминает Имя Бога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3035,
+          "is_rahao": false,
+          "gurmukhi": "ਧਨ ਸਿਉ ਰਤਾ ਜੋਬਨਿ ਮਤਾ ਅਹਿਲਾ ਜਨਮੁ ਗਵਾਇਆ ॥",
+          "roman": "dhan siō ratā joban matā ahilā janam gavāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਧਨ ਦੇ ਰੰਗ ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ, ਜਵਾਨੀ (ਦੇ ਨਸ਼ੇ) ਵਿਚ ਮਸਤਿਆ ਜਾਂਦਾ ਹੈ, (ਤੇ ਇਸ ਤਰ੍ਰਾਂ) ਸ੍ਰੇਸ਼ਟ ਮਨੁੱਖਾ ਜਨਮ ਗਵਾ ਲੈਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "окрашивается в богатстве, опьяняется молодостью и так теряет драгоценную человеческую жизнь."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3036,
+          "is_rahao": false,
+          "gurmukhi": "ਧਰਮ ਸੇਤੀ ਵਾਪਾਰੁ ਨ ਕੀਤੋ ਕਰਮੁ ਨ ਕੀਤੋ ਮਿਤੁ ॥",
+          "roman": "dharam setī vāpar na kīto karam na kīto mit",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਹ ਇਸ ਨੇ ਧਰਮ (ਭਾਵ, ਹਰਿ ਨਾਮ ਸਿਮਰਨ) ਦਾ ਵਾਪਾਰ ਕੀਤਾ, ਤੇ ਨਾਹ ਹੀ ਇਸ ਨੇ ਉੱਚੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਆਪਣਾ ਮਿੱਤਰ ਬਣਾਇਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Он не занялся делом дхармы (поминанием Имени), и не сделал высокую духовную жизнь своим другом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3037,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਤੀਜੈ ਪਹਰੈ ਪ੍ਰਾਣੀ ਧਨ ਜੋਬਨ ਸਿਉ ਚਿਤੁ ॥੩॥",
+          "roman": "kah nānak tījē pahrē prāṇī dhan joban siō chit",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਜ਼ਿੰਦਗੀ ਦੀ ਰਾਤ ਦੇ) ਤੀਜੇ ਪਹਰ ਵਿਚ ਜੀਵ ਨੇ ਧਨ ਨਾਲ ਤੇ ਜਵਾਨੀ ਨਾਲ ਹੀ ਚਿੱਤ ਜੋੜੀ ਰੱਖਿਆ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак говорит: в третьем периоде ночи жизни существо привязывает свой ум к богатству и молодости."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3038,
+          "is_rahao": false,
+          "gurmukhi": "ਚਉਥੈ ਪਹਰੈ ਰੈਣਿ ਕੈ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਲਾਵੀ ਆਇਆ ਖੇਤੁ ॥",
+          "roman": "chouthē pahrē rēṇ kē vaṇjāriyā mitrā lāvī āiā khet",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹਰਿ-ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਏ ਹੇ ਜੀਵ-ਮ੍ਰਿਤ! (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ ਦੇ ਚੌਥੇ ਪਹਰ (ਭਾਵ, ਬੁਢੇਪਾ ਆ ਜਾਣ ਤੇ) (ਸਰੀਰ-) ਖੇਤ ਨੂੰ ਵੱਢਣ ਵਾਲਾ (ਜਮ) ਆ ਪਹੁੰਚਿਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-живое существо! В четвёртом периоде ночи жизни (в старости) пришёл жнец, чтобы срезать поле тела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3039,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾ ਜਮਿ ਪਕੜਿ ਚਲਾਇਆ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਕਿਸੈ ਨ ਮਿਲਿਆ ਭੇਤੁ ॥",
+          "roman": "jā jam pakaṛ chalāiā vaṇjāriyā mitrā kisē na miliā bhet",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! ਜਦੋਂ ਜਮ ਨੇ (ਆ ਕੇ ਜੀਵਾਤਮਾ ਨੂੰ) ਫੜ ਕੇ ਅੱਗੇ ਲਾ ਲਿਆ ਤਾਂ ਕਿਸੇ (ਸਬੰਧੀ) ਨੂੰ ਸਮਝ ਨਾਹ ਪਈ ਕਿ ਇਹ ਕੀਹ ਹੋਇਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг! Когда посланец смерти схватил душу и увёл её, никто из близких не понял, что произошло."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3040,
+          "is_rahao": false,
+          "gurmukhi": "ਭੇਤੁ ਚੇਤੁ ਹਰਿ ਕਿਸੈ ਨ ਮਿਲਿਓ ਜਾ ਜਮਿ ਪਕੜਿ ਚਲਾਇਆ ॥",
+          "roman": "bhet chet har kisē na miliō jā jam pakaṛ chalāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦੇ ਇਸ ਹੁਕਮ ਤੇ ਭੇਤ ਦੀ ਕਿਸੇ ਨੂੰ ਸਮਝ ਨ ਪੈ ਸਕੀ, ਜਦੋਂ ਜਮ ਨੇ (ਜੀਵਾਤਮਾ ਨੂੰ) ਫੜ ਕੇ ਅੱਗੇ ਲਾ ਲਿਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Никто не смог понять эту волю и тайну Бога, когда посланец смерти увёл душу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3041,
+          "is_rahao": false,
+          "gurmukhi": "ਝੂਠਾ ਰੁਦਨੁ ਹੋਆ ਦੋੁਆਲੈ ਖਿਨ ਮਹਿ ਭਇਆ ਪਰਾਇਆ ॥",
+          "roman": "jhūṭhā rudan hoā duāle khin meh bhaeā parāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤਾਂ (ਉਸ ਦੇ ਮਿਰਤਕ ਸਰੀਰ ਦੇ) ਦੁਆਲੇ ਵਿਅਰਥ ਰੋਣ-ਕੁਰਲਾਣ ਸ਼ੁਰੂ ਹੋ ਗਿਆ। (ਉਹ ਜਿਸ ਨੂੰ ਸਾਰੇ ਹੀ ਸੰਬੰਧੀ 'ਮੇਰਾ, ਮੇਰਾ' ਕਿਹਾ ਕਰਦੇ ਸਨ) ਇਕ ਖਿਨ ਵਿਚ ਹੀ ਓਪਰਾ ਹੋ ਗਿਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Вокруг начались напрасные рыдания, и тот, кого все называли «мой», в один миг стал чужим."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3042,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਈ ਵਸਤੁ ਪਰਾਪਤਿ ਹੋਈ ਜਿਸੁ ਸਿਉ ਲਾਇਆ ਹੇਤੁ ॥",
+          "roman": "sāī vast parāpat hoī jis siō lāiā het",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਨਾਲ (ਸਾਰੀ ਉਮਰ) ਮੋਹ ਕੀਤੀ ਰੱਖਿਆ (ਤੇ ਉਸ ਦੇ ਅਨੁਸਾਰ ਜੋ ਜੋ ਕਰਮ ਕੀਤੇ, ਅੰਤ ਵੇਲੇ) ਉਹ ਕੀਤੀ ਕਮਾਈ ਸਾਹਮਣੇ ਆ ਗਈ (ਪ੍ਰਾਪਤ ਹੋ ਗਈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "То, к чему было привязано сердце и ради чего совершались поступки, в конце и стало результатом (перед душой)."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3043,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਾਣੀ ਚਉਥੈ ਪਹਰੈ ਲਾਵੀ ਲੁਣਿਆ ਖੇਤੁ ॥੪॥੧॥",
+          "roman": "kah nānak prāṇī chouthē pahrē lāvī luṇiā khet",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਜ਼ਿੰਦਗੀ ਦੀ ਰਾਤ ਦੇ) ਚੌਥੇ ਪਹਰ (ਭਾਵ, ਬੁਢੇਪਾ ਆ ਜਾਣ ਤੇ ਫ਼ਸਲ) ਵੱਢਣ ਵਾਲੇ (ਜਮਦੂਤ) ਨੇ (ਸਰੀਰ-) ਖੇਤ ਨੂੰ ਆ ਕੱਟਿਆ ॥੪॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Нанак говорит: в четвёртом периоде ночи жизни жнец пришёл и срезал поле тела."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 185,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 3044,
+          "is_rahao": false,
+          "gurmukhi": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੧ ॥",
+          "roman": "sirī rāg mahlā 1",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3045,
+          "is_rahao": false,
+          "gurmukhi": "ਪਹਿਲੈ ਪਹਰੈ ਰੈਣਿ ਕੈ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਬਾਲਕ ਬੁਧਿ ਅਚੇਤੁ ॥",
+          "roman": "pahilē paharē rēṇ kē vaṇjāriā mitrā bālak budh achēt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹਰਿ-ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਏ ਹੇ ਜੀਵ-ਮਿਤ੍ਰ! (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ ਦੇ ਪਹਿਲੇ ਪਹਰ ਵਿਚ (ਜੀਵ) ਬਾਲਕਾਂ ਦੀ ਅਕਲ ਵਾਲਾ (ਅੰਞਾਣ) ਹੁੰਦਾ ਹੈ। (ਨਾਮ ਸਿਮਰਨ ਵਲੋਂ) ਬੇ-ਪਰਵਾਹ ਰਹਿੰਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-джив, пришедший торговать именем Хари! В первый час ночи жизни человек пребывает в детском неразумии, неосознанен и беспечен к स्मरणию Имени."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3046,
+          "is_rahao": false,
+          "gurmukhi": "ਖੀਰੁ ਪੀਐ ਖੇਲਾਈਐ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਮਾਤ ਪਿਤਾ ਸੁਤ ਹੇਤੁ ॥ ਮਾਤ ਪਿਤਾ ਸੁਤ ਨੇਹੁ ਘਨੇਰਾ ਮਾਇਆ ਮੋਹੁ ਸਬਾਈ ॥",
+          "roman": "khīr pīai khēlāīai vaṇjāriā mitrā māt pitā sut hēt. māt pitā sut nēh ghanērā māiā moh sabāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! (ਬਾਲ ਉਮਰੇ ਜੀਵ ਮਾਂ ਦਾ) ਦੁੱਧ ਪੀਂਦਾ ਹੈ ਤੇ ਖੇਡਾਂ ਵਿਚ ਹੀ ਪਰਚਾਈਦਾ ਹੈ, (ਉਸ ਉਮਰੇ) ਮਾਪਿਆਂ ਦਾ (ਆਪਣੇ) ਪੁੱਤਰ ਨਾਲ (ਬੜਾ) ਪਿਆਰ ਹੁੰਦਾ ਹੈ। ਮਾਂ ਪਿਉ ਦਾ ਪੁੱਤਰ ਨਾਲ ਬਹੁਤ ਪਿਆਰ ਹੁੰਦਾ ਹੈ। ਮਾਇਆ ਦਾ (ਇਹ) ਮੋਹ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਨੂੰ (ਹੀ ਵਿਆਪ ਰਿਹਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-торговец! В детстве джив пьёт молоко и занят играми, в это время родители сильно любят своего ребёнка. Любовь родителей к сыну велика. Этот मोह майи пронизывает всю вселенную."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3047,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਜੋਗੀ ਆਇਆ ਕਿਰਤੁ ਕਮਾਇਆ ਕਰਣੀ ਕਾਰ ਕਰਾਈ ॥",
+          "roman": "sanjogī āiā kirat kamāiā karaṇī kār karāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜੀਵ ਨੇ ਪਿਛਲੇ ਜਨਮਾਂ ਵਿਚ) ਕਰਮਾਂ ਦਾ ਜੋ ਸੰਗ੍ਰਹ ਕਮਾਇਆ, ਉਹਨਾਂ ਦੇ ਸੰਜੋਗ ਅਨੁਸਾਰ (ਜਗਤ ਵਿਚ) ਜਨਮਿਆ, (ਤੇ ਇਥੇ ਆ ਕੇ ਮੁੜ ਉਹਨਾਂ ਅਨੁਸਾਰ) ਕਰਣੀ ਕਰਦਾ ਹੈ ਕਾਰ ਕਮਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Согласно накопленным в прошлых жизнях कर्मам, джив рождается в мире и здесь снова действует и совершает поступки в соответствии с ними."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3048,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਨਾਮ ਬਿਨੁ ਮੁਕਤਿ ਨ ਹੋਈ ਬੂਡੀ ਦੂਜੈ ਹੇਤਿ ॥",
+          "roman": "rām nām bin mukt na hoī būḍī dūjē hēt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਦੁਨੀਆ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਡੁੱਬ ਰਹੀ ਹੈ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ (ਇਸ ਮੋਹ ਵਿਚੋਂ) ਖ਼ਲਾਸੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Мир погружён в मोह майи, и без स्मरणия Имени Бога освобождение из этого मोह невозможно."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3049,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਾਣੀ ਪਹਿਲੈ ਪਹਰੈ ਛੂਟਹਿਗਾ ਹਰਿ ਚੇਤਿ ॥੧॥",
+          "roman": "kah nānak prāṇī pahilē paharē chhūṭahigā har chēt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਜੀਵ! (ਜ਼ਿੰਦਗੀ ਦੀ ਰਾਤ ਦੇ) ਪਹਿਲੇ ਪਹਰ ਵਿਚ (ਤੂੰ ਬੇ-ਪਰਵਾਹ ਹੈਂ), ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰ (ਸਿਮਰਨ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਹੀ ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ) ਬਚੇਂਗਾ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Говорит Нанак: о джив! В первый час жизни ты беспечен, но स्मरणие Бога поможет тебе освободиться от मोह майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3050,
+          "is_rahao": false,
+          "gurmukhi": "ਦੂਜੈ ਪਹਰੈ ਰੈਣਿ ਕੈ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਭਰਿ ਜੋਬਨਿ ਮੈ ਮਤਿ ॥",
+          "roman": "dūjē paharē rēṇ kē vaṇjāriā mitrā bhar joban mē mat",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹਰਿ-ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਏ ਹੇ ਜੀਵ-ਮਿਤ੍ਰ! (ਜ਼ਿੰਦਗੀ ਦੀ) ਰਾਤ ਦੇ ਦੂਜੇ ਪਹਰ ਵਿਚ ਭਰ-ਜਵਾਨੀ ਦੇ ਕਾਰਨ ਜੀਵ ਦੀ ਮਤਿ (-ਅਕਲ ਇਉਂ ਹੋ ਜਾਂਦੀ ਹੈ ਜਿਵੇਂ) ਸ਼ਰਾਬ (ਵਿਚ ਗੁੱਟ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-джив! Во втором часу жизни, в полной молодости, ум становится как будто опьянённым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3051,
+          "is_rahao": false,
+          "gurmukhi": "ਅਹਿਨਿਸਿ ਕਾਮਿ ਵਿਆਪਿਆ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਅੰਧੁਲੇ ਨਾਮੁ ਨ ਚਿਤਿ ॥",
+          "roman": "ahinis kām viāpiā vaṇjāriā mitrā andhulē nām na chit",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! (ਜੀਵ) ਦਿਨ ਰਾਤ ਕਾਮ-ਵਾਸਨਾ ਵਿਚ ਦਬਿਆ ਰਹਿੰਦਾ ਹੈ, (ਕਾਮ ਵਿਚ) ਅੰਨ੍ਹੇ ਹੋਏ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਚਿੱਤ ਵਿਚ (ਟਿਕਾਣ ਦੀ ਸੁਰਤਿ) ਨਹੀਂ (ਹੁੰਦੀ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-торговец! Джив день и ночь погружён в страсть, ослеплённый, он не удерживает Имя Бога в своём уме."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3052,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਨਾਮੁ ਘਟ ਅੰਤਰਿ ਨਾਹੀ ਹੋਰਿ ਜਾਣੈ ਰਸ ਕਸ ਮੀਠੇ ॥",
+          "roman": "rām nām ghaṭ antar nāhī hor jāṇē ras kas mīṭhē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਤਾਂ ਜੀਵ ਦੇ ਹਿਰਦੇ ਵਿਚ ਨਹੀਂ ਵੱਸਦਾ, (ਨਾਮ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਮਿੱਠੇ ਕਸੈਲੇ ਅਨੇਕਾਂ ਰਸਾਂ ਦੇ ਸੁਆਦ ਪਛਾਣਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Имя Бога не обитает в сердце, а человек распознаёт лишь разнообразные сладкие и горькие вкусы мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3053,
+          "is_rahao": false,
+          "gurmukhi": "ਗਿਆਨੁ ਧਿਆਨੁ ਗੁਣ ਸੰਜਮੁ ਨਾਹੀ ਜਨਮਿ ਮਰਹੁਗੇ ਝੂਠੇ ॥",
+          "roman": "giān dhiān guṇ sanjam nāhī janam marhūgē jhūṭhē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਝੂਠੇ (ਮੋਹ ਵਿਚ ਫਸੇ ਜੀਵ)! ਤੂੰ ਪਰਮਾਤਮਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਨਹੀਂ ਪਾਈ, ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਤੇਰੀ ਸੁਰਤ ਨਹੀਂ, ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਯਾਦ ਨਹੀਂ ਕੀਤੇ, ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਵਿਕਾਰਾਂ ਵਲੋਂ ਰੋਕਣ ਦਾ ਤੂੰ ਉੱਦਮ ਨਹੀਂ ਕੀਤਾ (ਇਸ ਦਾ ਨਤੀਜਾ ਇਹ ਹੋਵੇਗਾ ਕਿ) ਤੂੰ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪੈ ਜਾਇਗਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О ложный человек, попавший в मोह! Ты не познал Бога, не сосредоточен на Нём, не помнил Его गुणы и не сдерживал чувства — потому попадёшь в круг рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3054,
+          "is_rahao": false,
+          "gurmukhi": "ਤੀਰਥ ਵਰਤ ਸੁਚਿ ਸੰਜਮੁ ਨਾਹੀ ਕਰਮੁ ਧਰਮੁ ਨਹੀ ਪੂਜਾ ॥",
+          "roman": "tīrath vrat such sanjam nāhī karam dharam nahī pūjā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉੱਚਾ ਆਤਮਕ ਜੀਵਨ ਬਣਾਣ ਵਾਲੇ ਸੇਵਾ-ਸਿਮਰਨ ਦੇ ਕੰਮ ਕਰਨੇ ਤਾਂ ਦੂਰ ਰਹੇ, ਕਾਮ ਵਿੱਚ ਮੱਤਾ ਹੋਇਆ ਜੀਵ) ਤੀਰਥ ਵਰਤ, ਸੁਚਿ, ਸੰਜਮ, ਪੂਜਾ ਆਦਿਕ ਕਰਮ ਕਾਂਡ ਦੇ ਧਰਮ ਭੀ ਨਹੀਂ ਕਰਦਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Он не совершает ни паломничеств, ни постов, ни очищения, ни самоконтроля, ни религиозных ритуалов и पूजा."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3055,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਨਕ ਭਾਇ ਭਗਤਿ ਨਿਸਤਾਰਾ ਦੁਬਿਧਾ ਵਿਆਪੈ ਦੂਜਾ ॥੨॥",
+          "roman": "nānak bhāi bhagat nistārā dubidhā viāpē dūjā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਉਂਞ) ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ ਦੀ ਰਾਹੀਂ ਹੀ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਦੀ ਰਾਹੀਂ ਹੀ (ਇਸ ਕਾਮ-ਵਾਸ਼ਨਾ ਤੋਂ) ਬਚਾ ਹੋ ਸਕਦਾ ਹੈ, (ਭਗਤੀ-ਸਿਮਰਨ ਵਲੋਂ) ਦੁਚਿੱਤਾ-ਪਨ ਰੱਖਿਆਂ (ਕਾਮਾਦਿਕ ਦੀ ਸ਼ਕਲ ਵਿਚ) ਮਾਇਆ ਦਾ ਮੋਹ ਹੀ ਜ਼ੋਰ ਪਾਂਦਾ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! Только через любовь к Богу и भक्तи возможно спасение, а двойственность усиливает मोह майи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3056,
+          "is_rahao": false,
+          "gurmukhi": "ਤੀਜੈ ਪਹਰੈ ਰੈਣਿ ਕੈ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਸਰਿ ਹੰਸ ਉਲਥੜੇ ਆਇ ॥",
+          "roman": "tījē paharē rēṇ kē vaṇjāriā mitrā sar hans ulathṛē āi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹਰਿ-ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਏ ਹੇ ਜੀਵ-ਮਿਤ੍ਰ! (ਜ਼ਿੰਦਗੀ ਦੀ ਰਾਤ ਦੇ ਤੀਜੇ ਪਹਰ ਸਰ ਉੱਤੇ ਹੰਸ ਆ ਉੱਤਰਦੇ ਹਨ (ਸਿਰ ਉੱਤੇ ਧੌਲੇ ਆ ਜਾਂਦੇ ਹਨ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-джив! В третьем часу жизни (на голове) появляются седые волосы."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 3057,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋਬਨੁ ਘਟੈ ਜਰੂਆ ਜਿਣੈ ਵਣਜਾਰਿਆ ਮਿਤ੍ਰਾ ਆਵ ਘਟੈ ਦਿਨੁ ਜਾਇ ॥",
+          "roman": "joban ghaṭē jarūā jiṇē vaṇjāriā mitrā āv ghaṭē din jāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਵਣਜਾਰੇ ਮਿਤ੍ਰ! (ਜਿਉਂ ਜਿਉਂ) ਜਵਾਨੀ ਘਟਦੀ ਹੈ ਬੁਢੇਪਾ (ਸਰੀਰਕ ਤਾਕਤ ਨੂੰ) ਜਿੱਤਦਾ ਜਾਂਦਾ ਹੈ (ਉਮਰ ਦਾ) ਇਕ ਇਕ ਦਿਨ ਲੰਘਦਾ ਹੈ ਉਮਰ ਘਟਦੀ ਜਾਂਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О друг-торговец! Молодость уменьшается, старость побеждает тело, дни проходят, и жизнь сокращается."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

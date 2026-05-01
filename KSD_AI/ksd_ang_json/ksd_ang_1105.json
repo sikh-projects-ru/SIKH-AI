@@ -1,0 +1,785 @@
+{
+  "ang": 1105,
+  "shabads": [
+    {
+      "shabad_id": 3967,
+      "rahao_verse_id": 47262,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 47261,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਜਨ ਕਉਨੁ ਤੁਮਾਰੈ ਆਵੈ ॥",
+          "roman": "rājan kaun tumārē āvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਰਾਜਾ (ਦੁਰਜੋਧਨ)! ਤੇਰੇ ਘਰ ਕੌਣ ਆਵੇ? (ਮੈਨੂੰ ਤੇਰੇ ਘਰ ਆਉਣ ਦੀ ਖਿੱਚ ਨਹੀਂ ਹੋ ਸਕਦੀ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "О царь Дурьодхана! Кто придёт в твой дом? Меня не может тянуть к тебе домой."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47262,
+          "is_rahao": true,
+          "gurmukhi": "ਐਸੋ ਭਾਉ ਬਿਦਰ ਕੋ ਦੇਖਿਓ ਓਹੁ ਗਰੀਬੁ ਮੋਹਿ ਭਾਵੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "ēso bhāu bidar ko dekhiō ohu garīb mohi bhāvē ॥1॥ rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਬਿਦਰ ਦਾ ਇਤਨਾ ਪ੍ਰੇਮ ਵੇਖਿਆ ਹੈ ਕਿ ਉਹ ਗ਼ਰੀਬ (ਭੀ) ਮੈਨੂੰ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Я увидел такую любовь Бидара, что и этот бедняк мне дорог ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47263,
+          "is_rahao": false,
+          "gurmukhi": "ਹਸਤੀ ਦੇਖਿ ਭਰਮ ਤੇ ਭੂਲਾ ਸ੍ਰੀ ਭਗਵਾਨੁ ਨ ਜਾਨਿਆ ॥",
+          "roman": "hastī dekh bharam te bhūlā srī bhagvān na jāniā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੂੰ ਹਾਥੀ (ਆਦਿਕ) ਵੇਖ ਕੇ ਮਾਣ ਵਿਚ ਆ ਕੇ ਖੁੰਝ ਗਿਆ ਹੈਂ, ਪਰਮਾਤਮਾ ਨੂੰ ਭੁਲਾ ਬੈਠਾ ਹੈਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Ты, увидев слонов и прочее, заблудился в гордыне и забыл Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47264,
+          "is_rahao": false,
+          "gurmukhi": "ਤੁਮਰੋ ਦੂਧੁ ਬਿਦਰ ਕੋ ਪਾਨੑੋ ਅੰਮ੍ਰਿਤੁ ਕਰਿ ਮੈ ਮਾਨਿਆ ॥੧॥",
+          "roman": "tumro dūdẖ bidar ko pānho aṃmrit kar mē māniā ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਕ ਪਾਸੇ ਤੇਰਾ ਦੁੱਧ ਹੈ, ਦੂਜੇ ਪਾਸੇ ਬਿਦਰ ਦਾ ਪਾਣੀ ਹੈ; ਇਹ ਪਾਣੀ ਮੈਨੂੰ ਅੰਮ੍ਰਿਤ ਦਿੱਸਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "С одной стороны твоё молоко, с другой — вода Бидара; эта вода кажется мне амритом ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47265,
+          "is_rahao": false,
+          "gurmukhi": "ਖੀਰ ਸਮਾਨਿ ਸਾਗੁ ਮੈ ਪਾਇਆ ਗੁਨ ਗਾਵਤ ਰੈਨਿ ਬਿਹਾਨੀ ॥",
+          "roman": "khīr samān sāg mē pāiā gun gāvat rēn bihānī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਬਿਦਰ ਦੇ ਘਰ ਦਾ ਰਿੱਝਾ ਹੋਇਆ) ਸਾਗ (ਤੇਰੀ ਰਸੋਈ ਦੀ ਪੱਕੀ) ਖੀਰ ਵਰਗਾ ਮੈਨੂੰ (ਮਿੱਠਾ) ਲੱਗਦਾ ਹੈ, (ਕਿਉਂਕਿ ਬਿਦਰ ਦੇ ਕੋਲ ਰਹਿ ਕੇ ਮੇਰੀ) ਰਾਤ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦਿਆਂ ਬੀਤੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Овощное блюдо в доме Бидара кажется мне сладким, как кхир, ведь рядом с Бидаром моя ночь прошла в пении качеств Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47266,
+          "is_rahao": false,
+          "gurmukhi": "ਕਬੀਰ ਕੋ ਠਾਕੁਰੁ ਅਨਦ ਬਿਨੋਦੀ ਜਾਤਿ ਨ ਕਾਹੂ ਕੀ ਮਾਨੀ ॥੨॥੯॥",
+          "roman": "kabīr ko ṭhākur anad binodī jāt na kāhū kī mānī ॥2॥9॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਬੀਰ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਆਨੰਦ ਤੇ ਮੌਜ ਦਾ ਮਾਲਕ ਹੈ (ਜਿਵੇਂ ਉਸ ਨੇ ਕ੍ਰਿਸ਼ਨ-ਰੂਪ ਵਿਚ ਆ ਕੇ ਕਿਸੇ ਦੇ ਉੱਚੇ ਮਰਾਤਬੇ ਦੀ ਪਰਵਾਹ ਨਹੀਂ ਕੀਤੀ, ਤਿਵੇਂ) ਉਹ ਕਿਸੇ ਦੀ ਉੱਚੀ ਜਾਤ ਦੀ ਪਰਵਾਹ ਨਹੀਂ ਕਰਦਾ ॥੨॥੯॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Владыка Кабира — Господь радости и блаженной игры; Он не считается с чьей-либо высокой кастой ॥2॥9॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3968,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 47267,
+          "is_rahao": false,
+          "gurmukhi": "ਸਲੋਕ ਕਬੀਰ ॥",
+          "roman": "salok kabīr",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47268,
+          "is_rahao": false,
+          "gurmukhi": "ਗਗਨ ਦਮਾਮਾ ਬਾਜਿਓ ਪਰਿਓ ਨੀਸਾਨੈ ਘਾਉ ॥",
+          "roman": "gagan damāmā bājiō pariō nīsānē ghāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਦੇ ਦਸਮ-ਦੁਆਰ ਵਿਚ ਧੌਂਸਾ ਵੱਜਦਾ ਹੈ, ਉਸ ਦੇ ਨਿਸ਼ਾਨੇ ਤੇ ਚੋਟ ਪੈਂਦੀ ਹੈ (ਭਾਵ, ਉਸ ਦਾ ਮਨ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਉੱਚੀਆਂ ਉਡਾਰੀਆਂ ਲਾਂਦਾ ਹੈ, ਜਿੱਥੇ ਕਿਸੇ ਵਿਕਾਰ ਦੀ ਸੁਣਾਈ ਹੀ ਨਹੀਂ ਹੋ ਸਕਦੀ, ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜੇ ਰਹਿਣ ਦੀ ਧ੍ਰੂਹ ਪੈਂਦੀ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "В его десятых вратах звучит боевой барабан, и удар приходится точно в цель."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47269,
+          "is_rahao": false,
+          "gurmukhi": "ਖੇਤੁ ਜੁ ਮਾਂਡਿਓ ਸੂਰਮਾ ਅਬ ਜੂਝਨ ਕੋ ਦਾਉ ॥੧॥",
+          "roman": "khet ju māṇḍiō sūrmā ab jūjhan ko dāu ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਇਸ ਜਗਤ-ਰੂਪ ਰਣ-ਭੂਮੀ ਵਿਚ ਦਲੇਰ ਹੋ ਕੇ ਵਿਕਾਰਾਂ ਦੇ ਟਾਕਰੇ ਤੇ ਅੜ ਖਲੋਤਾ ਹੈ, ਤੇ ਇਹ ਸਮਝਦਾ ਹੈ ਕਿ ਇਹ ਮਨੁੱਖਾ-ਜੀਵਨ ਹੀ ਮੌਕਾ ਹੈ ਜਦੋਂ ਇਹਨਾਂ ਨਾਲ ਲੜਿਆ ਜਾ ਸਕਦਾ ਹੈ, ਉਹ ਹੈ ਅਸਲ ਸੂਰਮਾ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот человек, который в этом мире-поле битвы отважно встал против пороков и понимает, что именно человеческая жизнь — это возможность сразиться с ними, — тот и есть настоящий воин ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47270,
+          "is_rahao": false,
+          "gurmukhi": "ਸੂਰਾ ਸੋ ਪਹਿਚਾਨੀਐ ਜੁ ਲਰੈ ਦੀਨ ਕੇ ਹੇਤ ॥",
+          "roman": "sūrā so pahichānīē ju larē dīn ke het",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹਾਂ, ਇਕ ਹੋਰ ਭੀ ਸੂਰਮਾ ਹੈ) ਉਸ ਮਨੁੱਖ ਨੂੰ ਭੀ ਸੂਰਮਾ ਹੀ ਸਮਝਣਾ ਚਾਹੀਦਾ ਹੈ ਜੋ ਗ਼ਰੀਬਾਂ ਦੀ ਖ਼ਾਤਰ ਲੜਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Да, ещё воином следует считать того человека, который сражается ради бедных,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47271,
+          "is_rahao": false,
+          "gurmukhi": "ਪੁਰਜਾ ਪੁਰਜਾ ਕਟਿ ਮਰੈ ਕਬਹੂ ਨ ਛਾਡੈ ਖੇਤੁ ॥੨॥੨॥",
+          "roman": "purjā purjā kaṭ marē kabhū na chhāḍē khet ॥2॥2॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਗ਼ਰੀਬਾਂ ਵਾਸਤੇ ਲੜਦਾ ਲੜਦਾ) ਟੋਟੇ ਟੋਟੇ ਹੋ ਮਰਦਾ ਹੈ, ਪਰ ਲੜਾਈ ਦਾ ਮੈਦਾਨ ਕਦੇ ਨਹੀਂ ਛੱਡਦਾ (ਪਰ ਪਿਛਾਂਹ ਪੈਰ ਨਹੀਂ ਹਟਾਂਦਾ, ਆਪਣੀ ਜਿੰਦ ਬਚਾਣ ਦੀ ਖ਼ਾਤਰ ਗ਼ਰੀਬ ਦੀ ਫੜੀ ਹੋਈ ਬਾਂਹ ਨਹੀਂ ਛੱਡਦਾ) ॥੨॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "который, сражаясь за бедных, умирает, разрубленный на куски, но никогда не покидает поля битвы ॥2॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3969,
+      "rahao_verse_id": 47277,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 47272,
+          "is_rahao": false,
+          "gurmukhi": "ਕਬੀਰ ਕਾ ਸਬਦੁ ਰਾਗੁ ਮਾਰੂ ਬਾਣੀ ਨਾਮਦੇਉ ਜੀ ਕੀ",
+          "roman": "kabīr kā sabad rāg mārū bāṇī nāmdeu jī kī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਮਾਰੂ ਵਿੱਚ ਭਗਤ ਕਬੀਰ ਜੀ ਦਾ ਸ਼ਬਦ ਤੇ ਭਗਤ ਨਾਮਦੇਵ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Шабад бхагата Кабира Джи в раге Мару и бани бхагата Намдева Джи."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47273,
+          "is_rahao": false,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik ōaṅkār satigur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акал Пуракх один и обретается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47274,
+          "is_rahao": false,
+          "gurmukhi": "ਚਾਰਿ ਮੁਕਤਿ ਚਾਰੈ ਸਿਧਿ ਮਿਲਿ ਕੈ ਦੂਲਹ ਪ੍ਰਭ ਕੀ ਸਰਨਿ ਪਰਿਓ ॥",
+          "roman": "chār mukt chārē sidh mil kē dūlah prabh kī saran pariō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਗਤ ਵਿਚ) ਚਾਰ ਕਿਸਮ ਦੀਆਂ ਮੁਕਤੀਆਂ (ਮਿੱਥੀਆਂ ਗਈਆਂ ਹਨ), ਇਹ ਚਾਰੇ ਮੁਕਤੀਆਂ (ਅਠਾਰਾਂ) ਸਿੱਧੀਆਂ ਨਾਲ ਮਿਲ ਕੇ ਖਸਮ (-ਪ੍ਰਭੂ) ਦੀ ਸ਼ਰਨੀ ਪਈਆਂ ਹੋਈਆਂ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Четыре вида освобождения, которые признаются в мире, вместе со всеми этими сиддхи припали к защите Господа-Супруга,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47275,
+          "is_rahao": false,
+          "gurmukhi": "ਮੁਕਤਿ ਭਇਓ ਚਉਹੂੰ ਜੁਗ ਜਾਨਿਓ ਜਸੁ ਕੀਰਤਿ ਮਾਥੈ ਛਤ੍ਰੁ ਧਰਿਓ ॥੧॥",
+          "roman": "mukat bhēō chauhū jug jāniō jas kīrat māthē chhatr dhariō ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜੋ ਮਨੁੱਖ ਉਸ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ, ਉਸ ਨੂੰ ਇਹ ਹਰੇਕ ਕਿਸਮ ਦੀ) ਮੁਕਤੀ ਮਿਲ ਜਾਂਦੀ ਹੈ, ਉਹ ਮਨੁੱਖ ਚਹੁੰਆਂ ਜੁਗਾਂ ਵਿਚ ਉੱਘਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਸ ਦੀ (ਹਰ ਥਾਂ) ਸੋਭਾ ਹੁੰਦੀ ਹੈ, ਵਡਿਆਈ ਹੁੰਦੀ ਹੈ, ਉਸ ਦੇ ਸਿਰ ਉੱਤੇ ਛਤਰ ਝੁਲਦਾ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "тому человеку, который помнит Имя этого Господа, достаётся всякое освобождение; он становится известен во всех четырёх эпохах, всюду обретает славу и величие, и над его головой колышется царский зонт ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47276,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਜਾ ਰਾਮ ਜਪਤ ਕੋ ਕੋ ਨ ਤਰਿਓ ॥",
+          "roman": "rājā rām japat ko ko na tariō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਕਾਸ਼-ਰੂਪ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ ਕੇ ਬੇਅੰਤ ਜੀਵ ਤਰੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Бесчисленные существа переправились, повторяя Имя сияющего Господа."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47277,
+          "is_rahao": true,
+          "gurmukhi": "ਗੁਰ ਉਪਦੇਸਿ ਸਾਧ ਕੀ ਸੰਗਤਿ ਭਗਤੁ ਭਗਤੁ ਤਾ ਕੋ ਨਾਮੁ ਪਰਿਓ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "gur updes sādh kī sangat bhagat bhagat tā ko nām pariō ॥1॥ rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਸ ਜਿਸ ਮਨੁੱਖ ਨੇ ਆਪਣੇ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਉੱਤੇ ਤੁਰ ਕੇ ਸਾਧ ਸੰਗਤ ਕੀਤੀ, ਉਸ ਦਾ ਨਾਮ ਭਗਤ ਪੈ ਗਿਆ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Каждый человек, который, следуя наставлению своего Гуру, пребывал в садх-сангате, стал известен как бхагат ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47278,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਖ ਚਕ੍ਰ ਮਾਲਾ ਤਿਲਕੁ ਬਿਰਾਜਿਤ ਦੇਖਿ ਪ੍ਰਤਾਪੁ ਜਮੁ ਡਰਿਓ ॥",
+          "roman": "saṅkh chakr mālā tilak birājit dekh pratāp jm ḍariō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪ੍ਰਭੂ ਦਾ) ਸੰਖ, ਚੱਕ੍ਰ, ਮਾਲਾ, ਤਿਲਕ ਆਦਿਕ ਚਮਕਦਾ ਵੇਖ ਕੇ, ਪਰਤਾਪ ਵੇਖ ਕੇ, ਜਮਰਾਜ ਭੀ ਸਹਿਮ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Увидев сияющие шанкх, чакру, малу, тилак и прочее величие Господа, даже Ямараджа приходит в трепет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47279,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਰਭਉ ਭਏ ਰਾਮ ਬਲ ਗਰਜਿਤ ਜਨਮ ਮਰਨ ਸੰਤਾਪ ਹਿਰਿਓ ॥੨॥",
+          "roman": "nirbhau bhae rām bal garjit janam maran santāp hiriō ॥2॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਜਿਨ੍ਹਾਂ ਨੇ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਿਆ ਹੈ) ਉਹਨਾਂ ਨੂੰ ਕੋਈ ਡਰ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ, (ਕਿਉਂਕਿ ਉਹਨਾਂ ਪਾਸੋਂ ਤਾਂ ਜਮ ਭੀ ਡਰਦਾ ਹੈ), ਪ੍ਰਭੂ ਦਾ ਪਰਤਾਪ ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਉਛਾਲੇ ਮਾਰਦਾ ਹੈ, ਉਹਨਾਂ ਦੇ ਜਨਮ ਮਰਨ ਦੇ ਕਲੇਸ਼ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "У тех, кто помнил этого Господа, не остаётся никакого страха; могущество Господа бурлит в них, и их страдания рождения и смерти исчезают ॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47280,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਬਰੀਕ ਕਉ ਦੀਓ ਅਭੈ ਪਦੁ ਰਾਜੁ ਭਭੀਖਨ ਅਧਿਕ ਕਰਿਓ ॥",
+          "roman": "aṃbarīk kau dīō abhē pad rāj bhabhīkhan adhik kariō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਅੰਬਰੀਕ ਨੇ ਨਾਮ ਸਿਮਰਿਆ, ਪ੍ਰਭੂ ਨੇ) ਅੰਬਰੀਕ ਨੂੰ ਨਿਰਭੈਤਾ ਦਾ ਉੱਚਾ ਦਰਜਾ ਬਖ਼ਸ਼ਿਆ (ਤੇ ਦੁਰਬਾਸਾ ਉਸ ਦਾ ਕੁਝ ਵਿਗਾੜ ਨਾ ਸਕਿਆ), ਪ੍ਰਭੂ ਨੇ ਭਭੀਖਣ ਨੂੰ ਰਾਜ ਦੇ ਕੇ ਵੱਡਾ ਬਣਾ ਦਿੱਤਾ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Амбрику Господь даровал высокое состояние бесстрашия, а Бхабхикхана сделал великим, дав ему царство;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47281,
+          "is_rahao": false,
+          "gurmukhi": "ਨਉ ਨਿਧਿ ਠਾਕੁਰਿ ਦਈ ਸੁਦਾਮੈ ਧ੍ਰੂਅ ਅਟਲੁ ਅਜਹੂ ਨ ਟਰਿਓ ॥੩॥",
+          "roman": "nau nidh ṭhākur daī sudāmē dẖr aṭal ajahū na ṭariō ॥3॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸੁਦਾਮੇ (ਗ਼ਰੀਬ) ਨੂੰ ਠਾਕੁਰ ਨੇ ਨੌ ਨਿਧੀਆਂ ਦੇ ਦਿੱਤੀਆਂ, ਧ੍ਰੂ ਨੂੰ ਅਟੱਲ ਪਦਵੀ ਬਖ਼ਸ਼ੀ ਜੋ ਅਜੇ ਤਕ ਕਾਇਮ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "бедному Судаме Владыка дал девять сокровищ, а Дхруве даровал неколебимое положение, которое и до сих пор остаётся прочным ॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47282,
+          "is_rahao": false,
+          "gurmukhi": "ਭਗਤ ਹੇਤਿ ਮਾਰਿਓ ਹਰਨਾਖਸੁ ਨਰਸਿੰਘ ਰੂਪ ਹੋਇ ਦੇਹ ਧਰਿਓ ॥",
+          "roman": "bhagat het māriō harnākhas narsingh rūp hoi deh dhariō",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਨੇ ਆਪਣੇ ਭਗਤ (ਪ੍ਰਹਿਲਾਦ) ਦੀ ਖ਼ਾਤਰ ਨਰਸਿੰਘ ਦਾ ਰੂਪ ਧਾਰਿਆ, ਤੇ ਹਰਨਾਖਸ਼ ਨੂੰ ਮਾਰਿਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Ради Своего бхагата Прахлада Господь принял образ Нарасингха и убил Хироньякашипу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47283,
+          "is_rahao": false,
+          "gurmukhi": "ਨਾਮਾ ਕਹੈ ਭਗਤਿ ਬਸਿ ਕੇਸਵ ਅਜਹੂੰ ਬਲਿ ਕੇ ਦੁਆਰ ਖਰੋ ॥੪॥੧॥",
+          "roman": "nāmā kahē bhagat bas kesav ajahū bali ke duār kharo ॥4॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਮਦੇਵ ਆਖਦਾ ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਭਗਤੀ ਦੇ ਅਧੀਨ ਹੈ, (ਵੇਖੋ!) ਅਜੇ ਤਕ ਉਹ (ਆਪਣੇ ਭਗਤ ਰਾਜਾ) ਬਲਿ ਦੇ ਬੂਹੇ ਅੱਗੇ ਖਲੋਤਾ ਹੈ ॥੪॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Намдев говорит: Бог подвластен бхакти; смотри, Он и теперь стоит у дверей Своего бхагата, царя Бали ॥4॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3970,
+      "rahao_verse_id": 47286,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 47284,
+          "is_rahao": true,
+          "gurmukhi": "ਮਾਰੂ ਕਬੀਰ ਜੀਉ ॥",
+          "roman": "mārū kabīr jīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47285,
+          "is_rahao": true,
+          "gurmukhi": "ਦੀਨੁ ਬਿਸਾਰਿਓ ਰੇ ਦਿਵਾਨੇ ਦੀਨੁ ਬਿਸਾਰਿਓ ਰੇ ॥",
+          "roman": "dīn bisāriō re divāne dīn bisāriō re",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਕਮਲੇ ਮਨੁੱਖ! ਤੂੰ ਧਰਮ (ਮਨੁੱਖਾ-ਜੀਵਨ ਦਾ ਫ਼ਰਜ਼) ਵਿਸਾਰ ਦਿੱਤਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О безумный человек! Ты забыл дхарам, долг человеческой жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47286,
+          "is_rahao": true,
+          "gurmukhi": "ਪੇਟੁ ਭਰਿਓ ਪਸੂਆ ਜਿਉ ਸੋਇਓ ਮਨੁਖੁ ਜਨਮੁ ਹੈ ਹਾਰਿਓ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "peṭ bhariō pasūā jiu soiō manukh janam hē hāriō ॥1॥ rahāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੂੰ ਪਸ਼ੂਆਂ ਵਾਂਗ ਢਿੱਡ ਭਰ ਕੇ ਸੁੱਤਾ ਰਹਿੰਦਾ ਹੈਂ; ਤੂੰ ਮਨੁੱਖ ਜੀਵਨ ਐਵੇਂ ਹੀ ਗੰਵਾ ਲਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Ты, как животное, набиваешь живот и спишь; так ты и растратил человеческую жизнь ॥1॥ Пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47287,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਧਸੰਗਤਿ ਕਬਹੂ ਨਹੀ ਕੀਨੀ ਰਚਿਓ ਧੰਧੈ ਝੂਠ ॥",
+          "roman": "sādhsangat kabhū nahī kīnī rachiō dhandhē jhūṭh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੂੰ ਕਦੇ ਸਤਸੰਗ ਵਿਚ ਨਹੀਂ ਗਿਆ, ਜਗਤ ਦੇ ਝੂਠੇ ਧੰਧਿਆਂ ਵਿਚ ਹੀ ਮਸਤ ਹੈਂ;"
+            },
+            "sahib_singh_ru": {
+              "main": "Ты никогда не бывал в святом собрании, а поглощён лишь ложными мирскими делами;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47288,
+          "is_rahao": false,
+          "gurmukhi": "ਸੁਆਨ ਸੂਕਰ ਬਾਇਸ ਜਿਵੈ ਭਟਕਤੁ ਚਾਲਿਓ ਊਠਿ ॥੧॥",
+          "roman": "suān sūkar bāis jivē bhaṭkat chāliō ūṭh ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਾਂ, ਕੁੱਤੇ, ਸੂਰ ਵਾਂਗ ਭਟਕਦਾ ਹੀ (ਜਗਤ ਤੋਂ) ਤੁਰ ਜਾਏਂਗਾ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "словно ворона, собака или свинья, ты так и уйдёшь, блуждая ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47289,
+          "is_rahao": false,
+          "gurmukhi": "ਆਪਸ ਕਉ ਦੀਰਘੁ ਕਰਿ ਜਾਨੈ ਅਉਰਨ ਕਉ ਲਗ ਮਾਤ ॥",
+          "roman": "āpas kau dīragh kar jānē auran kau lag māt",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਵੱਡੇ ਸਮਝਦੇ ਹਨ ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਤੁੱਛ ਜਾਣਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Люди, которые считают себя великими, а других — ничтожными,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47290,
+          "is_rahao": false,
+          "gurmukhi": "ਮਨਸਾ ਬਾਚਾ ਕਰਮਨਾ ਮੈ ਦੇਖੇ ਦੋਜਕ ਜਾਤ ॥੨॥",
+          "roman": "mansā bāchā karmanā mē dekhe dojāk jāt ॥2॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮਨੁੱਖ ਮਨ, ਬਚਨ ਜਾਂ ਕਰਮ ਦੁਆਰਾ (ਆਪਣੇ ਆਪ ਨੂੰ ਵੱਡੇ ਹੋਰਨਾਂ ਨੂੰ ਛੋਟੇ ਜਾਣਦੇ ਹਨ) ਐਸੇ ਬੰਦੇ ਮੈਂ ਦੋਜ਼ਕ ਜਾਂਦੇ ਵੇਖੇ ਹਨ (ਭਾਵ, ਨਿੱਤ ਇਹ ਵੇਖਣ ਵਿਚ ਆਉਂਦਾ ਹੈ ਕਿ ਅਜਿਹੇ ਹੰਕਾਰੀ ਮਨੁੱਖ ਹਉਮੈ ਵਿਚ ਇਉਂ ਦੁਖੀ ਹੁੰਦੇ ਹਨ ਜਿਵੇਂ ਦੋਜ਼ਕ ਦੀ ਅੱਗ ਵਿਚ ਸੜ ਰਹੇ ਹਨ) ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "таких людей, считающих себя выше других мыслью, словом и делом, я видел идущими в ад ॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47291,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਮੀ ਕ੍ਰੋਧੀ ਚਾਤੁਰੀ ਬਾਜੀਗਰ ਬੇਕਾਮ ॥",
+          "roman": "kāmī krodẖī chāturī bājīgar bekām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਾਮ-ਵੱਸ ਹੋ ਕੇ, ਕ੍ਰੋਧ-ਅਧੀਨ ਹੋ ਕੇ, ਚਤਰਾਈਆ ਠੱਗੀਆਂ ਨਕਾਰੇ-ਪਨ ਵਿਚ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Во власти похоти, подчинённый гневу, в хитростях, обманах и никчёмности,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47292,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿੰਦਾ ਕਰਤੇ ਜਨਮੁ ਸਿਰਾਨੋ ਕਬਹੂ ਨ ਸਿਮਰਿਓ ਰਾਮੁ ॥੩॥",
+          "roman": "nindā karte janam sirāno kabhū na simriō rām ॥3॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਦੂਜਿਆਂ ਦੀ ਨਿੰਦਿਆ ਕਰ ਕੇ, (ਹੇ ਕਮਲਿਆ!) ਤੂੰ ਜੀਵਨ ਗੁਜ਼ਾਰ ਦਿੱਤਾ ਹੈ, ਕਦੇ ਪ੍ਰਭੂ ਨੂੰ ਯਾਦ ਨਹੀਂ ਕੀਤਾ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "занимаясь клеветой на других, ты провёл свою жизнь и ни разу не вспомнил Господа ॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47293,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹਿ ਕਬੀਰ ਚੇਤੈ ਨਹੀ ਮੂਰਖੁ ਮੁਗਧੁ ਗਵਾਰੁ ॥",
+          "roman": "kah kabīr chetē nahī mūrakh mugadh gavār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ (ਉਹ) ਮੂਰਖ ਮੂੜ੍ਹ ਗੰਵਾਰ ਮਨੁੱਖ-"
+            },
+            "sahib_singh_ru": {
+              "main": "Кабир говорит: этот глупый, тупой, невежественный человек не пробуждается;"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 47294,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮੁ ਨਾਮੁ ਜਾਨਿਓ ਨਹੀ ਕੈਸੇ ਉਤਰਸਿ ਪਾਰਿ ॥੪॥੧॥",
+          "roman": "rām nām jāniō nahī kēse utarsi pār ॥4॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜਿਹੜਾ ਪਰਮਾਤਮਾ ਨੂੰ ਨਹੀਂ ਸਿਮਰਦਾ, ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ, (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ) ਕਿਵੇਂ ਪਾਰ ਲੰਘੇਗਾ? ॥੪॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "тот, кто не помнит Бога и не входит в связь с Именем Господа, как переправится через мирской океан? ॥4॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

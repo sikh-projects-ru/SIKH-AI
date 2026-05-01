@@ -1,0 +1,1313 @@
+{
+  "ang": 865,
+  "shabads": [
+    {
+      "shabad_id": 3236,
+      "rahao_verse_id": 36621,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 36615,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਂਡ ਮਹਲਾ ੫ ॥",
+          "roman": "goṇḍ mehlā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36616,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਸੰਗਿ ਕਰਿ ਬਿਉਹਾਰ ॥",
+          "roman": "rām rām saṅg kar biuhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ! ਤੂੰ ਜਗਤ ਵਿਚ ਵਣਜ ਕਰਨ ਆਇਆ ਹੈਂ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ (ਦੇ ਸਰਮਾਏ) ਨਾਲ (ਸਿਮਰਨ ਦਾ) ਵਣਜ ਕਰਿਆ ਕਰ।"
+            },
+            "sahib_singh_ru": {
+              "main": "«О брат! ты пришёл в мир торговать» — веди торговлю (поминания), используя капитал Имени Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36617,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਰਾਮ ਪ੍ਰਾਨ ਅਧਾਰ ॥",
+          "roman": "rām rām rām prān adhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨੂੰ ਆਪਣੀ ਜਿੰਦ ਦਾ ਆਸਰਾ ਬਣਾ ਲੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Сделай Имя Бога опорой своей жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36618,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਰਾਮ ਕੀਰਤਨੁ ਗਾਇ ॥",
+          "roman": "rām rām rām kīrtan gāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਸਦਾ ਹੀ ਉਸ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਿਆ ਕਰ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! всегда воспевай Его хвалу,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36619,
+          "is_rahao": false,
+          "gurmukhi": "ਰਮਤ ਰਾਮੁ ਸਭ ਰਹਿਓ ਸਮਾਇ ॥੧॥",
+          "roman": "ramat rām sabh rahiō samāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੇਹੜਾ ਪ੍ਰਭੂ ਹਰ ਥਾਂ ਵਿਆਪਕ ਹੈ, ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਮੌਜੂਦ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Того Господа, Который везде присутствует, пребывает во всём творении."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36620,
+          "is_rahao": true,
+          "gurmukhi": "ਸੰਤ ਜਨਾ ਮਿਲਿ ਬੋਲਹੁ ਰਾਮ ॥",
+          "roman": "sant janā mil bolah rām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਸੰਤ ਜਨਾਂ ਨਾਲ ਮਿਲ ਕੇ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰੋ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! встречаясь со святыми, поминай Имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36621,
+          "is_rahao": true,
+          "gurmukhi": "ਸਭ ਤੇ ਨਿਰਮਲ ਪੂਰਨ ਕਾਮ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "sabh te nirmal pūran kām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਇਹ ਕੰਮ ਹੋਰ ਸਾਰੇ ਕੰਮਾਂ ਨਾਲੋਂ ਪਵਿੱਤਰ ਅਤੇ ਸਫਲ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Это дело чище и успешнее всех других дел."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36622,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਧਨੁ ਸੰਚਿ ਭੰਡਾਰ ॥",
+          "roman": "rām rām dhan sanch bhaṇḍār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਇਕੱਠਾ ਕਰ, ਖ਼ਜ਼ਾਨੇ ਭਰ ਲੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! собирай богатство Имени Бога, наполняй сокровищницы,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36623,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਰਾਮ ਕਰਿ ਆਹਾਰ ॥",
+          "roman": "rām rām rām kar āhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਨੂੰ ਆਪਣੀ ਜਿੰਦ ਦੀ ਖ਼ੁਰਾਕ ਬਣਾ ਲੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "сделай Имя Бога пищей своей жизни."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36624,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਵੀਸਰਿ ਨਹੀ ਜਾਇ ॥",
+          "roman": "rām rām vīsar nahī jāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਵੇਖੀਂ!) ਕਿਤੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਤੈਨੂੰ ਭੁੱਲ ਨਾਹ ਜਾਏ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Смотри, чтобы Имя Бога не было забыто тобой,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36625,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਗੁਰਿ ਦੀਆ ਬਤਾਇ ॥੨॥",
+          "roman": "kar kirpā gur dīā batāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਨੇ ਕਿਰਪਾ ਕਰ ਕੇ (ਮੈਨੂੰ ਇਹ ਗੱਲ) ਦੱਸ ਦਿੱਤੀ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Гуру по милости открыл мне это."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36626,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਰਾਮ ਸਦਾ ਸਹਾਇ ॥",
+          "roman": "rām rām rām sadā sahāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਸਦਾ ਹੀ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Бог всегда помогает,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36627,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਰਾਮ ਲਿਵ ਲਾਇ ॥",
+          "roman": "rām rām rām liv lāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਦੇ ਚਰਨਾਂ ਵਿਚ ਸਦਾ ਸੁਰਤ ਜੋੜੀ ਰੱਖ।"
+            },
+            "sahib_singh_ru": {
+              "main": "соединяй своё внимание с Его стопами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36628,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਰਾਮ ਜਪਿ ਨਿਰਮਲ ਭਏ ॥",
+          "roman": "rām rām jap nirmal bhae",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਜੀਵ ਪਵਿੱਤਰ ਜੀਵਨ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Постоянно повторяя Имя Бога, люди становятся чистыми,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36629,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਮ ਜਨਮ ਕੇ ਕਿਲਬਿਖ ਗਏ ॥੩॥",
+          "roman": "janam janam ke kilbikh gae",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹਨਾਂ ਦੇ ਅਨੇਕਾਂ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਪਾਪ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "их грехи многих жизней исчезают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36630,
+          "is_rahao": false,
+          "gurmukhi": "ਰਮਤ ਰਾਮ ਜਨਮ ਮਰਣੁ ਨਿਵਾਰੈ ॥",
+          "roman": "ramat rām janam maraṇ nivārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ (ਪਰਮਾਤਮਾ ਮਨੁੱਖ ਦਾ) ਜਨਮ ਮਰਨ (ਦਾ ਗੇੜ) ਦੂਰ ਕਰ ਦੇਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! поминая Бога, устраняется круг рождения и смерти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36631,
+          "is_rahao": false,
+          "gurmukhi": "ਉਚਰਤ ਰਾਮ ਭੈ ਪਾਰਿ ਉਤਾਰੈ ॥",
+          "roman": "ucharat rām bhē pār utārē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਉਚਾਰਦਿਆਂ (ਪ੍ਰਭੂ ਜੀਵ ਨੂੰ) ਸਹਿਮ (-ਭਰੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ) ਤੋਂ ਪਾਰ ਲੰਘਾ ਦੇਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Произнося Имя, Бог переправляет через океан страха."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36632,
+          "is_rahao": false,
+          "gurmukhi": "ਸਭ ਤੇ ਊਚ ਰਾਮ ਪਰਗਾਸ ॥",
+          "roman": "sabh te ūch rām pargās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਭ ਤੋਂ ਉੱਚੇ ਪ੍ਰਭੂ (ਦੇ ਨਾਮ) ਦਾ ਚਾਨਣ (ਆਪਣੇ ਅੰਦਰ) ਪੈਦਾ ਕਰ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Породи в себе свет высшего Имени Бога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36633,
+          "is_rahao": false,
+          "gurmukhi": "ਨਿਸਿ ਬਾਸੁਰ ਜਪਿ ਨਾਨਕ ਦਾਸ ॥੪॥੮॥੧੦॥",
+          "roman": "nis bāsur jap nānak dās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਦਾਸ ਨਾਨਕ! ਦਿਨ ਰਾਤ ਉਸ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ ॥੪॥੮॥੧੦॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О слуга Нанак! днём и ночью повторяй Его Имя."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3237,
+      "rahao_verse_id": 36640,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 36634,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਂਡ ਮਹਲਾ ੫ ॥",
+          "roman": "goṇḍ mehlā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36635,
+          "is_rahao": false,
+          "gurmukhi": "ਉਨ ਕਉ ਖਸਮਿ ਕੀਨੀ ਠਾਕਹਾਰੇ ॥",
+          "roman": "un kau khasam kīnī ṭhākahāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜਦੋਂ ਮਾਲਕ-ਪ੍ਰਭੂ ਨੇ ਉਹਨਾਂ (ਪੰਜਾਂ ਚੌਧਰੀਆਂ) ਨੂੰ ਵਰਜਿਆ, ਤਾਂ ਉਹ (ਪ੍ਰਭੂ ਦੇ ਸੇਵਕਾਂ ਦੇ ਸਾਹਮਣੇ) ਹਾਰ ਮੰਨ ਗਏ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! когда Господь запретил им, они признали поражение."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36636,
+          "is_rahao": false,
+          "gurmukhi": "ਦਾਸ ਸੰਗ ਤੇ ਮਾਰਿ ਬਿਦਾਰੇ ॥",
+          "roman": "dās saṅg te mār bidāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਪਣੇ ਸੇਵਕਾਂ ਪਾਸੋਂ (ਪ੍ਰਭੂ ਨੇ ਉਹਨਾਂ ਨੂੰ) ਮਾਰ ਕੇ ਭਜਾ ਦਿੱਤਾ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Через Своих слуг Он их поразил и изгнал."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36637,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਬਿੰਦ ਭਗਤ ਕਾ ਮਹਲੁ ਨ ਪਾਇਆ ॥",
+          "roman": "gobind bhagat kā mahal na pāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਚੌਧਰੀ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤਾਂ ਦਾ ਟਿਕਾਣਾ ਲੱਭ ਨਾਹ ਸਕੇ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Они не смогли найти обитель преданных Бога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36638,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮ ਜਨਾ ਮਿਲਿ ਮੰਗਲੁ ਗਾਇਆ ॥੧॥",
+          "roman": "rām janā mil maṅgal gāiā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਕਿਉਂਕਿ) ਪਰਮਾਤਮਾ ਦੇ ਸੇਵਕਾਂ ਨੇ (ਸਦਾ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਵਿਆ ਹੈ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "ибо слуги Бога всегда поют хвалу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36639,
+          "is_rahao": true,
+          "gurmukhi": "ਸਗਲ ਸ੍ਰਿਸਟਿ ਕੇ ਪੰਚ ਸਿਕਦਾਰ ॥",
+          "roman": "sagal srisht ke panch sikdār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! (ਕਾਮ, ਕ੍ਰੋਧ, ਲੋਭ, ਮੋਹ, ਅਹੰਕਾਰ-ਇਹ) ਪੰਜ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਚੌਧਰੀ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! пять — правители всего мира."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36640,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਭਗਤ ਕੇ ਪਾਨੀਹਾਰ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "rām bhagat ke pānīhār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਕਰਨ ਵਾਲੇ ਬੰਦਿਆਂ ਦੇ ਇਹ ਨੌਕਰ ਹੋ ਕੇ ਰਹਿੰਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но для преданных Бога они становятся слугами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36641,
+          "is_rahao": false,
+          "gurmukhi": "ਜਗਤ ਪਾਸ ਤੇ ਲੇਤੇ ਦਾਨੁ ॥",
+          "roman": "jagat pās te lete dān",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਇਹ ਪੰਜ ਚੌਧਰੀ ਦੁਨੀਆ (ਦੇ ਲੋਕਾਂ) ਪਾਸੋਂ ਡੰਨ ਲੈਂਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! они берут дань с людей мира,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36642,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਬਿੰਦ ਭਗਤ ਕਉ ਕਰਹਿ ਸਲਾਮੁ ॥",
+          "roman": "gobind bhagat kau karah salām",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਪ੍ਰਭੂ ਦੇ ਭਗਤਾਂ ਨੂੰ ਨਮਸਕਾਰ ਕਰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "но перед преданными Бога склоняются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36643,
+          "is_rahao": false,
+          "gurmukhi": "ਲੂਟਿ ਲੇਹਿ ਸਾਕਤ ਪਤਿ ਖੋਵਹਿ ॥",
+          "roman": "lūṭ leh sākta pat khovah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪ੍ਰਭੂ ਨਾਲੋਂ ਵਿਛੁੜੇ ਬੰਦਿਆਂ ਦੀ ਆਤਮਕ ਰਾਸਿ-ਪੂੰਜੀ ਲੁੱਟ ਲੈਂਦੇ ਹਨ, (ਸਾਕਤ ਇਥੇ ਆਪਣੀ) ਇੱਜ਼ਤ ਗਵਾ ਲੈਂਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Они грабят духовное богатство отдалённых от Бога, и те теряют честь,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36644,
+          "is_rahao": false,
+          "gurmukhi": "ਸਾਧ ਜਨਾ ਪਗ ਮਲਿ ਮਲਿ ਧੋਵਹਿ ॥੨॥",
+          "roman": "sādh janā pag mal mal dhovah",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰ ਇਹ ਚੌਧਰੀ ਗੁਰਮੁਖਾਂ ਦੇ ਪੈਰ ਮਲ ਮਲ ਕੇ ਧੋਂਦੇ ਹਨ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "но моют ноги святым."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36645,
+          "is_rahao": false,
+          "gurmukhi": "ਪੰਚ ਪੂਤ ਜਣੇ ਇਕ ਮਾਇ ॥",
+          "roman": "panch pūt jaṇe ik māy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਹ ਕਾਮਾਦਿਕ) ਪੰਜੇ ਪੁੱਤਰ ਭੀ ਉਸ ਨੇ ਪੈਦਾ ਕੀਤੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Эти пять также рождены Им."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36646,
+          "is_rahao": false,
+          "gurmukhi": "ਉਤਭੁਜ ਖੇਲੁ ਕਰਿ ਜਗਤ ਵਿਆਇ ॥",
+          "roman": "utbhuj khel kar jagat viāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ) ਮਾਇਆ ਨੇ ਉਤਭੁਜ ਆਦਿਕ ਖੇਡ ਰਚਾ ਕੇ ਇਹ ਜਗਤ ਪੈਦਾ ਕੀਤਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Майя, по Его велению, создала этот мир."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36647,
+          "is_rahao": false,
+          "gurmukhi": "ਤੀਨਿ ਗੁਣਾ ਕੈ ਸੰਗਿ ਰਚਿ ਰਸੇ ॥",
+          "roman": "tīn guṇā kē saṅg rach rase",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਦੁਨੀਆ ਦੇ ਲੋਕ ਮਾਇਆ ਦੇ) ਤਿੰਨ ਗੁਣਾਂ ਨਾਲ ਇੱਕ-ਮਿਕ ਹੋ ਕੇ ਰਸ ਮਾਣ ਰਹੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Люди наслаждаются, смешавшись с тремя гунами."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36648,
+          "is_rahao": false,
+          "gurmukhi": "ਇਨ ਕਉ ਛੋਡਿ ਊਪਰਿ ਜਨ ਬਸੇ ॥੩॥",
+          "roman": "in kau chhoḍ ūpar jan base",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਰਮਾਤਮਾ ਦੇ ਭਗਤ ਇਹਨਾਂ ਨੂੰ ਛੱਡ ਕੇ ਉੱਚੇ ਆਤਮਕ ਮੰਡਲ ਵਿਚ ਵੱਸਦੇ ਹਨ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Но преданные, оставив это, пребывают выше."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36649,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਜਨ ਲੀਏ ਛਡਾਇ ॥",
+          "roman": "kar kirpā jan līe chhaḍāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਭਾਈ!) ਪ੍ਰਭੂ ਨੇ ਮੇਹਰ ਕਰ ਕੇ ਸੰਤ ਜਨਾਂ ਨੂੰ ਇਹਨਾਂ ਪਾਸੋਂ ਬਚਾ ਰੱਖਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "По милости Бог спасает святых от них."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36650,
+          "is_rahao": false,
+          "gurmukhi": "ਜਿਸ ਕੇ ਸੇ ਤਿਨਿ ਰਖੇ ਹਟਾਇ ॥",
+          "roman": "jis ke se tin rakhe haṭāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਇਹ ਕਾਮਾਦਿਕ) ਜਿਸ (ਪ੍ਰਭੂ) ਦੇ ਬਣਾਏ ਹੋਏ ਹਨ, ਉਸ ਨੇ ਇਹਨਾਂ ਨੂੰ (ਸੰਤ ਜਨਾਂ ਪਾਸੋਂ) ਪਰੇ ਰੋਕ ਰੱਖਿਆ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот, Кому они принадлежат, удерживает их вдали."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36651,
+          "is_rahao": false,
+          "gurmukhi": "ਕਹੁ ਨਾਨਕ ਭਗਤਿ ਪ੍ਰਭ ਸਾਰੁ ॥",
+          "roman": "kaho nānak bhagat prabh sār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਹੇ ਭਾਈ!) ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਕਰਿਆ ਕਰ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Говорит Нанак: занимайся преданностью Богу."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36652,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਨੁ ਭਗਤੀ ਸਭ ਹੋਇ ਖੁਆਰੁ ॥੪॥੯॥੧੧॥",
+          "roman": "bin bhagtī sabh hoi khuār",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਭਗਤੀ ਤੋਂ ਬਿਨਾ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ (ਇਹਨਾਂ ਚੌਧਰੀਆਂ ਦੇ ਵੱਸ ਪੈ ਕੇ) ਖ਼ੁਆਰ ਹੁੰਦੀ ਹੈ ॥੪॥੯॥੧੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Без преданности всё творение погибает."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3238,
+      "rahao_verse_id": 36659,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 36653,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਂਡ ਮਹਲਾ ੫ ॥",
+          "roman": "goṇḍ mehlā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36654,
+          "is_rahao": false,
+          "gurmukhi": "ਕਲਿ ਕਲੇਸ ਮਿਟੇ ਹਰਿ ਨਾਇ ॥",
+          "roman": "kal kales miṭe har nāy",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਬਰਕਤ ਨਾਲ (ਸੰਤ ਜਨਾਂ ਦੇ ਅੰਦਰੋਂ) ਝਗੜੇ-ਬਖੇੜੇ ਮਿਟ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! благодаря Имени Бога исчезают раздоры."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36655,
+          "is_rahao": false,
+          "gurmukhi": "ਦੁਖ ਬਿਨਸੇ ਸੁਖ ਕੀਨੋ ਠਾਉ ॥",
+          "roman": "dukh binse sukh kīno ṭhāu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹਨਾਂ ਦੇ ਸਾਰੇ ਦੁੱਖ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ। ਸੁਖ ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਆਪਣਾ ਟਿਕਾਣਾ ਬਣਾ ਲੈਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Все страдания уходят, и в сердце поселяется счастье."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36656,
+          "is_rahao": false,
+          "gurmukhi": "ਜਪਿ ਜਪਿ ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਅਘਾਏ ॥",
+          "roman": "jap jap amrit nām aghāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਜਪ ਜਪ ਕੇ (ਸੰਤ ਜਨ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਵਲੋਂ) ਰੱਜੇ ਰਹਿੰਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Постоянно повторяя Амрит-Имя, они насыщаются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36657,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਤ ਪ੍ਰਸਾਦਿ ਸਗਲ ਫਲ ਪਾਏ ॥੧॥",
+          "roman": "sant prasād sagal phal pāe",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਉਹ ਸਾਰੇ ਫਲ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦੇ ਹਨ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "По милости Гуру получают все плоды."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36658,
+          "is_rahao": true,
+          "gurmukhi": "ਰਾਮ ਜਪਤ ਜਨ ਪਾਰਿ ਪਰੇ ॥",
+          "roman": "rām japat jan pār pare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਿਆਂ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! поминая Бога, преданные переправляются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36659,
+          "is_rahao": true,
+          "gurmukhi": "ਜਨਮ ਜਨਮ ਕੇ ਪਾਪ ਹਰੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "janam janam ke pāp hare",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹਨਾਂ ਦੇ ਅਨੇਕਾਂ ਜਨਮਾਂ ਦੇ ਕੀਤੇ ਪਾਪ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Их грехи многих жизней исчезают."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36660,
+          "is_rahao": false,
+          "gurmukhi": "ਗੁਰ ਕੇ ਚਰਨ ਰਿਦੈ ਉਰਿ ਧਾਰੇ ॥",
+          "roman": "gur ke charan ridē ur dhāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਸੰਤ ਜਨ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਗੁਰੂ ਦੇ ਚਰਨ ਵਸਾਈ ਰੱਖਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! святые хранят стопы Гуру в сердце."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36661,
+          "is_rahao": false,
+          "gurmukhi": "ਅਗਨਿ ਸਾਗਰ ਤੇ ਉਤਰੇ ਪਾਰੇ ॥",
+          "roman": "agan sāgar te utre pāre",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪੂਰੀ ਸਰਧਾ ਨਾਲ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ ਮਨ ਵਿਚ ਟਿਕਾਈ ਰੱਖਦੇ ਹਨ), ਇਸ ਤਰ੍ਹਾਂ ਉਹ ਤ੍ਰਿਸ਼ਨਾ-ਅੱਗ ਦੇ ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Так они переправляются через океан огня страстей."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36662,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨਮ ਮਰਣ ਸਭ ਮਿਟੀ ਉਪਾਧਿ ॥",
+          "roman": "janam maraṇ sabh miṭī upādh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦਾ ਸਾਰਾ ਬਖੇੜਾ ਹੀ ਮੁਕਾ ਲੈਂਦੇ ਹਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Они прекращают весь круг рождения и смерти,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36663,
+          "is_rahao": false,
+          "gurmukhi": "ਪ੍ਰਭ ਸਿਉ ਲਾਗੀ ਸਹਜਿ ਸਮਾਧਿ ॥੨॥",
+          "roman": "prabh siu lāgī sahaj samādh",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਤਮਕ ਅਡੋਲਤਾ ਦੀ ਰਾਹੀਂ ਉਹਨਾਂ ਦੀ ਸੁਰਤ ਪ੍ਰਭੂ ਨਾਲ ਜੁੜੀ ਰਹਿੰਦੀ ਹੈ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "и пребывают в спокойном соединении с Богом."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36664,
+          "is_rahao": false,
+          "gurmukhi": "ਥਾਨ ਥਨੰਤਰਿ ਏਕੋ ਸੁਆਮੀ ॥",
+          "roman": "thān thanantar eko suāmī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਆਪ ਹੀ ਹਰੇਕ ਥਾਂ ਵਿਚ ਵੱਸ ਰਿਹਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! Один Господь пребывает во всех местах,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36665,
+          "is_rahao": false,
+          "gurmukhi": "ਸਗਲ ਘਟਾ ਕਾ ਅੰਤਰਜਾਮੀ ॥",
+          "roman": "sagal ghaṭā kā antarjāmī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਤੇ ਸਾਰੇ ਜੀਵਾਂ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "и знает сердца всех."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36666,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਜਾ ਕਉ ਮਤਿ ਦੇਇ ॥",
+          "roman": "kar kirpā jā kau mat deī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਪ੍ਰਭੂ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਮੇਹਰ ਕਰ ਕੇ ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Кому Он даёт разум по милости,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36667,
+          "is_rahao": false,
+          "gurmukhi": "ਆਠ ਪਹਰ ਪ੍ਰਭ ਕਾ ਨਾਉ ਲੇਇ ॥੩॥",
+          "roman": "āṭh pahar prabh kā nāu leī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਮਨੁੱਖ ਅੱਠੇ ਪਹਿਰ (ਹਰ ਵੇਲੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "тот постоянно поминает Имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36668,
+          "is_rahao": false,
+          "gurmukhi": "ਜਾ ਕੈ ਅੰਤਰਿ ਵਸੈ ਪ੍ਰਭੁ ਆਪਿ ॥",
+          "roman": "jā kē antar vasē prabh āp",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਆਪ ਆ ਪਰਗਟ ਹੁੰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! в ком Сам Бог пребывает,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36669,
+          "is_rahao": false,
+          "gurmukhi": "ਤਾ ਕੈ ਹਿਰਦੈ ਹੋਇ ਪ੍ਰਗਾਸੁ ॥",
+          "roman": "tā kē hirdē hoi pragās",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਤਮਕ ਜੀਵਨ ਦਾ ਚਾਨਣ ਹੋ ਜਾਂਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "в его сердце возникает свет."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36670,
+          "is_rahao": false,
+          "gurmukhi": "ਭਗਤਿ ਭਾਇ ਹਰਿ ਕੀਰਤਨੁ ਕਰੀਐ ॥",
+          "roman": "bhagat bhāe har kīrtan karīai",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭਾਈ! ਭਗਤੀ ਦੀ ਭਾਵਨਾ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О брат! с любовью преданности воспевай Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 36671,
+          "is_rahao": false,
+          "gurmukhi": "ਜਪਿ ਪਾਰਬ੍ਰਹਮੁ ਨਾਨਕ ਨਿਸਤਰੀਐ ॥੪॥੧੦॥੧੨॥",
+          "roman": "jap pārbrahm nānak nistariāi",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘ ਜਾਈਦਾ ਹੈ ॥੪॥੧੦॥੧੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Нанак! поминая Бога, переправляются."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 3239,
+      "rahao_verse_id": null,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 36672,
+          "is_rahao": false,
+          "gurmukhi": "ਗੋਂਡ ਮਹਲਾ ੫ ॥",
+          "roman": "goṇḍ mehlā 5",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

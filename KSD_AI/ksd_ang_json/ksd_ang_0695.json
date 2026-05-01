@@ -1,0 +1,1005 @@
+{
+  "ang": 695,
+  "shabads": [
+    {
+      "shabad_id": 2639,
+      "rahao_verse_id": 29906,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 29903,
+          "is_rahao": true,
+          "gurmukhi": "ਧਨਾਸਰੀ ਬਾਣੀ ਭਗਤਾਂ ਕੀ ਤ੍ਰਿਲੋਚਨ",
+          "roman": "dhanāsrī bāṇī bhagtāṅ kī trilochan",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਰਾਗ ਧਨਾਸਰੀ ਵਿੱਚ ਭਗਤ ਤ੍ਰਿਲੋਚਨ ਜੀ ਦੀ ਬਾਣੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Раг Дханасри, бани Бхагата Трилочана."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29904,
+          "is_rahao": true,
+          "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+          "roman": "ik oṅkār satigur prasād",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "Акал Пуракх один и достигается по милости Сатгуру."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29905,
+          "is_rahao": true,
+          "gurmukhi": "ਨਾਰਾਇਣ ਨਿੰਦਸਿ ਕਾਇ ਭੂਲੀ ਗਵਾਰੀ ॥",
+          "roman": "nārāiṇ nindas kāe bhūlī gavārī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਭੁੱਲੜ ਮੂਰਖ ਜਿੰਦੇ! ਤੂੰ ਪਰਮਾਤਮਾ ਨੂੰ ਕਿਉਂ ਦੋਸ ਦੇਂਦੀ ਹੈਂ?"
+            },
+            "sahib_singh_ru": {
+              "main": "О заблудшая глупая душа! Почему ты винишь Бога?"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29906,
+          "is_rahao": true,
+          "gurmukhi": "ਦੁਕ੍ਰਿਤੁ ਸੁਕ੍ਰਿਤੁ ਥਾਰੋ ਕਰਮੁ ਰੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "dukrīt sukrīt thāro karam rī ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪਾਪ ਪੁੰਨ ਤੇਰਾ ਆਪਣਾ ਕੀਤਾ ਹੋਇਆ ਕੰਮ ਹੈ (ਜਿਸ ਦੇ ਕਾਰਨ ਦੁੱਖ ਸੁਖ ਸਹਾਰਨਾ ਪੈਂਦਾ ਹੈ) ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Грех и добродетель — это твои собственные деяния (из-за которых приходится испытывать страдание и счастье) ॥1॥ пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29907,
+          "is_rahao": false,
+          "gurmukhi": "ਸੰਕਰਾ ਮਸਤਕਿ ਬਸਤਾ ਸੁਰਸਰੀ ਇਸਨਾਨ ਰੇ ॥",
+          "roman": "saṅkarā mastak bastā sursarī isnān re",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਦੇਖ ਚੰਦ੍ਰਮਾ) ਭਾਵੇਂ ਸ਼ਿਵ ਜੀ ਦੇ ਮੱਥੇ ਉੱਤੇ ਵੱਸਦਾ ਹੈ, ਨਿੱਤ ਗੰਗਾ ਵਿਚ ਇਸ਼ਨਾਨ ਕਰਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "(О душа! Посмотри на Луну:) хоть она пребывает на голове Шивы и ежедневно омывается в Ганге,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29908,
+          "is_rahao": false,
+          "gurmukhi": "ਕੁਲ ਜਨ ਮਧੇ ਮਿਲੵਿੋ ਸਾਰਗ ਪਾਨ ਰੇ ॥",
+          "roman": "kul jan madhe milyi sārag pān re",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇ ਉਸੇ ਦੀ ਕੁਲ ਵਿਚ ਵਿਸ਼ਨੂ ਜੀ ਨੇ (ਕ੍ਰਿਸ਼ਨ-ਰੂਪ ਧਾਰ ਕੇ) ਜਨਮ ਲਿਆ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и в её роду родился Вишну (в облике Кришны),"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29909,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਮ ਕਰਿ ਕਲੰਕੁ ਮਫੀਟਸਿ ਰੀ ॥੧॥",
+          "roman": "karam kar kalank mafīṭas rī ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਕਾਰਨ (ਚੰਦ੍ਰਮਾ ਦਾ) ਦਾਗ਼ ਨਾਹ ਹਟ ਸਕਿਆ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "но из-за своих поступков её пятно не исчезло ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29910,
+          "is_rahao": false,
+          "gurmukhi": "ਬਿਸ੍ਵ ਕਾ ਦੀਪਕੁ ਸ੍ਵਾਮੀ ਤਾ ਚੇ ਰੇ ਸੁਆਰਥੀ ਪੰਖੀ ਰਾਇ ਗਰੁੜ ਤਾ ਚੇ ਬਾਧਵਾ ॥",
+          "roman": "bisv kā dīpak svāmī tā che re suārathī pankhī rāi garuṛ tā che bādhvā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਫਿਰ ਅਰੁਣ ਦੀ ਮਿਸਾਲ ਦੇਖ!) ਭਾਵੇਂ ਸਾਰੇ ਜਗਤ ਨੂੰ ਚਾਨਣ ਦੇਣ ਵਾਲਾ ਸੂਰਜ ਉਸ ਦਾ ਸੁਆਮੀ ਹੈ, ਉਸ ਸੂਰਜ ਦਾ ਉਹ ਰਥਵਾਹੀ ਹੈ, ਤੇ, ਪੰਛੀਆਂ ਦਾ ਰਾਜਾ ਗਰੁੜ ਉਸ ਦਾ ਰਿਸ਼ਤੇਦਾਰ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "(Посмотри на Аруна!) Хотя солнце, освещающее весь мир, — его господин, он его возничий, и царь птиц Гаруда — его родственник,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29911,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਮ ਕਰਿ ਅਰੁਣ ਪਿੰਗੁਲਾ ਰੀ ॥੨॥",
+          "roman": "karam kar aruṇ piṅgulā rī ॥2॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੇ ਘਰ-ਗੇਹਣਿ!) ਆਪਣੇ ਕਰਮਾਂ ਕਰਕੇ ਅਰੁਣ ਪਿੰਗਲਾ ਹੀ ਰਿਹਾ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "но из-за своих поступков он остался хромым ॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29912,
+          "is_rahao": false,
+          "gurmukhi": "ਅਨਿਕ ਪਾਤਿਕ ਹਰਤਾ ਤ੍ਰਿਭਵਣ ਨਾਥੁ ਰੀ ਤੀਰਥਿ ਤੀਰਥਿ ਭ੍ਰਮਤਾ ਲਹੈ ਨ ਪਾਰੁ ਰੀ ॥",
+          "roman": "anik pātik hartā tribhavaṇ nāth rī tīrath tīrath bhramtā lahē na pār rī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਦੇਖ!) ਭਾਵੇਂ (ਸ਼ਿਵ ਜੀ) ਸਾਰੇ ਜਗਤ ਦਾ ਨਾਥ (ਸਮਝਿਆ ਜਾਂਦਾ) ਹੈ, (ਹੋਰ ਜੀਵਾਂ ਦੇ) ਅਨੇਕਾਂ ਪਾਪਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ, ਪਰ ਉਹ ਹਰੇਕ ਤੀਰਥ ਉੱਤੇ ਭਟਕਦਾ ਫਿਰਿਆ, ਤਾਂ ਭੀ (ਉਸ ਖੋਪਰੀ ਤੋਂ) ਖ਼ਲਾਸੀ ਨਹੀਂ ਸੀ ਹੁੰਦੀ।"
+            },
+            "sahib_singh_ru": {
+              "main": "(Посмотри!) Хотя Шива считается владыкой трёх миров и разрушителем множества грехов, он блуждал по всем местам паломничества, но всё равно не освобождался от той черепной чаши."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29913,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਮ ਕਰਿ ਕਪਾਲੁ ਮਫੀਟਸਿ ਰੀ ॥੩॥",
+          "roman": "karam kar kapāl mafīṭas rī ॥3॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਬ੍ਰਹਮ-ਹੱਤਿਆ ਦੇ) ਕੀਤੇ ਕਰਮ ਅਨੁਸਾਰ (ਸ਼ਿਵ ਜੀ ਦੇ ਹੱਥ ਨਾਲੋਂ) ਖੋਪਰੀ ਨਾਹ ਲਹਿ ਸਕੀ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Согласно совершённому поступку (греху убийства Брахмы), череп не мог отпасть от его руки ॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29914,
+          "is_rahao": false,
+          "gurmukhi": "ਅੰਮ੍ਰਿਤ ਸਸੀਅ ਧੇਨ ਲਛਿਮੀ ਕਲਪਤਰ ਸਿਖਰਿ ਸੁਨਾਗਰ ਨਦੀ ਚੇ ਨਾਥੰ ॥",
+          "roman": "amrit sasīa dhen lachhimī kalpatar sikhar sunāgar nadī che nāthaṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਫਿਰ ਦੇਖ! ਸਮੁੰਦ੍ਰ) ਭਾਵੇਂ ਸਾਰੀਆਂ ਨਦੀਆਂ ਦਾ ਨਾਥ ਹੈ ਤੇ ਉਸ ਵਿਚੋਂ ਅੰਮ੍ਰਿਤ, ਚੰਦ੍ਰਮਾ, ਕਾਮਧੇਨ, ਲੱਛਮੀ, ਕਲਪ-ਰੁੱਖ, ਸੱਤ-ਮੂੰਹਾ ਘੋੜਾ, ਧਨੰਤਰੀ ਵੈਦ (ਆਦਿਕ ਚੌਦਾਂ ਰਤਨ) ਨਿਕਲੇ ਸਨ,"
+            },
+            "sahib_singh_ru": {
+              "main": "(Посмотри на океан!) Хотя он — владыка всех рек, и из него вышли амрит, луна, Камдхену, Лакшми, дерево желаний, семиголовый конь, врач Дханвантари (и другие драгоценности),"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29915,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਮ ਕਰਿ ਖਾਰੁ ਮਫੀਟਸਿ ਰੀ ॥੪॥",
+          "roman": "karam kar khār mafīṭas rī ॥4॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ ਹੇ ਮੇਰੀ ਜਿੰਦੇ!) ਆਪਣੇ ਕੀਤੇ (ਮੰਦ-ਕਰਮ) ਅਨੁਸਾਰ (ਸਮੁੰਦਰ ਦਾ) ਖਾਰਾ-ਪਨ ਨਹੀਂ ਹਟ ਸਕਿਆ ॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "но из-за своих поступков его солёность не исчезла ॥4॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29916,
+          "is_rahao": false,
+          "gurmukhi": "ਦਾਧੀਲੇ ਲੰਕਾ ਗੜੁ ਉਪਾੜੀਲੇ ਰਾਵਣ ਬਣੁ ਸਲਿ ਬਿਸਲਿ ਆਣਿ ਤੋਖੀਲੇ ਹਰੀ ॥",
+          "roman": "dādhīle laṅkā gaṛ upāṛīle rāvaṇ ban sal bisal āṇ tokhīle harī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹਨੂੰਮਾਨ) ਨੇ (ਸ੍ਰੀ ਰਾਮ ਚੰਦ੍ਰ ਜੀ ਦੀ ਖ਼ਾਤਰ) ਲੰਕਾ ਦਾ ਕਿਲ੍ਹਾ ਸਾੜਿਆ, ਰਾਵਣ ਦਾ ਬਾਗ਼ ਉਜਾੜ ਦਿੱਤਾ, ਸੱਲ ਦੂਰ ਕਰਨ ਵਾਲੀ ਬੂਟੀ ਲਿਆ ਕੇ ਰਾਮ ਚੰਦ੍ਰ ਜੀ ਨੂੰ ਪ੍ਰਸੰਨ ਹੀ ਕੀਤਾ,"
+            },
+            "sahib_singh_ru": {
+              "main": "(Хануман) сжёг крепость Ланки, разрушил сад Раваны и, принеся целебное растение, угодил Раме,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29917,
+          "is_rahao": false,
+          "gurmukhi": "ਕਰਮ ਕਰਿ ਕਛਉਟੀ ਮਫੀਟਸਿ ਰੀ ॥੫॥",
+          "roman": "karam kar kachhautī mafīṭas rī ॥5॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਪਰ ਹੇ ਘਰ-ਗੇਹਣਿ!) ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਅਧੀਨ (ਹਨੂਮਾਨ ਦੇ ਭਾਗਾਂ ਵਿਚੋਂ) ਉਸ ਦੀ ਨਿੱਕੀ ਜਹੀ ਕੱਛ ਨਾਹ ਹਟ ਸਕੀ ॥੫॥"
+            },
+            "sahib_singh_ru": {
+              "main": "но из-за своих поступков его малая набедренная повязка не исчезла ॥5॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29918,
+          "is_rahao": false,
+          "gurmukhi": "ਪੂਰਬਲੋ ਕ੍ਰਿਤ ਕਰਮੁ ਨ ਮਿਟੈ ਰੀ ਘਰ ਗੇਹਣਿ ਤਾ ਚੇ ਮੋਹਿ ਜਾਪੀਅਲੇ ਰਾਮ ਚੇ ਨਾਮੰ ॥",
+          "roman": "pūrablo krit karam na miṭē rī ghar gehṇ tā che moh jāpīale rām che nāmaṅ",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਪਿਛਲਾ ਕੀਤਾ ਕੋਈ ਕਰਮ (ਅਵਤਾਰ-ਪੂਜਾ, ਤੀਰਥ-ਇਸ਼ਨਾਨ ਆਦਿਕ ਦੀ ਰਾਹੀਂ) ਮਿਟਦਾ ਨਹੀਂ; ਤਾਹੀਏਂ ਮੈਂ ਤਾਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਸਿਮਰਦਾ ਹਾਂ।"
+            },
+            "sahib_singh_ru": {
+              "main": "О душа! Ранее совершённые поступки не исчезают (через поклонение аватарам и омовения); поэтому я повторяю имя Бога."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29919,
+          "is_rahao": false,
+          "gurmukhi": "ਬਦਤਿ ਤ੍ਰਿਲੋਚਨ ਰਾਮ ਜੀ ॥੬॥੧॥",
+          "roman": "badat trilochan rām jī ॥6॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤ੍ਰਿਲੋਚਨ ਆਖਦਾ ਹੈ ਕਿ ਮੈਂ ਤਾਂ 'ਰਾਮ ਰਾਮ' ਹੀ ਜਪਦਾ ਹਾਂ (ਭਾਵ, ਪਰਮਾਤਮਾ ਦੀ ਓਟ ਹੀ ਲੈਂਦਾ ਹਾਂ ਤੇ ਆਪਣੇ ਕਿਸੇ ਕੀਤੇ ਕਰਮ ਕਰ ਕੇ ਆਏ ਦੁੱਖ ਤੋਂ ਪ੍ਰਭੂ ਨੂੰ ਦੋਸ ਨਹੀਂ ਦੇਂਦਾ) ॥੬॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Трилочан говорит: я повторяю «Рам Рам» (то есть ищу лишь опору в Боге и не виню Его за страдания) ॥6॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2640,
+      "rahao_verse_id": 29923,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 29920,
+          "is_rahao": false,
+          "gurmukhi": "ਸ੍ਰੀ ਸੈਣੁ ॥",
+          "roman": "srī sēn",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29921,
+          "is_rahao": false,
+          "gurmukhi": "ਧੂਪ ਦੀਪ ਘ੍ਰਿਤ ਸਾਜਿ ਆਰਤੀ ॥",
+          "roman": "dhūp dīp ghrit sāj ārātī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਤੈਥੋਂ ਸਦਕੇ ਜਾਣਾ ਹੀ) ਧੂਪ ਦੀਵੇ ਤੇ ਘਿਉ (ਆਦਿਕ) ਸਮੱਗ੍ਰੀ ਇਕੱਠੇ ਕਰ ਕੇ ਤੇਰੀ ਆਰਤੀ ਕਰਨੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "(Собрав) благовония, светильники и гхи, я совершаю Твою аарти."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29922,
+          "is_rahao": false,
+          "gurmukhi": "ਵਾਰਨੇ ਜਾਉ ਕਮਲਾ ਪਤੀ ॥੧॥",
+          "roman": "vārne jāu kamalā patī ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਮਾਇਆ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ! ਮੈਂ ਤੈਥੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Владыка Майи! Я посвящаю себя Тебе ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29923,
+          "is_rahao": true,
+          "gurmukhi": "ਮੰਗਲਾ ਹਰਿ ਮੰਗਲਾ ॥ ਨਿਤ ਮੰਗਲੁ ਰਾਜਾ ਰਾਮ ਰਾਇ ਕੋ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "maṅgalā har maṅgalā ॥ nit maṅgal rājā rām rāi ko ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਹਰੀ! ਹੇ ਰਾਜਨ! ਹੇ ਰਾਮ! ਤੇਰੀ ਮਿਹਰ ਨਾਲ (ਮੇਰੇ ਅੰਦਰ) ਸਦਾ (ਤੇਰੇ ਨਾਮ-ਸਿਮਰਨ ਦਾ) ਅਨੰਦ ਮੰਗਲ ਹੋ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "О Хари, о Царь, о Рам! По Твоей милости во мне всегда царит радость и благословение ॥1॥ пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29924,
+          "is_rahao": false,
+          "gurmukhi": "ਊਤਮੁ ਦੀਅਰਾ ਨਿਰਮਲ ਬਾਤੀ ॥",
+          "roman": "ūtam dīārā nirmal bātī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਆਰਤੀ ਕਰਨ ਲਈ) ਸੋਹਣਾ ਚੰਗਾ ਦੀਵਾ ਤੇ ਸਾਫ਼ ਸੁਥਰੀ ਵੱਟੀ ਵੀ-"
+            },
+            "sahib_singh_ru": {
+              "main": "Для аарти — прекрасный светильник и чистый фитиль —"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29925,
+          "is_rahao": false,
+          "gurmukhi": "ਤੁਹਂੀ ਨਿਰੰਜਨੁ ਕਮਲਾ ਪਾਤੀ ॥੨॥",
+          "roman": "tuhī niranjan kamalā pātī ॥2॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਕਮਲਾਪਤੀ! ਹੇ ਨਿਰੰਜਨ! ਮੇਰੇ ਲਈ ਤੂੰ ਹੀ  ਹੈਂ ॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "о Лотосоокий, о Ниринджан, для меня есть только Ты ॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29926,
+          "is_rahao": false,
+          "gurmukhi": "ਰਾਮਾ ਭਗਤਿ ਰਾਮਾਨੰਦੁ ਜਾਨੈ ॥",
+          "roman": "rāmā bhagat rāmānand jānē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਉਹ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਦੀ ਬਰਕਤਿ ਨਾਲ ਉਸ ਦੇ ਮਿਲਾਪ ਦਾ ਆਨੰਦ ਮਾਣਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот человек через преданность Богу наслаждается соединением с Ним,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29927,
+          "is_rahao": false,
+          "gurmukhi": "ਪੂਰਨ ਪਰਮਾਨੰਦੁ ਬਖਾਨੈ ॥੩॥",
+          "roman": "pūraṇ paramānand bakhānē ॥3॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਸਰਬ-ਵਿਆਪਕ ਪਰਮ ਆਨੰਦ-ਰੂਪ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ ॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "который воспевает качества всепроникающего высшего блаженства ॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29928,
+          "is_rahao": false,
+          "gurmukhi": "ਮਦਨ ਮੂਰਤਿ ਭੈ ਤਾਰਿ ਗੋਬਿੰਦੇ ॥",
+          "roman": "madan mūrat bhē tār gobinde",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਪਰਮਾਤਮਾ ਸੋਹਣੇ ਸਰੂਪ ਵਾਲਾ ਹੈ, ਜੋ (ਸੰਸਾਰ ਦੇ) ਡਰਾਂ ਤੋਂ ਪਾਰ ਲੰਘਾਣ ਵਾਲਾ ਹੈ ਤੇ ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਸਾਰ ਲੈਣ ਵਾਲਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Бог прекрасного облика, который избавляет от страхов и заботится о мире,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29929,
+          "is_rahao": false,
+          "gurmukhi": "ਸੈਨੁ ਭਣੈ ਭਜੁ ਪਰਮਾਨੰਦੇ ॥੪॥੨॥",
+          "roman": "sēn bhaṇē bhaj paramānande ॥4॥2॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸੈਣ ਆਖਦਾ ਹੈ-(ਹੇ ਮੇਰੇ ਮਨ!) ਉਸ ਪਰਮ-ਆਨੰਦ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰ ॥੪॥੨॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Сэйн говорит: о мой ум, помни этого Бога высшего блаженства ॥4॥2॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2641,
+      "rahao_verse_id": 29934,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 29930,
+          "is_rahao": false,
+          "gurmukhi": "ਪੀਪਾ ॥",
+          "roman": "pīpā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29931,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਯਉ ਦੇਵਾ ਕਾਇਅਉ ਦੇਵਲ ਕਾਇਅਉ ਜੰਗਮ ਜਾਤੀ ॥",
+          "roman": "kāyau devā kāyau deval kāyau jaṅgam jātī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਸੋ) ਕਾਇਆਂ (ਦੀ ਖੋਜ) ਹੀ ਮੇਰਾ ਦੇਵਤਾ ਹੈ (ਜਿਸ ਦੀ ਮੈਂ ਆਰਤੀ ਕਰਨੀ ਹੈ), ਸਰੀਰ (ਦੀ ਖੋਜ) ਹੀ ਮੇਰਾ ਮੰਦਰ ਹੈ (ਜਿਥੇ ਮੈਂ ਸਰੀਰ ਅੰਦਰ ਵੱਸਦੇ ਪ੍ਰਭੂ ਦੀ ਆਰਤੀ ਕਰਦਾ ਹਾਂ), ਕਾਇਆਂ (ਦੀ ਖੋਜ) ਹੀ ਮੈਂ ਜੰਗਮ ਅਤੇ ਜਾਤ੍ਰੂ ਲਈ (ਤੀਰਥ ਦੀ ਜਾਤ੍ਰਾ ਹੈ)।"
+            },
+            "sahib_singh_ru": {
+              "main": "Поиск тела — мой бог, тело — мой храм, поиск тела — моё паломничество."
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29932,
+          "is_rahao": false,
+          "gurmukhi": "ਕਾਇਅਉ ਧੂਪ ਦੀਪ ਨਈਬੇਦਾ ਕਾਇਅਉ ਪੂਜਉ ਪਾਤੀ ॥੧॥",
+          "roman": "kāyau dhūp dīp naībēdā kāyau pūjau pātī ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਸਰੀਰ (ਦੀ ਖੋਜ) ਹੀ (ਮੇਰੇ ਵਾਸਤੇ ਮੇਰੇ ਅੰਦਰ ਵੱਸਦੇ ਦੇਵਤੇ ਲਈ) ਧੂਪ ਦੀਪ ਤੇ ਨੈਵੇਦ ਹੈ, ਕਾਇਆ ਦੀ ਖੋਜ (ਕਰ ਕੇ) ਹੀ, ਮੈਂ ਮਾਨੋ, ਪੱਤਰ ਭੇਟ ਰੱਖ ਕੇ (ਆਪਣੇ ਅੰਦਰ ਵੱਸਦੇ ਇਸ਼ਟ ਦੇਵ ਦੀ) ਪੂਜਾ ਕਰ ਰਿਹਾ ਹਾਂ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Поиск тела — это для меня благовония, светильник и подношение; через него я поклоняюсь Богу внутри себя ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29933,
+          "is_rahao": true,
+          "gurmukhi": "ਕਾਇਆ ਬਹੁ ਖੰਡ ਖੋਜਤੇ ਨਵ ਨਿਧਿ ਪਾਈ ॥",
+          "roman": "kāyā bah khaṇḍ khojte nav nidh pāī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਦੇਸ ਦੇਸਾਂਤਰਾਂ ਨੂੰ ਖੋਜ ਕੇ (ਆਖ਼ਰ ਆਪਣੇ) ਸਰੀਰ ਦੇ ਅੰਦਰ ਹੀ ਮੈਂ ਪ੍ਰਭੂ ਦਾ ਨਾਮ-ਰੂਪ ਨੌ ਨਿਧੀ ਲੱਭ ਲਈ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Обойдя многие земли, я нашёл девять сокровищ имени Бога внутри своего тела,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29934,
+          "is_rahao": true,
+          "gurmukhi": "ਨਾ ਕਛੁ ਆਇਬੋ ਨਾ ਕਛੁ ਜਾਇਬੋ ਰਾਮ ਕੀ ਦੁਹਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "nā kachh āibo nā kachh jāibo rām kī duhai ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "(ਹੁਣ ਮੇਰੀ ਕਾਇਆਂ ਵਿਚ) ਪਰਮਾਤਮਾ (ਦੀ ਯਾਦ) ਦਾ ਹੀ ਤੇਜ-ਪ੍ਰਤਾਪ ਹੈ, (ਉਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਮੇਰੇ ਲਈ) ਨਾ ਕੁਝ ਜੰਮਦਾ ਹੈ ਨਾਹ ਮਰਦਾ ਹੈ (ਭਾਵ, ਮੇਰਾ ਜਨਮ ਮਰਨ ਮਿਟ ਗਿਆ ਹੈ) ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "теперь благодаря памяти о Боге для меня нет ни рождения, ни смерти ॥1॥ пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29935,
+          "is_rahao": false,
+          "gurmukhi": "ਜੋ ਬ੍ਰਹਮੰਡੇ ਸੋਈ ਪਿੰਡੇ ਜੋ ਖੋਜੈ ਸੋ ਪਾਵੈ ॥",
+          "roman": "jo brahmaṇḍe soī piṇḍe jo khojē so pāvē",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਣਹਾਰ ਪਰਮਾਤਮਾ ਸਾਰੇ ਬ੍ਰਹਮੰਡ ਵਿਚ (ਵਿਆਪਕ) ਹੈ ਉਹੀ (ਮਨੁੱਖਾ) ਸਰੀਰ ਵਿਚ ਹੈ, ਜੋ ਮਨੁੱਖ ਖੋਜ ਕਰਦਾ ਹੈ ਉਹ ਉਸ ਨੂੰ ਲੱਭ ਲੈਂਦਾ ਹੈ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Тот же Бог, который во вселенной, находится и в теле; кто ищет, тот находит Его,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29936,
+          "is_rahao": false,
+          "gurmukhi": "ਪੀਪਾ ਪ੍ਰਣਵੈ ਪਰਮ ਤਤੁ ਹੈ ਸਤਿਗੁਰੁ ਹੋਇ ਲਖਾਵੈ ॥੨॥੩॥",
+          "roman": "pīpā praṇavē param tat hē satigur hoi lakhāvē ॥2॥3॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਪੀਪਾ ਬੇਨਤੀ ਕਰਦਾ ਹੈ- ਜੇ ਸਤਿਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਉਹ (ਅੰਦਰ ਹੀ) ਸਭ ਤੋਂ ਵੱਡੀ ਅਸਲੀਅਤ, ਪਰਲੇ ਤੋਂ ਪਰਲਾ ਤੱਤ, ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਅਸਲ ਸੋਮੇ ਦਾ ਦਰਸ਼ਨ ਕਰਾ ਦੇਂਦਾ ਹੈ ॥੨॥੩॥"
+            },
+            "sahib_singh_ru": {
+              "main": "Пипа говорит: если встретится Сатгуру, он откроет высшую истину и сущность ॥2॥3॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "shabad_id": 2642,
+      "rahao_verse_id": 29939,
+      "rahao_theme": "",
+      "shabad_summary": "",
+      "lines": [
+        {
+          "verse_id": 29937,
+          "is_rahao": true,
+          "gurmukhi": "ਧੰਨਾ ॥",
+          "roman": "dhannā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": ""
+            },
+            "sahib_singh_ru": {
+              "main": ""
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29938,
+          "is_rahao": true,
+          "gurmukhi": "ਗੋਪਾਲ ਤੇਰਾ ਆਰਤਾ ॥",
+          "roman": "gopāl terā ārātā",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਪ੍ਰਿਥਵੀ ਦੇ ਪਾਲਣ ਵਾਲੇ ਪ੍ਰਭੂ! ਮੈਂ ਤੇਰੇ ਦਰ ਦਾ ਮੰਗਤਾ ਹਾਂ (ਮੇਰੀਆਂ ਲੋੜਾਂ ਪੂਰੀਆਂ ਕਰ);"
+            },
+            "sahib_singh_ru": {
+              "main": "О Хранитель мира! Я — проситель у Твоего порога,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29939,
+          "is_rahao": true,
+          "gurmukhi": "ਜੋ ਜਨ ਤੁਮਰੀ ਭਗਤਿ ਕਰੰਤੇ ਤਿਨ ਕੇ ਕਾਜ ਸਵਾਰਤਾ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jo jan tumrī bhagat karante tin ke kāj savārtā ॥1॥ rahāu ॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਜੋ ਮਨੁੱਖ ਤੇਰੀ ਭਗਤੀ ਕਰਦੇ ਹਨ ਤੂੰ ਉਹਨਾਂ ਦੇ ਕੰਮ ਸਿਰੇ ਚਾੜ੍ਹਦਾ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥"
+            },
+            "sahib_singh_ru": {
+              "main": "ты исполняешь дела тех, кто предан Тебе ॥1॥ пауза ॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29940,
+          "is_rahao": false,
+          "gurmukhi": "ਦਾਲਿ ਸੀਧਾ ਮਾਗਉ ਘੀਉ ॥",
+          "roman": "dāl sīdhā māgau ghīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ (ਤੇਰੇ ਦਰ ਤੋਂ) ਦਾਲ, ਆਟਾ ਤੇ ਘਿਉ ਮੰਗਦਾ ਹਾਂ,"
+            },
+            "sahib_singh_ru": {
+              "main": "Я прошу у Тебя дал, муку и гхи,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29941,
+          "is_rahao": false,
+          "gurmukhi": "ਹਮਰਾ ਖੁਸੀ ਕਰੈ ਨਿਤ ਜੀਉ ॥",
+          "roman": "hamrā khusī karē nit jīu",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੋ ਮੇਰੀ ਜਿੰਦ ਨੂੰ ਨਿੱਤ ਸੁਖੀ ਰੱਖੇ,"
+            },
+            "sahib_singh_ru": {
+              "main": "чтобы моя душа всегда была счастлива,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29942,
+          "is_rahao": false,
+          "gurmukhi": "ਪਨੑੀਆ ਛਾਦਨੁ ਨੀਕਾ ॥ ਅਨਾਜੁ ਮਗਉ ਸਤ ਸੀ ਕਾ ॥੧॥",
+          "roman": "panhīā chhādan nīkā ॥ anāj magau sat sī kā ॥1॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਜੁੱਤੀ ਤੇ ਸੋਹਣਾ ਕੱਪੜਾ ਭੀ ਮੰਗਦਾ ਹਾਂ, ਤੇ ਸੱਤਾਂ ਸੀਆਂ ਦਾ ਅੰਨ ਭੀ (ਤੈਥੋਂ ਹੀ) ਮੰਗਦਾ ਹਾਂ ॥੧॥"
+            },
+            "sahib_singh_ru": {
+              "main": "прошу обувь и хорошую одежду, и также прошу пищу на все времена ॥1॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29943,
+          "is_rahao": false,
+          "gurmukhi": "ਗਊ ਭੈਸ ਮਗਉ ਲਾਵੇਰੀ ॥",
+          "roman": "gaū bhēns magau lāverī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਹੇ ਗੋਪਾਲ! ਮੈਂ ਗਾਂ ਮਹਿੰ ਲਵੇਰੀ (ਭੀ) ਮੰਗਦਾ ਹਾਂ,"
+            },
+            "sahib_singh_ru": {
+              "main": "О Гопал! Я прошу корову и буйволицу,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29944,
+          "is_rahao": false,
+          "gurmukhi": "ਇਕ ਤਾਜਨਿ ਤੁਰੀ ਚੰਗੇਰੀ ॥",
+          "roman": "ik tājan turī chaṅgerī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਤੇ ਇਕ ਚੰਗੀ ਅਰਬੀ ਘੋੜੀ ਭੀ ਚਾਹੀਦੀ ਹੈ।"
+            },
+            "sahib_singh_ru": {
+              "main": "и также хорошую арабскую кобылу,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29945,
+          "is_rahao": false,
+          "gurmukhi": "ਘਰ ਕੀ ਗੀਹਨਿ ਚੰਗੀ ॥",
+          "roman": "ghar kī gīhan chaṅgī",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਘਰ ਦੀ ਚੰਗੀ ਇਸਤ੍ਰੀ ਵੀ-"
+            },
+            "sahib_singh_ru": {
+              "main": "и хорошую жену в доме,"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        },
+        {
+          "verse_id": 29946,
+          "is_rahao": false,
+          "gurmukhi": "ਜਨੁ ਧੰਨਾ ਲੇਵੈ ਮੰਗੀ ॥੨॥੪॥",
+          "roman": "jan dhannā levē maṅgī ॥2॥4॥",
+          "translations": {
+            "ksd_ru": {
+              "main": "",
+              "artistic": "",
+              "context_note": ""
+            },
+            "sahib_singh_pa": {
+              "main": "ਮੈਂ ਤੇਰਾ ਦਾਸ ਧੰਨਾ ਤੈਥੋਂ ਮੰਗ ਕੇ ਲੈਂਦਾ ਹਾਂ ॥੨॥੪॥"
+            },
+            "sahib_singh_ru": {
+              "main": "слуга Дханна просит это у Тебя и получает ॥2॥4॥"
+            },
+            "ipotseluev_ru": {
+              "main": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

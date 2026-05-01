@@ -1,0 +1,1522 @@
+{
+  "ang": 13,
+  "shabads": [
+    {
+      "ang": 13,
+      "shabad_id": 52,
+      "rahao_verse_id": 558,
+      "rahao_theme": "Истинная арати — не внешний ритуал, а разрушение иллюзорного восприятия и слышание безударного Шабда, звучащего во всём творении.",
+      "lines": [
+        {
+          "verse_id": 554,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "rāg dhanāsarī",
+              "literal_ru": "раг Дханасари",
+              "ksd_meta_ru": "музыкально-духовная рамка шабда",
+              "confidence": 0.98,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mahalā 1",
+              "literal_ru": "первый Махала",
+              "ksd_meta_ru": "Бани Гуру Нанака Патишаха",
+              "confidence": 0.98,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Раг Дханасари, Бани Гуру Нанака Патишаха.",
+          "artistic_ru": "Шабд Гуру Нанака Патишаха в раге Дханасари.",
+          "context_note": "",
+          "confidence": 0.99,
+          "confidence_reason": "Очень высокая уверенность: строка является заголовком шабда.",
+          "gurmukhi": "ਰਾਗੁ ਧਨਾਸਰੀ ਮਹਲਾ ੧ ॥",
+          "roman": "rāg dhanāsarī mahalā 1 .",
+          "sahib_singh_pa": "ਰਾਗ ਧਨਾਸਰੀ ਵਿੱਚ ਗੁਰੂ ਨਾਨਕ ਜੀ ਦੀ ਬਾਣੀ।",
+          "roman_display": "rāg dhanāsarī mahalā 1 ."
+        },
+        {
+          "verse_id": 555,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "gagan mai thāl",
+              "literal_ru": "небо как блюдо",
+              "ksd_meta_ru": "всё пространство творения становится сосудом истинной арати",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "rav chand dīpak banē",
+              "literal_ru": "солнце и луна стали светильниками",
+              "ksd_meta_ru": "свет творения участвует в созерцании Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tārikā mandal",
+              "literal_ru": "звёздные круги",
+              "ksd_meta_ru": "множество светящихся проявлений кудрати",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "janak mōtī",
+              "literal_ru": "словно жемчужины",
+              "ksd_meta_ru": "звёзды как драгоценности на блюде арати",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Вся небесная ширь — словно блюдо арати; солнце и луна стали светильниками, а звёздные круги — жемчужинами на нём.",
+          "artistic_ru": "Небо само стало чашей поклонения: солнце и луна горят лампами, звёзды сияют жемчугом.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что всё небо является блюдом, солнце и луна — светильниками, а звёзды — жемчужинами на этом блюде.",
+          "gurmukhi": "ਗਗਨ ਮੈ ਥਾਲੁ ਰਵਿ ਚੰਦੁ ਦੀਪਕ ਬਨੇ ਤਾਰਿਕਾ ਮੰਡਲ ਜਨਕ ਮੋਤੀ ॥",
+          "roman": "gagan mai thāl rav chand dīpak banē tārikā mandal janak mōtī .",
+          "sahib_singh_pa": "ਸਾਰਾ ਆਕਾਸ਼ (ਮਾਨੋ) ਥਾਲ ਹੈ ਤੇ ਸੂਰਜ ਤੇ ਚੰਦ (ਉਸ ਥਾਲ ਵਿਚ) ਦੀਵੇ ਬਣੇ ਹੋਏ ਹਨ। ਤਾਰਿਆਂ ਦੇ ਸਮੂਹ, ਮਾਨੋ, (ਥਾਲ ਵਿਚ) ਮੋਤੀ ਰੱਖੇ ਹੋਏ ਹਨ।",
+          "roman_display": "gagan me thāl rav chand dīpak banē tārikā mandal janak mōtī ."
+        },
+        {
+          "verse_id": 556,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "dhūp malaānalō",
+              "literal_ru": "благовоние малайского ветра",
+              "ksd_meta_ru": "аромат творения как часть космической арати",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "pavan chavarō karē",
+              "literal_ru": "ветер делает чавар",
+              "ksd_meta_ru": "воздух служит как жест почитания Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sagal banarāi",
+              "literal_ru": "вся растительность",
+              "ksd_meta_ru": "вся живая природа участвует в хвале",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "phūlant jōtī",
+              "literal_ru": "цветёт для Света",
+              "ksd_meta_ru": "природа предлагает свои цветы всепроникающей Джот",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Ароматный ветер словно благовоние; воздух совершает чавар, и вся растительность цветёт как подношение Джот.",
+          "artistic_ru": "Ветер несёт аромат, воздух веет чаваром, леса расцветают перед Светом.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как образ, где малайский ветер становится благовонием, воздух совершает чавар, а вся растительность даёт цветы для арати Свету.",
+          "gurmukhi": "ਧੂਪੁ ਮਲਆਨਲੋ ਪਵਣੁ ਚਵਰੋ ਕਰੇ ਸਗਲ ਬਨਰਾਇ ਫੂਲੰਤ ਜੋਤੀ ॥੧॥",
+          "roman": "dhūp malaānalō pavan chavarō karē sagal banarāi phūlant jōtī .1.",
+          "sahib_singh_pa": "ਮਲਯ ਪਰਬਤ ਵਲੋਂ ਆਉਣ ਵਾਲੀ ਹਵਾ, ਮਾਨੋ, ਧੂਪ (ਧੁਖ ਰਿਹਾ) ਹੈ, ਤੇ ਹਵਾ ਚੌਰ ਕਰ ਰਹੀ ਹੈ। ਸਾਰੀ ਬਨਸਪਤੀ ਜੋਤਿ-ਰੂਪ (ਪ੍ਰਭੂ ਦੀ ਆਰਤੀ) ਵਾਸਤੇ ਫੁੱਲ ਦੇ ਰਹੀ ਹੈ ॥੧॥",
+          "roman_display": "dhūp malaānalō pavan chavarō karē sagal banarāi phūlant jōtī .1."
+        },
+        {
+          "verse_id": 557,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "kaisī āratī hōi",
+              "literal_ru": "какая арати происходит",
+              "ksd_meta_ru": "вопрос о подлинной арати, отличной от ритуала",
+              "confidence": 0.97,
+              "grammar_note": "Риторический вопрос, на который строка сразу даёт ответ."
+            },
+            {
+              "roman": "bhav",
+              "literal_ru": "бытие, становление",
+              "ksd_meta_ru": "иллюзорное восприятие реальности, порождающее страх и запутанность",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "khandanā",
+              "literal_ru": "разрушитель, разрушающий",
+              "ksd_meta_ru": "разрушение иллюзорного восприятия",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tērī āratī",
+              "literal_ru": "Твоя арати",
+              "ksd_meta_ru": "истинная арати как внутренняя реализация, а не внешний обряд",
+              "confidence": 0.97,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Что же является истинной арати? Разрушение иллюзорного восприятия — вот Твоя арати.",
+          "artistic_ru": "Не лампа в руке, а разрушение ложного видения — вот подлинная арати Тебе.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: строка является частью рахао-куплета и прямо строится как вопрос и ответ; КСД-подход подчёркивает, что арати здесь не ритуал, а внутреннее разрушение иллюзорного восприятия.",
+          "gurmukhi": "ਕੈਸੀ ਆਰਤੀ ਹੋਇ ॥ ਭਵ ਖੰਡਨਾ ਤੇਰੀ ਆਰਤੀ ॥",
+          "roman": "kaisī āratī hōi . bhav khandanā tērī āratī .",
+          "sahib_singh_pa": "(ਕੁਦਰਤਿ ਵਿਚ) ਤੇਰੀ ਕੈਸੀ ਸੁੰਦਰ ਆਰਤੀ ਹੋ ਰਹੀ ਹੈ! ਹੇ ਜੀਵਾਂ ਦੇ ਜਨਮ ਮਰਨ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਇਹ ਹੈ ਤੇਰੀ ਅਦਭੁਤ ਆਰਤੀ!",
+          "roman_display": "kaisī āratī hōi . bhav khandanā tērī āratī ."
+        },
+        {
+          "verse_id": 558,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "anahatā",
+              "literal_ru": "безударный",
+              "ksd_meta_ru": "не физический звук, а внутреннее звучание совести и Шабда",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sabad",
+              "literal_ru": "Шабд",
+              "ksd_meta_ru": "наставляющее Божественное Слово",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "vājant",
+              "literal_ru": "звучат",
+              "ksd_meta_ru": "Шабд резонирует во всём живом",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bhērī",
+              "literal_ru": "барабаны, литавры",
+              "ksd_meta_ru": "всежизненный ритм как звучание арати",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "rahāu",
+              "literal_ru": "пауза",
+              "ksd_meta_ru": "центральная тема шабда: истинная арати — внутреннее созерцание через Шабд, звучащий во всём",
+              "confidence": 0.98,
+              "grammar_note": "Рахао фиксирует главный смысл шабда."
+            }
+          ],
+          "ksd_translation": "Безударный Шабд звучит как литавры этой арати. [[Это главная тема шабда.]]",
+          "artistic_ru": "Внутри всего живого звучит безударный Шабд — барабан подлинной арати.",
+          "context_note": "[[Это главная тема шабда.]] добавлено потому, что строка содержит маркер рахао и раскрывает центральный смысл.",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: строка содержит рахао, а Сахиб Сингх объясняет её как единую жизненную струю во всех существах, звучащую как барабаны арати.",
+          "gurmukhi": "ਅਨਹਤਾ ਸਬਦ ਵਾਜੰਤ ਭੇਰੀ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "anahatā sabad vājant bhērī .1. rahāu .",
+          "sahib_singh_pa": "(ਸਭ ਜੀਵਾਂ ਵਿਚ ਰੁਮਕ ਰਹੀ) ਇੱਕੋ ਜੀਵਨ-ਰੌ, ਮਾਨੋ, ਤੇਰੀ ਆਰਤੀ ਵਾਸਤੇ ਨਾਗਾਰੇ ਵੱਜ ਰਹੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥",
+          "roman_display": "anahatā sabad vājant bhērī .1. rahāu ."
+        },
+        {
+          "verse_id": 559,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "sahas tav nain",
+              "literal_ru": "тысячи Твоих глаз",
+              "ksd_meta_ru": "Творец видит через все существа",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "nan nain",
+              "literal_ru": "и нет глаз",
+              "ksd_meta_ru": "Творец вне формы, не ограничен органами",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sahas mūrat",
+              "literal_ru": "тысячи форм",
+              "ksd_meta_ru": "Творец проявлен во множестве существ",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "nanā ēk tōhī",
+              "literal_ru": "и всё же Ты один, без отдельной формы",
+              "ksd_meta_ru": "Единый Ниракар присутствует во множестве проявлений",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "У Тебя тысячи глаз, потому что Ты пронизываешь всех; и всё же у Тебя нет глаз, потому что Ты вне формы. У Тебя тысячи образов, и всё же Ты — Единый без отдельной формы.",
+          "artistic_ru": "Ты смотришь всеми глазами мира, но Сам не заключён ни в один глаз; Ты сияешь во всех образах, но не ограничен образом.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как парадокс всеприсутствия и бесформенности Творца: тысячи глаз и форм через всех существ, но Сам Он не имеет глаз и формы.",
+          "gurmukhi": "ਸਹਸ ਤਵ ਨੈਨ ਨਨ ਨੈਨ ਹਹਿ ਤੋਹਿ ਕਉ ਸਹਸ ਮੂਰਤਿ ਨਨਾ ਏਕ ਤੋੁਹੀ ॥",
+          "roman": "sahas tav nain nan nain hah tōh kau sahas mūrat nanā ēk tōhī .",
+          "sahib_singh_pa": "(ਸਭ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੋਣ ਕਰਕੇ) ਹਜ਼ਾਰਾਂ ਤੇਰੀਆਂ ਅੱਖਾਂ ਹਨ (ਪਰ, ਨਿਰਾਕਾਰ ਹੋਣ ਕਰਕੇ, ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੀਆਂ ਕੋਈ ਅੱਖਾਂ ਨਹੀਂ। ਹਜ਼ਾਰਾਂ ਤੇਰੀਆਂ ਸ਼ਕਲਾਂ ਹਨ, ਪਰ ਤੇਰੀ ਕੋਈ ਭੀ ਸ਼ਕਲ ਨਹੀਂ ਹੈ।",
+          "roman_display": "sahas tav nain nan nain hah tōh kau sahas mūrat nanā ēk tōhī ."
+        },
+        {
+          "verse_id": 560,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "sahas pad bimal",
+              "literal_ru": "тысячи чистых стоп",
+              "ksd_meta_ru": "Творец действует и движется через всё живое",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "nan ēk pad",
+              "literal_ru": "но ни одной стопы",
+              "ksd_meta_ru": "бесформенный Творец не ограничен телесностью",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "gandh bin",
+              "literal_ru": "без носа, без обоняния",
+              "ksd_meta_ru": "вне физических органов",
+              "confidence": 0.94,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sahas tav gandh",
+              "literal_ru": "тысячи Твоих носов, ароматов",
+              "ksd_meta_ru": "Творец воспринимается через бесчисленные формы жизни",
+              "confidence": 0.94,
+              "grammar_note": ""
+            },
+            {
+              "roman": "iv chalat mōhī",
+              "literal_ru": "эти чудеса очаровали меня",
+              "ksd_meta_ru": "осознание парадокса всеприсутствия вызывает изумление",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "У Тебя тысячи чистых стоп, и всё же ни одной стопы; Ты без носа, и всё же тысячи ароматов — такие Твои чудеса наполняют меня изумлением.",
+          "artistic_ru": "Ты ходишь всеми путями, но не имеешь стоп; Ты вне органов, но всё благоухание мира — Твоё чудо.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как продолжение парадокса: тысячи стоп и носов через творение, но бесформенный Творец не имеет физических органов; эти чудеса поражают говорящего.",
+          "gurmukhi": "ਸਹਸ ਪਦ ਬਿਮਲ ਨਨ ਏਕ ਪਦ ਗੰਧ ਬਿਨੁ ਸਹਸ ਤਵ ਗੰਧ ਇਵ ਚਲਤ ਮੋਹੀ ॥੨॥",
+          "roman": "sahas pad bimal nan ēk pad gandh bin sahas tav gandh iv chalat mōhī .2.",
+          "sahib_singh_pa": "ਹਜ਼ਾਰਾਂ ਤੇਰੇ ਸੋਹਣੇ ਪੈਰ ਹਨ, (ਪਰ ਨਿਰਾਕਾਰ ਹੋਣ ਕਰਕੇ) ਤੇਰਾ ਇੱਕ ਭੀ ਪੈਰ ਨਹੀਂ। ਹਜ਼ਾਰਾਂ ਤੇਰੇ ਨੱਕ ਹਨ, ਪਰ ਤੂੰ ਨੱਕ ਤੋਂ ਬਿਨਾ ਹੀ ਹੈਂ। ਤੇਰੇ ਅਜੇਹੇ ਕੌਤਕਾਂ ਨੇ ਮੈਨੂੰ ਹੈਰਾਨ ਕੀਤਾ ਹੋਇਆ ਹੈ ॥੨॥",
+          "roman_display": "sahas pad bimal nan ēk pad gandh bin sahas tav gandh iv chalat mōhī .2."
+        },
+        {
+          "verse_id": 561,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "sabh mah",
+              "literal_ru": "во всех",
+              "ksd_meta_ru": "во всех существах без исключения",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "jōt",
+              "literal_ru": "Свет",
+              "ksd_meta_ru": "одна Божественная Джот",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "jōt hai sōi",
+              "literal_ru": "та же самая Джот",
+              "ksd_meta_ru": "единый Свет Творца действует во всех",
+              "confidence": 0.97,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Во всех существах действует одна и та же Джот Творца.",
+          "artistic_ru": "Один Свет живёт во всём.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что во всех существах действует одна и та же Джот Творца.",
+          "gurmukhi": "ਸਭ ਮਹਿ ਜੋਤਿ ਜੋਤਿ ਹੈ ਸੋਇ ॥",
+          "roman": "sabh mah jōt jōt hai sōi .",
+          "sahib_singh_pa": "ਸਾਰੇ ਜੀਵਾਂ ਵਿਚ ਇਕੋ ਉਹੀ ਪਰਮਾਤਮਾ ਦੀ ਜੋਤੀ ਵਰਤ ਰਹੀ ਹੈ।",
+          "roman_display": "sabh mah jōt jōt hai sōi ."
+        },
+        {
+          "verse_id": 562,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "tis dai chānan",
+              "literal_ru": "от Его света",
+              "ksd_meta_ru": "от просветляющего сияния Джот",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sabh mah chānan",
+              "literal_ru": "во всех возникает свет",
+              "ksd_meta_ru": "понимание и духовная ясность появляются через этот Свет",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "hōi",
+              "literal_ru": "становится, возникает",
+              "ksd_meta_ru": "внутреннее просветление проявляется",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Через сияние этой Джот во всех возникает свет понимания.",
+          "artistic_ru": "Его Свет делает возможным всякое видение внутри.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что благодаря свету этой Джот во всех существах есть свет понимания.",
+          "gurmukhi": "ਤਿਸ ਦੈ ਚਾਨਣਿ ਸਭ ਮਹਿ ਚਾਨਣੁ ਹੋਇ ॥",
+          "roman": "tis dai chānan sabh mah chānan hōi .",
+          "sahib_singh_pa": "ਉਸ ਜੋਤਿ ਦੇ ਪਰਕਾਸ਼ ਨਾਲ ਸਾਰੇ ਜੀਵਾਂ ਵਿਚ ਚਾਨਣ (ਸੂਝ-ਬੂਝ) ਹੈ।",
+          "roman_display": "tis de chānan sabh mah chānan hōi ."
+        },
+        {
+          "verse_id": 563,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "gur sākhī",
+              "literal_ru": "свидетельство, учение Гуру",
+              "ksd_meta_ru": "наставление Шабд-Гуру, раскрывающее реальность Джот",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "jōt",
+              "literal_ru": "Джот, Свет",
+              "ksd_meta_ru": "Божественное присутствие во всех",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "paragat hōi",
+              "literal_ru": "становится явной",
+              "ksd_meta_ru": "осознаётся внутри через обучение Гуру",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Через наставление Гуру эта Джот становится явной.",
+          "artistic_ru": "Гуру открывает то, что Свет уже живёт во всех.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что знание этой Джот приходит только через учение Гуру, благодаря которому становится понятно, что в каждом есть Свет Творца.",
+          "gurmukhi": "ਗੁਰ ਸਾਖੀ ਜੋਤਿ ਪਰਗਟੁ ਹੋਇ ॥",
+          "roman": "gur sākhī jōt paragat hōi .",
+          "sahib_singh_pa": "ਪਰ ਇਸ ਜੋਤਿ ਦਾ ਗਿਆਨ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਨਾਲ ਹੀ ਹੁੰਦਾ ਹੈ। (ਗੁਰੂ ਰਾਹੀਂ ਇਹ ਸਮਝ ਪੈਂਦੀ ਹੈ ਕਿ ਹਰੇਕ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਦੀ ਜੋਤਿ ਹੈ)।",
+          "roman_display": "gur sākhī jōt paragat hōi ."
+        },
+        {
+          "verse_id": 564,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jō tis bhāvai",
+              "literal_ru": "что Ему угодно",
+              "ksd_meta_ru": "то, что происходит в разе Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "s āratī hōi",
+              "literal_ru": "то и есть арати",
+              "ksd_meta_ru": "истинная арати — жить в согласии с разой Творца",
+              "confidence": 0.97,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Арати этой всепроникающей Джот — это принять как благо всё, что происходит в Его разе.",
+          "artistic_ru": "Идти в Его разе — вот настоящая арати.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что арати всепроникающей Джот состоит в том, чтобы человеку нравилось всё, что происходит в разе Творца; идти в Его разе и есть совершать Его арати.",
+          "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੁ ਆਰਤੀ ਹੋਇ ॥੩॥",
+          "roman": "jō tis bhāvai s āratī hōi .3.",
+          "sahib_singh_pa": "(ਇਸ ਸਰਬ-ਵਿਆਪਕ ਜੋਤਿ ਦੀ) ਆਰਤੀ ਇਹ ਹੈ ਕਿ ਜੋ ਕੁਝ ਉਸ ਦੀ ਰਜ਼ਾ ਵਿਚ ਹੋ ਰਿਹਾ ਹੈ, ਉਹ ਜੀਵ ਨੂੰ ਚੰਗਾ ਲੱਗੇ (ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਵਿਚ ਤੁਰਨਾ ਪ੍ਰਭੂ ਦੀ ਆਰਤੀ ਕਰਨੀ ਹੈ) ॥੩॥",
+          "roman_display": "jō tis bhāve s āratī hōi .3."
+        },
+        {
+          "verse_id": 565,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "har charan kaval",
+              "literal_ru": "лотосные стопы Хара",
+              "ksd_meta_ru": "опора, присутствие и добродетели Творца",
+              "confidence": 0.95,
+              "grammar_note": "Поэтический образ."
+            },
+            {
+              "roman": "makarand",
+              "literal_ru": "нектар, сок цветка",
+              "ksd_meta_ru": "вкус Наама и добродетелей",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "lōbhit manō",
+              "literal_ru": "ум жаждет, тянется",
+              "ksd_meta_ru": "внутреннее стремление к Творцу",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "anadinō",
+              "literal_ru": "день за днём",
+              "ksd_meta_ru": "непрерывная жажда",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mōh āhī piāsā",
+              "literal_ru": "у меня есть жажда",
+              "ksd_meta_ru": "духовная жажда пребывания в Нааме",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "О Хар, мой ум жаждет нектара Твоих лотосных стоп; день за днём во мне живёт эта жажда.",
+          "artistic_ru": "Мой ум тянется к нектару Твоего присутствия, как жаждущий к воде.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как жажду ума к нектару лотосных стоп Хара, присутствующую каждый день.",
+          "gurmukhi": "ਹਰਿ ਚਰਣ ਕਵਲ ਮਕਰੰਦ ਲੋਭਿਤ ਮਨੋ ਅਨਦਿਨੋੁ ਮੋਹਿ ਆਹੀ ਪਿਆਸਾ ॥",
+          "roman": "har charan kaval makarand lōbhit manō anadinō mōh āhī piāsā .",
+          "sahib_singh_pa": "ਹੇ ਹਰੀ! ਤੇਰੇ ਚਰਨ-ਰੂਪ ਕੌਲ-ਫੁੱਲਾਂ ਦੇ ਰਸ ਲਈ ਮੇਰਾ ਮਨ ਲਲਚਾਂਦਾ ਹੈ, ਹਰ ਰੋਜ਼ ਮੈਨੂੰ ਇਸੇ ਰਸ ਦੀ ਪਿਆਸ ਲੱਗੀ ਹੋਈ ਹੈ।",
+          "roman_display": "har charan kaval makarand lōbhit manō anadinō mōh āhī piāsā ."
+        },
+        {
+          "verse_id": 566,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "kripā jal",
+              "literal_ru": "вода милости",
+              "ksd_meta_ru": "милость Творца как вода, утоляющая духовную жажду",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "dēh",
+              "literal_ru": "дай",
+              "ksd_meta_ru": "молитвенная просьба о милости",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "Nānak sāring",
+              "literal_ru": "Нанак-папиха",
+              "ksd_meta_ru": "жаждущая джинд, ожидающая воду милости",
+              "confidence": 0.95,
+              "grammar_note": "Поэтический образ птицы, жаждущей особой капли."
+            },
+            {
+              "roman": "tērai nāi vāsā",
+              "literal_ru": "пребывание в Твоём Нааме",
+              "ksd_meta_ru": "устойчивое внутреннее поселение в Нааме",
+              "confidence": 0.97,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Дай Нанаку-папихе воду Своей милости, чтобы через неё я пребывал в Твоём Нааме.",
+          "artistic_ru": "О Творец, напои жаждущую душу водой кирпы, чтобы она поселилась в Твоём Нааме.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как просьбу дать воду милости, благодаря которой Нанак сможет пребывать в Нааме Творца.",
+          "gurmukhi": "ਕ੍ਰਿਪਾ ਜਲੁ ਦੇਹਿ ਨਾਨਕ ਸਾਰਿੰਗ ਕਉ ਹੋਇ ਜਾ ਤੇ ਤੇਰੈ ਨਾਇ ਵਾਸਾ ॥੪॥੩॥",
+          "roman": "kripā jal dēh nānak sāring kau hōi jā tē tērai nāi vāsā .4.3.",
+          "sahib_singh_pa": "ਮੈਨੂੰ ਨਾਨਕ ਪਪੀਹੇ ਨੂੰ ਆਪਣੀ ਮਿਹਰ ਦਾ ਜਲ ਦੇਹ, ਜਿਸ (ਦੀ ਬਰਕਤਿ) ਨਾਲ ਮੈਂ ਤੇਰੇ ਨਾਮ ਵਿਚ ਟਿਕਿਆ ਰਹਾਂ ॥੪॥੩॥",
+          "roman_display": "kripā jal dēh nānak sāring kau hōi jā tē tērai nāi vāsā .4.3."
+        }
+      ],
+      "shabad_summary": "Шабд переопределяет арати: всё творение уже участвует в хвале Творца, а подлинная арати — разрушение иллюзорного восприятия и жизнь в Его разе. Через наставление Гуру раскрывается одна Джот во всех, а завершение шабда становится молитвой о воде милости, чтобы пребывать в Нааме."
+    },
+    {
+      "ang": 13,
+      "shabad_id": 53,
+      "rahao_verse_id": 571,
+      "rahao_theme": "Сложи руки перед Гуру и пади перед наставляющим Шабдом: только через это смирение разрушается город кама, кродха и хаумэ.",
+      "lines": [
+        {
+          "verse_id": 567,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "rāg gaurī pūrabī",
+              "literal_ru": "раг Гаури Пураби",
+              "ksd_meta_ru": "музыкально-духовная рамка шабда",
+              "confidence": 0.98,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mahalā 4",
+              "literal_ru": "четвёртый Махала",
+              "ksd_meta_ru": "Бани Гуру Рам Даса Патишаха",
+              "confidence": 0.98,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Раг Гаури Пураби, Бани Гуру Рам Даса Патишаха.",
+          "artistic_ru": "Шабд Гуру Рам Даса Патишаха в раге Гаури Пураби.",
+          "context_note": "",
+          "confidence": 0.99,
+          "confidence_reason": "Очень высокая уверенность: строка является заголовком шабда.",
+          "gurmukhi": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਮਹਲਾ ੪ ॥",
+          "roman": "rāg gaurī pūrabī mahalā 4 .",
+          "sahib_singh_pa": "None",
+          "roman_display": "rāg gaurī pūrabī mahalā 4 ."
+        },
+        {
+          "verse_id": 568,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "kām",
+              "literal_ru": "похоть, желание",
+              "ksd_meta_ru": "сила майического влечения внутри тела-города",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "karōdh",
+              "literal_ru": "гнев",
+              "ksd_meta_ru": "реактивная сила эгоистического сопротивления",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "nagar",
+              "literal_ru": "город",
+              "ksd_meta_ru": "тело и внутренняя система человека",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bah bhariā",
+              "literal_ru": "сильно наполнен",
+              "ksd_meta_ru": "внутреннее пространство переполнено камом и кродхом",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mil sādhū",
+              "literal_ru": "встретив садху",
+              "ksd_meta_ru": "встретив Гуру, наставляющий Шабд",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "khandal khandā",
+              "literal_ru": "разбивается, разрушается",
+              "ksd_meta_ru": "узел кама и кродха внутри ломается",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Этот город тела переполнен камом и кродхом; только встретив Гуру, этот узел внутри можно разбить.",
+          "artistic_ru": "Город тела полон желания и гнева; Шабд-Гуру входит — и их сцепление начинает рушиться.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет тело как город, наполненный камом и кродхом, а их разрушение связывает со встречей Гуру.",
+          "gurmukhi": "ਕਾਮਿ ਕਰੋਧਿ ਨਗਰੁ ਬਹੁ ਭਰਿਆ ਮਿਲਿ ਸਾਧੂ ਖੰਡਲ ਖੰਡਾ ਹੇ ॥",
+          "roman": "kām karōdh nagar bah bhariā mil sādhū khandal khandā hē .",
+          "sahib_singh_pa": "(ਮਨੁੱਖ ਦਾ ਇਹ ਸਰੀਰ-) ਸ਼ਹਰ ਕਾਮ ਅਤੇ ਕ੍ਰੋਧ ਨਾਲ ਭਰਿਆ ਰਹਿੰਦਾ ਹੈ। ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਹੀ (ਕਾਮ ਕ੍ਰੋਧ ਆਦਿਕ ਦੇ ਇਸ ਜੋੜ ਨੂੰ) ਤੋੜਿਆ ਜਾ ਸਕਦਾ ਹੈ।",
+          "roman_display": "kām karōdh nagar bah bhariā mil sādhū khandal khandā hē ."
+        },
+        {
+          "verse_id": 569,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "pūrab likhat likhē",
+              "literal_ru": "по прежней записи",
+              "ksd_meta_ru": "по уже сложившимся санжогам поступков",
+              "confidence": 0.94,
+              "grammar_note": ""
+            },
+            {
+              "roman": "gur pāiā",
+              "literal_ru": "Гуру найден",
+              "ksd_meta_ru": "встреча с наставляющим Шабдом становится возможной",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "man",
+              "literal_ru": "ум",
+              "ksd_meta_ru": "внутреннее поле восприятия",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har liv",
+              "literal_ru": "любовная сосредоточенность на Харе",
+              "ksd_meta_ru": "внутренняя настроенность на Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mandal mandā",
+              "literal_ru": "сфера установлена",
+              "ksd_meta_ru": "в уме утверждается поле связи с Творцом",
+              "confidence": 0.93,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Тот, кто по санжогам прежних действий встречает Гуру, утверждает в уме лив с Харом, и тогда сцепление кама и кродха внутри разрушается.",
+          "artistic_ru": "Когда Гуру найден, ум получает новую орбиту: лив с Харом вытесняет власть желания и гнева.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что по санжогам прежних действий человек встречает Гуру, в его уме возникает лив с Творцом, и изнутри разрушается сцепление кама и других пороков.",
+          "gurmukhi": "ਪੂਰਬਿ ਲਿਖਤ ਲਿਖੇ ਗੁਰੁ ਪਾਇਆ ਮਨਿ ਹਰਿ ਲਿਵ ਮੰਡਲ ਮੰਡਾ ਹੇ ॥੧॥",
+          "roman": "pūrab likhat likhē gur pāiā man har liv mandal mandā hē .1.",
+          "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪੂਰਬਲੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਜੋਗਾਂ ਨਾਲ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਉਸ ਦੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਨਾਲ ਲਿਵ ਲੱਗ ਜਾਂਦੀ ਹੈ (ਅਤੇ ਉਸ ਦੇ ਅੰਦਰੋਂ ਕਾਮਾਦਿਕਾਂ ਦਾ ਜੋੜ ਟੁੱਟ ਜਾਂਦਾ ਹੈ) ॥੧॥",
+          "roman_display": "pūrab likhat likhē gur pāiā man har liv mandal mandā hē .1."
+        },
+        {
+          "verse_id": 570,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "kar",
+              "literal_ru": "сделай",
+              "ksd_meta_ru": "практическое наставление",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sādhū",
+              "literal_ru": "садху, святой",
+              "ksd_meta_ru": "Гуру как наставляющий Шабд",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "anjulī",
+              "literal_ru": "сложенные ладони",
+              "ksd_meta_ru": "смиренное обращение к Гуру",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "pun vadā",
+              "literal_ru": "великая благость",
+              "ksd_meta_ru": "духовно благой акт смирения перед Гуру",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "О брат, сложи руки перед Гуру; это великое духовное благо.",
+          "artistic_ru": "Сложи ладони перед Шабдом-Гуру: так начинается разрушение внутреннего города пороков.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: это первая строка рахао-куплета, и Сахиб Сингх прямо объясняет её как призыв сложить руки перед Гуру, что является великим благим делом.",
+          "gurmukhi": "ਕਰਿ ਸਾਧੂ ਅੰਜੁਲੀ ਪੁਨੁ ਵਡਾ ਹੇ ॥",
+          "roman": "kar sādhū anjulī pun vadā hē .",
+          "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਗੁਰੂ ਅੱਗੇ ਹੱਥ ਜੋੜ, ਇਹ ਬਹੁਤ ਭਲਾ ਕੰਮ ਹੈ।",
+          "roman_display": "kar sādhū anjulī pun vadā hē ."
+        },
+        {
+          "verse_id": 571,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "kar dandaut",
+              "literal_ru": "сделай полный поклон",
+              "ksd_meta_ru": "полное смирение перед Гуру",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "pun vadā",
+              "literal_ru": "великое благодеяние",
+              "ksd_meta_ru": "высшее духовное действие, открывающее путь к преображению",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "rahāu",
+              "literal_ru": "пауза",
+              "ksd_meta_ru": "центральная тема шабда: смиренное склонение перед Гуру разрушает кам, кродх и хаумэ",
+              "confidence": 0.98,
+              "grammar_note": "Рахао фиксирует главный смысл шабда."
+            }
+          ],
+          "ksd_translation": "Пади перед Гуру в полном поклоне; это великое духовное благо. [[Это главная тема шабда.]]",
+          "artistic_ru": "Полное склонение перед Гуру — не жест тела, а сдача хаумэ перед Шабдом.",
+          "context_note": "[[Это главная тема шабда.]] добавлено потому, что строка содержит маркер рахао и раскрывает центральный смысл.",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: это строка рахао, и Сахиб Сингх прямо объясняет её как призыв пасть перед Гуру, что является великим благим делом.",
+          "gurmukhi": "ਕਰਿ ਡੰਡਉਤ ਪੁਨੁ ਵਡਾ ਹੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "kar dandaut pun vadā hē .1. rahāu .",
+          "sahib_singh_pa": "ਗੁਰੂ ਅੱਗੇ ਢਹਿ ਪਉ, ਇਹ ਬੜਾ ਨੇਕ ਕੰਮ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman_display": "kar dandaut pun vadā hē .1. rahāu ."
+        },
+        {
+          "verse_id": 572,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "sākat",
+              "literal_ru": "отделённый от Творца",
+              "ksd_meta_ru": "человек, разорванный с Наамом и живущий из хаумэ",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har ras sād",
+              "literal_ru": "вкус нектара Хара",
+              "ksd_meta_ru": "внутренний вкус Наама",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "n jāniā",
+              "literal_ru": "не узнал",
+              "ksd_meta_ru": "не вошёл в опыт",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "antar",
+              "literal_ru": "внутри",
+              "ksd_meta_ru": "внутреннее состояние ума",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "haumai kandā",
+              "literal_ru": "колючка хаумэ",
+              "ksd_meta_ru": "больное чувство «я существую отдельно»",
+              "confidence": 0.97,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Сакаты, оторванные от Творца, не знают вкуса рас Хара; внутри них вонзена колючка хаумэ — чувства «я существую отдельно».",
+          "artistic_ru": "Кто оторван от Хара, не чувствует вкуса Наама: внутри его движений торчит колючка отдельного «я».",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что оторванные от Творца не понимают вкуса Наама, потому что в их уме вонзена колючка эго.",
+          "gurmukhi": "ਸਾਕਤ ਹਰਿ ਰਸ ਸਾਦੁ ਨ ਜਾਣਿਆ ਤਿਨ ਅੰਤਰਿ ਹਉਮੈ ਕੰਡਾ ਹੇ ॥",
+          "roman": "sākat har ras sād n jāniā tin antar haumai kandā hē .",
+          "sahib_singh_pa": "ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਟੁੱਟੇ ਹੋਏ ਹਨ, ਉਹ ਉਸ ਦੇ ਨਾਮ ਦੇ ਰਸ ਦੇ ਸੁਆਦ ਨੂੰ ਸਮਝ ਨਹੀਂ ਸਕਦੇ। ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ ਅਹੰਕਾਰ ਦਾ (ਮਾਨੋ) ਕੰਡਾ ਚੁੱਭਾ ਹੋਇਆ ਹੈ।",
+          "roman_display": "sākat har ras sād n jāniā tin antar haume kandā hē ."
+        },
+        {
+          "verse_id": 573,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jiu jiu chalah",
+              "literal_ru": "как только идут, действуют",
+              "ksd_meta_ru": "по мере того как они живут из природы хаумэ",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "chubhai",
+              "literal_ru": "колет",
+              "ksd_meta_ru": "хаумэ причиняет внутреннюю боль",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "dukh pāvah",
+              "literal_ru": "получают страдание",
+              "ksd_meta_ru": "жизнь из хаумэ производит духовную боль",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "jamakāl",
+              "literal_ru": "джам-кал, смерть",
+              "ksd_meta_ru": "духовная смерть сознания",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sir dandā",
+              "literal_ru": "посох, удар на голову",
+              "ksd_meta_ru": "удар духовной смерти, переживаемый в сознании",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Чем больше они действуют из природы хаумэ, тем сильнее эта колючка ранит их; они получают дукх и несут на голове удар духовной смерти.",
+          "artistic_ru": "Каждый шаг из хаумэ глубже вонзает шип, и духовная смерть становится тяжестью над головой.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что при действиях из хаумэ колючка эго колет их, они страдают и несут наказание духовной смерти.",
+          "gurmukhi": "ਜਿਉ ਜਿਉ ਚਲਹਿ ਚੁਭੈ ਦੁਖੁ ਪਾਵਹਿ ਜਮਕਾਲੁ ਸਹਹਿ ਸਿਰਿ ਡੰਡਾ ਹੇ ॥੨॥",
+          "roman": "jiu jiu chalah chubhai dukh pāvah jamakāl sahah sir dandā hē .2.",
+          "sahib_singh_pa": "ਜਿਉਂ ਜਿਉਂ ਉਹ ਤੁਰਦੇ ਹਨ (ਜਿਉਂ ਜਿਉਂ ਉਹ ਹਉਮੈ ਦੇ ਸੁਭਾਵ ਵਾਲੀ ਵਰਤੋਂ ਵਰਤਦੇ ਹਨ, ਹਉਮੈ ਦਾ ਉਹ ਕੰਡਾ ਉਹਨਾਂ ਨੂੰ) ਚੁੱਭਦਾ ਹੈ, ਉਹ ਦੁੱਖ ਪਾਂਦੇ ਹਨ, ਅਤੇ ਆਪਣੇ ਸਿਰ ਉੱਤੇ ਆਤਮਕ ਮੌਤ-ਰੂਪ ਡੰਡਾ ਸਹਾਰਦੇ ਹਨ (ਆਤਮਕ ਮੌਤ ਉਹਨਾਂ ਦੇ ਸਿਰ ਉਤੇ ਸਵਾਰ ਰਹਿੰਦੀ ਹੈ) ॥੨॥",
+          "roman_display": "jiu jiu chalah chubhe dukh pāvah jamakāl sahah sir dandā hē .2."
+        },
+        {
+          "verse_id": 574,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "har jan",
+              "literal_ru": "люди Хара",
+              "ksd_meta_ru": "те, кто живут в ориентации на Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har har nām samānē",
+              "literal_ru": "растворены в Нааме Хара",
+              "ksd_meta_ru": "пребывают соединёнными с Наамом",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "dukh janam maran",
+              "literal_ru": "страдание рождения и смерти",
+              "ksd_meta_ru": "повторяющийся цикл духовного падения и возрождения состояний ума",
+              "confidence": 0.94,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bhav khandā",
+              "literal_ru": "разрушает бхав",
+              "ksd_meta_ru": "разрушает иллюзорное восприятие, производящее страх и дукх",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "А люди Хара пребывают соединёнными с Наамом Хара; у них разрушается дукх рождения, смерти и иллюзорного восприятия.",
+          "artistic_ru": "Те, кто погружён в Наам, выходят из боли повторяющихся падений: бхав распадается.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что возлюбленные Творца пребывают в Нааме, и у них разрушается страдание рождения и смерти мира.",
+          "gurmukhi": "ਹਰਿ ਜਨ ਹਰਿ ਹਰਿ ਨਾਮਿ ਸਮਾਣੇ ਦੁਖੁ ਜਨਮ ਮਰਣ ਭਵ ਖੰਡਾ ਹੇ ॥",
+          "roman": "har jan har har nām samānē dukh janam maran bhav khandā hē .",
+          "sahib_singh_pa": "(ਦੂਜੇ ਪਾਸੇ) ਪਰਮਾਤਮਾ ਦੇ ਪਿਆਰੇ ਬੰਦੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜੇ ਰਹਿੰਦੇ ਹਨ। ਉਹਨਾਂ ਦਾ ਸੰਸਾਰ ਦਾ ਜੰਮਣ ਮਰਨ ਦਾ ਦੁੱਖ ਕੱਟਿਆ ਜਾਂਦਾ ਹੈ।",
+          "roman_display": "har jan har har nām samānē dukh janam maran bhav khandā hē ."
+        },
+        {
+          "verse_id": 575,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "abināsī purakh",
+              "literal_ru": "неразрушимый Пурукх",
+              "ksd_meta_ru": "вечный всепроникающий Творец",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "pāiā",
+              "literal_ru": "обретён",
+              "ksd_meta_ru": "реализован внутри",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "paramēsar",
+              "literal_ru": "Пармесар, Высший Владыка",
+              "ksd_meta_ru": "всепроникающий Создатель",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bah sōbh",
+              "literal_ru": "великая слава",
+              "ksd_meta_ru": "духовное сияние такой реализации",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "khand brahamandā",
+              "literal_ru": "сферы и вселенные",
+              "ksd_meta_ru": "вся широта духовной реальности",
+              "confidence": 0.94,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Они реализуют Неразрушимого, всепроникающего Пармесара; их духовная слава распространяется по всем кхандам и брахмандам.",
+          "artistic_ru": "Тот, кто нашёл Неразрушимого внутри, сияет шире всех внутренних миров.",
+          "context_note": "",
+          "confidence": 0.96,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что такие люди обретают неразрушимого всепроникающего Пармесара, и их слава распространяется по всем сферам и вселенным.",
+          "gurmukhi": "ਅਬਿਨਾਸੀ ਪੁਰਖੁ ਪਾਇਆ ਪਰਮੇਸਰੁ ਬਹੁ ਸੋਭ ਖੰਡ ਬ੍ਰਹਮੰਡਾ ਹੇ ॥੩॥",
+          "roman": "abināsī purakh pāiā paramēsar bah sōbh khand brahamandā hē .3.",
+          "sahib_singh_pa": "ਉਹਨਾਂ ਨੂੰ ਕਦੇ ਨਾਸ਼ ਨਾਹ ਹੋਣ ਵਾਲਾ ਸਰਬ-ਵਿਆਪਕ ਪਰਮੇਸਰ ਮਿਲ ਪੈਂਦਾ ਹੈ। ਉਹਨਾਂ ਦੀ ਸੋਭਾ ਸਾਰੇ ਖੰਡਾਂ ਬ੍ਰਹਮੰਡਾਂ ਵਿਚ ਹੋ ਜਾਂਦੀ ਹੈ ॥੩॥",
+          "roman_display": "abināsī purakh pāiā paramēsar bah sōbh khand brahamandā hē .3."
+        },
+        {
+          "verse_id": 576,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "ham garīb masakīn",
+              "literal_ru": "мы бедные, смиренные просители",
+              "ksd_meta_ru": "существа без самостоятельной силы против пороков",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "prabh tērē",
+              "literal_ru": "Твои, о Прабх",
+              "ksd_meta_ru": "принадлежность Творцу, обращение к Нему как к опоре",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har rākh rākh",
+              "literal_ru": "Хар, спаси, сохрани",
+              "ksd_meta_ru": "молитва о защите от кама, кродха и хаумэ",
+              "confidence": 0.96,
+              "grammar_note": "Повтор усиливает просьбу."
+            },
+            {
+              "roman": "vad vadā",
+              "literal_ru": "величайший",
+              "ksd_meta_ru": "Творец как высшая поддержка",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "О Прабх, мы бедные и смиренные существа у Твоих дверей; о Хар, сохрани нас, спаси нас от кама, кродха и хаумэ, Ты — величайшая опора.",
+          "artistic_ru": "Мы слабы перед внутренними врагами; Хар, защити нас, потому что нет опоры выше Тебя.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как молитву существ у двери Творца с просьбой спасти их от кама и других пороков, потому что Творец — величайший помощник.",
+          "gurmukhi": "ਹਮ ਗਰੀਬ ਮਸਕੀਨ ਪ੍ਰਭ ਤੇਰੇ ਹਰਿ ਰਾਖੁ ਰਾਖੁ ਵਡ ਵਡਾ ਹੇ ॥",
+          "roman": "ham garīb masakīn prabh tērē har rākh rākh vad vadā hē .",
+          "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਜੀਵ ਤੇਰੇ ਦਰ ਦੇ ਗਰੀਬ ਮੰਗਦੇ ਹਾਂ। ਤੂੰ ਸਭ ਤੋਂ ਵੱਡਾ ਸਹਾਈ ਹੈਂ। ਸਾਨੂੰ (ਇਹਨਾਂ ਕਾਮਾਦਿਕਾਂ ਤੋਂ) ਬਚਾ ਲੈ।",
+          "roman_display": "ham garīb masakīn prabh tērē har rākh rākh vad vadā hē ."
+        },
+        {
+          "verse_id": 577,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jan Nānak",
+              "literal_ru": "слуга Нанак",
+              "ksd_meta_ru": "смиренный голос Гуру",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "nām adhār",
+              "literal_ru": "Наам — основа",
+              "ksd_meta_ru": "Наам как внутренняя опора существования",
+              "confidence": 0.98,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tēk",
+              "literal_ru": "поддержка, прибежище",
+              "ksd_meta_ru": "единственная надёжная опора против пороков",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har nāmē hī",
+              "literal_ru": "только в Нааме Хара",
+              "ksd_meta_ru": "исключительность Наама как источника сукха",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sukh mandā",
+              "literal_ru": "сукх устанавливается",
+              "ksd_meta_ru": "устойчивый внутренний покой возникает только через соединение с Наамом",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Для слуги Нанака Наам — единственная основа и опора; только соединяясь с Наамом Хара, обретается сукх.",
+          "artistic_ru": "Наам — моя земля и мой посох; в Нааме Хара единственно раскрывается покой.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что для Нанака Наам Творца является основой и поддержкой, и только соединение с Наамом даёт сукх.",
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਨਾਮੁ ਅਧਾਰੁ ਟੇਕ ਹੈ ਹਰਿ ਨਾਮੇ ਹੀ ਸੁਖੁ ਮੰਡਾ ਹੇ ॥੪॥੪॥",
+          "roman": "jan nānak nām adhār tēk hai har nāmē hī sukh mandā hē .4.4.",
+          "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਦਾਸ ਨਾਨਕ ਨੂੰ ਤੇਰਾ ਨਾਮ ਹੀ ਆਸਰਾ ਹੈ, ਤੇਰਾ ਨਾਮ ਹੀ ਸਹਾਰਾ ਹੈ। ਤੇਰੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ ਹੀ ਸੁਖ ਮਿਲਦਾ ਹੈ ॥੪॥੪॥",
+          "roman_display": "jan nānak nām adhār tēk hai har nāmē hī sukh mandā hē .4.4."
+        }
+      ],
+      "shabad_summary": "Шабд описывает тело как город, переполненный камом и кродхом, а хаумэ — как колючку, причиняющую дукх и ведущую к духовной смерти. Рахао даёт путь: смиренно склониться перед Гуру; через Гуру ум соединяется с Наамом Хара, и именно в Нааме разрушается бхав, прекращается внутренняя боль и устанавливается сукх."
+    },
+    {
+      "ang": 13,
+      "shabad_id": 54,
+      "rahao_verse_id": 581,
+      "rahao_theme": "Жизнь убывает день и ночь; поэтому, о ум, встреться с Гуру и заверши дело человеческой жизни.",
+      "lines": [
+        {
+          "verse_id": 578,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "rāg gaurī pūrabī",
+              "literal_ru": "раг Гаури Пураби",
+              "ksd_meta_ru": "музыкально-духовная рамка шабда",
+              "confidence": 0.98,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mahalā 5",
+              "literal_ru": "пятый Махала",
+              "ksd_meta_ru": "Бани Гуру Арджана Патишаха",
+              "confidence": 0.98,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Раг Гаури Пураби, Бани Гуру Арджана Патишаха.",
+          "artistic_ru": "Шабд Гуру Арджана Патишаха в раге Гаури Пураби.",
+          "context_note": "",
+          "confidence": 0.99,
+          "confidence_reason": "Очень высокая уверенность: строка является заголовком шабда.",
+          "gurmukhi": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਮਹਲਾ ੫ ॥",
+          "roman": "rāg gaurī pūrabī mahalā 5 .",
+          "sahib_singh_pa": "None",
+          "roman_display": "rāg gaurī pūrabī mahalā 5 ."
+        },
+        {
+          "verse_id": 579,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "karau bēnantī",
+              "literal_ru": "совершаю просьбу",
+              "ksd_meta_ru": "смиренное наставляющее обращение",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sunah mērē mītā",
+              "literal_ru": "слушайте, мои друзья",
+              "ksd_meta_ru": "обращение к внутренне близким духовным спутникам",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sant",
+              "literal_ru": "санты, Гурмукхи",
+              "ksd_meta_ru": "те, кто ориентирован на Гуру и Наам",
+              "confidence": 0.95,
+              "grammar_note": "Форма без аункара указывает на множественное значение."
+            },
+            {
+              "roman": "tahal",
+              "literal_ru": "служение",
+              "ksd_meta_ru": "сева Гурмукхов и практическое участие в пути Гуру",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bēlā",
+              "literal_ru": "время, момент",
+              "ksd_meta_ru": "нынешняя человеческая жизнь как возможность",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "О мои друзья, слушайте мою просьбу: сейчас время севы Гурмукхов.",
+          "artistic_ru": "Друзья, услышьте: эта жизнь — час служения тем, кто идёт лицом к Гуру.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как просьбу к друзьям: теперь время служить Гурмукхам.",
+          "gurmukhi": "ਕਰਉ ਬੇਨੰਤੀ ਸੁਣਹੁ ਮੇਰੇ ਮੀਤਾ ਸੰਤ ਟਹਲ ਕੀ ਬੇਲਾ ॥",
+          "roman": "karau bēnantī sunah mērē mītā sant tahal kī bēlā .",
+          "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਿੱਤਰੋ! ਸੁਣੋ! ਮੈਂ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ-(ਹੁਣ) ਗੁਰਮੁਖਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਦਾ ਵੇਲਾ ਹੈ।",
+          "roman_display": "karau bēnantī sunah mērē mītā sant tahal kī bēlā ."
+        },
+        {
+          "verse_id": 580,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "īhā",
+              "literal_ru": "здесь",
+              "ksd_meta_ru": "в этой человеческой жизни",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "khāt chalah",
+              "literal_ru": "заработав, уходите",
+              "ksd_meta_ru": "уходить из жизни с духовной прибылью",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har lāhā",
+              "literal_ru": "прибыль Хара",
+              "ksd_meta_ru": "духовная прибыль Наама",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "āgai",
+              "literal_ru": "впереди, далее",
+              "ksd_meta_ru": "последующее состояние сознания и продолжение духовного пути",
+              "confidence": 0.91,
+              "grammar_note": ""
+            },
+            {
+              "roman": "basan suhēlā",
+              "literal_ru": "жить станет легко",
+              "ksd_meta_ru": "внутреннее пребывание станет устойчивым и спокойным",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Заработайте здесь прибыль Наама Хара, и дальнейшее пребывание станет лёгким и спокойным.",
+          "artistic_ru": "Уходи из этой жизни с прибылью Хара — тогда путь дальше не будет тяжёлым.",
+          "context_note": "",
+          "confidence": 0.96,
+          "confidence_reason": "Высокая уверенность: Сахиб Сингх прямо объясняет строку как накопление прибыли Наама в этой жизни и лёгкое пребывание далее; выражение о дальнейшем состоянии передано в духовном ключе.",
+          "gurmukhi": "ਈਹਾ ਖਾਟਿ ਚਲਹੁ ਹਰਿ ਲਾਹਾ ਆਗੈ ਬਸਨੁ ਸੁਹੇਲਾ ॥੧॥",
+          "roman": "īhā khāt chalah har lāhā āgai basan suhēlā .1.",
+          "sahib_singh_pa": "(ਜੇ ਸੇਵਾ ਕਰੋਗੇ, ਤਾਂ) ਇਸ ਜਨਮ ਵਿਚ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਖੱਟੀ ਖੱਟ ਕੇ ਜਾਵੋਗੇ, ਅਤੇ ਪਰਲੋਕ ਵਿਚ ਰਹਿਣਾ ਸੌਖਾ ਹੋ ਜਾਇਗਾ ॥੧॥",
+          "roman_display": "īhā khāt chalah har lāhā āge basan suhēlā .1."
+        },
+        {
+          "verse_id": 581,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "audh ghatai",
+              "literal_ru": "возраст уменьшается",
+              "ksd_meta_ru": "возможность человеческой жизни убывает",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "dinas rainārē",
+              "literal_ru": "днём и ночью",
+              "ksd_meta_ru": "непрерывное истечение времени жизни",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "man",
+              "literal_ru": "о ум",
+              "ksd_meta_ru": "прямое обращение к внутреннему центру выбора",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "gur mil",
+              "literal_ru": "встретив Гуру",
+              "ksd_meta_ru": "соединившись с наставляющим Шабдом",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "kāj savārē",
+              "literal_ru": "приведи дело в порядок, заверши дело",
+              "ksd_meta_ru": "реализуй цель человеческой жизни",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "rahāu",
+              "literal_ru": "пауза",
+              "ksd_meta_ru": "центральная тема шабда: жизнь убывает, поэтому ум должен встретить Гуру и завершить духовное дело",
+              "confidence": 0.98,
+              "grammar_note": "Рахао фиксирует главный смысл шабда."
+            }
+          ],
+          "ksd_translation": "Днём и ночью срок жизни убывает; о ум, встреться с Гуру и заверши дело человеческой жизни. [[Это главная тема шабда.]]",
+          "artistic_ru": "Время уходит день и ночь; о ум, найди Гуру и приведи свою жизнь к её цели.",
+          "context_note": "[[Это главная тема шабда.]] добавлено потому, что строка содержит маркер рахао и раскрывает центральный смысл.",
+          "confidence": 0.99,
+          "confidence_reason": "Очень высокая уверенность: это строка рахао, и Сахиб Сингх прямо объясняет, что день и ночь возраст уменьшается, поэтому ум должен встретить Гуру и завершить дело человеческой жизни.",
+          "gurmukhi": "ਅਉਧ ਘਟੈ ਦਿਨਸੁ ਰੈਣਾਰੇ ॥ ਮਨ ਗੁਰ ਮਿਲਿ ਕਾਜ ਸਵਾਰੇ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "audh ghatai dinas rainārē . man gur mil kāj savārē .1. rahāu .",
+          "sahib_singh_pa": "ਹੇ ਮਨ! ਦਿਨ ਰਾਤ (ਬੀਤ ਬੀਤ ਕੇ) ਉਮਰ ਘਟਦੀ ਜਾ ਰਹੀ ਹੈ। ਹੇ (ਮੇਰੇ) ਮਨ! ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਮਨੁੱਖਾ ਜੀਵਨ ਦਾ) ਕੰਮ ਸਿਰੇ ਚਾੜ੍ਹ ॥੧॥ ਰਹਾਉ ॥",
+          "roman_display": "audh ghate dinas rainārē . man gur mil kāj savārē .1. rahāu ."
+        },
+        {
+          "verse_id": 582,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "ih sansār",
+              "literal_ru": "этот мир",
+              "ksd_meta_ru": "майическое поле человеческого существования",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bikār",
+              "literal_ru": "пороки",
+              "ksd_meta_ru": "внутренние и внешние искажения сознания",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sansē",
+              "literal_ru": "сомнение, тревога",
+              "ksd_meta_ru": "погружённость в беспокойство и неопределённость",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tariō",
+              "literal_ru": "переправился",
+              "ksd_meta_ru": "вышел из погружённости в пороки и тревогу",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "braham giānī",
+              "literal_ru": "знающий Брахм",
+              "ksd_meta_ru": "тот, кто обрёл знакомство с Творцом внутри",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Этот мир полон пороков и тревожных сомнений; переправляется через него только тот, кто обрёл знание Творца внутри.",
+          "artistic_ru": "Мир тонет в пороках и страхах; выходит из него тот, в ком проснулось знание Творца.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что мир наполнен пороками и тревогами, а выходит из них тот, кто обрёл знакомство с Творцом.",
+          "gurmukhi": "ਇਹੁ ਸੰਸਾਰੁ ਬਿਕਾਰੁ ਸੰਸੇ ਮਹਿ ਤਰਿਓ ਬ੍ਰਹਮ ਗਿਆਨੀ ॥",
+          "roman": "ih sansār bikār sansē mah tariō braham giānī .",
+          "sahib_singh_pa": "ਇਹ ਜਗਤ ਵਿਕਾਰਾਂ ਨਾਲ ਭਰਪੂਰ ਹੈ। (ਜਗਤ ਦੇ ਜੀਵ) ਤੌਖ਼ਲਿਆਂ ਵਿਚ (ਡੁੱਬ ਰਹੇ ਹਨ। ਇਹਨਾਂ ਵਿਚੋਂ) ਉਹੀ ਮਨੁੱਖ ਨਿਕਲਦਾ ਹੈ ਜਿਸ ਨੇ ਪਰਮਾਤਮਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਪਾ ਲਈ ਹੈ।",
+          "roman_display": "ih sansār bikār sansē mah tariō braham giānī ."
+        },
+        {
+          "verse_id": 583,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jisah jagāi",
+              "literal_ru": "кого Он пробуждает",
+              "ksd_meta_ru": "Творец Сам выводит из сна пороков",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "pīāvai ih ras",
+              "literal_ru": "поить этим расом",
+              "ksd_meta_ru": "даёт вкус Наам-амриты",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "akath kathā",
+              "literal_ru": "рассказ о Неизречённом",
+              "ksd_meta_ru": "хвала бесконечных добродетелей Творца",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tin jānī",
+              "literal_ru": "тот узнал",
+              "ksd_meta_ru": "он научился жить в этом восхвалении",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Кого Творец Сам пробуждает и поит этим расом Наама, тот узнаёт, как говорить невыразимую катху — хвалу бесконечных добродетелей.",
+          "artistic_ru": "Пробуждённый Им пьёт рас Наама и учится говорить о Том, Кто не вмещается в речь.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что Творец пробуждает спящего в пороках человека, поит его Наам-амритой, и тот учится хвале Неизречённого.",
+          "gurmukhi": "ਜਿਸਹਿ ਜਗਾਇ ਪੀਆਵੈ ਇਹੁ ਰਸੁ ਅਕਥ ਕਥਾ ਤਿਨਿ ਜਾਨੀ ॥੨॥",
+          "roman": "jisah jagāi pīāvai ih ras akath kathā tin jānī .2.",
+          "sahib_singh_pa": "(ਵਿਕਾਰਾਂ ਵਿਚ ਸੁੱਤੇ ਹੋਏ) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਜਗਾ ਕੇ ਇਹ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਪਿਲਾਂਦਾ ਹੈ, ਉਸ ਮਨੁੱਖ ਨੇ ਅਕੱਥ ਪ੍ਰਭੂ ਦੀਆਂ ਗੱਲਾਂ (ਬੇਅੰਤ ਗੁਣਾਂ ਵਾਲੇ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ) ਕਰਨ ਦੀ ਜਾਚ ਸਿੱਖ ਲਈ ਹੈ ॥੨॥",
+          "roman_display": "jisah jagāi pīāve ih ras akath kathā tin jānī .2."
+        },
+        {
+          "verse_id": 584,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jā kau āē",
+              "literal_ru": "для чего пришли",
+              "ksd_meta_ru": "цель человеческого рождения",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sōī bihājhah",
+              "literal_ru": "покупайте именно это",
+              "ksd_meta_ru": "занимайтесь истинной духовной торговлей",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har",
+              "literal_ru": "Хар",
+              "ksd_meta_ru": "Творец как внутренняя цель и опора",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "gur tē",
+              "literal_ru": "через Гуру",
+              "ksd_meta_ru": "через наставляющий Шабд",
+              "confidence": 0.97,
+              "grammar_note": ""
+            },
+            {
+              "roman": "manah basērā",
+              "literal_ru": "поселение в уме",
+              "ksd_meta_ru": "Наам Хара утверждается внутри",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Торгуйте тем, ради чего пришли сюда: Наам Хара может поселиться в уме только через Гуру.",
+          "artistic_ru": "Покупай тот товар, ради которого дана жизнь: Хар поселяется в уме через Гуру.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что нужно заниматься делом, ради которого человек пришёл, а Хар-Наам поселяется в уме через Гуру.",
+          "gurmukhi": "ਜਾ ਕਉ ਆਏ ਸੋਈ ਬਿਹਾਝਹੁ ਹਰਿ ਗੁਰ ਤੇ ਮਨਹਿ ਬਸੇਰਾ ॥",
+          "roman": "jā kau āē sōī bihājhah har gur tē manah basērā .",
+          "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਜਿਸ ਕੰਮ ਵਾਸਤੇ (ਇੱਥੇ) ਆਏ ਹੋ, ਉਸ ਦਾ ਵਣਜ ਕਰੋ। ਉਹ ਹਰਿ-ਨਾਮ ਗੁਰੂ ਦੀ ਰਾਹੀਂ (ਹੀ) ਮਨ ਵਿਚ ਵੱਸ ਸਕਦਾ ਹੈ।",
+          "roman_display": "jā kau āē sōī bihājhah har gur tē manah basērā ."
+        },
+        {
+          "verse_id": 585,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "nij ghar",
+              "literal_ru": "свой дом",
+              "ksd_meta_ru": "внутренний дом, собственное сознание",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mahal pāvah",
+              "literal_ru": "найдёте дворец, обитель",
+              "ksd_meta_ru": "обнаружите присутствие Творца внутри",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sukh sahajē",
+              "literal_ru": "в сукхе и сахадже",
+              "ksd_meta_ru": "в духовной радости и устойчивой естественной равновесности",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bahur n hōigō phērā",
+              "literal_ru": "снова не будет оборота",
+              "ksd_meta_ru": "не будет возвращения в цикл майических блужданий и повторяющейся духовной потерянности",
+              "confidence": 0.93,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "В своём внутреннем доме вы найдёте обитель Творца и будете пребывать в сукхе и сахадже; тогда не будет возвращения в круг майических блужданий.",
+          "artistic_ru": "Когда дом найден внутри, там раскрывается дворец Творца — и блуждание прекращается.",
+          "context_note": "",
+          "confidence": 0.96,
+          "confidence_reason": "Высокая уверенность: Сахиб Сингх прямо объясняет внутреннее нахождение обители Творца через прибежище Гуру, пребывание в духовной радости и устойчивости, а также отсутствие возвращения в круг рождения и смерти; последняя часть передана в КСД-ключе как прекращение майических блужданий.",
+          "gurmukhi": "ਨਿਜ ਘਰਿ ਮਹਲੁ ਪਾਵਹੁ ਸੁਖ ਸਹਜੇ ਬਹੁਰਿ ਨ ਹੋਇਗੋ ਫੇਰਾ ॥੩॥",
+          "roman": "nij ghar mahal pāvah sukh sahajē bahur n hōigō phērā .3.",
+          "sahib_singh_pa": "(ਜੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪਵੋਗੇ, ਤਾਂ) ਆਤਮਕ ਆਨੰਦ ਅਤੇ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਆਪਣੇ ਅੰਦਰ ਹੀ ਪਰਮਾਤਮਾ ਦਾ ਟਿਕਾਣਾ ਲੱਭ ਲਵੋਗੇ। ਫਿਰ ਮੁੜ ਜਨਮ ਮਰਨ ਦਾ ਗੇੜ ਨਹੀਂ ਹੋਵੇਗਾ ॥੩॥",
+          "roman_display": "nij ghar mahal pāvah sukh sahajē bahur n hōigō phērā .3."
+        },
+        {
+          "verse_id": 586,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "antarajāmī",
+              "literal_ru": "знающий внутреннее",
+              "ksd_meta_ru": "Творец, знающий сердце каждого",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "purakh",
+              "literal_ru": "всепроникающий Пурукх",
+              "ksd_meta_ru": "присутствующий во всём Творец",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "bidhātē",
+              "literal_ru": "Создатель, Устроитель",
+              "ksd_meta_ru": "Тот, кто формирует жизнь и её порядок",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "saradhā man kī pūrē",
+              "literal_ru": "исполни веру, желание ума",
+              "ksd_meta_ru": "исполни внутреннюю жажду соединения с Тобой",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "О Антарджами, всепроникающий Пурукх, Создатель, исполни внутреннюю жажду моего ума.",
+          "artistic_ru": "Ты знаешь сердце каждого; исполни во мне стремление к Тебе.",
+          "context_note": "",
+          "confidence": 0.96,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как обращение к всепроникающему Создателю, знающему сердце каждого, с просьбой исполнить желание ума.",
+          "gurmukhi": "ਅੰਤਰਜਾਮੀ ਪੁਰਖ ਬਿਧਾਤੇ ਸਰਧਾ ਮਨ ਕੀ ਪੂਰੇ ॥",
+          "roman": "antarajāmī purakh bidhātē saradhā man kī pūrē .",
+          "sahib_singh_pa": "ਹੇ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲੇ ਸਰਬ-ਵਿਆਪਕ ਸਿਰਜਨਹਾਰ! ਮੇਰੇ ਮਨ ਦੀ ਇੱਛਾ ਪੂਰੀ ਕਰ।",
+          "roman_display": "antarajāmī purakh bidhātē saradhā man kī pūrē ."
+        },
+        {
+          "verse_id": 587,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "Nānak dās",
+              "literal_ru": "слуга Нанак",
+              "ksd_meta_ru": "смиренный голос просьбы",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "ihai sukh māgai",
+              "literal_ru": "просит именно этот сукх",
+              "ksd_meta_ru": "желает высшего духовного блага",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mō kau kar",
+              "literal_ru": "сделай меня",
+              "ksd_meta_ru": "преобрази моё состояние",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "santan kī dhūrē",
+              "literal_ru": "пыль сантов",
+              "ksd_meta_ru": "смиренное состояние у стоп Гурмукхов, полная ориентация на Гуру",
+              "confidence": 0.95,
+              "grammar_note": "Слово обозначает множественное значение: санты, Гурмукхи."
+            }
+          ],
+          "ksd_translation": "Слуга Нанак просит только этот сукх: сделай меня пылью у стоп Гурмукхов.",
+          "artistic_ru": "Вот моё единственное счастье: стать пылью там, где идут любящие Гуру.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет строку как просьбу Нанака о том, чтобы стать пылью у стоп сантов; с учётом формы слова это передано как Гурмукхи.",
+          "gurmukhi": "ਨਾਨਕ ਦਾਸੁ ਇਹੈ ਸੁਖੁ ਮਾਗੈ ਮੋ ਕਉ ਕਰਿ ਸੰਤਨ ਕੀ ਧੂਰੇ ॥੪॥੫॥",
+          "roman": "nānak dās ihai sukh māgai mō kau kar santan kī dhūrē .4.5.",
+          "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ ਤੈਥੋਂ ਇਹੀ ਸੁਖ ਮੰਗਦਾ ਹੈ ਕਿ ਮੈਨੂੰ ਸੰਤਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਣਾ ਦੇਹ ॥੪॥੫॥",
+          "roman_display": "nānak dās ihe sukh māge mō kau kar santan kī dhūrē .4.5."
+        }
+      ],
+      "shabad_summary": "Шабд говорит о срочности человеческой жизни: день и ночь срок убывает, поэтому ум должен встретить Гуру и завершить своё духовное дело. Мир полон пороков и сомнений, но через Гуру Наам Хара поселяется в уме, раскрывается внутренний дом Творца, и сукх достигается в смиренной севе Гурмукхов."
+    }
+  ]
+}

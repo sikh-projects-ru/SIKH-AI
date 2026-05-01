@@ -1,0 +1,719 @@
+{
+  "ang": 11,
+  "shabads": [
+    {
+      "ang": 11,
+      "shabad_id": 47,
+      "rahao_verse_id": 499,
+      "rahao_theme": "Творец — Истинный Создатель и мой Сахиб; происходит только то, что Ему угодно, и я получаю только то, что Он даёт.",
+      "lines": [
+        {
+          "verse_id": 497,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "āsā",
+              "literal_ru": "раг Аса",
+              "ksd_meta_ru": "музыкально-духовная рамка шабда",
+              "confidence": 0.98,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mahalā 4",
+              "literal_ru": "четвёртый Махала",
+              "ksd_meta_ru": "Бани Гуру Рам Даса Патишаха",
+              "confidence": 0.98,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Раг Аса, Бани Гуру Рам Даса Патишаха.",
+          "artistic_ru": "Шабд Гуру Рам Даса Патишаха в раге Аса.",
+          "context_note": "",
+          "confidence": 0.99,
+          "confidence_reason": "Очень высокая уверенность: строка является заголовком шабда.",
+          "gurmukhi": "ਆਸਾ ਮਹਲਾ ੪ ॥",
+          "roman": "āsā mahalā 4 .",
+          "sahib_singh_pa": "None",
+          "roman_display": "āsā mahalā 4 ."
+        },
+        {
+          "verse_id": 498,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "tūn",
+              "literal_ru": "Ты",
+              "ksd_meta_ru": "прямое обращение к Творцу",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "karatā",
+              "literal_ru": "Создатель",
+              "ksd_meta_ru": "Тот, кто приводит всё в бытие",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sachiār",
+              "literal_ru": "истинный, вечно пребывающий",
+              "ksd_meta_ru": "Творец как подлинная и неизменная реальность",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "maidā sānhī",
+              "literal_ru": "мой Сахиб, мой Хозяин",
+              "ksd_meta_ru": "Творец как мой внутренний Владыка и опора",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Ты — Создатель, Истинный, мой Сахиб.",
+          "artistic_ru": "Ты создаёшь всё, Ты вечно Истинен, Ты мой единственный Владыка.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: это часть рахао-куплета, и Сахиб Сингх прямо объясняет, что Творец является создателем всего, вечно пребывающим и моим Хозяином.",
+          "gurmukhi": "ਤੂੰ ਕਰਤਾ ਸਚਿਆਰੁ ਮੈਡਾ ਸਾਂਈ ॥",
+          "roman": "tūn karatā sachiār maidā sānhī .",
+          "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਭ ਦਾ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਹੀ ਮੇਰਾ ਖਸਮ ਹੈਂ।",
+          "roman_display": "tūn karatā sachiār maidā sānhī ."
+        },
+        {
+          "verse_id": 499,
+          "is_rahao": true,
+          "word_analysis": [
+            {
+              "roman": "jō tau bhāvai",
+              "literal_ru": "что Тебе угодно",
+              "ksd_meta_ru": "то, что согласуется с разой Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sōī thīsī",
+              "literal_ru": "то и произойдёт",
+              "ksd_meta_ru": "в мире свершается только Его Хукам",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "jō tūn dēh",
+              "literal_ru": "что Ты даёшь",
+              "ksd_meta_ru": "дар, исходящий от Творца",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sōī hau pāī",
+              "literal_ru": "то я получаю",
+              "ksd_meta_ru": "человек получает только данное Творцом",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "rahāu",
+              "literal_ru": "пауза",
+              "ksd_meta_ru": "центральная тема шабда: всё происходит по воле Творца, и все дары исходят от Него",
+              "confidence": 0.98,
+              "grammar_note": "Рахао фиксирует главный смысл шабда."
+            }
+          ],
+          "ksd_translation": "Что Тебе угодно, то и происходит; что Ты даёшь, то я и получаю. [[Это главная тема шабда.]]",
+          "artistic_ru": "Моя жизнь получает только то, что приходит из Твоей разы.",
+          "context_note": "[[Это главная тема шабда.]] добавлено потому, что строка содержит маркер рахао и раскрывает центральный смысл.",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: это строка рахао, и Сахиб Сингх прямо объясняет, что в мире происходит только то, что нравится Творцу, и человек получает только то, что Он даёт.",
+          "gurmukhi": "ਜੋ ਤਉ ਭਾਵੈ ਸੋਈ ਥੀਸੀ ਜੋ ਤੂੰ ਦੇਹਿ ਸੋਈ ਹਉ ਪਾਈ ॥੧॥ ਰਹਾਉ ॥",
+          "roman": "jō tau bhāvai sōī thīsī jō tūn dēh sōī hau pāī .1. rahāu .",
+          "sahib_singh_pa": "(ਜਗਤ ਵਿਚ) ਉਹੀ ਕੁਝ ਹੁੰਦਾ ਹੈ ਜੋ ਤੈਨੂੰ ਪਸੰਦ ਆਉਂਦਾ ਹੈ। ਜੋ ਕੁਝ ਤੂੰ ਦੇਵੇਂ, ਮੈਂ ਉਹੀ ਕੁਝ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥",
+          "roman_display": "jō tau bhāve sōī thīsī jō tūn dēh sōī hau pāī .1. rahāu ."
+        },
+        {
+          "verse_id": 500,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "sabh tērī",
+              "literal_ru": "всё Твоё",
+              "ksd_meta_ru": "вся сришти создана Творцом",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tūn",
+              "literal_ru": "Ты",
+              "ksd_meta_ru": "Творец как объект внутреннего внимания всех существ",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sabhanī dhiāiā",
+              "literal_ru": "всеми созерцаемый",
+              "ksd_meta_ru": "все существа вспоминают Творца",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Вся сришти — Твоя; все существа созерцают Тебя.",
+          "artistic_ru": "Всё созданное принадлежит Тебе, и всё живое обращено к Тебе.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что вся сришти создана Творцом и все существа вспоминают Его.",
+          "gurmukhi": "ਸਭ ਤੇਰੀ ਤੂੰ ਸਭਨੀ ਧਿਆਇਆ ॥",
+          "roman": "sabh tērī tūn sabhanī dhiāiā .",
+          "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਤੇਰੀ (ਬਣਾਈ ਹੋਈ) ਹੈ, ਸਾਰੇ ਜੀਵ ਤੈਨੂੰ ਹੀ ਸਿਮਰਦੇ ਹਨ।",
+          "roman_display": "sabh tērī tūn sabhanī dhiāiā ."
+        },
+        {
+          "verse_id": 501,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jis nō",
+              "literal_ru": "тому, кому",
+              "ksd_meta_ru": "тот, кто получает милость Творца",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "kripā karah",
+              "literal_ru": "Ты проявляешь милость",
+              "ksd_meta_ru": "милостивый акт внутреннего раскрытия",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "nām ratan",
+              "literal_ru": "драгоценность Наама",
+              "ksd_meta_ru": "Наам как бесценное внутреннее сокровище",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "pāiā",
+              "literal_ru": "обрёл",
+              "ksd_meta_ru": "реализовал внутри",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Тот, на кого Ты проявляешь милость, обретает драгоценность Наама.",
+          "artistic_ru": "Наам как драгоценный камень находит только тот, кого касается Твоя кирпа.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что только тот, к кому Творец проявляет милость, находит драгоценный Наам.",
+          "gurmukhi": "ਜਿਸ ਨੋ ਕ੍ਰਿਪਾ ਕਰਹਿ ਤਿਨਿ ਨਾਮ ਰਤਨੁ ਪਾਇਆ ॥",
+          "roman": "jis nō kripā karah tin nām ratan pāiā .",
+          "sahib_singh_pa": "ਜਿਸ ਉੱਤੇ ਤੂੰ ਦਇਆ ਕਰਦਾ ਹੈਂ ਉਸੇ ਨੇ ਤੇਰਾ ਰਤਨ ਵਰਗਾ (ਕੀਮਤੀ) ਨਾਮ ਲੱਭਾ ਹੈ।",
+          "roman_display": "jis nō kripā karah tin nām ratan pāiā ."
+        },
+        {
+          "verse_id": 502,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "guramukh",
+              "literal_ru": "обращённый к Гуру",
+              "ksd_meta_ru": "тот, кто живёт лицом к наставлению Шабд-Гуру",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "lādhā",
+              "literal_ru": "нашёл",
+              "ksd_meta_ru": "обрёл драгоценность Наама",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "manamukh",
+              "literal_ru": "обращённый к своему уму",
+              "ksd_meta_ru": "тот, кто следует самовольному уму вместо Гуру",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "gavāiā",
+              "literal_ru": "потерял",
+              "ksd_meta_ru": "утратил возможность реализации Наама",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Гурмукх нашёл эту драгоценность; манмукх, следуя своему уму, потерял её.",
+          "artistic_ru": "Кто повернулся к Гуру, обрёл Наам; кто пошёл за самовольным умом, утратил его.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что человек, ставший лицом к Гуру, нашёл эту драгоценность, а следующий за своим умом потерял её.",
+          "gurmukhi": "ਗੁਰਮੁਖਿ ਲਾਧਾ ਮਨਮੁਖਿ ਗਵਾਇਆ ॥",
+          "roman": "guramukh lādhā manamukh gavāiā .",
+          "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋਇਆ ਉਸ ਨੇ (ਇਹ ਰਤਨ) ਲੱਭ ਲਿਆ। ਜੋ ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਿਆ, ਉਸ ਨੇ ਗਵਾ ਲਿਆ।",
+          "roman_display": "guramukh lādhā manamukh gavāiā ."
+        },
+        {
+          "verse_id": 503,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "tudh āp",
+              "literal_ru": "Ты Сам",
+              "ksd_meta_ru": "Творец как действующий принцип",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "vishōriā",
+              "literal_ru": "разлучил",
+              "ksd_meta_ru": "отделение от осознания Творца происходит в пределах Его Хукама",
+              "confidence": 0.94,
+              "grammar_note": ""
+            },
+            {
+              "roman": "āp milāiā",
+              "literal_ru": "Сам соединил",
+              "ksd_meta_ru": "воссоединение с Творцом также происходит через Его милость",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Ты Сам отделяешь существо от Себя и Ты Сам соединяешь его с Собой.",
+          "artistic_ru": "Разлука и встреча тоже находятся в Твоих руках.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что существо не имеет самостоятельной власти: Творец Сам отделяет его от Себя и Сам соединяет с Собой.",
+          "gurmukhi": "ਤੁਧੁ ਆਪਿ ਵਿਛੋੜਿਆ ਆਪਿ ਮਿਲਾਇਆ ॥੧॥",
+          "roman": "tudh āp vishōriā āp milāiā .1.",
+          "sahib_singh_pa": "(ਪਰ ਕਿਸੇ ਜੀਵ ਦੇ ਕੀਹ ਵੱਸ? ਹੇ ਪ੍ਰਭੂ!) ਜੀਵ ਨੂੰ ਤੂੰ ਆਪ ਹੀ (ਆਪਣੇ ਨਾਲੋਂ) ਵਿਛੋੜਦਾ ਹੈਂ, ਆਪ ਹੀ ਆਪਣੇ ਨਾਲ ਮਿਲਾਂਦਾ ਹੈਂ ॥੧॥",
+          "roman_display": "tudh āp vishōriā āp milāiā .1."
+        },
+        {
+          "verse_id": 504,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "tūn darīāu",
+              "literal_ru": "Ты — река, поток",
+              "ksd_meta_ru": "Творец как океан-поток жизни",
+              "confidence": 0.94,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sabh tujh hī māh",
+              "literal_ru": "всё в Тебе",
+              "ksd_meta_ru": "все существа как волны внутри Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Ты — поток жизни; все существа пребывают в Тебе, словно волны в реке.",
+          "artistic_ru": "Ты — великий поток, и всё живое движется внутри Тебя.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что Творец подобен реке жизни, а все существа находятся в Нём как волны.",
+          "gurmukhi": "ਤੂੰ ਦਰੀਆਉ ਸਭ ਤੁਝ ਹੀ ਮਾਹਿ ॥",
+          "roman": "tūn darīāu sabh tujh hī māh .",
+          "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ (ਜ਼ਿੰਦਗੀ ਦਾ, ਮਾਨੋ, ਇਕ) ਦਰੀਆ ਹੈਂ, ਸਾਰੇ ਜੀਵ ਤੇਰੇ ਵਿਚ ਹੀ (ਮਾਨੋ, ਲਹਿਰਾਂ) ਹਨ।",
+          "roman_display": "tūn darīāu sabh tujh hī māh ."
+        },
+        {
+          "verse_id": 505,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "tujh bin",
+              "literal_ru": "без Тебя, кроме Тебя",
+              "ksd_meta_ru": "за пределами Творца нет равного источника",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "dūjā",
+              "literal_ru": "другой",
+              "ksd_meta_ru": "второй самостоятельный принцип",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "kōī nāh",
+              "literal_ru": "никого нет",
+              "ksd_meta_ru": "нет никого, подобного Творцу",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Кроме Тебя нет никого другого, равного Тебе.",
+          "artistic_ru": "Нет второго рядом с Тобой.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что кроме Творца нет никого подобного Ему.",
+          "gurmukhi": "ਤੁਝ ਬਿਨੁ ਦੂਜਾ ਕੋਈ ਨਾਹਿ ॥",
+          "roman": "tujh bin dūjā kōī nāh .",
+          "sahib_singh_pa": "ਤੈਥੋਂ ਬਿਨਾ (ਤੇਰੇ ਵਰਗਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।",
+          "roman_display": "tujh bin dūjā kōī nāh ."
+        },
+        {
+          "verse_id": 506,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jīa jant",
+              "literal_ru": "живые существа",
+              "ksd_meta_ru": "все формы жизни",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sabh",
+              "literal_ru": "все",
+              "ksd_meta_ru": "без исключения",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tērā khēl",
+              "literal_ru": "Твоя игра",
+              "ksd_meta_ru": "кудрат как проявление Творца",
+              "confidence": 0.94,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Все живые существа — Твоя игра, созданная Тобой.",
+          "artistic_ru": "Всё живое — движение Твоей кудрати.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что все живые существа являются игрой, созданной Творцом.",
+          "gurmukhi": "ਜੀਅ ਜੰਤ ਸਭਿ ਤੇਰਾ ਖੇਲੁ ॥",
+          "roman": "jī jant sabh tērā khēl .",
+          "sahib_singh_pa": "ਇਹ ਸਾਰੇ ਜੀਆ ਜੰਤ ਤੇਰੀ (ਰਚੀ ਹੋਈ) ਖੇਡ ਹੈ।",
+          "roman_display": "jī jant sabh tērā khēl ."
+        },
+        {
+          "verse_id": 507,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "vijōg",
+              "literal_ru": "разлука",
+              "ksd_meta_ru": "состояние оторванности от Творца",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "mil vishuriā",
+              "literal_ru": "получив встречу, всё же разлучены",
+              "ksd_meta_ru": "даже получив человеческое рождение, остаются отделёнными от Творца",
+              "confidence": 0.94,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sanjōgī mēl",
+              "literal_ru": "соединение через санйог",
+              "ksd_meta_ru": "воссоединение происходит по леху соединения, в разе Творца",
+              "confidence": 0.94,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "У кого на челе лех разлуки, тот, даже получив человеческое рождение, остаётся разлучённым; а через лех соединения, по Твоей разе, происходит встреча.",
+          "artistic_ru": "Даже родившись человеком, можно быть далеко; и только Твой санйог снова соединяет.",
+          "context_note": "",
+          "confidence": 0.96,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что имеющие лех разлуки остаются отделёнными даже в человеческом рождении, а через лех соединения по разе Творца возникает встреча.",
+          "gurmukhi": "ਵਿਜੋਗਿ ਮਿਲਿ ਵਿਛੁੜਿਆ ਸੰਜੋਗੀ ਮੇਲੁ ॥੨॥",
+          "roman": "vijōg mil vishuriā sanjōgī mēl .2.",
+          "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਦੇ ਮੱਥੇ ਉਤੇ ਵਿਛੋੜੇ ਦਾ ਲੇਖ ਹੈ, ਉਹ ਮਨੁੱਖਾ ਜਨਮ ਪ੍ਰਾਪਤ ਕਰ ਕੇ ਭੀ ਤੈਥੋਂ ਵਿਛੁੜੇ ਹੋਏ ਹਨ। (ਪਰ ਤੇਰੀ ਰਜ਼ਾ ਅਨੁਸਾਰ) ਸੰਜੋਗਾਂ ਦੇ ਲੇਖ ਨਾਲ (ਫਿਰ ਤੇਰੇ ਨਾਲ) ਮਿਲਾਪ ਹੋ ਜਾਂਦਾ ਹੈ ॥੨॥",
+          "roman_display": "vijōg mil vishuriā sanjōgī mēl .2."
+        },
+        {
+          "verse_id": 508,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jis nō",
+              "literal_ru": "тому, кому",
+              "ksd_meta_ru": "человек, которому Творец дарует понимание",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tū jānāih",
+              "literal_ru": "Ты даёшь узнать",
+              "ksd_meta_ru": "Творец Сам дарует духовную суть и понимание пути",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sōī jan jānai",
+              "literal_ru": "только тот человек знает",
+              "ksd_meta_ru": "подлинное знание приходит только через дар Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Только тот человек знает верный путь жизни, кому Ты Сам даруешь понимание.",
+          "artistic_ru": "Знает не тот, кто присвоил знание, а тот, кому Ты открыл.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что только тот, кому Творец Сам дарует понимание, понимает правильный путь жизни.",
+          "gurmukhi": "ਜਿਸ ਨੋ ਤੂ ਜਾਣਾਇਹਿ ਸੋਈ ਜਨੁ ਜਾਣੈ ॥",
+          "roman": "jis nō tū jānāih sōī jan jānai .",
+          "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਆਪ ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈਂ, ਉਹ ਮਨੁੱਖ (ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ) ਸਮਝਦਾ ਹੈ।",
+          "roman_display": "jis nō tū jānāih sōī jan jānai ."
+        },
+        {
+          "verse_id": 509,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "har gun",
+              "literal_ru": "добродетели Хара",
+              "ksd_meta_ru": "качества Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sad hī",
+              "literal_ru": "всегда",
+              "ksd_meta_ru": "непрерывная ориентация на добродетели",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "ākh vakhānai",
+              "literal_ru": "говорит и объясняет",
+              "ksd_meta_ru": "воспевает и передаёт другим добродетели Творца",
+              "confidence": 0.95,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Такой человек всегда воспевает добродетели Хара и, произнося их, передаёт другим.",
+          "artistic_ru": "Кому открыто понимание, тот живёт речью о добродетелях Творца.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что этот человек всегда поёт добродетели Творца и произносит их для других.",
+          "gurmukhi": "ਹਰਿ ਗੁਣ ਸਦ ਹੀ ਆਖਿ ਵਖਾਣੈ ॥",
+          "roman": "har gun sad hī ākh vakhānai .",
+          "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ, ਹੇ ਹਰੀ! ਸਦਾ ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਹੈ, ਅਤੇ (ਹੋਰਨਾਂ ਨੂੰ) ਉਚਾਰ ਉਚਾਰ ਕੇ ਸੁਣਾਂਦਾ ਹੈ।",
+          "roman_display": "har gun sad hī ākh vakhāne ."
+        },
+        {
+          "verse_id": 510,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jin",
+              "literal_ru": "тот, кто",
+              "ksd_meta_ru": "человек, вошедший в созерцание Творца",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har sēviā",
+              "literal_ru": "служил Хару, вспоминал Хара",
+              "ksd_meta_ru": "совершал симран Наама Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sukh pāiā",
+              "literal_ru": "обрёл покой, счастье",
+              "ksd_meta_ru": "получил духовный покой",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Тот, кто вспоминал Наам Творца, обрёл духовный покой.",
+          "artistic_ru": "Служение памяти Хара приносит настоящий сукх.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что человек, совершивший симран Наама Творца, обрёл сукх.",
+          "gurmukhi": "ਜਿਨਿ ਹਰਿ ਸੇਵਿਆ ਤਿਨਿ ਸੁਖੁ ਪਾਇਆ ॥",
+          "roman": "jin har sēviā tin sukh pāiā .",
+          "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਜਿਸ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਹੈ, ਉਸ ਨੇ ਸੁਖ ਹਾਸਲ ਕੀਤਾ ਹੈ।",
+          "roman_display": "jin har sēviā tin sukh pāiā ."
+        },
+        {
+          "verse_id": 511,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "sahajē hī",
+              "literal_ru": "в сахадже, естественно, в духовной устойчивости",
+              "ksd_meta_ru": "состояние внутренней адолаты и естественного равновесия",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "har nām",
+              "literal_ru": "Наам Хара",
+              "ksd_meta_ru": "живой принцип присутствия Творца",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "samāiā",
+              "literal_ru": "растворился, вошёл",
+              "ksd_meta_ru": "слился с Наамом внутри",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Пребывая в сахадже, он растворяется в Нааме Хара.",
+          "artistic_ru": "В естественной внутренней устойчивости он входит в Наам и становится им наполнен.",
+          "context_note": "",
+          "confidence": 0.97,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что такой человек, пребывая в духовной устойчивости, растворяется в Нааме Творца.",
+          "gurmukhi": "ਸਹਜੇ ਹੀ ਹਰਿ ਨਾਮਿ ਸਮਾਇਆ ॥੩॥",
+          "roman": "sahajē hī har nām samāiā .3.",
+          "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਸਦਾ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕਿਆ ਰਹਿ ਕੇ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ ॥੩॥",
+          "roman_display": "sahajē hī har nām samāiā .3."
+        },
+        {
+          "verse_id": 512,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "tū āpē karatā",
+              "literal_ru": "Ты Сам Создатель",
+              "ksd_meta_ru": "Творец как единственный действующий создатель",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "tērā kīā",
+              "literal_ru": "сделанное Тобой",
+              "ksd_meta_ru": "всё происходит как Его деяние",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "sabh hōi",
+              "literal_ru": "всё бывает",
+              "ksd_meta_ru": "вся реальность разворачивается по Его Хукаму",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Ты Сам — Создатель; всё, что происходит, происходит как Твоё деяние.",
+          "artistic_ru": "Ты создаёшь, и всё существующее разворачивается как сделанное Тобой.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что Творец Сам создаёт всё, и всё происходит как Его действие.",
+          "gurmukhi": "ਤੂ ਆਪੇ ਕਰਤਾ ਤੇਰਾ ਕੀਆ ਸਭੁ ਹੋਇ ॥",
+          "roman": "tū āpē karatā tērā kīā sabh hōi .",
+          "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਆਪ ਹੀ ਸਭ ਕੁਝ ਪੈਦਾ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਸਭ ਕੁਝ ਤੇਰਾ ਕੀਤਾ ਹੀ ਹੁੰਦਾ ਹੈ।",
+          "roman_display": "tū āpē karatā tērā kīā sabh hōi ."
+        },
+        {
+          "verse_id": 513,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "tudh bin",
+              "literal_ru": "без Тебя, кроме Тебя",
+              "ksd_meta_ru": "вне Творца нет равного источника",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "dūjā avar",
+              "literal_ru": "другой, иной",
+              "ksd_meta_ru": "второй независимый принцип",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "na kōi",
+              "literal_ru": "никого нет",
+              "ksd_meta_ru": "никто не равен Творцу",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Кроме Тебя нет никого другого, равного Тебе.",
+          "artistic_ru": "Нет иного основания рядом с Тобой.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что кроме Творца нет никого подобного Ему.",
+          "gurmukhi": "ਤੁਧੁ ਬਿਨੁ ਦੂਜਾ ਅਵਰੁ ਨ ਕੋਇ ॥",
+          "roman": "tudh bin dūjā avar n kōi .",
+          "sahib_singh_pa": "ਤੈਥੋਂ ਬਿਨਾ (ਤੇਰੇ ਵਰਗਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।",
+          "roman_display": "tudh bin dūjā avar n kōi ."
+        },
+        {
+          "verse_id": 514,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "kar kar",
+              "literal_ru": "создавая снова и снова",
+              "ksd_meta_ru": "Творец приводит существ в бытие",
+              "confidence": 0.95,
+              "grammar_note": "Повтор подчёркивает действие создания."
+            },
+            {
+              "roman": "vēkhah",
+              "literal_ru": "смотришь, заботишься",
+              "ksd_meta_ru": "Творец наблюдает и поддерживает созданных",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "jānah sōi",
+              "literal_ru": "знаешь то",
+              "ksd_meta_ru": "знаешь сердце и состояние каждого",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Создав существ, Ты Сам заботишься о них и знаешь сердце каждого.",
+          "artistic_ru": "Ты создаёшь, поддерживаешь и знаешь внутреннее каждого живого.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что Творец создаёт существ, Сам заботится о них и знает состояние сердца каждого.",
+          "gurmukhi": "ਤੂ ਕਰਿ ਕਰਿ ਵੇਖਹਿ ਜਾਣਹਿ ਸੋਇ ॥",
+          "roman": "tū kar kar vēkhah jānah sōi .",
+          "sahib_singh_pa": "ਜੀਵ ਪੈਦਾ ਕਰ ਕੇ ਉਹਨਾਂ ਦੀ ਸੰਭਾਲ ਭੀ ਤੂੰ ਆਪ ਹੀ ਕਰਦਾ ਹੈਂ, ਤੇ, ਹਰੇਕ (ਦੇ ਦਿਲ) ਦੀ ਸਾਰ ਜਾਣਦਾ ਹੈਂ।",
+          "roman_display": "tū kar kar vēkhah jānah sōi ."
+        },
+        {
+          "verse_id": 515,
+          "is_rahao": false,
+          "word_analysis": [
+            {
+              "roman": "jan Nānak",
+              "literal_ru": "слуга Нанак",
+              "ksd_meta_ru": "смиренный голос Гуру",
+              "confidence": 0.95,
+              "grammar_note": ""
+            },
+            {
+              "roman": "guramukh",
+              "literal_ru": "обращённый к Гуру",
+              "ksd_meta_ru": "тот, кто входит в прибежище Гуру и живёт по наставлению Шабда",
+              "confidence": 0.96,
+              "grammar_note": ""
+            },
+            {
+              "roman": "paragat hōi",
+              "literal_ru": "становится явным",
+              "ksd_meta_ru": "Творец раскрывается внутри",
+              "confidence": 0.96,
+              "grammar_note": ""
+            }
+          ],
+          "ksd_translation": "Нанак: в том, кто становится гурмукхом и входит в прибежище Гуру, Творец раскрывается внутри.",
+          "artistic_ru": "Когда человек поворачивается к Гуру, скрытый Творец становится явным в его сердце.",
+          "context_note": "",
+          "confidence": 0.98,
+          "confidence_reason": "Очень высокая уверенность: Сахиб Сингх прямо объясняет, что в человеке, входящем в прибежище Гуру, Творец проявляется внутри.",
+          "gurmukhi": "ਜਨ ਨਾਨਕ ਗੁਰਮੁਖਿ ਪਰਗਟੁ ਹੋਇ ॥੪॥੨॥",
+          "roman": "jan nānak guramukh paragat hōi .4.2.",
+          "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸ਼ਰਨ ਪੈਂਦਾ ਹੈ ਉਸ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਪਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੨॥{11-12}",
+          "roman_display": "jan nānak guramukh paragat hōi .4.2."
+        }
+      ],
+      "shabad_summary": "Шабд утверждает полную зависимость жизни от Истинного Создателя: происходит только то, что угодно Творцу, и человек получает только то, что Он даёт. Драгоценность Наама обретается милостью; гурмукх находит её, манмукх теряет, а в том, кто входит в прибежище Гуру, Творец раскрывается внутри."
+    }
+  ]
+}

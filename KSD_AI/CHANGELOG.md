@@ -12,6 +12,10 @@
 - 2026-05-01 | Claude | canvas_concepts id=55 (Sant) | Добавлены все 4 грамматических значения ਸੰਤੁ/ਸੰਤਿ/ਸੰਤ с примерами из Гурбани и инструкциями для перевода
 - 2026-05-01 | Claude | canvas_concepts id=65 (Punn/Paap) | Новый концепт: ведическая punn-paap логика vs Гурбани; SGGS 920, SGGS 153; инструкции для перевода
 
+## ksd_knowledge.db — grammar_rules
+
+- 2026-05-01 | Codex | grammar_rules (shackle_L17–L24) | Проиндексированы Shackle SLS §170–§240, добавлено 35 правил; общий счётчик grammar_rules: 362
+
 ## ksd_knowledge.db — words
 
 _(изменения в словаре — вносить сюда)_
@@ -30,6 +34,7 @@ _(изменения в словаре — вносить сюда)_
 
 ## ksd_ang_json — переводы ангов
 
+- 2026-05-01 | Claude | ksd_ang_json/ksd_ang_0001–0013.json | Влит sahib_singh_ru из custom_khoj_sahib_singh (577 строк по ангам 1–13); ang 917–922 пока не переведены в источнике
 - 2026-05-01 | Claude | ksd_ang_json/*.json (все 19 файлов) | Мигрированы в мультиавторский формат: translations.{ksd_ru, sahib_singh_pa, sahib_singh_ru, ipotseluev_ru}; ksd_ru сохраняет confidence+confidence_reason; удалены word_analysis/roman_display; применены правила романизации (ai→ē, final sihari/onkar)
 
 _(правки переводов — вносить сюда с номером анга и verse_id)_
@@ -42,11 +47,12 @@ _(правки переводов — вносить сюда с номером 
 
 ## Скрипты
 
+- 2026-05-01 | Codex | add_grammar_shackle_L17_24.py, grammar_index_progress.md | Добавлен и выполнен скрипт индексации Shackle SLS L17–L24; прогресс зафиксирован отдельным блоком
 - 2026-05-01 | Claude | ksd_coverage.py | Отчёт покрытия KSD-перевода: full/partial/empty по ангам, флаг строк для ревью (--review), поиск гурмукхи в BaniDB
 - 2026-05-01 | Claude | WORKFLOW.md | Обязательные правила для Claude+Codex: источник истины, цикл обновления, формат ang_json, правила CHANGELOG
 - 2026-05-01 | Claude | CHANGELOG.md | Создан лог координации Claude+Codex (текущий файл)
+- 2026-05-01 | Claude | merge_sahib_singh_ru.py | Слияние sahib_singh_ru из custom_khoj_sahib_singh/ang_json в ksd_ang_json по verse_id
 - 2026-05-01 | Claude | migrate_ang_json.py | Миграция ksd_ang_json в мультиавторский формат; применяет правила романизации из custom_khoj_sahib_singh/fix_romanization_rules.py
-- 2026-05-01 | Claude | ../custom_khoj_sahib_singh/migrate_to_multi_translator.py | Миграция 1430 ang_json Sahib Singh в мультиавторский формат; 60403/60403 строк
 - 2026-05-01 | Claude | build_sggs_meta.py | Генерация sggs_meta/*.json из banidb/sggs.db
 - 2026-05-01 | Claude | shackle_sacred_language_sikhs.pdf | Переименован из книга_по_грамматике_от_нахар_сингха.pdf (это Shackle SLS, уроки 1–16 уже в БД)
 - 2026-05-01 | Claude | CODEX_TASK_shackle_L17_24.md | Инструкция Codex: продолжить индексацию Shackle SLS уроки 17–24

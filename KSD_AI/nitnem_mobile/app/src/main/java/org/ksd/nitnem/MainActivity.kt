@@ -63,7 +63,19 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import kotlinx.coroutines.Dispatchers
 import org.json.JSONObject
+import java.io.File
+import java.net.URL
+import java.security.MessageDigest
+
+private const val NITNEM_PACKAGE_ID = "nitnem_ru_sikhizm_resolved"
+private const val NITNEM_CONTENT_FILE = "nitnem_ru_ksd_v1.json"
+private val NITNEM_API_BASES = listOf(
+    "https://sikhizm.ru/wp-json/ksd-nitnem/v1",
+    "http://sikhizm.ru/wp-json/ksd-nitnem/v1",
+)
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -125,6 +137,10 @@ data class WorkIndex(
 data class NitnemContent(
     val title: String,
     val subtitle: String,
+    val packageId: String,
+    val schemaVersion: Int,
+    val contentVersion: Int,
+    val generatedAt: String,
     val infoBlocks: List<InfoBlock>,
     val updatesMarkdown: String,
     val conceptMarkdown: String,
@@ -142,6 +158,18 @@ data class DisplaySettings(
     val showComments: Boolean,
     val showAuthor: Boolean,
 )
+
+data class ContentSyncStatus(
+    val message: String,
+    val isChecking: Boolean = false,
+    val canRetry: Boolean = false,
+)
+
+private sealed interface ContentSyncResult {
+    data object UpToDate : ContentSyncResult
+    data class Updated(val contentVersion: Int) : ContentSyncResult
+    data class Skipped(val reason: String) : ContentSyncResult
+}
 
 @Composable
 fun KsdNitnemTheme(content: @Composable () -> Unit) {
@@ -166,10 +194,15 @@ fun KsdNitnemApp() {
     val appInfoPageId = "__app_info__"
     val dictionaryPageId = "__dictionary__"
     val context = LocalContext.current
-    val contentResult = remember {
-        runCatching { loadNitnemContent(context) }
+    var contentResult by remember {
+        mutableStateOf(runCatching { loadNitnemContent(context) })
     }
     val content = contentResult.getOrNull()
+    var syncStatus by remember {
+        mutableStateOf(ContentSyncStatus("Проверка обновлений ещё не запускалась"))
+    }
+    var showUpdateNotice by remember { mutableStateOf(false) }
+    var syncTrigger by remember { mutableIntStateOf(0) }
 
     var selectedAng by rememberSaveable { mutableIntStateOf(1) }
     var settings by remember {
@@ -193,6 +226,23 @@ fun KsdNitnemApp() {
     LaunchedEffect(selectedWorkId, selectedAng, infoBlockId) {
         val targetIndex = if (infoBlockId == null && selectedWorkId != null) 1 else 0
         listState.scrollToItem(targetIndex)
+    }
+
+    LaunchedEffect(syncTrigger) {
+        val localVersion = contentResult.getOrNull()?.contentVersion ?: 0
+        syncStatus = ContentSyncStatus("Проверяем обновления текста", isChecking = true)
+        val result = withContext(Dispatchers.IO) {
+            checkAndUpdateNitnemContent(context, localVersion)
+        }
+        syncStatus = when (result) {
+            ContentSyncResult.UpToDate -> ContentSyncStatus("Текст обновлён до последней версии")
+            is ContentSyncResult.Updated -> {
+                contentResult = runCatching { loadNitnemContent(context) }
+                showUpdateNotice = true
+                ContentSyncStatus("Загружена новая версия текста: ${result.contentVersion}")
+            }
+            is ContentSyncResult.Skipped -> ContentSyncStatus(result.reason, canRetry = true)
+        }
     }
 
     ModalNavigationDrawer(
@@ -384,7 +434,24 @@ fun KsdNitnemApp() {
                     verticalArrangement = Arrangement.spacedBy(12.dp),
                 ) {
                     item {
-                        SettingsPanel(settings = settings, onChange = { settings = it })
+                        SettingsPanel(
+                            settings = settings,
+                            contentVersion = content.contentVersion,
+                            syncStatus = syncStatus,
+                            onChange = { settings = it },
+                            onRetry = { syncTrigger++ },
+                        )
+                    }
+                    if (showUpdateNotice) {
+                        item {
+                            UpdateNoticeBanner(
+                                onViewUpdates = {
+                                    showUpdateNotice = false
+                                    infoBlockId = updatesPageId
+                                },
+                                onDismiss = { showUpdateNotice = false },
+                            )
+                        }
                     }
 
                     when {
@@ -623,7 +690,48 @@ fun ReaderChip(text: String, onClick: () -> Unit) {
 }
 
 @Composable
-fun SettingsPanel(settings: DisplaySettings, onChange: (DisplaySettings) -> Unit) {
+fun UpdateNoticeBanner(onViewUpdates: () -> Unit, onDismiss: () -> Unit) {
+    ElevatedCard(
+        colors = CardDefaults.elevatedCardColors(containerColor = Color(0xFFE8F5E9)),
+        shape = RoundedCornerShape(8.dp),
+    ) {
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(14.dp, 12.dp),
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.SpaceBetween,
+        ) {
+            Text(
+                text = "Текст обновлён",
+                color = Color(0xFF2E7D32),
+                fontWeight = FontWeight.SemiBold,
+                fontSize = 14.sp,
+                modifier = Modifier.weight(1f),
+            )
+            OutlinedButton(
+                onClick = onViewUpdates,
+                colors = ButtonDefaults.outlinedButtonColors(contentColor = Color(0xFF2E7D32)),
+                border = BorderStroke(1.dp, Color(0xFF81C784)),
+                contentPadding = PaddingValues(horizontal = 12.dp, vertical = 4.dp),
+            ) {
+                Text("Обновления", fontSize = 13.sp)
+            }
+            IconButton(onClick = onDismiss) {
+                Text("×", color = Color(0xFF2E7D32), fontSize = 20.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+    }
+}
+
+@Composable
+fun SettingsPanel(
+    settings: DisplaySettings,
+    contentVersion: Int,
+    syncStatus: ContentSyncStatus,
+    onChange: (DisplaySettings) -> Unit,
+    onRetry: () -> Unit = {},
+) {
     ElevatedCard(
         colors = CardDefaults.elevatedCardColors(containerColor = ReaderColors.Surface),
         shape = RoundedCornerShape(8.dp),
@@ -635,6 +743,22 @@ fun SettingsPanel(settings: DisplaySettings, onChange: (DisplaySettings) -> Unit
                 fontWeight = FontWeight.SemiBold,
                 fontSize = 15.sp,
             )
+            Text(
+                text = "Версия текста: $contentVersion · ${syncStatus.message}",
+                color = if (syncStatus.isChecking) ReaderColors.Context else ReaderColors.Muted,
+                fontSize = 12.sp,
+                lineHeight = 17.sp,
+            )
+            if (syncStatus.canRetry) {
+                OutlinedButton(
+                    onClick = onRetry,
+                    colors = ButtonDefaults.outlinedButtonColors(contentColor = ReaderColors.Context),
+                    border = BorderStroke(1.dp, ReaderColors.Border),
+                    contentPadding = PaddingValues(horizontal = 12.dp, vertical = 4.dp),
+                ) {
+                    Text("Обновить", fontSize = 13.sp)
+                }
+            }
             SettingRow("Транслитерация", settings.showRoman) {
                 onChange(settings.copy(showRoman = it))
             }
@@ -801,9 +925,7 @@ fun buildTranslationText(text: String) = buildAnnotatedString {
 }
 
 fun loadNitnemContent(context: Context): NitnemContent {
-    val text = context.assets.open("nitnem_ru_ksd_v1.json")
-        .bufferedReader(Charsets.UTF_8)
-        .use { it.readText() }
+    val text = context.loadBestNitnemContentText()
     val root = JSONObject(text)
     val bani = root.getJSONArray("banis").getJSONObject(0)
     val works = root.optJSONArray("works").toObjectList { work ->
@@ -862,6 +984,10 @@ fun loadNitnemContent(context: Context): NitnemContent {
     return NitnemContent(
         title = bani.optString("title", "Nitnem Authentic"),
         subtitle = bani.optString("subtitle", "Первые 13 ангов СГГС"),
+        packageId = root.optString("package_id", NITNEM_PACKAGE_ID),
+        schemaVersion = root.optInt("schema_version", 1),
+        contentVersion = root.optInt("content_version", 1),
+        generatedAt = root.optString("generated_at"),
         infoBlocks = infoBlocks,
         updatesMarkdown = context.loadAssetTextOrBlank("updates.md"),
         conceptMarkdown = context.loadAssetTextOrBlank("ek_granth_maryada.md"),
@@ -870,6 +996,94 @@ fun loadNitnemContent(context: Context): NitnemContent {
         works = works,
         lines = lines,
     )
+}
+
+private fun Context.loadBestNitnemContentText(): String {
+    val bundledText = assets.open(NITNEM_CONTENT_FILE)
+        .bufferedReader(Charsets.UTF_8)
+        .use { it.readText() }
+    val cachedFile = File(filesDir, NITNEM_CONTENT_FILE)
+    if (!cachedFile.isFile) return bundledText
+
+    val cachedText = runCatching { cachedFile.readText(Charsets.UTF_8) }.getOrNull()
+        ?: return bundledText
+    val bundledVersion = runCatching { JSONObject(bundledText).optInt("content_version", 1) }
+        .getOrDefault(1)
+    val cachedVersion = runCatching { JSONObject(cachedText).optInt("content_version", 0) }
+        .getOrDefault(0)
+    return if (cachedVersion >= bundledVersion) cachedText else bundledText
+}
+
+private fun fetchManifestWithFallback(localContentVersion: Int): Pair<String, String> {
+    val query = "/manifest?package_id=$NITNEM_PACKAGE_ID&content_version=$localContentVersion"
+    var lastError: Exception? = null
+    for (base in NITNEM_API_BASES) {
+        try {
+            return base to readUrlText("$base$query")
+        } catch (e: java.io.IOException) {
+            lastError = e
+        }
+    }
+    throw lastError!!
+}
+
+private fun checkAndUpdateNitnemContent(
+    context: Context,
+    localContentVersion: Int,
+): ContentSyncResult = runCatching {
+    val (base, manifestText) = fetchManifestWithFallback(localContentVersion)
+    val manifest = JSONObject(manifestText)
+    val remotePackageId = manifest.optString("package_id")
+    if (remotePackageId != NITNEM_PACKAGE_ID) {
+        return@runCatching ContentSyncResult.Skipped("Сервер вернул другой пакет текста")
+    }
+
+    val remoteVersion = manifest.optInt("content_version", localContentVersion)
+    if (remoteVersion <= localContentVersion || !manifest.optBoolean("has_update", true)) {
+        return@runCatching ContentSyncResult.UpToDate
+    }
+
+    val packageUrl = manifest.optString("package_url")
+        .ifBlank { "$base/package/$NITNEM_PACKAGE_ID" }
+    val packageText = readUrlText(packageUrl)
+    val expectedSha256 = manifest.optString("sha256").ifBlank { null }
+    if (expectedSha256 != null && packageText.sha256() != expectedSha256.lowercase()) {
+        return@runCatching ContentSyncResult.Skipped("Обновление не прошло проверку checksum")
+    }
+
+    val packageRoot = JSONObject(packageText)
+    if (packageRoot.optString("package_id") != NITNEM_PACKAGE_ID) {
+        return@runCatching ContentSyncResult.Skipped("Получен неподходящий пакет текста")
+    }
+    if (packageRoot.optInt("content_version", 0) != remoteVersion) {
+        return@runCatching ContentSyncResult.Skipped("Версия пакета не совпала с manifest")
+    }
+
+    File(context.filesDir, NITNEM_CONTENT_FILE).writeText(packageText, Charsets.UTF_8)
+    context.getSharedPreferences("nitnem_content_sync", Context.MODE_PRIVATE)
+        .edit()
+        .putInt("content_version", remoteVersion)
+        .putString("updated_at", manifest.optString("updated_at"))
+        .putLong("checked_at_ms", System.currentTimeMillis())
+        .apply()
+    ContentSyncResult.Updated(remoteVersion)
+}.getOrElse { error ->
+    ContentSyncResult.Skipped("Не удалось проверить обновления: ${error.message ?: "нет сети"}")
+}
+
+private fun readUrlText(url: String): String {
+    val connection = URL(url).openConnection()
+    connection.connectTimeout = 7000
+    connection.readTimeout = 10000
+    return connection.getInputStream()
+        .bufferedReader(Charsets.UTF_8)
+        .use { it.readText() }
+}
+
+private fun String.sha256(): String {
+    val digest = MessageDigest.getInstance("SHA-256")
+        .digest(toByteArray(Charsets.UTF_8))
+    return digest.joinToString(separator = "") { byte -> "%02x".format(byte) }
 }
 
 private fun Context.loadAssetTextOrBlank(name: String): String =

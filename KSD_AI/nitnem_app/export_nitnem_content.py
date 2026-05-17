@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
@@ -14,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 KSD_DIR = ROOT / "ksd_ang_json"
 OUT_DIR = ROOT / "nitnem_app" / "content"
 OUT_FILE = OUT_DIR / "nitnem_ru_ksd_v1.json"
+PACKAGE_ID = "nitnem_ru_sikhizm_resolved"
 
 AUTHORS = {
     "guru_nanak": {
@@ -227,6 +229,17 @@ def load_ang(ang: int) -> dict[str, Any]:
         return json.load(f)
 
 
+def current_content_version() -> int:
+    env_value = os.environ.get("NITNEM_CONTENT_VERSION", "").strip()
+    if env_value:
+        return int(env_value)
+    if OUT_FILE.is_file():
+        with OUT_FILE.open("r", encoding="utf-8") as f:
+            existing = json.load(f)
+        return max(1, int(existing.get("content_version", 1)))
+    return 1
+
+
 def export_line(
     ang: int,
     shabad_id: int,
@@ -305,8 +318,8 @@ def build_pack() -> dict[str, Any]:
 
     return {
         "schema_version": 1,
-        "content_version": 1,
-        "package_id": "nitnem_ru_ksd_sggs_001_013",
+        "content_version": current_content_version(),
+        "package_id": PACKAGE_ID,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "language": "ru",
         "source": {

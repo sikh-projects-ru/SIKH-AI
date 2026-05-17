@@ -15,3 +15,9 @@ Current generated content target:
 Local exporter:
 - `python3 nitnem_app/export_nitnem_content.py`
 
+One-command local sync:
+- `python3 nitnem_app/sync_content_pack.py`
+
+This exports `nitnem_app/content/nitnem_ru_ksd_v1.json`, validates the package
+ID `nitnem_ru_sikhizm_resolved`, and copies the exact same JSON into both
+Android asset locations used by `nitnem_mobile` and `sggs_mobile`.

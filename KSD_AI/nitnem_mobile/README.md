@@ -75,6 +75,18 @@ app/src/main/assets/updates.md
 For now this is a small markdown-like local file. Later it can be replaced by an
 API-fed update feed while keeping the same screen.
 
+## Content Sync
+
+Use the exporter sync command from the KSD_AI root:
+
+```bash
+python3 nitnem_app/sync_content_pack.py
+```
+
+The command validates `package_id = nitnem_ru_sikhizm_resolved` and copies the
+same content pack into this app's assets. The Android app checks
+`/wp-json/ksd-nitnem/v1/manifest` for that same package ID.
+
 ## Next Steps
 
 - Add a Gradle wrapper from Android Studio or an installed Gradle.

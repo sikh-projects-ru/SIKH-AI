@@ -2,12 +2,15 @@ package org.ksd.nitnem
 
 import android.content.Context
 import android.graphics.BitmapFactory
+import android.net.Uri
 import android.os.Bundle
+import android.text.Html
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -58,6 +61,7 @@ import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -498,7 +502,23 @@ fun KsdNitnemApp() {
                                 items = visibleLines,
                                 key = { it.id },
                             ) { line ->
-                                LineCard(line = line, settings = settings)
+                                LineCard(
+                                    line = line,
+                                    settings = settings,
+                                    allLines = content.lines,
+                                    onOpenReference = { target ->
+                                        infoBlockId = null
+                                        selectedWorkId = null
+                                        selectedAng = target.ang
+                                        scope.launch {
+                                            val targetIndex = content.lines
+                                                .filter { it.ang == target.ang }
+                                                .indexOfFirst { it.id == target.id }
+                                                .coerceAtLeast(0)
+                                            listState.scrollToItem(targetIndex + 1)
+                                        }
+                                    },
+                                )
                             }
                         }
                     }
@@ -814,7 +834,12 @@ fun InfoBlockCard(block: InfoBlock) {
 }
 
 @Composable
-fun LineCard(line: ReaderLine, settings: DisplaySettings) {
+fun LineCard(
+    line: ReaderLine,
+    settings: DisplaySettings,
+    allLines: List<ReaderLine>,
+    onOpenReference: (ReaderLine) -> Unit,
+) {
     var expanded by rememberSaveable(line.id) { mutableStateOf(true) }
     val borderColor = if (line.isRahao) ReaderColors.Rahao else ReaderColors.Border
 
@@ -864,35 +889,44 @@ fun LineCard(line: ReaderLine, settings: DisplaySettings) {
                         )
                     }
                     if (settings.showTranslation && line.translation.isNotBlank()) {
-                        Text(
-                            text = buildTranslationText(line.translation),
+                        RichTextField(
+                            text = line.translation,
                             color = ReaderColors.Translation,
                             fontSize = 17.sp,
                             lineHeight = 24.sp,
+                            allLines = allLines,
+                            onOpenReference = onOpenReference,
                         )
                     }
                     if (settings.showArtistic && !line.artistic.isNullOrBlank()) {
-                        Text(
-                            text = "〜 ${line.artistic}",
+                        RichTextField(
+                            text = line.artistic,
                             color = ReaderColors.Artistic,
                             fontSize = 16.sp,
                             lineHeight = 23.sp,
+                            prefix = "〜 ",
+                            allLines = allLines,
+                            onOpenReference = onOpenReference,
                         )
                     }
                     if (settings.showContext && !line.context.isNullOrBlank()) {
-                        Text(
+                        RichTextField(
                             text = line.context,
                             color = ReaderColors.Context,
                             fontSize = 14.sp,
                             lineHeight = 20.sp,
+                            allLines = allLines,
+                            onOpenReference = onOpenReference,
                         )
                     }
                     if (settings.showComments && !line.comment.isNullOrBlank()) {
-                        Text(
+                        RichTextField(
                             text = line.comment,
                             color = ReaderColors.Comment,
                             fontSize = 14.sp,
                             lineHeight = 20.sp,
+                            allLines = allLines,
+                            onOpenReference = onOpenReference,
                         )
                     }
                 }
@@ -901,27 +935,197 @@ fun LineCard(line: ReaderLine, settings: DisplaySettings) {
     }
 }
 
-fun buildTranslationText(text: String) = buildAnnotatedString {
-    var index = 0
-    while (index < text.length) {
-        val start = text.indexOf("[[", startIndex = index)
-        if (start == -1) {
-            append(text.substring(index))
-            break
-        }
+data class SggsReference(
+    val url: String,
+    val ang: Int,
+    val lineNumber: Int,
+    val quotedLines: List<String>,
+)
 
-        append(text.substring(index, start))
-        val end = text.indexOf("]]", startIndex = start + 2)
-        if (end == -1) {
-            append(text.substring(start))
-            break
+@Composable
+fun RichTextField(
+    text: String,
+    color: Color,
+    fontSize: androidx.compose.ui.unit.TextUnit,
+    lineHeight: androidx.compose.ui.unit.TextUnit,
+    allLines: List<ReaderLine>,
+    onOpenReference: (ReaderLine) -> Unit,
+    prefix: String = "",
+) {
+    val blocks = splitSggsReferenceBlocks(prefix + text)
+    Column(verticalArrangement = Arrangement.spacedBy(7.dp)) {
+        blocks.forEach { block ->
+            val reference = parseSggsReferenceBlock(block)
+            if (reference == null) {
+                val rich = richTextToAnnotatedString(block, color)
+                if (rich.isNotBlank()) {
+                    Text(
+                        text = rich,
+                        color = color,
+                        fontSize = fontSize,
+                        lineHeight = lineHeight,
+                    )
+                }
+            } else {
+                SggsReferenceCard(
+                    reference = reference,
+                    targetLine = allLines.firstOrNull {
+                        it.ang == reference.ang && it.lineNumber == reference.lineNumber
+                    },
+                    onOpenReference = onOpenReference,
+                )
+            }
         }
-
-        pushStyle(SpanStyle(color = ReaderColors.Context))
-        append(text.substring(start + 2, end))
-        pop()
-        index = end + 2
     }
+}
+
+@Composable
+fun SggsReferenceCard(
+    reference: SggsReference,
+    targetLine: ReaderLine?,
+    onOpenReference: (ReaderLine) -> Unit,
+) {
+    val cardModifier = if (targetLine != null) {
+        Modifier
+            .fillMaxWidth()
+            .clickable { onOpenReference(targetLine) }
+    } else {
+        Modifier.fillMaxWidth()
+    }
+    Card(
+        modifier = cardModifier,
+        colors = CardDefaults.cardColors(containerColor = Color(0xFFF1F6EF)),
+        shape = RoundedCornerShape(8.dp),
+        border = BorderStroke(1.dp, Color(0xFFC9DDC1)),
+    ) {
+        Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(5.dp)) {
+            val quote = if (reference.quotedLines.isNotEmpty()) {
+                reference.quotedLines
+            } else {
+                listOfNotNull(
+                    targetLine?.gurmukhi,
+                    targetLine?.roman,
+                    targetLine?.translation,
+                ).filter { it.isNotBlank() }
+            }
+            quote.forEachIndexed { index, line ->
+                Text(
+                    text = stripRichText(line),
+                    color = when (index) {
+                        0 -> ReaderColors.Gurmukhi
+                        1 -> ReaderColors.Roman
+                        else -> ReaderColors.Translation
+                    },
+                    fontSize = when (index) {
+                        0 -> 18.sp
+                        1 -> 13.sp
+                        else -> 14.sp
+                    },
+                    lineHeight = when (index) {
+                        0 -> 25.sp
+                        1 -> 19.sp
+                        else -> 20.sp
+                    },
+                    fontWeight = if (index == 0) FontWeight.Medium else FontWeight.Normal,
+                )
+            }
+            Text(
+                text = "Анг ${reference.ang} · строка ${reference.lineNumber}" +
+                    if (targetLine == null) " · открыть на сайте" else "",
+                color = ReaderColors.Context,
+                fontSize = 12.sp,
+                fontWeight = FontWeight.SemiBold,
+            )
+        }
+    }
+}
+
+fun richTextToAnnotatedString(text: String, baseColor: Color) = buildAnnotatedString {
+    val normalized = normalizeRichTextBreaks(text)
+    val tokenPattern = Regex("""(?is)<(/?)(strong|b|em|i)>|\[\[([\s\S]*?)\]\]""")
+    var cursor = 0
+    val styleStack = mutableListOf<SpanStyle>()
+    tokenPattern.findAll(normalized).forEach { match ->
+        appendWithStack(decodeHtml(normalized.substring(cursor, match.range.first)), styleStack)
+        val contextText = match.groups[3]?.value
+        if (contextText != null) {
+            pushStyle(SpanStyle(color = ReaderColors.Context))
+            append(decodeHtml(contextText))
+            pop()
+        } else {
+            val isClosing = match.groups[1]?.value == "/"
+            val tag = match.groups[2]?.value?.lowercase().orEmpty()
+            if (isClosing) {
+                if (styleStack.isNotEmpty()) styleStack.removeAt(styleStack.lastIndex)
+            } else {
+                val style = when (tag) {
+                    "strong", "b" -> SpanStyle(fontWeight = FontWeight.Bold)
+                    "em", "i" -> SpanStyle(fontStyle = FontStyle.Italic)
+                    else -> SpanStyle(color = baseColor)
+                }
+                styleStack += style
+            }
+        }
+        cursor = match.range.last + 1
+    }
+    appendWithStack(decodeHtml(normalized.substring(cursor)), styleStack)
+}
+
+private fun androidx.compose.ui.text.AnnotatedString.Builder.appendWithStack(
+    text: String,
+    styles: List<SpanStyle>,
+) {
+    styles.forEach { pushStyle(it) }
+    append(text)
+    repeat(styles.size) { pop() }
+}
+
+fun normalizeRichTextBreaks(text: String): String =
+    text.replace("\r\n", "\n")
+        .replace("\r", "\n")
+        .replace(Regex("""(?i)<br\s*/?>"""), "\n")
+        .replace(Regex("""(?i)</p>\s*<p[^>]*>"""), "\n")
+        .replace(Regex("""(?i)</?(p|div)[^>]*>"""), "\n")
+        .trim()
+
+fun stripRichText(text: String): String =
+    decodeHtml(
+        normalizeRichTextBreaks(text)
+            .replace(Regex("""(?is)<[^>]+>"""), "")
+            .replace("[[", "")
+            .replace("]]", "")
+    ).trim()
+
+fun decodeHtml(text: String): String =
+    Html.fromHtml(text, Html.FROM_HTML_MODE_LEGACY).toString()
+
+fun splitSggsReferenceBlocks(text: String): List<String> {
+    val normalized = normalizeRichTextBreaks(text)
+    return normalized.split(Regex("""\n{2,}"""))
+        .map { it.trim() }
+        .filter { it.isNotBlank() }
+}
+
+fun parseSggsReferenceBlock(block: String): SggsReference? {
+    val lines = block.lines().map { it.trim() }.filter { it.isNotBlank() }
+    if (lines.isEmpty()) return null
+    val url = lines.last()
+    val parsed = parseSggsUrl(url) ?: return null
+    return SggsReference(
+        url = url,
+        ang = parsed.first,
+        lineNumber = parsed.second,
+        quotedLines = lines.dropLast(1),
+    )
+}
+
+fun parseSggsUrl(url: String): Pair<Int, Int>? {
+    return runCatching {
+        val uri = Uri.parse(url)
+        val ang = uri.getQueryParameter("ang")?.toIntOrNull()
+        val line = uri.getQueryParameter("line")?.toIntOrNull()
+        if (ang != null && line != null) ang to line else null
+    }.getOrNull()
 }
 
 fun loadNitnemContent(context: Context): NitnemContent {

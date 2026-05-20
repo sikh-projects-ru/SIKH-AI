@@ -7,6 +7,20 @@
 
 ---
 
+## Выпуски — пользовательский уровень
+
+- 2026-05-14 | Ilia | sikhizm.ru / Nitnem app | **Ананд Бани — перевод Карминдера Сингха Дхиллона.** Добавлен авторский перевод Ананд Сахиба (анги 917–922) по книге «Understand Anand» KSD. Перевод следует KSD-методологии: Гурбани как внутреннее послание, терминология на основе слова, объяснения по словам и аналитические примечания к каждой строке. Предыдущая AI-версия перевода сохранена как резервная.
+
+## ksd_ang_json — Anand Sahib (angs 917–922)
+
+- 2026-05-15 | Claude | ksd_ang_0917–0922.json | Внедрены переводы из книги KSD «Understand Anand»: 144/210 строк → ksd_ru из книги; 66 строк → AI-перевод сохранён; все 210 строк → ksd_ai_gurbani_framework (бэкап). Список непокрытых: ANAND_KSD_BOOK/pending_verses.md. Деплой на sikhizm.ru corpus 2026-05-15-190850
+- 2026-05-15 | Claude | scripts/anand_build_ang_patches.py | Новый скрипт: собирает ksd_ru из ANAND_KSD_BOOK/model_responses, матчит OCR Гурмукхи → verse_id, бэкапит старый ksd_ru как ksd_ai_gurbani_framework
+
+## Документация и навигация
+
+- 2026-05-15 | Codex | ANAND_KSD_BOOK, .gitignore | Создана локальная staging-структура для обработки скриншотов `Understand Anand`; raw/generated артефакты исключены из git
+- 2026-05-08 | Codex | AGENTS.md, CLAUDE.md, docs/obsidian/* | Добавлен первый Obsidian-каркас для ориентации Codex/Claude: входные файлы, карта проекта, источники истины, workflows, принципы перевода, решения и открытые задачи
+
 ## ksd_knowledge.db — canvas_concepts
 
 - 2026-05-01 | Claude | canvas_concepts id=55 (Sant) | Добавлены все 4 грамматических значения ਸੰਤੁ/ਸੰਤਿ/ਸੰਤ с примерами из Гурбани и инструкциями для перевода
@@ -59,6 +73,9 @@ _(правки переводов — вносить сюда с номером 
 
 ## Скрипты
 
+- 2026-05-15 | Codex | scripts/anand_chatgpt_page.py | Добавлен batch-режим `--from-page/--to-page` и `--skip-existing` для пачечной обработки страниц `Understand Anand`
+- 2026-05-15 | Codex | scripts/anand_chatgpt_page.py, ANAND_KSD_BOOK/bot_profile | Runner переключён на локальную копию ChatGPT-профиля и 10-минутное ожидание ответа модели
+- 2026-05-15 | Codex | scripts/anand_chatgpt_page.py, scripts/anand_ang_dry_run.py | Добавлены рабочие скрипты для обработки страниц `Understand Anand` через ChatGPT и dry-run проверки full ang JSON перед импортом
 - 2026-05-01 | Codex | SGGS_RU_APP_CONCEPT.md | Обновлены решения по SGGS app: рабочее название Sri Guru Granth Sahib RU, первый релиз со всеми ангами offline, основной слой Sahib Singh, скрытие пустых слоёв, дизайн как Nitnem, будущий `works.json` для Ананд/Сукхмани и других баний
 - 2026-05-01 | Codex | SGGS_RU_APP_CONCEPT.md | Добавлен концепт отдельного Android-приложения SGGS RU на базе unified `ksd_ang_json`, с фильтрами по рагам, авторам, разделам и ангам
 - 2026-05-01 | Codex | add_grammar_shackle_L17_24.py, grammar_index_progress.md | Добавлен и выполнен скрипт индексации Shackle SLS L17–L24; прогресс зафиксирован отдельным блоком

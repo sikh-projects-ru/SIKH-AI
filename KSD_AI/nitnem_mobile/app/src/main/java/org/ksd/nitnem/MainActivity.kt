@@ -105,6 +105,8 @@ private object ReaderColors {
     val Comment = Color(0xFF888888)
     val Artistic = Color(0xFF333366)
     val Rahao = Color(0xFF880044)
+    val ExplanationText = Color(0xFF5C4B00)
+    val ExplanationBg = Color(0xFFFFF9DF)
 }
 
 data class InfoBlock(
@@ -202,6 +204,9 @@ fun KsdNitnemApp() {
         mutableStateOf(runCatching { loadNitnemContent(context) })
     }
     val content = contentResult.getOrNull()
+    val availableAngs = remember(content) {
+        content?.lines?.map { it.ang }?.distinct()?.sorted() ?: emptyList()
+    }
     var syncStatus by remember {
         mutableStateOf(ContentSyncStatus("Проверка обновлений ещё не запускалась"))
     }
@@ -392,22 +397,27 @@ fun KsdNitnemApp() {
         Scaffold(
             containerColor = ReaderColors.Page,
             topBar = {
+                val angIdx = availableAngs.indexOf(selectedAng)
                 ReaderTopBar(
                     title = content?.title ?: "Nitnem Authentic",
                     selectedAng = selectedAng,
                     selectedWorkTitle = content?.works?.firstOrNull { it.id == selectedWorkId }?.title,
+                    canGoBack = selectedWorkId == null && angIdx > 0,
+                    canGoForward = selectedWorkId == null && angIdx in 0 until availableAngs.lastIndex,
                     onMenuClick = { scope.launch { drawerState.open() } },
                     onPreviousAng = {
-                        if (selectedAng > 1) {
-                            selectedAng -= 1
+                        val idx = availableAngs.indexOf(selectedAng)
+                        if (idx > 0) {
+                            selectedAng = availableAngs[idx - 1]
                             selectedWorkId = null
                             infoBlockId = null
                             scope.launch { listState.scrollToItem(0) }
                         }
                     },
                     onNextAng = {
-                        if (selectedAng < 13) {
-                            selectedAng += 1
+                        val idx = availableAngs.indexOf(selectedAng)
+                        if (idx in 0 until availableAngs.lastIndex) {
+                            selectedAng = availableAngs[idx + 1]
                             selectedWorkId = null
                             infoBlockId = null
                             scope.launch { listState.scrollToItem(0) }
@@ -506,6 +516,7 @@ fun KsdNitnemApp() {
                                     line = line,
                                     settings = settings,
                                     allLines = content.lines,
+                                    works = content.works,
                                     onOpenReference = { target ->
                                         infoBlockId = null
                                         selectedWorkId = null
@@ -517,6 +528,13 @@ fun KsdNitnemApp() {
                                                 .coerceAtLeast(0)
                                             listState.scrollToItem(targetIndex + 1)
                                         }
+                                    },
+                                    onOpenWork = { workId ->
+                                        infoBlockId = null
+                                        selectedWorkId = workId
+                                        val firstAng = content.lines.firstOrNull { it.workId == workId }?.ang
+                                        if (firstAng != null) selectedAng = firstAng
+                                        scope.launch { listState.scrollToItem(0) }
                                     },
                                 )
                             }
@@ -642,6 +660,8 @@ fun ReaderTopBar(
     title: String,
     selectedAng: Int,
     selectedWorkTitle: String?,
+    canGoBack: Boolean,
+    canGoForward: Boolean,
     onMenuClick: () -> Unit,
     onPreviousAng: () -> Unit,
     onNextAng: () -> Unit,
@@ -667,7 +687,7 @@ fun ReaderTopBar(
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     IconButton(
                         onClick = onPreviousAng,
-                        enabled = selectedAng > 1,
+                        enabled = canGoBack,
                     ) {
                         Text("‹", color = ReaderColors.Ink, fontSize = 24.sp)
                     }
@@ -680,7 +700,7 @@ fun ReaderTopBar(
                     }
                     IconButton(
                         onClick = onNextAng,
-                        enabled = selectedAng < 13,
+                        enabled = canGoForward,
                     ) {
                         Text("›", color = ReaderColors.Ink, fontSize = 24.sp)
                     }
@@ -791,7 +811,7 @@ fun SettingsPanel(
             SettingRow("Контекст", settings.showContext) {
                 onChange(settings.copy(showContext = it))
             }
-            SettingRow("Обоснование перевода", settings.showComments) {
+            SettingRow("Объяснение перевода", settings.showComments) {
                 onChange(settings.copy(showComments = it))
             }
             SettingRow("Автор", settings.showAuthor) {
@@ -834,11 +854,25 @@ fun InfoBlockCard(block: InfoBlock) {
 }
 
 @Composable
+fun FieldLabel(text: String) {
+    Text(
+        text = text,
+        color = ReaderColors.Muted,
+        fontSize = 10.sp,
+        fontWeight = FontWeight.SemiBold,
+        letterSpacing = 0.5.sp,
+        lineHeight = 14.sp,
+    )
+}
+
+@Composable
 fun LineCard(
     line: ReaderLine,
     settings: DisplaySettings,
     allLines: List<ReaderLine>,
+    works: List<WorkIndex>,
     onOpenReference: (ReaderLine) -> Unit,
+    onOpenWork: (String) -> Unit,
 ) {
     var expanded by rememberSaveable(line.id) { mutableStateOf(true) }
     val borderColor = if (line.isRahao) ReaderColors.Rahao else ReaderColors.Border
@@ -879,7 +913,10 @@ fun LineCard(
             AnimatedVisibility(visible = expanded) {
                 Column(verticalArrangement = Arrangement.spacedBy(7.dp)) {
                     if (settings.showRoman && line.roman.isNotBlank()) {
-                        Text(text = line.roman, color = ReaderColors.Roman, fontSize = 14.sp)
+                        Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                            FieldLabel("Транслитерация")
+                            Text(text = line.roman, color = ReaderColors.Roman, fontSize = 14.sp)
+                        }
                     }
                     if (settings.showAuthor && line.authorName.isNotBlank()) {
                         Text(
@@ -889,45 +926,62 @@ fun LineCard(
                         )
                     }
                     if (settings.showTranslation && line.translation.isNotBlank()) {
-                        RichTextField(
-                            text = line.translation,
-                            color = ReaderColors.Translation,
-                            fontSize = 17.sp,
-                            lineHeight = 24.sp,
-                            allLines = allLines,
-                            onOpenReference = onOpenReference,
-                        )
+                        Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                            FieldLabel("Перевод")
+                            RichTextField(
+                                text = line.translation,
+                                color = ReaderColors.Translation,
+                                fontSize = 17.sp,
+                                lineHeight = 24.sp,
+                                allLines = allLines,
+                                works = works,
+                                onOpenReference = onOpenReference,
+                                onOpenWork = onOpenWork,
+                            )
+                        }
                     }
                     if (settings.showArtistic && !line.artistic.isNullOrBlank()) {
-                        RichTextField(
-                            text = line.artistic,
-                            color = ReaderColors.Artistic,
-                            fontSize = 16.sp,
-                            lineHeight = 23.sp,
-                            prefix = "〜 ",
-                            allLines = allLines,
-                            onOpenReference = onOpenReference,
-                        )
+                        Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                            FieldLabel("Художественный")
+                            RichTextField(
+                                text = line.artistic,
+                                color = ReaderColors.Artistic,
+                                fontSize = 16.sp,
+                                lineHeight = 23.sp,
+                                allLines = allLines,
+                                works = works,
+                                onOpenReference = onOpenReference,
+                                onOpenWork = onOpenWork,
+                                prefix = "〜 ",
+                            )
+                        }
                     }
                     if (settings.showContext && !line.context.isNullOrBlank()) {
-                        RichTextField(
-                            text = line.context,
-                            color = ReaderColors.Context,
-                            fontSize = 14.sp,
-                            lineHeight = 20.sp,
-                            allLines = allLines,
-                            onOpenReference = onOpenReference,
-                        )
+                        Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                            FieldLabel("Контекст")
+                            RichTextField(
+                                text = line.context,
+                                color = ReaderColors.Context,
+                                fontSize = 14.sp,
+                                lineHeight = 20.sp,
+                                allLines = allLines,
+                                works = works,
+                                onOpenReference = onOpenReference,
+                                onOpenWork = onOpenWork,
+                            )
+                        }
                     }
                     if (settings.showComments && !line.comment.isNullOrBlank()) {
-                        RichTextField(
-                            text = line.comment,
-                            color = ReaderColors.Comment,
-                            fontSize = 14.sp,
-                            lineHeight = 20.sp,
-                            allLines = allLines,
-                            onOpenReference = onOpenReference,
-                        )
+                        Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                            FieldLabel("Объяснение перевода")
+                            ExplanationCard(
+                                text = line.comment,
+                                allLines = allLines,
+                                works = works,
+                                onOpenReference = onOpenReference,
+                                onOpenWork = onOpenWork,
+                            )
+                        }
                     }
                 }
             }
@@ -942,6 +996,82 @@ data class SggsReference(
     val quotedLines: List<String>,
 )
 
+data class WorkReference(
+    val workId: String,
+    val quotedLines: List<String>,
+)
+
+@Composable
+fun ExplanationCard(
+    text: String,
+    allLines: List<ReaderLine>,
+    works: List<WorkIndex>,
+    onOpenReference: (ReaderLine) -> Unit,
+    onOpenWork: (String) -> Unit,
+) {
+    Surface(
+        color = ReaderColors.ExplanationBg,
+        shape = RoundedCornerShape(6.dp),
+    ) {
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(horizontal = 10.dp, vertical = 8.dp),
+        ) {
+            RichTextField(
+                text = text,
+                color = ReaderColors.ExplanationText,
+                fontSize = 13.sp,
+                lineHeight = 19.sp,
+                allLines = allLines,
+                works = works,
+                onOpenReference = onOpenReference,
+                onOpenWork = onOpenWork,
+            )
+        }
+    }
+}
+
+@Composable
+fun WorkReferenceCard(
+    reference: WorkReference,
+    work: WorkIndex?,
+    onOpenWork: (String) -> Unit,
+) {
+    Card(
+        modifier = Modifier.fillMaxWidth().clickable { onOpenWork(reference.workId) },
+        colors = CardDefaults.cardColors(containerColor = Color(0xFFF3EFE8)),
+        shape = RoundedCornerShape(8.dp),
+        border = BorderStroke(1.dp, ReaderColors.Border),
+    ) {
+        Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
+            reference.quotedLines.forEach { line ->
+                Text(line, color = ReaderColors.Muted, fontSize = 14.sp, lineHeight = 20.sp)
+            }
+            if (work != null && work.gurmukhiTitle.isNotBlank()) {
+                Text(
+                    text = work.gurmukhiTitle,
+                    color = ReaderColors.Gurmukhi,
+                    fontSize = 17.sp,
+                    fontWeight = FontWeight.Medium,
+                )
+            }
+            Text(
+                text = work?.title ?: reference.workId,
+                color = ReaderColors.Ink,
+                fontWeight = FontWeight.SemiBold,
+                fontSize = 15.sp,
+            )
+            Text(
+                text = "Открыть →",
+                color = ReaderColors.Context,
+                fontSize = 12.sp,
+                fontWeight = FontWeight.SemiBold,
+            )
+        }
+    }
+}
+
 @Composable
 fun RichTextField(
     text: String,
@@ -949,31 +1079,42 @@ fun RichTextField(
     fontSize: androidx.compose.ui.unit.TextUnit,
     lineHeight: androidx.compose.ui.unit.TextUnit,
     allLines: List<ReaderLine>,
+    works: List<WorkIndex>,
     onOpenReference: (ReaderLine) -> Unit,
+    onOpenWork: (String) -> Unit,
     prefix: String = "",
+    fontStyle: FontStyle = FontStyle.Normal,
 ) {
     val blocks = splitSggsReferenceBlocks(prefix + text)
     Column(verticalArrangement = Arrangement.spacedBy(7.dp)) {
         blocks.forEach { block ->
-            val reference = parseSggsReferenceBlock(block)
-            if (reference == null) {
-                val rich = richTextToAnnotatedString(block, color)
-                if (rich.isNotBlank()) {
-                    Text(
-                        text = rich,
-                        color = color,
-                        fontSize = fontSize,
-                        lineHeight = lineHeight,
-                    )
-                }
-            } else {
-                SggsReferenceCard(
-                    reference = reference,
+            val workRef = parseWorkReferenceBlock(block)
+            val sggsRef = if (workRef == null) parseSggsReferenceBlock(block) else null
+            when {
+                workRef != null -> WorkReferenceCard(
+                    reference = workRef,
+                    work = works.firstOrNull { it.id == workRef.workId },
+                    onOpenWork = onOpenWork,
+                )
+                sggsRef != null -> SggsReferenceCard(
+                    reference = sggsRef,
                     targetLine = allLines.firstOrNull {
-                        it.ang == reference.ang && it.lineNumber == reference.lineNumber
+                        it.ang == sggsRef.ang && it.lineNumber == sggsRef.lineNumber
                     },
                     onOpenReference = onOpenReference,
                 )
+                else -> {
+                    val rich = richTextToAnnotatedString(block, color)
+                    if (rich.isNotBlank()) {
+                        Text(
+                            text = rich,
+                            color = color,
+                            fontSize = fontSize,
+                            lineHeight = lineHeight,
+                            fontStyle = fontStyle,
+                        )
+                    }
+                }
             }
         }
     }
@@ -1046,12 +1187,17 @@ fun richTextToAnnotatedString(text: String, baseColor: Color) = buildAnnotatedSt
     var cursor = 0
     val styleStack = mutableListOf<SpanStyle>()
     tokenPattern.findAll(normalized).forEach { match ->
-        appendWithStack(decodeHtml(normalized.substring(cursor, match.range.first)), styleStack)
+        val segmentDecoded = decodeHtml(normalized.substring(cursor, match.range.first))
+        appendWithStack(segmentDecoded, styleStack)
         val contextText = match.groups[3]?.value
         if (contextText != null) {
+            val afterIdx = match.range.last + 1
+            val afterChar = if (afterIdx < normalized.length) normalized[afterIdx] else ' '
+            if (segmentDecoded.isNotEmpty() && !segmentDecoded.last().isWhitespace()) append(" ")
             pushStyle(SpanStyle(color = ReaderColors.Context))
             append(decodeHtml(contextText))
             pop()
+            if (!afterChar.isWhitespace() && afterChar !in ".,;:!?)»—") append(" ")
         } else {
             val isClosing = match.groups[1]?.value == "/"
             val tag = match.groups[2]?.value?.lowercase().orEmpty()
@@ -1096,26 +1242,61 @@ fun stripRichText(text: String): String =
             .replace("]]", "")
     ).trim()
 
-fun decodeHtml(text: String): String =
-    Html.fromHtml(text, Html.FROM_HTML_MODE_LEGACY).toString()
+fun decodeHtml(text: String): String {
+    if (!text.contains('<') && !text.contains('&')) return text
+    return text.split('\n').joinToString("\n") { segment ->
+        Html.fromHtml(segment, Html.FROM_HTML_MODE_LEGACY).toString().trimEnd()
+    }
+}
+
+private val ANCHOR_REGEX = Regex("""(?is)<a\s+href=["'][^"']+["'][^>]*>.*?</a>""")
 
 fun splitSggsReferenceBlocks(text: String): List<String> {
     val normalized = normalizeRichTextBreaks(text)
     return normalized.split(Regex("""\n{2,}"""))
         .map { it.trim() }
         .filter { it.isNotBlank() }
+        .flatMap { splitAroundAnchors(it) }
+}
+
+private fun splitAroundAnchors(paragraph: String): List<String> {
+    val result = mutableListOf<String>()
+    var cursor = 0
+    ANCHOR_REGEX.findAll(paragraph).forEach { match ->
+        val before = paragraph.substring(cursor, match.range.first).trim()
+        if (before.isNotBlank()) result += before
+        result += match.value.trim()
+        cursor = match.range.last + 1
+    }
+    val after = paragraph.substring(cursor).trim()
+    if (after.isNotBlank()) result += after
+    return if (result.isEmpty()) listOf(paragraph) else result
 }
 
 fun parseSggsReferenceBlock(block: String): SggsReference? {
     val lines = block.lines().map { it.trim() }.filter { it.isNotBlank() }
     if (lines.isEmpty()) return null
-    val url = lines.last()
-    val parsed = parseSggsUrl(url) ?: return null
+    // Plain URL format: URL is the last line
+    val plainParsed = parseSggsUrl(lines.last())
+    if (plainParsed != null) {
+        return SggsReference(
+            url = lines.last(),
+            ang = plainParsed.first,
+            lineNumber = plainParsed.second,
+            quotedLines = lines.dropLast(1),
+        )
+    }
+    // Anchor tag format: <a href="https://...?ang=N&line=N">anchor text</a>
+    val anchorMatch = Regex("""(?is)<a\s+href=["']([^"']+)["'][^>]*>(.*?)</a>""").find(block)
+        ?: return null
+    val href = anchorMatch.groupValues[1]
+    val anchorParsed = parseSggsUrl(href) ?: return null
+    val linkText = anchorMatch.groupValues[2].trim()
     return SggsReference(
-        url = url,
-        ang = parsed.first,
-        lineNumber = parsed.second,
-        quotedLines = lines.dropLast(1),
+        url = href,
+        ang = anchorParsed.first,
+        lineNumber = anchorParsed.second,
+        quotedLines = if (linkText.isNotBlank()) listOf(linkText) else emptyList(),
     )
 }
 
@@ -1126,6 +1307,18 @@ fun parseSggsUrl(url: String): Pair<Int, Int>? {
         val line = uri.getQueryParameter("line")?.toIntOrNull()
         if (ang != null && line != null) ang to line else null
     }.getOrNull()
+}
+
+fun parseWorkUrl(url: String): String? =
+    runCatching { Uri.parse(url).getQueryParameter("work") }
+        .getOrNull()
+        ?.takeIf { it.isNotBlank() }
+
+fun parseWorkReferenceBlock(block: String): WorkReference? {
+    val lines = block.lines().map { it.trim() }.filter { it.isNotBlank() }
+    if (lines.isEmpty()) return null
+    val workId = parseWorkUrl(lines.last()) ?: return null
+    return WorkReference(workId = workId, quotedLines = lines.dropLast(1))
 }
 
 fun loadNitnemContent(context: Context): NitnemContent {

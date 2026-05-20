@@ -42,7 +42,25 @@
 - [x] Rebuild docx: re-apply find_rahao_vids при пересборке
 - [x] Жирный шрифт для всего куплета Рахао
 
+## Ананд Бани — незавершённое
+
+- [ ] **66 строк без book-перевода** — список в `ANAND_KSD_BOOK/pending_verses.md`. Причина: либо страница пропущена, либо ChatGPT поставил перевод внутрь `word_meanings`-блока вместо `translation`-блока (паттерн: "Значение: текст"). Нужно добавить в `anand_build_ang_patches.py` fallback: если у gurbani-группы нет `translation`-блоков — поискать "Значение:" внутри `word_meanings`/`note`-блоков и взять текст после двоеточия. После — перепрогнать и задеплоить.
+- [ ] **Пересъёмка и перепарсинг пропущенных страниц**: p011 p013 p014 p027 p036 p073 p079 — JSON повреждён (кривые кавычки / обрывы). Пересъёмка или ручная правка JSON, затем повторный прогон скрипта.
+- [ ] **[[...]] в main для Ананда** — сейчас контекстные вставки KSD в Ананде есть только в `ksd_ai_gurbani_framework.context_note`. Если сайт умеет показывать `[[...]]` синим инлайн, подумать: стоит ли добавлять их в `ksd_ru.main` для новых book-переводов, или это ручная редакторская работа.
+
+## Nitnem Mobile — фиксы
+
+- [ ] **HTML в поле `comment` (confidence_reason)**: сейчас `Text()` рендерит комментарий как plain text — HTML-теги видны как символы. Нужно заменить `Text(text = line.comment, ...)` на `AndroidView { TextView }` с `Html.fromHtml(line.comment, Html.FROM_HTML_MODE_LEGACY)` для поля `comment`. Поле `context` (context_note) пока без изменений — там чистый текст.
+
 ## Будущие фичи
+- [ ] Подключить публикацию SGGS JSON на сайт через новый WordPress Import API без `git pull` для контента:
+  - Endpoint: `POST https://sikhizm.ru/wp-json/sggs/v1/import`
+  - Auth: `Authorization: Bearer <secret-token>`
+  - Локальный token хранится в ignored файле `/home/royal/Work/Spiritual/sikhizm-ru/.env.local` как `SGGS_READER_IMPORT_TOKEN`; не печатать в чат и не коммитить.
+  - На сервере хранится только SHA-256 hash token (`SGGS_READER_IMPORT_TOKEN_HASH` в `wp-config.php` или option `sggs_reader_import_token_hash`).
+  - Payload schema: `schema_version: "1.0"`, `corpus_version`, optional `updates`, `files[]`.
+  - Разрешенные пути: `ksd_ang_json/ksd_ang_####.json`, `indexes/works.json`, `indexes/raags.json`, `indexes/shabads.json`, `manifest.json`, `sevadars_ru_patches.json`.
+  - Задача для KSD_AI: сделать команду/скрипт, который собирает измененные JSON-файлы, считает `sha256`, base64-кодирует JSON и отправляет одним запросом в Import API.
 - [ ] Распознавать, что шабд является частью большого произведения: отделять название/заголовок от повествования, учитывать направление повествовательной дуги и связь строк внутри композиции.
 - [ ] Сделать анализ тезисов по ангам: вытаскивать из `ksd_ang_json/` ключевые утверждения и находить противоречия с KSD-принципами (космология вместо внутренней реализации, Веды/Пураны как внешний авторитет, внешние люди вместо внутренних процессов, загробное/ритуальное чтение).
 - [ ] Сделать техническую документацию по приложению Nitnem Authentic: архитектура, сборка APK, обновление контента, структура JSON, добавление переводчиков и будущая API-синхронизация.

@@ -69,6 +69,7 @@ import androidx.compose.ui.unit.sp
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import kotlinx.coroutines.Dispatchers
+import org.json.JSONArray
 import org.json.JSONObject
 import java.io.File
 import java.net.URL
@@ -173,9 +174,20 @@ data class ContentSyncStatus(
 
 private sealed interface ContentSyncResult {
     data object UpToDate : ContentSyncResult
-    data class Updated(val contentVersion: Int) : ContentSyncResult
+    data class Updated(val contentVersion: Int, val diffs: List<LineDiff> = emptyList()) : ContentSyncResult
     data class Skipped(val reason: String) : ContentSyncResult
 }
+
+data class FieldDiff(val label: String, val old: String, val new: String)
+
+data class LineDiff(
+    val lineId: String,
+    val ang: Int,
+    val workId: String,
+    val workTitle: String,
+    val gurmukhi: String,
+    val changedFields: List<FieldDiff>,
+)
 
 @Composable
 fun KsdNitnemTheme(content: @Composable () -> Unit) {
@@ -199,6 +211,7 @@ fun KsdNitnemApp() {
     val ekGranthPageId = "__ek_granth__"
     val appInfoPageId = "__app_info__"
     val dictionaryPageId = "__dictionary__"
+    val changesPageId = "__changes__"
     val context = LocalContext.current
     var contentResult by remember {
         mutableStateOf(runCatching { loadNitnemContent(context) })
@@ -212,6 +225,7 @@ fun KsdNitnemApp() {
     }
     var showUpdateNotice by remember { mutableStateOf(false) }
     var syncTrigger by remember { mutableIntStateOf(0) }
+    var contentDiffs by remember { mutableStateOf(loadContentDiff(context)) }
 
     var selectedAng by rememberSaveable { mutableIntStateOf(1) }
     var settings by remember {
@@ -231,6 +245,7 @@ fun KsdNitnemApp() {
     val drawerState = rememberDrawerState(DrawerValue.Closed)
     val listState = rememberLazyListState()
     val scope = rememberCoroutineScope()
+    val worksOrdered = remember(content) { content?.works?.sortedBy { it.order } ?: emptyList() }
 
     LaunchedEffect(selectedWorkId, selectedAng, infoBlockId) {
         val targetIndex = if (infoBlockId == null && selectedWorkId != null) 1 else 0
@@ -247,6 +262,7 @@ fun KsdNitnemApp() {
             ContentSyncResult.UpToDate -> ContentSyncStatus("Текст обновлён до последней версии")
             is ContentSyncResult.Updated -> {
                 contentResult = runCatching { loadNitnemContent(context) }
+                if (result.diffs.isNotEmpty()) contentDiffs = result.diffs
                 showUpdateNotice = true
                 ContentSyncStatus("Загружена новая версия текста: ${result.contentVersion}")
             }
@@ -278,14 +294,18 @@ fun KsdNitnemApp() {
                         )
                         Spacer(Modifier.height(12.dp))
                         Text(
-                            text = "Произведения",
+                            text = "Нитнем",
                             modifier = Modifier.padding(horizontal = 20.dp, vertical = 8.dp),
                             color = ReaderColors.Muted,
                             fontSize = 13.sp,
                             fontWeight = FontWeight.SemiBold,
                         )
                     }
-                    items(content?.works.orEmpty(), key = { it.id }) { work ->
+                    val nitnemWorkIds = setOf("jap", "so_dar", "so_purakh", "sohila")
+                    items(
+                        content?.works.orEmpty().filter { it.id in nitnemWorkIds },
+                        key = { it.id },
+                    ) { work ->
                         NavigationDrawerItem(
                             label = {
                                 Column {
@@ -309,6 +329,43 @@ fun KsdNitnemApp() {
                             },
                             modifier = Modifier.padding(horizontal = 12.dp),
                         )
+                    }
+                    val otherBaniWorks = content?.works.orEmpty().filterNot { it.id in nitnemWorkIds }
+                    if (otherBaniWorks.isNotEmpty()) {
+                        item {
+                            Text(
+                                text = "Другие Бани",
+                                modifier = Modifier.padding(horizontal = 20.dp, vertical = 8.dp),
+                                color = ReaderColors.Muted,
+                                fontSize = 13.sp,
+                                fontWeight = FontWeight.SemiBold,
+                            )
+                        }
+                        items(otherBaniWorks, key = { it.id }) { work ->
+                            NavigationDrawerItem(
+                                label = {
+                                    Column {
+                                        Text(work.title)
+                                        if (work.gurmukhiTitle.isNotBlank()) {
+                                            Text(
+                                                text = work.gurmukhiTitle,
+                                                color = ReaderColors.Gurmukhi,
+                                                fontSize = 13.sp,
+                                            )
+                                        }
+                                    }
+                                },
+                                selected = infoBlockId == null && selectedWorkId == work.id,
+                                onClick = {
+                                    infoBlockId = null
+                                    selectedWorkId = work.id
+                                    val firstAng = content?.lines?.firstOrNull { it.workId == work.id }?.ang
+                                    if (firstAng != null) selectedAng = firstAng
+                                    scope.launch { drawerState.close() }
+                                },
+                                modifier = Modifier.padding(horizontal = 12.dp),
+                            )
+                        }
                     }
                     item {
                         Spacer(Modifier.height(12.dp))
@@ -368,6 +425,17 @@ fun KsdNitnemApp() {
                             },
                             modifier = Modifier.padding(horizontal = 12.dp),
                         )
+                        if (contentDiffs.isNotEmpty()) {
+                            NavigationDrawerItem(
+                                label = { Text("Что изменилось") },
+                                selected = infoBlockId == changesPageId,
+                                onClick = {
+                                    infoBlockId = changesPageId
+                                    scope.launch { drawerState.close() }
+                                },
+                                modifier = Modifier.padding(horizontal = 12.dp),
+                            )
+                        }
                         Spacer(Modifier.height(12.dp))
                         Text(
                             text = "Анги",
@@ -398,29 +466,49 @@ fun KsdNitnemApp() {
             containerColor = ReaderColors.Page,
             topBar = {
                 val angIdx = availableAngs.indexOf(selectedAng)
+                val workIdx = worksOrdered.indexOfFirst { it.id == selectedWorkId }
                 ReaderTopBar(
                     title = content?.title ?: "Nitnem Authentic",
                     selectedAng = selectedAng,
                     selectedWorkTitle = content?.works?.firstOrNull { it.id == selectedWorkId }?.title,
-                    canGoBack = selectedWorkId == null && angIdx > 0,
-                    canGoForward = selectedWorkId == null && angIdx in 0 until availableAngs.lastIndex,
+                    showNavigation = infoBlockId == null,
+                    canGoBack = infoBlockId == null && (
+                        (selectedWorkId == null && angIdx > 0) ||
+                        (selectedWorkId != null && workIdx > 0)
+                    ),
+                    canGoForward = infoBlockId == null && (
+                        (selectedWorkId == null && angIdx in 0 until availableAngs.lastIndex) ||
+                        (selectedWorkId != null && workIdx in 0 until worksOrdered.lastIndex)
+                    ),
                     onMenuClick = { scope.launch { drawerState.open() } },
                     onPreviousAng = {
-                        val idx = availableAngs.indexOf(selectedAng)
-                        if (idx > 0) {
-                            selectedAng = availableAngs[idx - 1]
-                            selectedWorkId = null
-                            infoBlockId = null
+                        if (selectedWorkId != null && workIdx > 0) {
+                            val prev = worksOrdered[workIdx - 1]
+                            selectedWorkId = prev.id
+                            content?.lines?.firstOrNull { it.workId == prev.id }?.ang?.let { selectedAng = it }
                             scope.launch { listState.scrollToItem(0) }
+                        } else if (selectedWorkId == null) {
+                            val idx = availableAngs.indexOf(selectedAng)
+                            if (idx > 0) {
+                                selectedAng = availableAngs[idx - 1]
+                                infoBlockId = null
+                                scope.launch { listState.scrollToItem(0) }
+                            }
                         }
                     },
                     onNextAng = {
-                        val idx = availableAngs.indexOf(selectedAng)
-                        if (idx in 0 until availableAngs.lastIndex) {
-                            selectedAng = availableAngs[idx + 1]
-                            selectedWorkId = null
-                            infoBlockId = null
+                        if (selectedWorkId != null && workIdx in 0 until worksOrdered.lastIndex) {
+                            val next = worksOrdered[workIdx + 1]
+                            selectedWorkId = next.id
+                            content?.lines?.firstOrNull { it.workId == next.id }?.ang?.let { selectedAng = it }
                             scope.launch { listState.scrollToItem(0) }
+                        } else if (selectedWorkId == null) {
+                            val idx = availableAngs.indexOf(selectedAng)
+                            if (idx in 0 until availableAngs.lastIndex) {
+                                selectedAng = availableAngs[idx + 1]
+                                infoBlockId = null
+                                scope.launch { listState.scrollToItem(0) }
+                            }
                         }
                     },
                 )
@@ -461,7 +549,7 @@ fun KsdNitnemApp() {
                             UpdateNoticeBanner(
                                 onViewUpdates = {
                                     showUpdateNotice = false
-                                    infoBlockId = updatesPageId
+                                    infoBlockId = if (contentDiffs.isNotEmpty()) changesPageId else updatesPageId
                                 },
                                 onDismiss = { showUpdateNotice = false },
                             )
@@ -493,6 +581,35 @@ fun KsdNitnemApp() {
                         infoBlockId == dictionaryPageId -> {
                             item {
                                 MarkdownCard(markdown = content.dictionaryMarkdown)
+                            }
+                        }
+                        infoBlockId == changesPageId -> {
+                            item {
+                                ElevatedCard(
+                                    colors = CardDefaults.elevatedCardColors(containerColor = ReaderColors.Surface),
+                                    shape = RoundedCornerShape(8.dp),
+                                ) {
+                                    Column(
+                                        Modifier.padding(16.dp),
+                                        verticalArrangement = Arrangement.spacedBy(4.dp),
+                                    ) {
+                                        Text(
+                                            text = "Что изменилось",
+                                            color = ReaderColors.Ink,
+                                            fontWeight = FontWeight.SemiBold,
+                                            fontSize = 20.sp,
+                                        )
+                                        Text(
+                                            text = if (contentDiffs.isEmpty()) "Нет сохранённых изменений"
+                                                   else "${contentDiffs.size} строк обновлено",
+                                            color = ReaderColors.Muted,
+                                            fontSize = 14.sp,
+                                        )
+                                    }
+                                }
+                            }
+                            items(contentDiffs, key = { it.lineId }) { diff ->
+                                LineDiffCard(diff)
                             }
                         }
                         content.infoBlocks.any { it.id == infoBlockId } -> {
@@ -660,6 +777,7 @@ fun ReaderTopBar(
     title: String,
     selectedAng: Int,
     selectedWorkTitle: String?,
+    showNavigation: Boolean = true,
     canGoBack: Boolean,
     canGoForward: Boolean,
     onMenuClick: () -> Unit,
@@ -685,11 +803,10 @@ fun ReaderTopBar(
                     fontSize = 20.sp,
                 )
                 Row(verticalAlignment = Alignment.CenterVertically) {
-                    IconButton(
-                        onClick = onPreviousAng,
-                        enabled = canGoBack,
-                    ) {
-                        Text("‹", color = ReaderColors.Ink, fontSize = 24.sp)
+                    if (showNavigation) {
+                        IconButton(onClick = onPreviousAng, enabled = canGoBack) {
+                            Text("‹", color = ReaderColors.Ink, fontSize = 24.sp)
+                        }
                     }
                     OutlinedButton(
                         onClick = onMenuClick,
@@ -698,11 +815,10 @@ fun ReaderTopBar(
                     ) {
                         Text(selectedWorkTitle ?: "Анг $selectedAng")
                     }
-                    IconButton(
-                        onClick = onNextAng,
-                        enabled = canGoForward,
-                    ) {
-                        Text("›", color = ReaderColors.Ink, fontSize = 24.sp)
+                    if (showNavigation) {
+                        IconButton(onClick = onNextAng, enabled = canGoForward) {
+                            Text("›", color = ReaderColors.Ink, fontSize = 24.sp)
+                        }
                     }
                 }
             }
@@ -759,6 +875,79 @@ fun UpdateNoticeBanner(onViewUpdates: () -> Unit, onDismiss: () -> Unit) {
             }
             IconButton(onClick = onDismiss) {
                 Text("×", color = Color(0xFF2E7D32), fontSize = 20.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+    }
+}
+
+@Composable
+fun LineDiffCard(diff: LineDiff) {
+    ElevatedCard(
+        colors = CardDefaults.elevatedCardColors(containerColor = ReaderColors.Surface),
+        shape = RoundedCornerShape(8.dp),
+    ) {
+        Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Text(
+                text = "${diff.workTitle} · Анг ${diff.ang}",
+                color = ReaderColors.Muted,
+                fontSize = 12.sp,
+                fontWeight = FontWeight.SemiBold,
+            )
+            Text(
+                text = diff.gurmukhi,
+                color = ReaderColors.Gurmukhi,
+                fontSize = 18.sp,
+                lineHeight = 26.sp,
+                fontWeight = FontWeight.Medium,
+            )
+            diff.changedFields.forEach { field ->
+                Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                    FieldLabel(field.label)
+                    if (field.old.isNotBlank()) {
+                        Surface(color = Color(0xFFFFF3F3), shape = RoundedCornerShape(4.dp)) {
+                            Row(
+                                modifier = Modifier.fillMaxWidth().padding(8.dp, 6.dp),
+                                horizontalArrangement = Arrangement.spacedBy(6.dp),
+                            ) {
+                                Text(
+                                    text = "было",
+                                    color = Color(0xFFB03030),
+                                    fontSize = 10.sp,
+                                    fontWeight = FontWeight.SemiBold,
+                                    modifier = Modifier.width(36.dp),
+                                )
+                                Text(
+                                    text = stripRichText(field.old),
+                                    color = Color(0xFF994444),
+                                    fontSize = 14.sp,
+                                    lineHeight = 20.sp,
+                                    modifier = Modifier.weight(1f),
+                                )
+                            }
+                        }
+                    }
+                    Surface(color = Color(0xFFF0FFF3), shape = RoundedCornerShape(4.dp)) {
+                        Row(
+                            modifier = Modifier.fillMaxWidth().padding(8.dp, 6.dp),
+                            horizontalArrangement = Arrangement.spacedBy(6.dp),
+                        ) {
+                            Text(
+                                text = "стало",
+                                color = Color(0xFF2E7D32),
+                                fontSize = 10.sp,
+                                fontWeight = FontWeight.SemiBold,
+                                modifier = Modifier.width(36.dp),
+                            )
+                            Text(
+                                text = stripRichText(field.new),
+                                color = Color(0xFF1A4A1A),
+                                fontSize = 14.sp,
+                                lineHeight = 20.sp,
+                                modifier = Modifier.weight(1f),
+                            )
+                        }
+                    }
+                }
             }
         }
     }
@@ -1321,31 +1510,9 @@ fun parseWorkReferenceBlock(block: String): WorkReference? {
     return WorkReference(workId = workId, quotedLines = lines.dropLast(1))
 }
 
-fun loadNitnemContent(context: Context): NitnemContent {
-    val text = context.loadBestNitnemContentText()
-    val root = JSONObject(text)
-    val bani = root.getJSONArray("banis").getJSONObject(0)
-    val works = root.optJSONArray("works").toObjectList { work ->
-        WorkIndex(
-            id = work.optString("id"),
-            order = work.optInt("order"),
-            title = work.optString("title_ru"),
-            gurmukhiTitle = work.optString("title_gurmukhi"),
-            description = work.optString("description_ru"),
-        )
-    }.sortedBy { it.order }
-    val infoBlocks = bani.optJSONArray("info_blocks").toObjectList { block ->
-        InfoBlock(
-            id = block.optString("id"),
-            title = block.optString("title"),
-            body = block.optString("body"),
-        )
-    }.filterNot {
-        it.id in setOf("ek_granth_ek_panth", "why_first_13_angs", "sggs_basis")
-    }
-
+private fun parseReaderLines(root: JSONObject): List<ReaderLine> {
     val lines = mutableListOf<ReaderLine>()
-    val angs = root.getJSONArray("angs")
+    val angs = root.optJSONArray("angs") ?: return lines
     for (angIndex in 0 until angs.length()) {
         val ang = angs.getJSONObject(angIndex)
         val angNumber = ang.optInt("ang")
@@ -1377,6 +1544,104 @@ fun loadNitnemContent(context: Context): NitnemContent {
             }
         }
     }
+    return lines
+}
+
+private fun computeLineDiffs(oldLines: List<ReaderLine>, newLines: List<ReaderLine>): List<LineDiff> {
+    val oldById = oldLines.associateBy { it.id }
+    return newLines.mapNotNull { newLine ->
+        val oldLine = oldById[newLine.id] ?: return@mapNotNull null
+        val fields = mutableListOf<FieldDiff>()
+        if (oldLine.translation != newLine.translation && newLine.translation.isNotBlank())
+            fields += FieldDiff("Перевод", oldLine.translation, newLine.translation)
+        if (oldLine.artistic != newLine.artistic && !newLine.artistic.isNullOrBlank())
+            fields += FieldDiff("Художественный", oldLine.artistic.orEmpty(), newLine.artistic.orEmpty())
+        if (oldLine.context != newLine.context && !newLine.context.isNullOrBlank())
+            fields += FieldDiff("Контекст", oldLine.context.orEmpty(), newLine.context.orEmpty())
+        if (fields.isEmpty()) null
+        else LineDiff(
+            lineId = newLine.id,
+            ang = newLine.ang,
+            workId = newLine.workId,
+            workTitle = newLine.workTitle,
+            gurmukhi = newLine.gurmukhi,
+            changedFields = fields,
+        )
+    }
+}
+
+private fun saveContentDiff(context: Context, diffs: List<LineDiff>) {
+    val arr = JSONArray()
+    diffs.forEach { diff ->
+        val obj = JSONObject()
+        obj.put("lineId", diff.lineId)
+        obj.put("ang", diff.ang)
+        obj.put("workId", diff.workId)
+        obj.put("workTitle", diff.workTitle)
+        obj.put("gurmukhi", diff.gurmukhi)
+        val fields = JSONArray()
+        diff.changedFields.forEach { f ->
+            val fObj = JSONObject()
+            fObj.put("label", f.label)
+            fObj.put("old", f.old)
+            fObj.put("new", f.new)
+            fields.put(fObj)
+        }
+        obj.put("fields", fields)
+        arr.put(obj)
+    }
+    File(context.filesDir, "nitnem_content_diff.json").writeText(arr.toString(), Charsets.UTF_8)
+}
+
+private fun loadContentDiff(context: Context): List<LineDiff> =
+    runCatching {
+        val text = File(context.filesDir, "nitnem_content_diff.json").readText(Charsets.UTF_8)
+        val arr = JSONArray(text)
+        buildList {
+            for (i in 0 until arr.length()) {
+                val obj = arr.getJSONObject(i)
+                val fields = obj.getJSONArray("fields")
+                add(LineDiff(
+                    lineId = obj.getString("lineId"),
+                    ang = obj.getInt("ang"),
+                    workId = obj.getString("workId"),
+                    workTitle = obj.getString("workTitle"),
+                    gurmukhi = obj.getString("gurmukhi"),
+                    changedFields = buildList {
+                        for (j in 0 until fields.length()) {
+                            val f = fields.getJSONObject(j)
+                            add(FieldDiff(f.getString("label"), f.getString("old"), f.getString("new")))
+                        }
+                    },
+                ))
+            }
+        }
+    }.getOrDefault(emptyList())
+
+fun loadNitnemContent(context: Context): NitnemContent {
+    val text = context.loadBestNitnemContentText()
+    val root = JSONObject(text)
+    val bani = root.getJSONArray("banis").getJSONObject(0)
+    val works = root.optJSONArray("works").toObjectList { work ->
+        WorkIndex(
+            id = work.optString("id"),
+            order = work.optInt("order"),
+            title = work.optString("title_ru"),
+            gurmukhiTitle = work.optString("title_gurmukhi"),
+            description = work.optString("description_ru"),
+        )
+    }.sortedBy { it.order }
+    val infoBlocks = bani.optJSONArray("info_blocks").toObjectList { block ->
+        InfoBlock(
+            id = block.optString("id"),
+            title = block.optString("title"),
+            body = block.optString("body"),
+        )
+    }.filterNot {
+        it.id in setOf("ek_granth_ek_panth", "why_first_13_angs", "sggs_basis")
+    }
+
+    val lines = parseReaderLines(root)
 
     return NitnemContent(
         title = bani.optString("title", "Nitnem Authentic"),
@@ -1456,14 +1721,21 @@ private fun checkAndUpdateNitnemContent(
         return@runCatching ContentSyncResult.Skipped("Версия пакета не совпала с manifest")
     }
 
+    val diffs = runCatching {
+        val oldLines = parseReaderLines(JSONObject(context.loadBestNitnemContentText()))
+        val newLines = parseReaderLines(JSONObject(packageText))
+        computeLineDiffs(oldLines, newLines)
+    }.getOrDefault(emptyList())
+
     File(context.filesDir, NITNEM_CONTENT_FILE).writeText(packageText, Charsets.UTF_8)
+    if (diffs.isNotEmpty()) saveContentDiff(context, diffs)
     context.getSharedPreferences("nitnem_content_sync", Context.MODE_PRIVATE)
         .edit()
         .putInt("content_version", remoteVersion)
         .putString("updated_at", manifest.optString("updated_at"))
         .putLong("checked_at_ms", System.currentTimeMillis())
         .apply()
-    ContentSyncResult.Updated(remoteVersion)
+    ContentSyncResult.Updated(remoteVersion, diffs)
 }.getOrElse { error ->
     ContentSyncResult.Skipped("Не удалось проверить обновления: ${error.message ?: "нет сети"}")
 }

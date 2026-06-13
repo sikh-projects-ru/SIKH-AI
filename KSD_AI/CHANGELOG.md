@@ -18,16 +18,28 @@
 
 ## Документация и навигация
 
+- 2026-06-09 | Codex | NANAK_CANVAS_AUDIT.md | Зафиксирован аудит индексации Nanak Canvas: 12 глав, 99 explicit SGGS examples, покрытие полей, отсутствие дублей и manual QA queue по Gurmukhi-containing строкам без близкой явной SGGS-ссылки
+- 2026-06-09 | Codex | PROJECT_INDEX.md, PROJECT_INDEX.json | Уточнён coverage для `Концепты Сикхи.docx`: добавлен chapter-level source-тег `nanak_canvas_chapters_v1` после индексации 12 глав и SGGS examples
+- 2026-06-09 | Codex | PROJECT_INDEX.md | Уточнён DB coverage для `Концепты Сикхи.docx`: добавлен source-тег `nanak_canvas_concepts_sikhi` и таблицы `ksd_principles`, `ksd_examples` после продолжения индексации Nanak Canvas
+- 2026-06-07 | Codex | PROJECT_INDEX.md, PROJECT_INDEX.json | Создан каталог root-level PDF/DOCX/TXT источников: роли, статусы индексации, размеры, SHA-256, source-теги БД; отмечен дубликат `Концепты Сикхи.docx` / `Холст Гуру Нанака...docx`
+- 2026-06-07 | Codex | SOURCE_DOCUMENTS_PLAN.md | Зафиксирован план будущего переноса raw PDF/DOCX/TXT источников в `source_documents/` по категориям без фактического перемещения файлов
+- 2026-06-07 | Codex | PROJECT_INDEX.md, PROJECT_INDEX.json | Уточнены статусы TXT-кандидатов: `52_a_khar_example.txt` отмечен как KSD source note для будущей extraction; `siddh_ghost_scratches.txt` как scratch
+- 2026-06-04 | Codex | SGGS_SMART_DICTIONARY_CONCEPT.md | Зафиксирован концепт умного словаря для SGGS Reader: локальный индекс точных словоформ и вхождений, UI кликабельных слов, модель данных, оценка KhojGurbani/BaniDB, provenance и поэтапный план
 - 2026-05-15 | Codex | ANAND_KSD_BOOK, .gitignore | Создана локальная staging-структура для обработки скриншотов `Understand Anand`; raw/generated артефакты исключены из git
 - 2026-05-08 | Codex | AGENTS.md, CLAUDE.md, docs/obsidian/* | Добавлен первый Obsidian-каркас для ориентации Codex/Claude: входные файлы, карта проекта, источники истины, workflows, принципы перевода, решения и открытые задачи
 
 ## ksd_knowledge.db — canvas_concepts
 
+- 2026-06-13 | Claude | canvas_concepts, ksd_examples (Nanak Canvas) | Починены 11 непривязанных строк концептов Холста через `fix_nanak_canvas_unmatched.py` (идемпотентно): опечатки анга в `gurbani_ref` #67/#68 (474→484, 696→969, 467→437) и в `ksd_examples` (ids 722/719/720/435/673 — ang typos; 692 ਜਿਸੁ→ਜਿਸ; 691 фрагмент→полная строка; 648/650 — заменён тег автора `ਮਃ ੫`/`ਮ :੧` на реальные строки из docx Part2/Part3, verse_id 41315/28043). После реэкспорта `ksd_concept_tags.json`: resolved_verse_id 96→107, unmatched 14→3 (остаток — `naam`/`devte` из manual_ksd_user_terms, вне Холста). Сахиб Сингх и данные ридера не затронуты
+- 2026-06-09 | Codex | canvas_concepts, ksd_examples (nanak_canvas_chapters_v1) | Проиндексированы 12 глав Nanak Canvas / `Концепты Сикхи.docx`: добавлены 12 chapter-level концептов и 99 SGGS-ссылок/примеров по главам; итоговые счётчики: canvas_concepts 81, ksd_examples 536
+- 2026-06-09 | Codex | canvas_concepts, ksd_principles, ksd_examples (nanak_canvas_concepts_sikhi) | Продолжена индексация Nanak Canvas / `Концепты Сикхи.docx`: добавлены 4 концепта, 6 методологических принципов и 4 примера по old canvas vs redefinition, mention vs endorsement, here-and-now, Teerath и Panch Doot; обновлены `ksd_knowledge_dump.sql` и `ksd_knowledge_snapshot.json`
 - 2026-05-01 | Claude | canvas_concepts id=55 (Sant) | Добавлены все 4 грамматических значения ਸੰਤੁ/ਸੰਤਿ/ਸੰਤ с примерами из Гурбани и инструкциями для перевода
 - 2026-05-01 | Claude | canvas_concepts id=65 (Punn/Paap) | Новый концепт: ведическая punn-paap логика vs Гурбани; SGGS 920, SGGS 153; инструкции для перевода
 
 ## ksd_knowledge.db — grammar_rules
 
+- 2026-06-07 | Codex | grammar_rules, ksd_principles (52_a_khar_example) | Проиндексирован короткий KSD-грамматический источник по ਅਖਰ vs ਅ+ਖਰ: добавлены 2 grammar_rules и 1 ksd_principle; общий счётчик grammar_rules: 364
+- 2026-06-07 | Codex | grammar_rules (jbani_v2_salok_kaytee) | Проиндексирован блок финального шлока Jap Bani по Kaytee/Kaytay/Kayteeya: добавлены 2 grammar_rules; общий счётчик grammar_rules: 366
 - 2026-05-01 | Codex | grammar_rules (shackle_L17–L24) | Проиндексированы Shackle SLS §170–§240, добавлено 35 правил; общий счётчик grammar_rules: 362
 
 ## ksd_knowledge.db — words
@@ -73,6 +85,10 @@ _(правки переводов — вносить сюда с номером 
 
 ## Скрипты
 
+- 2026-06-09 | Codex | add_nanak_canvas_chapters.py, ksd_backup_db.py | Добавлен одноразовый chapter-level индексатор Nanak Canvas: читает DOCX, разбивает 12 глав, извлекает SGGS references в `ksd_examples`; обновлены SQL/JSON снапшоты БД
+- 2026-06-09 | Codex | add_nanak_canvas_index.py, ksd_backup_db.py | Добавлен одноразовый скрипт индексации следующего слоя Nanak Canvas: концепты, принципы и примеры; обновлены переносимые снапшоты БД
+- 2026-06-07 | Codex | add_grammar_52_a_khar.py, ksd_backup_db.py | Добавлен одноразовый скрипт вставки Akhar/A+Khar правила; обновлены `ksd_knowledge_dump.sql` и `ksd_knowledge_snapshot.json`
+- 2026-06-07 | Codex | add_grammar_jbani_kaytee.py, ksd_backup_db.py | Добавлен одноразовый скрипт вставки Kaytee grammar block; обновлены `ksd_knowledge_dump.sql` и `ksd_knowledge_snapshot.json`
 - 2026-05-15 | Codex | scripts/anand_chatgpt_page.py | Добавлен batch-режим `--from-page/--to-page` и `--skip-existing` для пачечной обработки страниц `Understand Anand`
 - 2026-05-15 | Codex | scripts/anand_chatgpt_page.py, ANAND_KSD_BOOK/bot_profile | Runner переключён на локальную копию ChatGPT-профиля и 10-минутное ожидание ответа модели
 - 2026-05-15 | Codex | scripts/anand_chatgpt_page.py, scripts/anand_ang_dry_run.py | Добавлены рабочие скрипты для обработки страниц `Understand Anand` через ChatGPT и dry-run проверки full ang JSON перед импортом
